@@ -214,6 +214,35 @@ def merge(old, new):
     return added
 
 
+def consolidate(items, days=14):
+    """続報が3日を過ぎて別の行になった事件を、会社名が同じなら1件にまとめる（日付は最初の報道のまま）。"""
+    kept = []
+    for it in sorted(items, key=lambda x: x["date"]):
+        name = it.get("company") or ""
+        host = None
+        if it["source"] != "Have I Been Pwned" and len(name) >= 3:
+            d = datetime.fromisoformat(it["date"])
+            for k in kept:
+                kn = k.get("company") or ""
+                if (k["source"] != "Have I Been Pwned" and len(kn) >= 3 and (kn in name or name in kn)
+                        and (d - datetime.fromisoformat(k["last"])).days <= days):
+                    host = k
+                    break
+        if host:
+            others = it.pop("others", [])
+            promote(host, it)
+            host.setdefault("others", []).extend(others)
+            host["tags"] = sorted(set(host["tags"]) | set(it["tags"]), key=[t for t, _ in TAGS].index)
+            host["last"] = it["date"]
+        else:
+            it["last"] = it["date"]
+            kept.append(it)
+    for k in kept:
+        del k["last"]
+    kept.sort(key=lambda x: x["date"], reverse=True)
+    return kept
+
+
 # 見出しが日本語でも、事件の舞台が海外ならこちらに回す
 OVERSEAS = re.compile(r"韓国|中国|台湾|香港|米国|米[政企大当連軍国]|豪州|豪[政企]|英国|欧州|ドイツ|フランス|インド|ロシア|北朝鮮|海外|現地報道|OpenAI|Anthropic|GoogleのAI|Dropbox|Unni|ApplyNow")
 COUNT = re.compile(r"(約|最大|計|全)?\s*(\d[\d,，.]*(?:億\d*)?(?:万\d*千?)?)\s*(超)?(?:の)?\s*(人分|件分|人|件|名|アカウント|口座)(?!目)(超)?")
@@ -363,6 +392,9 @@ def main():
     added = merge(items, fresh)
     items = [it for it in items if datetime.fromisoformat(it["date"]) >= cutoff]
     items.sort(key=lambda x: x["date"], reverse=True)
+    for it in items:
+        label(it)
+    items = consolidate(items)
     for it in items:
         label(it)
     DOCS.mkdir(exist_ok=True)
