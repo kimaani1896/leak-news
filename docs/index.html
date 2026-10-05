@@ -36,7 +36,7 @@ h1 { margin: 0; font-size: 24px; letter-spacing: .02em; display: flex; align-ite
 h1 .dot { width: 10px; height: 10px; border-radius: 50%; background: var(--accent); flex: none; }
 .sub { margin: 4px 0 0; color: var(--muted); font-size: 13px; }
 .sub a { color: var(--muted); }
-.cols { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; align-items: start; }
+.cols { display: grid; grid-template-columns: 1fr 1fr; gap: 56px; align-items: start; }
 .col { min-width: 0; }
 .col h2 { position: sticky; top: 0; z-index: 1; margin: 0; padding: 8px 2px; background: var(--bg);
   font-size: 15px; display: flex; align-items: baseline; gap: 8px; border-bottom: 2px solid var(--text); }
@@ -45,6 +45,7 @@ h1 .dot { width: 10px; height: 10px; border-radius: 50%; background: var(--accen
 .row a { display: grid; grid-template-columns: 3.2em minmax(0, 1fr) auto; gap: 1px 10px; align-items: baseline;
   padding: 9px 4px; border-bottom: 1px solid var(--line); color: var(--link); text-decoration: none; }
 .row a:hover { background: var(--panel); }
+.row.dayend a { border-bottom: 2px solid var(--muted); }
 .d { color: var(--muted); font-size: 14px; font-variant-numeric: tabular-nums; white-space: nowrap; }
 .co { font-weight: 700; font-size: 15.5px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .n { color: var(--accent); font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; font-size: 15px; }
@@ -71,7 +72,7 @@ h1 .dot { width: 10px; height: 10px; border-radius: 50%; background: var(--accen
 .empty, .more { text-align: center; color: var(--muted); margin: 16px 0; font-size: 13px; }
 .more button { border: 1px solid var(--line); background: var(--panel); color: var(--text); border-radius: 8px; padding: 7px 16px; font: inherit; cursor: pointer; }
 @media (max-width: 560px) {
-  .cols { gap: 10px; }
+  .cols { gap: 20px; }
   .row a { grid-template-columns: 2.6em minmax(0, 1fr); }
   .d { font-size: 12.5px; }
   .co { font-size: 14px; }
@@ -138,15 +139,19 @@ function render() {
     $("c-" + id).textContent = `${hits.length}件`;
     const out = [];
     let month = "";
-    for (const it of hits.slice(0, state.shown[id])) {
+    const list = hits.slice(0, state.shown[id]);
+    const day = (it) => jst(it.date, { year: "numeric", month: "numeric", day: "numeric" });
+    list.forEach((it, i) => {
       const m = jst(it.date, { year: "numeric", month: "long" });
       if (m !== month) {
         const label = m.startsWith(jst(new Date().toISOString(), { year: "numeric" })) ? m.replace(/^\d+年/, "") : m;
         out.push(el("li", { class: "month" }, label));
         month = m;
       }
-      out.push(row(it));
-    }
+      const r = row(it);
+      if (list[i + 1] && day(list[i + 1]) !== day(it)) r.classList.add("dayend");
+      out.push(r);
+    });
     $(id).replaceChildren(...(out.length ? out : [el("li", { class: "empty" }, "まだありません")]));
     $("more-" + id).hidden = hits.length <= state.shown[id];
   }
