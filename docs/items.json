@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T16:30:45.087843+00:00",
+ "updated": "2026-10-05T16:32:58.457520+00:00",
  "items": [
   {
    "title": "ジェリービーンズグループの資金流出についてまとめてみた",
@@ -585,6 +585,11 @@
      "title": "日経新聞にサイバー攻撃、取材先などへなりすましメール９０００件の送信や個人情報漏えいも",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tZVF2THFrVkE3UFAtVjN2UGU4ZDBnMDlnQmRoU09tc20xYjJiMFZMQzQwMzdhTW96SVpZMEVBaW1HVldXUENaWU5Ed3B6YlpuMkFyR3ItVUtaN0hhTVROS0FLb1E4QQ?oc=5",
      "source": "読売新聞"
+    },
+    {
+     "title": "日経新聞にサイバー攻撃 なりすましメール9000件",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzV1plUThZUmVTNkdkNWFTT3lyZzBTbzFRbWZLb2RKc1hINHVOSS1LSU1NaTdtSWh4a3pOVkFVUVlFRWdVMVNLT3RndlVXcjZoN1g3VGFEakFJaXhIeWc?oc=5",
+     "source": "テレ東BIZ"
     }
    ]
   },
@@ -932,42 +937,6 @@
    "people": "12万人"
   },
   {
-   "title": "第一ライフに不正アクセス 従業員12万人情報漏洩か 顧客情報は不正アクセス確認されず",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KSWxwRGxlelI5NVUzUDZUNWRuTkNlVml4UEgzQjAtVUJPdFpBblVCRDREVk5udDZPN3lWOEx3eHY3ZmNpbDE2eURrTXFoQVd3cnBCU3JOYkk1cWRpZVhFVDdPcGE4LUhEMDFjN1VtdDg1TXFBMFE?oc=5",
-   "source": "産経ニュース",
-   "date": "2026-10-02T09:56:20+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [
-    "不正アクセス"
-   ],
-   "others": [
-    {
-     "title": "第一ライフに不正アクセス 従業員12万人分の情報漏えいの可能性",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Sb0lhckxnU05TcjBNbm05SjVuTlZDMmUwX3NCTkNudkRSYnd1SVRYZ2hvVllOU09NWmg3WHpOVng5YWFzSmg2MlFPSWJFbDlhQ1VXREJEQQ?oc=5",
-     "source": "TBS NEWS DIG"
-    },
-    {
-     "title": "第一ライフグループ、従業員の個人情報流出か 退職者含む12万人分",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lLU9CSWZfQWRLeExuV21xd2VqUHF4UHFmcTJRS0xTYmhnUUlMbndONUlJX3REZTVMdENDVHRWREVGOUxEZGQ0eFlTQWVyeHlTTWhjd24wVDEzWUM1amtDR1UyazBSc1lMQzlZcQ?oc=5",
-     "source": "nikkei.com"
-    },
-    {
-     "title": "第一ライフG 従業員情報漏えいか",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JdjkyeUJ6bmEyNW5meEg5VEE5R1I5R1RYazZVSXpoOUd3OUExWjJ0NFM5bng2RGpmRTI0amJJbklWX0VGZGVlSVJ3bHl0ZWpp?oc=5",
-     "source": "Yahoo!ニュース"
-    },
-    {
-     "title": "第一ライフに不正アクセス 12万人分の従業員情報が流出か",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hbjJmQnpsQ0R1bzBseUV6aExmdW9nWjUtV2ZNNV9BdDJWNnB0bEJNcExZWENlZXl1WTNJS1VOWUFFcEhYNFZwZTA2V29keVUwRHV0elVDckZCcWhTRk5r?oc=5",
-     "source": "NHKニュース"
-    }
-   ],
-   "company": "第一ライフ",
-   "count": 120000,
-   "people": "12万人"
-  },
-  {
    "title": "ApplyNowの採用管理プラットフォームへの不正アクセスについてまとめてみた",
    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/02/174228",
    "source": "piyolog",
@@ -1001,6 +970,31 @@
      "title": "第一生命に不正アクセス、従業員ら約12万人分の個人情報が漏えいした可能性-退職者約7万人も対象",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOTBMWDBOTTRqbXNHazNSeVE3ZDlESkh4OEN2ZElucHBGUHU4MWs2YVByU21WeHJXa0VKb2ZpdEEzaHVEbzBoTXpwempUNzdiSDgzdEhoMGZEYng2bGo1ck5ZeDVMRFZ6OGE5LWxnTU1Scks5bXJDOUxUNzQwM1RFYk1ZYkk2QnNJSWVHel9lZU9ERzVuQ1lXRDV6MkM?oc=5",
      "source": "合同会社ロケットボーイズ"
+    },
+    {
+     "title": "第一ライフに不正アクセス 従業員12万人情報漏洩か 顧客情報は不正アクセス確認されず",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KSWxwRGxlelI5NVUzUDZUNWRuTkNlVml4UEgzQjAtVUJPdFpBblVCRDREVk5udDZPN3lWOEx3eHY3ZmNpbDE2eURrTXFoQVd3cnBCU3JOYkk1cWRpZVhFVDdPcGE4LUhEMDFjN1VtdDg1TXFBMFE?oc=5",
+     "source": "産経ニュース"
+    },
+    {
+     "title": "第一ライフに不正アクセス 従業員12万人分の情報漏えいの可能性",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Sb0lhckxnU05TcjBNbm05SjVuTlZDMmUwX3NCTkNudkRSYnd1SVRYZ2hvVllOU09NWmg3WHpOVng5YWFzSmg2MlFPSWJFbDlhQ1VXREJEQQ?oc=5",
+     "source": "TBS NEWS DIG"
+    },
+    {
+     "title": "第一ライフグループ、従業員の個人情報流出か 退職者含む12万人分",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lLU9CSWZfQWRLeExuV21xd2VqUHF4UHFmcTJRS0xTYmhnUUlMbndONUlJX3REZTVMdENDVHRWREVGOUxEZGQ0eFlTQWVyeHlTTWhjd24wVDEzWUM1amtDR1UyazBSc1lMQzlZcQ?oc=5",
+     "source": "nikkei.com"
+    },
+    {
+     "title": "第一ライフG 従業員情報漏えいか",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JdjkyeUJ6bmEyNW5meEg5VEE5R1I5R1RYazZVSXpoOUd3OUExWjJ0NFM5bng2RGpmRTI0amJJbklWX0VGZGVlSVJ3bHl0ZWpp?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "第一ライフに不正アクセス 12万人分の従業員情報が流出か",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hbjJmQnpsQ0R1bzBseUV6aExmdW9nWjUtV2ZNNV9BdDJWNnB0bEJNcExZWENlZXl1WTNJS1VOWUFFcEhYNFZwZTA2V29keVUwRHV0elVDckZCcWhTRk5r?oc=5",
+     "source": "NHKニュース"
     }
    ],
    "company": "第一生命",
