@@ -31,19 +31,14 @@ body {
   font: 15px/1.6 system-ui, -apple-system, "Hiragino Sans", "Noto Sans JP", "Yu Gothic UI", sans-serif;
 }
 .wrap { max-width: 1120px; margin: 0 auto; padding: 0 16px 48px; }
-header { padding: 24px 0 10px; }
+header { padding: 24px 0 14px; }
 h1 { margin: 0; font-size: 24px; letter-spacing: .02em; display: flex; align-items: center; gap: 10px; }
 h1 .dot { width: 10px; height: 10px; border-radius: 50%; background: var(--accent); flex: none; }
 .sub { margin: 4px 0 0; color: var(--muted); font-size: 13px; }
 .sub a { color: var(--muted); }
-.controls { position: sticky; top: 0; z-index: 2; background: var(--bg); padding: 10px 0; }
-.search {
-  width: 100%; padding: 9px 12px; border: 1px solid var(--line); border-radius: 8px;
-  background: var(--panel); color: var(--text); font: inherit;
-}
 .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; align-items: start; }
 .col { min-width: 0; }
-.col h2 { position: sticky; top: 58px; z-index: 1; margin: 0; padding: 8px 2px; background: var(--bg);
+.col h2 { position: sticky; top: 0; z-index: 1; margin: 0; padding: 8px 2px; background: var(--bg);
   font-size: 15px; display: flex; align-items: baseline; gap: 8px; border-bottom: 2px solid var(--text); }
 .col h2 small { color: var(--muted); font-weight: 400; font-size: 12px; }
 .rows { list-style: none; margin: 0; padding: 0; }
@@ -55,6 +50,10 @@ h1 .dot { width: 10px; height: 10px; border-radius: 50%; background: var(--accen
 .n { color: var(--accent); font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; font-size: 15px; }
 .n.none { color: var(--muted); font-weight: 400; font-size: 12px; }
 .when { grid-column: 1 / -1; font-size: 11.5px; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.month { list-style: none; margin: 18px 0 2px; padding: 0 2px; font-size: 17px; font-weight: 800; color: var(--text); }
+.month:first-child { margin-top: 10px; }
+.tag { display: inline-block; margin-left: 6px; padding: 0 6px; border-radius: 4px; font-size: 11px; line-height: 1.6;
+  background: var(--accent-soft); color: var(--accent); }
 .when b { font-size: 14px; font-weight: 700; color: var(--text); margin-right: 6px; font-variant-numeric: tabular-nums; }
 .row a:visited .co { color: var(--visited); }
 .empty, .more { text-align: center; color: var(--muted); margin: 16px 0; font-size: 13px; }
@@ -63,7 +62,11 @@ h1 .dot { width: 10px; height: 10px; border-radius: 50%; background: var(--accen
   .cols { gap: 10px; }
   .co { font-size: 14px; }
   .n { font-size: 13px; }
-  .when b { font-size: 13px; }
+  .month { list-style: none; margin: 18px 0 2px; padding: 0 2px; font-size: 17px; font-weight: 800; color: var(--text); }
+.month:first-child { margin-top: 10px; }
+.tag { display: inline-block; margin-left: 6px; padding: 0 6px; border-radius: 4px; font-size: 11px; line-height: 1.6;
+  background: var(--accent-soft); color: var(--accent); }
+.when b { font-size: 13px; }
   .row a { grid-template-columns: 1fr; }
 }
 footer { margin-top: 36px; padding-top: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 12.5px; }
@@ -76,10 +79,6 @@ footer a { color: var(--muted); }
     <h1><span class="dot" aria-hidden="true"></span>漏えいウォッチ</h1>
     <p class="sub">個人情報の漏えい・流出・不正アクセスのニュースだけを自動で集めています。<span id="updated"></span> ・ <a href="feed.xml">RSS</a></p>
   </header>
-
-  <div class="controls">
-    <input class="search" id="q" type="search" placeholder="会社名で絞り込み（例: 証券、病院）" autocomplete="off">
-  </div>
 
   <div class="cols">
     <section class="col" aria-labelledby="h-jp"><h2 id="h-jp">日本 <small id="c-jp"></small></h2><ul class="rows" id="jp"></ul><div class="more" id="more-jp" hidden><button type="button">もっと見る</button></div></section>
@@ -96,7 +95,7 @@ footer a { color: var(--muted); }
 <script>
 const PAGE = 80;
 const COLS = { jp: "国内", world: "海外" };
-const state = { q: "", shown: { jp: PAGE, world: PAGE }, items: [] };
+const state = { shown: { jp: PAGE, world: PAGE }, items: [] };
 const $ = (id) => document.getElementById(id);
 const jst = (iso, opt) => new Date(iso).toLocaleString("ja-JP", { timeZone: "Asia/Tokyo", ...opt });
 
@@ -109,32 +108,37 @@ function el(tag, attrs = {}, ...kids) {
   return e;
 }
 
-function match(it) {
-  if (!state.q) return true;
-  const hay = [it.company, it.title, it.summary, ...(it.others || []).map((o) => o.title)].join(" ").toLowerCase();
-  return state.q.toLowerCase().split(/\s+/).every((w) => hay.includes(w));
-}
-
 function row(it) {
   const name = it.company
     ? el("span", { class: "co" }, it.company)
     : el("span", { class: "co untitled" }, it.title);
   const n = it.people ? el("span", { class: "n" }, it.people) : el("span", { class: "n none" }, "人数不明");
-  const when = el("span", { class: "when" }, el("b", {}, jst(it.date, { month: "numeric", day: "numeric", weekday: "short" })), it.source);
+  const when = el("span", { class: "when" }, el("b", {}, jst(it.date, { month: "numeric", day: "numeric", weekday: "short" })), it.source,
+    ...(it.tags || []).map((t) => el("span", { class: "tag" }, t)));
   return el("li", { class: "row" },
     el("a", { href: it.url, target: "_blank", rel: "noopener noreferrer", title: it.title }, name, n, when));
 }
 
 function render() {
   for (const [id, region] of Object.entries(COLS)) {
-    const hits = state.items.filter((it) => it.region === region && match(it));
+    const hits = state.items.filter((it) => it.region === region);
     $("c-" + id).textContent = `${hits.length}件`;
-    $(id).replaceChildren(...(hits.length ? hits.slice(0, state.shown[id]).map(row) : [el("li", { class: "empty" }, "該当なし")]));
+    const out = [];
+    let month = "";
+    for (const it of hits.slice(0, state.shown[id])) {
+      const m = jst(it.date, { year: "numeric", month: "long" });
+      if (m !== month) {
+        const label = m.startsWith(jst(new Date().toISOString(), { year: "numeric" })) ? m.replace(/^\d+年/, "") : m;
+        out.push(el("li", { class: "month" }, label));
+        month = m;
+      }
+      out.push(row(it));
+    }
+    $(id).replaceChildren(...(out.length ? out : [el("li", { class: "empty" }, "まだありません")]));
     $("more-" + id).hidden = hits.length <= state.shown[id];
   }
 }
 
-$("q").addEventListener("input", (e) => { state.q = e.target.value.trim(); state.shown = { jp: PAGE, world: PAGE }; render(); });
 for (const id of Object.keys(COLS)) {
   $("more-" + id).querySelector("button").onclick = () => { state.shown[id] += PAGE; render(); };
 }
