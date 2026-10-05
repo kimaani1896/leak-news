@@ -37,6 +37,8 @@ INCLUDE_TITLE = re.compile(r"カード情報|改ざん|不正なページ")
 INCIDENT = re.compile(r"(に|へ|で|が|、|\s)(サイバー攻撃|ランサム|不正アクセス)|サイバー攻撃(を)?受け|ランサム\S{0,4}(被害|攻撃)|被害|障害|漏え|漏洩|流出")
 NOISE = re.compile(r"対策|市場|支援|法|措置|社説|動向|白書|警鐘|専門家|とは|方法|選定|ナビ|EXPO|脆弱性|株価|サービス|製品|守る|備え|防御|無害化|集団|摘発|義務|報告書|検証|写真|コスト|復号|ページ目|解説|影響|どう|なぜ|？|\?|社長|狙う|急増|相次|立て続|調査|AIで|AIの|ツール|選択|エキスパート|映す|20[01]\d年|202[0-5]年")
 EXCLUDE = re.compile(r"セミナー|ウェビナー|提供開始|発売|募集|キャンペーン|無料|ソリューション|導入事例|ホワイトペーパー|資格|調査レポート|ランキング|求人")
+# 特定の事件ではなく「相次ぐ漏えい」「対策は」のような全般・解説のニュース（専門サイト以外で、まとめた記事がないものは載せない）
+GENERAL = re.compile(r"相次|急増|狙われ|狙う|とは|どう|なぜ|解説|専門家|識者|警鐘|対策|備え|守る|？|\?|ヤバい|考えられる|立て続|注意点|手口|教訓")
 # タグ（上から順に判定、複数可）
 TAGS = [
     ("ランサムウェア", re.compile(r"ランサム")),
@@ -251,7 +253,7 @@ COUNT_LOOSE = re.compile(r"(約|最大|計)?\s*(\d[\d,，.]*(?:億|万)\d*)(超)
 NOT_NAME = re.compile(
     r"相次|免許証|情報|個人|漏え|漏洩|流出|攻撃|まとめ|対策|リスク|識者|被害|能動的|本物|当選|払戻|保育|\d{4}年|国内|専門家"
     r"|ランサム|不正|本人|おわび|異様|猶予|借入|エキスパート|ITmedia|NEWS|ニュース|ページ|闇サイト|脆弱性|見つかった|悪用|企業や|もぬけ|円$|^\d+日|\d+機関"
-    r"|ご不便|ご心配|ご迷惑|お詫び|^(ID|CMS|会員|公式|社内|チケット|ブロガー|メーリング|研究用|荷物|従業員|顧客|作業|一部)|(システム|サーバー?|DB|アカウント|シリーズ)$"
+    r"|ご不便|ご心配|ご迷惑|お詫び|^企業$|^(ID|CMS|会員|公式|社内|チケット|ブロガー|メーリング|研究用|荷物|従業員|顧客|作業|一部)|(システム|サーバー?|DB|アカウント|シリーズ)$"
 )
 GENERIC_HEAD = r"^(ECサイト|チケット販売サイト|中古アニメグッズ|美容医療プラットフォーム|デジタル整理券システム|手間いらずの|ANA子会社のデジタルギフト)"
 NAME_CH = r"[^\s、。，,「」『』（）()：:｜|—―…‐]"
@@ -393,6 +395,8 @@ def main():
     fresh = [it for it in fresh if it["date"] and cutoff <= datetime.fromisoformat(it["date"]) <= now + timedelta(hours=1)]
     added = merge(items, fresh)
     items = [it for it in items if datetime.fromisoformat(it["date"]) >= cutoff]
+    items = [it for it in items if not (it["source"] not in PRIORITY and it["source"] != "Have I Been Pwned"
+                                        and GENERAL.search(it["title"]) and not it.get("others"))]
     items.sort(key=lambda x: x["date"], reverse=True)
     for it in items:
         label(it)
