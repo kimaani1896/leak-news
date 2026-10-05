@@ -12,7 +12,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 DOCS = ROOT / "docs"
 ITEMS = DOCS / "items.json"
-SITE_URL = "https://example.github.io/leak-news/"  # 公開後に書き換える
+SITE_URL = "https://kimaani1896.github.io/leak-news/"  # 公開後に書き換える
 UA = "leak-news/1.0 (+https://github.com/)"
 KEEP_DAYS = 180
 HIBP_MIN = 1_000_000  # 海外はこの件数以上の大型だけ
