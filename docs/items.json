@@ -1,6 +1,32 @@
 {
- "updated": "2026-10-05T13:39:07.251375+00:00",
+ "updated": "2026-10-05T16:12:13.910360+00:00",
  "items": [
+  {
+   "title": "ジェリービーンズグループの資金流出についてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/10/06/002029",
+   "source": "piyolog",
+   "date": "2026-10-05T15:20:29+00:00",
+   "summary": "2026年9月30日、ジェリービーンズグループは、役員を装った第三者の送金指示によって資金が流出した事案について、調査委員会の調査報告書(要約版)を公表しました。ここでは関連する情報をまとめます。 会長を名乗るメールで個人LINEの情報を要求 同社は2026年1月頃から、役員を騙るなりすましメールを複数受信していた。1",
+   "region": "国内",
+   "tags": [],
+   "company": "ジェリービーンズグループ",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "複数サイトに不正アクセス、プラグイン脆弱性が標的に - ベネッセグループ会社",
+   "url": "https://www.security-next.com/190961",
+   "source": "Security NEXT",
+   "date": "2026-10-05T14:46:03+00:00",
+   "summary": "ベネッセコーポレーションのグループ会社で総合教育サービスを提供するアップは、運営する2サイトが不正アクセスを受け、採用応募者などの個人情報が流出した可能性があることを明らかにした。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "ベネッセグループ会社",
+   "count": null,
+   "people": ""
+  },
   {
    "title": "大起水産 不正アクセスで約17万5000人分の個人情報漏えいか",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ucl9MMGk1bXluNkowWElVanowLTJqT0NjQzBMM2pEcjl0R2dVVHctbWlpVDZMTWFlMWlzNENjdlNCV2VMdzBJcmM4X2lNcUhZX3ptMXFYUm1RbTZ3bEdj?oc=5",
@@ -96,11 +122,11 @@
    "people": ""
   },
   {
-   "title": "「焼肉きんぐ」個人情報約1079万件が漏えい 公式アプリのシステムに不正アクセス ほぼ全会員分に相当",
-   "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002011/",
-   "source": "ITmedia",
+   "title": "「焼肉きんぐ」アプリの会員情報が流出 - 原因など詳細を調査",
+   "url": "https://www.security-next.com/191040",
+   "source": "Security NEXT",
    "date": "2026-10-05T08:05:00+00:00",
-   "summary": "「焼肉きんぐ」を運営する物語コーポレーションは10月5日、公式アプリの会員管理システムが第三者による不正アクセスを受け、会員情報1078万8963件が漏えいしたと発表した。氏名やメールアドレス、電話番号が含まれる。",
+   "summary": "外食チェーン「焼肉きんぐ」の公式アプリを利用する一部会員の個人情報が外部に流出したことがわかった。",
    "region": "国内",
    "tags": [
     "不正アクセス"
@@ -175,11 +201,16 @@
      "title": "「焼肉きんぐ」へ不正アクセス 約1079万件の個人情報が流出 防御措置もアプリ登録者ほぼ全てのメールアドレスや電話番号などが流出する（TBS NEWS DIG Powered by JNN）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiNGdfeHBfbDJ3SjU4RXFmYUJudlpTbGktTzczTWtsbkt6UGVfQjNka0FSRlRjajRFdEF2YW1ndzR5MGo0c2JXRDVDUEZYWDhSbHZieURXYmhVdkRMX3RyYVM1blRxX0Y2YUt4Q0FKWi14dHhyeHBpRUlLenRCbG8?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "「焼肉きんぐ」個人情報約1079万件が漏えい 公式アプリのシステムに不正アクセス ほぼ全会員分に相当",
+     "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002011/",
+     "source": "ITmedia"
     }
    ],
-   "company": "焼肉きんぐ",
-   "count": 10790000,
-   "people": "約1079万件"
+   "company": "原因など詳細を調査",
+   "count": 10780000,
+   "people": "1078万人"
   },
   {
    "title": "【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪 ランサムウェアによるサイバー攻撃か 基盤システム障害で全授業が休講中 対面授業は9日以降再開予定（MBSニュース）",
