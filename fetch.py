@@ -24,10 +24,16 @@ FEEDS = [
     ("ITmedia", "https://rss.itmedia.co.jp/rss/2.0/news_security.xml"),
     ("Googleニュース", "https://news.google.com/rss/search?q=%E5%80%8B%E4%BA%BA%E6%83%85%E5%A0%B1+%E6%BC%8F%E3%81%88%E3%81%84+when:7d&hl=ja&gl=JP&ceid=JP:ja"),
     ("Googleニュース", "https://news.google.com/rss/search?q=%E4%B8%8D%E6%AD%A3%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9+%E6%83%85%E5%A0%B1+when:7d&hl=ja&gl=JP&ceid=JP:ja"),
+    # 「漏えい」「不正アクセス」と書かれず「サイバー攻撃で障害」とだけ報じられる事件を拾う
+    ("Googleニュース*", "https://news.google.com/rss/search?q=%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83+when:7d&hl=ja&gl=JP&ceid=JP:ja"),
+    ("Googleニュース*", "https://news.google.com/rss/search?q=%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2+when:7d&hl=ja&gl=JP&ceid=JP:ja"),
 ]
 
 INCLUDE = re.compile(r"漏えい|漏洩|漏れ|流出|不正アクセス|ランサム|情報窃取|閲覧できる状態|閲覧可能|誤送信|誤送付|誤配|紛失|盗難|不正ログイン|サイバー攻撃|個人情報")
 # 対策製品の宣伝・イベント告知・一般論の記事を落とす
+# 「サイバー攻撃」「ランサムウェア」の広い検索で拾った記事は、事件の見出しの形をしたものだけ残す
+INCIDENT = re.compile(r"(に|へ|で|が|、|\s)(サイバー攻撃|ランサム|不正アクセス)|サイバー攻撃(を)?受け|ランサム\S{0,4}(被害|攻撃)|被害|障害|漏え|漏洩|流出")
+NOISE = re.compile(r"対策|市場|支援|法|措置|社説|動向|白書|警鐘|専門家|とは|方法|選定|ナビ|EXPO|脆弱性|株価|サービス|製品|守る|備え|防御|無害化|集団|摘発|義務|報告書|検証|写真|コスト|復号|ページ目|解説|影響|どう|なぜ|？|\?|社長|狙う|急増|相次|立て続|調査|AIで|AIの|ツール|選択|エキスパート|映す|20[01]\d年|202[0-5]年")
 EXCLUDE = re.compile(r"セミナー|ウェビナー|提供開始|発売|募集|キャンペーン|無料|ソリューション|導入事例|ホワイトペーパー|資格|調査レポート|ランキング|求人")
 # タグ（上から順に判定、複数可）
 TAGS = [
@@ -153,6 +159,9 @@ def keys(title):
 
 
 def similar(a, b):
+    na, nb = find_name(a), find_name(b)
+    if na and nb and (na in nb or nb in na) and min(len(na), len(nb)) >= 3:
+        return True
     x, y = bigrams(a), bigrams(b)
     if x and y and len(x & y) / min(len(x), len(y)) >= 0.6:
         return True
@@ -186,9 +195,9 @@ def merge(old, new):
             continue
         d = datetime.fromisoformat(it["date"])
         host = None
-        if it["region"] == "国内":
+        if it["source"] != "Have I Been Pwned":
             for o in old:
-                if o["region"] == "国内" and abs((datetime.fromisoformat(o["date"]) - d).days) <= 3 and similar(o["title"], it["title"]):
+                if o["source"] != "Have I Been Pwned" and abs((datetime.fromisoformat(o["date"]) - d).days) <= 3 and similar(o["title"], it["title"]):
                     host = o
                     break
         if host:
@@ -211,7 +220,7 @@ COUNT_LOOSE = re.compile(r"(約|最大|計)?\s*(\d[\d,，.]*(?:億|万)\d*)(超)
 NOT_NAME = re.compile(
     r"相次|免許証|情報|個人|漏え|漏洩|流出|攻撃|まとめ|対策|リスク|識者|被害|能動的|本物|当選|払戻|保育|\d{4}年|国内|専門家"
     r"|ランサム|不正|本人|おわび|異様|猶予|借入|エキスパート|ITmedia|NEWS|ニュース|ページ|闇サイト|脆弱性|見つかった|悪用|企業や|もぬけ|円$|^\d+日|\d+機関"
-    r"|^(ID|CMS|会員|公式|社内|チケット|ブロガー|メーリング|研究用|荷物|従業員|顧客|作業|一部)|(システム|サーバー?|DB|アカウント|シリーズ)$"
+    r"|ご不便|ご心配|ご迷惑|お詫び|^(ID|CMS|会員|公式|社内|チケット|ブロガー|メーリング|研究用|荷物|従業員|顧客|作業|一部)|(システム|サーバー?|DB|アカウント|シリーズ)$"
 )
 GENERIC_HEAD = r"^(ECサイト|チケット販売サイト|中古アニメグッズ|美容医療プラットフォーム|デジタル整理券システム|手間いらずの|ANA子会社のデジタルギフト)"
 NAME_CH = r"[^\s、。，,「」『』（）()：:｜|—―…‐]"
@@ -253,7 +262,7 @@ def find_count(title):
 def clean_name(c):
     c = re.sub(GENERIC_HEAD, "", c.strip(" 　「」『』"))
     c = re.sub(r"の([A-Za-z].*|計|約|全)$", "", c)
-    c = re.sub(r"(Webサイト|公式サイト|のシステム.*|社員)$", "", c)
+    c = re.sub(r"(Webサイト|公式サイト|のシステム.*|社員|の\S*(障害|被害|問題))$", "", c)
     return c
 
 
@@ -276,13 +285,19 @@ def find_name(title):
     m = re.match(r"^[「『]([^」』]{2,20})[」』]", t)
     if m:
         cands.append(m.group(1))
+    m = re.match(r"^([A-Za-z][A-Za-z0-9 .&'-]{1,30}?)(?:に|の|、|が|で)", t)  # The Japan Times に… など
+    if m:
+        cands.append(m.group(1))
     m = re.match(r"^([^\s、]{2,20})[\s、]", t)  # 「会社名、…」「会社名 …」
     if m:
         cands.append(m.group(1))
-    m = re.match(rf"^({NAME_CH}{{2,20}}?)(?:の|、|\s|に|で|が|は|への|による|＝)", t)
+    m = re.match(rf"^({NAME_CH}{{2,20}}?)(?:の|、|\s|に|で|が|は|への|による|＝|「)", t)
     if m:
         cands.append(m.group(1))
     m = re.search(rf"({NAME_CH}{{2,20}}?)(?:の{NAME_CH}{{0,15}}?)?(?:に|で|へ|への|が)(?:また|も)?(?:不正|サイバー|ランサム|個人情報|顧客|情報漏|会員)", t)
+    if m:
+        cands.append(m.group(1))
+    m = re.search(r"([^\s、「」]{2,15})が(?:謝罪|発表|公表)", t)
     if m:
         cands.append(m.group(1))
     cands += re.findall(r"[「『]([^」』]{2,20})[」』]", t)
@@ -333,7 +348,9 @@ def main():
     fresh, errors = [], []
     for name, url in FEEDS:
         try:
-            fresh += [it for it in parse_feed(name, get(url)) if is_leak(it)]
+            strict = name.endswith("*")
+            fresh += [it for it in parse_feed(name.rstrip("*"), get(url))
+                      if is_leak(it) and (not strict or (INCIDENT.search(it["title"]) and not NOISE.search(it["title"])))]
         except Exception as e:  # 1つ落ちても他は続ける
             errors.append(f"{name}: {e}")
     try:

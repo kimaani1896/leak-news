@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T13:28:58.625435+00:00",
+ "updated": "2026-10-05T13:31:43.417728+00:00",
  "items": [
   {
    "title": "大起水産 不正アクセスで約17万5000人分の個人情報漏えいか",
@@ -19,6 +19,11 @@
      "title": "「大起水産公式アプリ」に不正アクセス 17万4933人の個人情報漏えいのおそれ 現時点で不正利用は確認されず（関西テレビ）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oeUszMlpQRDdSakN4Y0JnTG91b3dicDA0WjUxc2RuWTNxZUNrd3h4YjNjYzNZbzl1ZFBaX3hkWGgteFgzQTE2NnlET1ZHZjhjdFcxWnBHWktUYkRHVkd6WlFRRnZBRGwwa1FPQjBPYVhsNGh5WkwweWIyYlYzTEU?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "大起水産 公式アプリへ不正アクセスによるサイバー攻撃、17万4,933人の個人情報漏洩の可能性",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaU8yZmkwNmx1VDVlbkI1bGhjY1kwSVlJOUZiaUJwU2pxdmljYmdiZ05zYS1yZGJoZ1dWeWJXdDdRa09YWk5zdUgyR0xrN2NZXzZBLURpNFZyVzE1a1BKeWRraFJmb1k3TmdCUDJyNWlaWHdwVFZzZmxzX3BvTjUyajZoUlFHbXVkNm9DQmhBWDExZkVvZUlV?oc=5",
+     "source": "合同会社ロケットボーイズ"
     }
    ]
   },
@@ -48,7 +53,19 @@
    ],
    "company": "韓国",
    "count": 25000,
-   "people": "計2万5000人超"
+   "people": "計2万5000人超",
+   "others": [
+    {
+     "title": "日経新聞にサイバー攻撃",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ESE4zbi1tNGFCdGppcnpPMGZ2bl9VcVl1Rzg0eWVBMVlIeDRyd2txblp1aHE0OGpvS2dnVDlmZE1NNlpCMEZGQjdHMHRYcV9HeHN3N0JPdnA0RFd0WldadkxFSQ?oc=5",
+     "source": "nippon.com"
+    },
+    {
+     "title": "韓国の銀行6行にサイバー攻撃 計2万5000人超の個人情報流出──AIエージェントを使った可能性も 現地報道",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IVklBZVQ1M2Q3N0dqQW1QcmRCVC1LdlFBYjN3T3A1R0U0Vy1lWjlKM01VSjRMUnR1TzhLOUZWamxBTkU2bFZnU0FLV3BYMW5UNFpDa1RPbHc5NVRXdDI2VkU5Qm90bVNyQWc?oc=5",
+     "source": "ITmedia"
+    }
+   ]
   },
   {
    "title": "相次ぐ不正アクセス、企業や政府機関でも情報漏洩 AI悪用の影に「一刻の猶予もない」",
@@ -148,11 +165,123 @@
      "title": "「焼肉きんぐ」公式アプリ、１０７８万件の個人情報漏えい…詐欺などに悪用される恐れ",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xX2lYRFpHN2pMLXZJbVFzRU0xeXkyQlZOekhqUjFrcTh2TWpNMnhZbDd3UDhUVjc0ZDVDdzhCZ1o4UHlZVEUwOHhRMG1qY1FteUtXN0ZtMFhPRlQwdml1allvaXlqQQ?oc=5",
      "source": "読売新聞"
+    },
+    {
+     "title": "焼肉きんぐ 公式アプリに不正アクセスによるサイバー攻撃-約1,078万8,963件の個人情報漏洩",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWkFFaGowUnlIM0lIdk1MUVVUY0QtV1Y0QVBQUTk4dE0zdmt6WGF2eDZTUW5YdnQ5eTQ3eWRfaWpGemRHRWJQVGkwVl9weGttdzlHM1BRYXRDeFVrcHgwVkxudEEwRklGYndpbWIyOWJNWjk1MmNrOTdWY1JsLVAzbmtRSHVrQU85dExYVzZ5Y2k?oc=5",
+     "source": "合同会社ロケットボーイズ"
     }
    ],
    "company": "焼肉きんぐ",
    "count": 10790000,
    "people": "約1079万件"
+  },
+  {
+   "title": "【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪 ランサムウェアによるサイバー攻撃か 基盤システム障害で全授業が休講中 対面授業は9日以降再開予定（MBSニュース）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XWnk5MFVnQUVyMjRZMGZRTXVpWS1tRFRPcjZRTVJWcHJCSFlYaHhHR3U2YmVyTXlhekw2N3pyMXJpajYxWXEwRWlxX0NpNjhFUXRQMHNiczg5VHRvSGhocl9NNnktYkxNU1ZwckNISUM5eDQ2TnFWV2RGYW01LWs?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-05T07:09:51+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "ランサムウェア",
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪 ランサムウェアによるサイバー攻撃か 基盤システム障害で全授業が休講中 対面授業は9日以降再開予定",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tclM5RURpLVk0YWJfVXhIcEUyajFwQ0hKbjlydlJpNDQ1cmJIN0w4MjdvQWRySVl3LU1ka2EyNmZleHRVYjZGdXpESVN3UkNaLWFodWkySlNMV3owallZcWREU1pJdUNWa1E?oc=5",
+     "source": "TBS NEWS DIG"
+    },
+    {
+     "title": "大阪公立大の大規模システム障害はサイバー攻撃が原因か ランサムウエアの可能性",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRGJ1Zjc3bkpyVU9GVGkxU2I3MWpIX0tBcE9Ta01tdGZZUm5CeFlDTGhqSXhVSlEyaWJLcW9mQkxQQVBaX2duNjRDS3ZkRndoVlp3YjFwMm5oTGtmdzFOZkFMOUpmWXpHWWtSbFduSFZFMVZGMVFKbVFIWlpZS3BlNTFUa2tjMmxiMlVzOGVhMmMzMFRBc0RIY05DS3NGWkJRRXczX9IBqgFBVV95cUxQMDF5NHBUUlpzZldqYzQ5NTRvXzl0Zm84UTNHbnFUNmRYdnRDdnhseVBlaVk1UU9TalMxTEIzRmZqRzV1WU95TWtaVFNLcWZ2cXlmQmJZb2RJa0NDUkZRTjVuREtjU1VXcTkyY3RWXy1DVm1famhNVkJrR19XdEVzemdLbTR0X05LOUFidzA4cmI4Nl92ejZRUlZxQmgyTGc4Xy1vTkwwcTlpZw?oc=5",
+     "source": "ｄメニューニュース"
+    },
+    {
+     "title": "大阪公立大の大規模システム障害はサイバー攻撃が原因か ランサムウエアの可能性",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aSHdpUm0xVi16YjhNaTFwSHhNOUZNcS1NNWlOMzdNTDBxaUkzY0pOM2s1aVNzRlpqZ1ZVMV81NkdlOVVoNExZeC0zd3dWSlpaZzZhNGdpVFJXNmI3SC1CZm5pZXdYQUNnWi0wZVpCdDNna1lUc3c?oc=5",
+     "source": "sankei.com"
+    },
+    {
+     "title": "大阪公立大の大規模システム障害 原因は「ランサムウェアによるサイバー攻撃」か 大学が会見 ８日まですべての授業が休講に",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpZ1V5R1JPcGNfTWhzQlNaMkVrOWN2Ri1nRm5EQ0JncE40OEVFOHl4SUNNRk1nRV9jUWFoZEtHajA1cFJ0d2pidHpOa21OakJUSFA5bWlyNXRVTEtKck5MY290YVpkcXBIZmdfOGRuNXl3Zm5ucUJ2YmhRSmNEbEXSAX9BVV95cUxQaWdVeUdST3BjX01oc0JTWjJFazljdkYtZ0ZuRENCZ3BONDhFRTh5eElDTUZNZ0VfY1FhaGRLR2owNXBSdHdqYnR6TmttTmpCVEhQOW1pcjV0VUxLSnJOTGNvdGFaZHFwSGZnXzhkbjV5d2ZubnFCdmJoUUpjRGxF?oc=5",
+     "source": "ｄメニューニュース"
+    },
+    {
+     "title": "大阪公立大 大規模システム障害の原因は「ランサムウェアによるサイバー攻撃」か 大学が会見 ８日まですべての授業が休講に",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EbzVORTNMLWxkTDNYNnZiMnhfLS1yU19zUFdrV0pzdlVLRmNiNk5BUEpGaFdLdjFkWDRNekxySkJUY1J5dHR2blRQYmUwMmdLUDdaQXIwNko4U25vTmYxNzd5bHRmeFU1NmRBdXFjaXM3RFVobTFsWlc0YVZqajg?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "大阪公立大 大規模システム障害の原因は「ランサムウェアによるサイバー攻撃」か 大学が会見 ８日まですべての授業が休講に",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5VW4tUmVUTGJBdVEyVGlyYTB3NXRPWXFEc0FnR1l1T2I1Zzg0R05SNTZFb3JlSW9yVDBTck9TaXFUZlRPTUVFTXdVSGZqejRnZUZzb2gxZjN1ZmprU2FLUGExWkZ3dDdBVkkySW90WWdqcVREWEZWQQ?oc=5",
+     "source": "au Webポータル"
+    },
+    {
+     "title": "大阪公立大学、ランサムウェア攻撃で約500台のサーバー停止―バックアップの多くも暗号化、8日まで全授業休講",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONTVCZDVNTW5vOHp1cHVBUVBSUHdIWDU0cGswd0JmUEtuNEdnT01NV3lWbS1vck1Cc3RxNG9qS0xNRnJtWmN6R21JSUx4X2lpUldiY0p6Q01SUExNYlAyaHpSYUFJY1B2WWpneHFGam1PQk0teU1yRDJfQWNTcWxiM25DMHNHN21kS1I1TjgxLUVkVzdTaUJJN0VkLUhheFhOY0RQOHk5eF8?oc=5",
+     "source": "合同会社ロケットボーイズ"
+    },
+    {
+     "title": "大阪公立大の大規模システム障害 原因は「ランサムウェアによるサイバー攻撃」か 大学が会見 ８日まですべての授業が休講に",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHTHlQT2c4OU83cUs2bjFjR0kteE5SdzBFM1kwTHVUVldHRXoxV01MSkdrdk5IUllmMnRLOTN2OE1oeEZZVUh6MF95NndiaWYtX2VyVUstbk5UZkFjT0p6RlhJY2hDXzN5QnU5MUdR?oc=5",
+     "source": "Excite エキサイト"
+    },
+    {
+     "title": "大阪公立大 サイバー攻撃受け障害",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nSjB5dEYteHk3Q0RWd0lzTTRpS3ZaakpUWV9WWnBtblBWczBNU0kyM2Z6UTNEOHZIaWZfZjJfUDR5ZTk4c2w2RE0yckktczU4?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "大阪公立大学にランサム攻撃 個人情報、13万人流出恐れ",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IaXR3Q2czaWRWX3hkTTBHSWtkY3pwS3J4QkdBSTNQVWw1ZjRvemw2TzA3NGtYb3dHM0ViQ0d6bWJqODZqaWRid3JuWFhYc0tJaEFLSU9QdVdiRkxiMURpZFAtWGxBTjVsSjlVQw?oc=5",
+     "source": "日本経済新聞"
+    },
+    {
+     "title": "システム障害の大阪公立大 ランサムウエアのサイバー攻撃か",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qMGJTVkNDVExPYmVwMnRrd0d0cDJmYmc1S3d3QmVDbV9WT2llYjJnOHhMc3lKM3dNY19ab1pIR0l1VFIzaWxKSDdPOGJEcnlzYWU1NEpHT2NvcW1WRmpB?oc=5",
+     "source": "NHKニュース"
+    },
+    {
+     "title": "大阪公立大にランサム攻撃 個人情報、13万人流出恐れ",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93VC1Kcl9mczNCN1lXOWxpRzd6SDB6QkthT2w4aGhOYUk3dXphbmdEczR1d3loNTR6VVdMRzQ0Z2V0THpCTGQxWXhDbw?oc=5",
+     "source": "47NEWS"
+    },
+    {
+     "title": "大阪公立大システム障害 ランサムウエアによるサイバー攻撃か",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lZ0VaR2dtcnowR3lGTzZ4SUhmWGdwOGEtWGFiQ1ZvcXlKaUlJTlJWLS1uSFRFMGJNQUNOS0c2YjBCNkJhek5icVUzSzYxY3h2ZDYyaWVPZVZ3Y3NSYWxR?oc=5",
+     "source": "NHKニュース"
+    },
+    {
+     "title": "大阪公立大 大規模システム障害の原因は「ランサムウェアによるサイバー攻撃」か 大学が会見 ８日まですべての授業が休講に",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSVXAyOTNsZHY5d1JwVWxDeVhIb2hrbjVOQ0otSjBpb1o4anJLalJtakZMWk1yZERHcUpEQk1TSEJ6OEVQREZyUzVJaHJKMXZMTnJmNw?oc=5",
+     "source": "ktv.jp"
+    },
+    {
+     "title": "大阪公立大のシステム障害、原因はサイバー攻撃 少なくとも１３万人分の情報が流出した恐れ",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZUk41eDFVdnFpOEFfOUt2eEQtUGJJczZxa2FpYXFtbGc2d3hHbkxpMlptTmd4NmlQcnA5SDdOM2d1anAzZVBoSEVnVWs4N1VXLTd4cWVyUjVJUzdTdkVWVVpKWFNJXzQ3NVVETW4xMVdyUGREekhkTWV5Q2Jfa1E?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "大阪公立大のシステム障害「ランサムウェアによる攻撃」大学が発表 [大阪府]",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VRWYyVk1JYUJxODBGYU1JYWEwR1FnSHkyR01IcTRycXd6TUpTYldpNUFDQXNyemxNUmpjTnVKU0RtX0VKSGhQaTdacGhTWWw3NUNDeUh5VmkydjJjbEMxQUhTb0FmSlk?oc=5",
+     "source": "朝日新聞"
+    },
+    {
+     "title": "大阪公立大のシステム障害「ランサムウェアによる攻撃」大学が発表 (朝日新聞)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWTY2WWJzUllCSW12bzBlazJNZzZjbXJzb0IzZHZ4UldyV1RESjRpOVl3eDZzS1B4THhEQ3l4WDYyNDI4ZjVseXlHVlVjMWt4dXVrNUNXR25rMUZMSmxKelRKNl9oek91d0d4UWhQTjVCNk5nYVFiempaMGtiUjZtTmNhakN1RGhCbjRxMnRR?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "大阪公立大の大規模システム障害、サイバー攻撃が原因か 13万人超の個人情報流出恐れ",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUVhaRGxWRnJEVFVjUEEyYmVJNkQ1cm1yeUpRbDJoLTRUbkFSMFc0Q0lWN2x1eWxNX2Joa2JGVWQ3MkdKSWdiZ19CU1BvSl9XRk5XdlJ0Tk1lS0p2WTl4M3RzUVRkWjRwVXBQNlBGU25YR0FHWXVBM0FkRHpkTmpfZ3ZfZ0JoTG95OElRYzdLTG1neEhmSDlrZUdTV3FRWDNEREs1NkZYbUVjUWxwaW9RbXRNUnBzWlkwWEdtRnJsQmNIWnJIc1JONjlYVVhldW95V200T0VpYXpiYTVLcGZBZi1YMDNXMjliV08xMUJTdThmTklNOU9hcmN30gGqAUFVX3lxTFBwdXlkaWZFQVVzYTlHNFBsUnhIU3VrUjRhQXJNaDRnVWExOVdhMDQyWFoxV2xNcG5TLUptZjRjYm9ja2hiN1NPT1FoQk56WnRqazRrdndNa1kxbGlNczJCLW5aTFJOcHRCbTNjNmNvODJRcm10b3hGV3hLaHBWbmlJOVZaOTU0dGU4UUhQTC1YS244YkRQNWxhRF9yeTNBc1REQzZmWUFTMnZn?oc=5",
+     "source": "ｄメニューニュース"
+    }
+   ],
+   "company": "大阪公立大",
+   "count": 130000,
+   "people": "13万人"
   },
   {
    "title": "“免許証画像”闇サイトで売買も……1枚あたり「20円」 相次ぐ個人情報漏えい 悪用リスクは？【追跡取材 news LOG】",
@@ -300,7 +429,14 @@
    ],
    "company": "日本経済新聞社",
    "count": null,
-   "people": ""
+   "people": "",
+   "others": [
+    {
+     "title": "日経新聞にサイバー攻撃 なりすましメール9千件送信",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mVUR4RjBLUEJLNl9KcGVQampvMkpVUjVrOS03X3FhWGVBQldSQm9XLVpUQlNraXp2RU9yS00zRFRUczVxT1AxZlYyNA?oc=5",
+     "source": "47NEWS"
+    }
+   ]
   },
   {
    "title": "ALSOKジョイライフ、7月の不正アクセス調査結果を公表―134件の個人情報、フォレンジックで流出示す事実なし",
@@ -337,10 +473,65 @@
    "date": "2026-10-05T00:42:27+00:00",
    "summary": "",
    "region": "国内",
-   "tags": [],
+   "tags": [
+    "不正アクセス",
+    "不正ログイン"
+   ],
    "company": "日経新聞社",
-   "count": null,
-   "people": ""
+   "count": 9000,
+   "people": "9000件",
+   "others": [
+    {
+     "title": "【速報】日経新聞にサイバー攻撃 取材先などに不審メール9000件",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxSEJkOG9yZmRIdTFJaW8zODI1NjJiSzNqUkVmMjZtZm9oYTI4WnF1ejE5ekItTEwwZGxtb1JIVDlXTFJ4a0I1c3pUWWNwUHZ0LTNaQ3ZBazBGSXdVMjVIc25scGVmN3J1UG9KcFJCTnRwdw?oc=5",
+     "source": "テレ朝NEWS"
+    },
+    {
+     "title": "日経新聞にサイバー攻撃、なりすましメール9000件 クラウド情報1646人分も漏洩か",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rNklRUjY0ZDFHcHdFTjdlbl9KcDF6cGpfdjFQSDMyTmZXUWFWWFFwdE1MZThnTGRDU2lhQU1VMGY5akFiY1ZCZzJrNC1pMzJqT09XSGk4UHhTdjFxZHhlRzRFVnoxTElxZ2tLeDVwUU5lWjlw?oc=5",
+     "source": "BigGo ファイナンス"
+    },
+    {
+     "title": "【速報】日経新聞にサイバー攻撃",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZVFQ3dVZpekg5ZGZVWVBUekxjZjF5SEJQSU54Y2FpNmVCakpxUDE4Y24xLWFpS0gxVXhsSGpoWmdLVkdtZE96NGZGRQ?oc=5",
+     "source": "47NEWS"
+    },
+    {
+     "title": "日経新聞にサイバー攻撃｜京都新聞デジタル 京都・滋賀のニュースサイト",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jeFNmX09IMnJiQWZ6c3RVYkQza2VKdVdmWUtPczktLUVCMFMxOHFNWmwzQk1rUGdJeXlNdE1VUlZVNjgzVUlnYjRFZVgzbVRhRnB3ekFjM1o?oc=5",
+     "source": "京都新聞デジタル"
+    },
+    {
+     "title": "日経新聞にサイバー攻撃 社員になりすましたメール約9000件が取材先などに送信される",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iclEycEkwM3otQjdyUHJMM1kyX2xySWhFSkxPdGZBal9rTHdReTJoWUZxMTNrSjFvOUtlMjlBdmdkMTlMVE1nY2xhckpHeUNjUVYxbHphTTNCcHo4TUE?oc=5",
+     "source": "新潟日報"
+    },
+    {
+     "title": "日経新聞がサイバー攻撃被害 発表",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MWGFfajF5ZEY2S0Y2VTlmdk9RWk05QzNLd05TNnBkWmxSam9ha0lEbUo4Q2ZFUXZFOW4wbDBMX3dfbWNhR2dTTDdjOWZwdFRy?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "日経新聞にサイバー攻撃 業務ソフトに不正ログイン、なりすましメール約9000件送信か",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VWDRMdzhIdGU5b0Z2clhoRGRLYVo4bXp0RmVQa0JoOUphSE1laGJwOEJWZ3NTcUNHaHFRYk5OY1Z3N1Nxc3ZpLUgweEhKR2R2NHZ1c3lGMFl5Vm5TNjNCSUg2R3V3Y3F0aDZMR2NiT3RBQXhhOUE?oc=5",
+     "source": "sankei.com"
+    },
+    {
+     "title": "日経新聞にサイバー攻撃 社員なりすましメール9千件送信",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xdnBpa3RsM0Q0X2ROMjZtU3o1RmVINWs5cXg0ZmprTHVCb2F2WHJ2LS13Sk1rQnQxaG9aVWdKRVlJX25jZ2RTaExrMENoNnhLbkpJRHZxT3JuanM?oc=5",
+     "source": "ABEMA"
+    },
+    {
+     "title": "日経新聞にサイバー攻撃 不審メール9000件を送信",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XU2F0MTNneFRmUXFzZmtUX25IREg0ZzRPN3JsOTZtWmFpWVNnMng3NWFKV1plYVJ6dEpxSGU0NTUzOWJQbzVxRFdRbEhKZw?oc=5",
+     "source": "FNNプライムオンライン"
+    },
+    {
+     "title": "日経新聞にサイバー攻撃、取材先などへなりすましメール９０００件の送信や個人情報漏えいも",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tZVF2THFrVkE3UFAtVjN2UGU4ZDBnMDlnQmRoU09tc20xYjJiMFZMQzQwMzdhTW96SVpZMEVBaW1HVldXUENaWU5Ed3B6YlpuMkFyR3ItVUtaN0hhTVROS0FLb1E4QQ?oc=5",
+     "source": "読売新聞"
+    }
+   ]
   },
   {
    "title": "日経社員のGoogle Workspaceに不正ログイン 1646人分の個人情報漏えいか",
@@ -399,6 +590,11 @@
      "title": "池上通信機にサイバー攻撃の可能性、外部から情報提供あり調査",
      "url": "https://scan.netsecurity.ne.jp/article/2026/10/05/56385.html",
      "source": "ScanNetSecurity"
+    },
+    {
+     "title": "池上通信機にサイバー攻撃、サーバ内の一部ファイルが暗号化",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aZXJlY01tN2xuRS1xU0EyV1FaNVlVc1ZfV3NEVlNsZ1E1bmtWV2ppNTdQTGpfUjdraEhjV1BZcUhmRGU2ZjZOUTBUQUlLRGpZZVZCbVRfbkNpaTJNY1B0T2E2YkNpTTNWcC1PRQ?oc=5",
+     "source": "ScanNetSecurity"
     }
    ],
    "company": "池上通信機",
@@ -436,7 +632,7 @@
      "source": "ScanNetSecurity"
     }
    ],
-   "company": "LEAN",
+   "company": "LEAN BODY",
    "count": null,
    "people": ""
   },
@@ -497,6 +693,34 @@
    "people": "9人"
   },
   {
+   "title": "日経新聞サイバー攻撃で情報漏えいか なりすましメールが送信",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1SnV5ay1RdWRIRXlaRGhlYWtUZXdsZGFtYUJBRTNBa2ZVUWlFNS1TU043eEpzcHdOWkdacjhsNEdrVURGNjFLQWQtc1VqX256R1hGYU1TRVBBcWEwRXRj?oc=5",
+   "source": "NHKニュース",
+   "date": "2026-10-04T12:30:36+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "成り済ましメール９０００件送信 社員アカウントにサイバー攻撃―日経新聞：時事ドットコム",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsN1Bzb0VXcGZTX3lQeGtEU3BsY2hLdDViTFVNRmQ0d2h1ZnB2MzRMaE1FMVVnRnhDOGxZblEtN292dERSMHhEeFpIUTZUenUtVm9XWnVFTVd5bThHQnpTVllQOA?oc=5",
+   "source": "時事ドットコム",
+   "date": "2026-10-04T10:19:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "",
+   "count": 9000,
+   "people": "9000件"
+  },
+  {
    "title": "日経にサイバー攻撃 なりすましメールを取材先などに9千件不正送信（朝日新聞）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53SDhIMmFudEpET1RNNTd6Um5ITVMzSDJGREQyRTR3YmI4SlZINVJadVlkd0dKWWoyYUdMdGRBRDN5eXRmOHMzTXhBbnZwT2ZhZ1czZWQ4cHRQSm0yWFlRakpRV3huc2x1a0ZfTDNTdjdobEdQdlFkZjVGbWtxck0?oc=5",
    "source": "Yahoo!ニュース",
@@ -508,7 +732,45 @@
    ],
    "company": "日経",
    "count": null,
-   "people": ""
+   "people": "",
+   "others": [
+    {
+     "title": "日経にサイバー攻撃 なりすましメールを取材先などに9千件不正送信",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KeUZscjVOcFRWcU1hZEVZZG5mT0FxMUU0MGVzNERSaFpIaTdvZXZhVjdvSWM4TGtEWHVCZ1V6UkR3UGV4eW1tYXNGV1NXcXd1MVNERVp0R3Z5QXhGdS1wSVhGaU52bDg?oc=5",
+     "source": "朝日新聞"
+    },
+    {
+     "title": "日経にサイバー攻撃 なりすましメールを取材先などに9千件不正送信 (朝日新聞)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXFwd0ZxVjZpa2hkeFdoYTFKc0gwRm9vQ29nUzJvanJnOERKWkhrX1p2TC1KN1BCVTJ2YUg2RFd4ZU9BazNpdU56WWlnUkVHUS12M2J0M2FUM3dIUG9vQ25aX2htdGpDakF4YUlXVnZoVEdyMnFydTlYcmFzNFFvVEJzbUdEZEMzNmd5ZzRB?oc=5",
+     "source": "Yahoo!ニュース"
+    }
+   ]
+  },
+  {
+   "title": "日経にサイバー攻撃 情報漏洩、不審メール9000件送信",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ieWIzdmlWUEVQcERJOUpzRDF0bU5lbTYyTG5TbWZIWUVYV05oampDY2E0cTJram1fMHRSdHNldmFtMTN6WVRXdFlzTGt2Zm8tZ0REQjNWRmVQblhDYWViMUlOOHVSemx5WjJfQQ?oc=5",
+   "source": "日本経済新聞",
+   "date": "2026-10-04T06:00:04+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "日経にサイバー攻撃 不審メール9000件 (ABEMA TIMES)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYllvYndWZDd0U09JTjdVclNvQlZ4Ti04RThKdGJxZHFHcnRjSkF3ZDAwbGx2bWNNZlVQanB0VTVjQmI4QWY2ekwydWtoRWVsUW5aZWdkWHlmZTVMTUx0ZXFpa1AzYUN3U1AyNno1MHZySHBOTGZnMmlESTRTQTdPcHBpR01xdGZBVnZ2bzdB?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "成り済ましメール9000件送信 社員アカウントにサイバー攻撃 日経新聞 (時事通信)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNlZLNVNHOGhneWhoTWs2QkF3dlIzLXd2ZGpiMXBDSk0xdmZEdFM3bTdFWkQxeG9hSEtDZl9aTEpFWjlkdEZIZThCaDNxV3NIZDRUZ0w0bUhPSElrbEk1UFVvcGlkZWlWeXpjWERqUGZVSlVPaEphRGVXZG5EMUNIMmFZUHpxck51ZDlrTE9n?oc=5",
+     "source": "Yahoo!ニュース"
+    }
+   ],
+   "company": "日経",
+   "count": 9000,
+   "people": "9000件"
   },
   {
    "title": "タイムズカー漏えい補償は? ユーザーに届いた「おわび」メール",
@@ -1213,6 +1475,20 @@
    "people": ""
   },
   {
+   "title": "ランサム被害拡大企業は自衛強化を急げ",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PcE9jeDdFeDFTbmVnTUdERmpnaFhmSC1lWjBZSTM5Q3pBMU56Z2dHTVhmMENlTDFFajk4WUphVDlDbkdNODJvSWZBWQ?oc=5",
+   "source": "47NEWS",
+   "date": "2026-10-01T01:10:13+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "ランサムウェア"
+   ],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
    "title": "ヤマト運輸、「クロネコ代金後払いサービス」への不正アクセスで続報 利用者など一部個人情報が漏えいか",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHcklTM1JwakFiNDltcGxlbUdIZ3BZZUJueTFNb2hxSjJNWlhvRDJ6S2NiSHRJTHJ5NjVoT2U4U0VoaEFjRVVrQTE4WVF4R1FMUjFjVjk2aTRUemttLVBtQ3dpNWN4VTNKcGc?oc=5",
    "source": "ITmedia",
@@ -1253,9 +1529,16 @@
    "tags": [
     "不正アクセス"
    ],
-   "company": "オズモール",
+   "company": "スターツ出版",
    "count": 447610,
-   "people": "最大447,610人"
+   "people": "最大447,610人",
+   "others": [
+    {
+     "title": "オズモール、不正アクセスによるサイバー攻撃で最大44万2,779名分の個人情報漏洩の恐れ-退会者も対象",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUdZakZSZm52V0xPelJQUEY0SUlxeHBzMldrZlF6TEJLRTBHdGdJWG5XUm13R0hlOGNxZ044alU0X0xDSk5DeWFRVkROYjBOLUVEd1podVlUNjV6aFI0RmFDY09ZWThTMkFaeDN3LWZJLXZ4dGVfalBPOGdDQm9EY3A4WXhzMGVwUUJzZVNSQlI0dkxwaGt0U1Q3b3RPaG43T2tyeWRkdWVHWkU5SlE?oc=5",
+     "source": "合同会社ロケットボーイズ"
+    }
+   ]
   },
   {
    "title": "「ニッポンレンタカーアプリ」への不正アクセス、運転免許証情報が閲覧されたおそれも",
@@ -1398,6 +1681,34 @@
    "company": "",
    "count": null,
    "people": ""
+  },
+  {
+   "title": "八王子学園のランサムウェア被害、侵入経路はRDP-4月に侵入失敗、7月に再侵入しサーバー保存ファイルを暗号化",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT25OZFp4R0R6SXhjT24zV2c3WElTWUk0Yzk3bWtpUEpkN2pDLUtEOGxJUEtXalBUbm5JT2Fidk5kc19mNmc5RjhqdEVWdXV1WHlQQ0lCUnFkakpCQlJsQlpQSV8zRk4yaGhEQjJ1TllHeUpMQnczOGtRMjZWeVF2RTREdVNRdkh6LVVZc0FJZWdEVzBzREhZLWFleUV2WTg?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "date": "2026-09-30T07:00:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "ランサムウェア"
+   ],
+   "company": "八王子学園",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "名張近鉄ガス、顧客情報6800件漏洩か 委託先にランサム攻撃",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuYzFYRGNjZ0lwX0FjV3lhN0NjemdLVUJNMThLQmNfc05EWmN5cjZkdUp6VjdsT3M4S0ZnUlVvTElITDBCUXhVdUE5NUJycVowNHl0QkJyckJHU3c?oc=5",
+   "source": "伊賀タウン情報 YOU",
+   "date": "2026-09-30T05:54:45+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "ランサムウェア"
+   ],
+   "company": "名張近鉄ガス",
+   "count": 6800,
+   "people": "6800件"
   },
   {
    "title": "「郵便局アプリ」に不正アクセス 氏名や送り先住所など漏えい 19人分・69件",
@@ -1544,6 +1855,11 @@
     {
      "title": "京王電鉄にランサムウェア攻撃",
      "url": "https://scan.netsecurity.ne.jp/article/2026/09/30/56345.html",
+     "source": "ScanNetSecurity"
+    },
+    {
+     "title": "京王電鉄にランサムウェア攻撃",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0ZFVCN1Z4QjNtYUFydG1GYy12TkFtZFF3Z3ktcGpyYjFUVmVzZzRLalV2Q2VVT0NZLVhFMU5ja2NfV2VoQm16d3ZGcWUyZVVNRzN4ajJsS1lsNTZTc3V5VThEa3cwNkRDbm9ZYw?oc=5",
      "source": "ScanNetSecurity"
     }
    ],
@@ -1786,6 +2102,27 @@
    "people": "57万件"
   },
   {
+   "title": "佐賀大学「ランサムウエア」問題、教職員や学生のＩＤやパスワードが流出した可能性…実害は確認されず",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oMGtFa1d1N0libmthVzBFWWVUZnpWVFNvalA2X1pSS0liY3M5Sm1rSllocl9TQVdCejByakd3WUNmTDR1S0toNGpmMGtLaXcwZ1JLel8tLTRianZHLURjTFlUS2E0aGFoMkI5a2EyUXo5UQ?oc=5",
+   "source": "読売新聞",
+   "date": "2026-09-29T02:53:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "ランサムウェア"
+   ],
+   "others": [
+    {
+     "title": "佐賀大学「ランサムウエア」問題、教職員や学生のＩＤやパスワードが流出した可能性…実害は確認されず (読売新聞オンライン)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbWE4cG92Y1BueE4zdy1FVl9lLVdqYXQ4enFuRWZpZVhxTHhVV2g4S05DOHJPN0w4QmdBdDlYWnNFRkJJaFJyNF9EMmNNRGlLQllKZHVkZzltVlE5OHVFSW5mLU53ckU2cGtiaklUR0VlLWw0amxpa1A2bk9oNFZQNG1WYXVIZU9zOEVvSE1n?oc=5",
+     "source": "Yahoo!ニュース"
+    }
+   ],
+   "company": "佐賀大学",
+   "count": null,
+   "people": ""
+  },
+  {
    "title": "約57万件の個人情報漏えいか セイコーマートのサーバーに不正アクセス 名前やメールアドレスなどが第三者に閲覧された可能性 北海道や関東で展開のコンビニ（HBCニュース北海道）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKTzVjUkoyS0Z0VnFtYzZudjEtOFlmZlRJRW93SnlFUVNIOGw0RFlDU0VVZnVfdGpJa2pIMkswVmJNNzNsVC0xR3AyU1UyRTl0aDNodXpiV3cxdG9lLWhmbUJhLVZXY2F4RXRlcG9pbFV2dGE1VGw1d2Npa291ZnM?oc=5",
    "source": "Yahoo!ニュース",
@@ -1980,6 +2317,11 @@
     {
      "title": "佐賀大学のNASにランサムウェア攻撃、ファイルが暗号化される被害",
      "url": "https://scan.netsecurity.ne.jp/article/2026/09/30/56346.html",
+     "source": "ScanNetSecurity"
+    },
+    {
+     "title": "佐賀大学のNASにランサムウェア攻撃、ファイルが暗号化される被害",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sVjJMclRRRjdzZy1BTkFuUVc0ZUpFSERKR2QwTi1lYVFMZXJiNndnYmpZVWpUZFZYRzFGek96eldhLWt0dnk1TTFPc0xmZjdMQUlhT2xfQnJmekxWM1VJb1F1Yi1DZHlMT25jVg?oc=5",
      "source": "ScanNetSecurity"
     }
    ],
@@ -2285,7 +2627,7 @@
    "tags": [
     "不正アクセス"
    ],
-   "company": "",
+   "company": "NISA口座",
    "count": null,
    "people": ""
   },
