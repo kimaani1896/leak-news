@@ -46,9 +46,7 @@ h1 .dot { width: 10px; height: 10px; border-radius: 50%; background: var(--accen
   padding: 9px 4px; border-bottom: 1px solid var(--line); color: var(--link); text-decoration: none; }
 .row a:hover { background: var(--panel); }
 .co { font-weight: 700; font-size: 15.5px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.co.untitled { font-weight: 400; font-size: 13.5px; color: var(--muted); }
 .n { color: var(--accent); font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; font-size: 15px; }
-.n.none { color: var(--muted); font-weight: 400; font-size: 12px; }
 .when { grid-column: 1 / -1; font-size: 11.5px; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .month { list-style: none; margin: 18px 0 2px; padding: 0 2px; font-size: 17px; font-weight: 800; color: var(--text); }
 .month:first-child { margin-top: 10px; }
@@ -109,10 +107,8 @@ function el(tag, attrs = {}, ...kids) {
 }
 
 function row(it) {
-  const name = it.company
-    ? el("span", { class: "co" }, it.company)
-    : el("span", { class: "co untitled" }, it.title);
-  const n = it.people ? el("span", { class: "n" }, it.people) : el("span", { class: "n none" }, "人数不明");
+  const name = el("span", { class: "co" }, it.company);
+  const n = el("span", { class: "n" }, it.people || "");
   const when = el("span", { class: "when" }, el("b", {}, jst(it.date, { month: "numeric", day: "numeric", weekday: "short" })), it.source,
     ...(it.tags || []).map((t) => el("span", { class: "tag" }, t)));
   return el("li", { class: "row" },
@@ -121,7 +117,7 @@ function row(it) {
 
 function render() {
   for (const [id, region] of Object.entries(COLS)) {
-    const hits = state.items.filter((it) => it.region === region);
+    const hits = state.items.filter((it) => it.region === region && it.company);
     $("c-" + id).textContent = `${hits.length}件`;
     const out = [];
     let month = "";
