@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T16:32:58.457520+00:00",
+ "updated": "2026-10-05T22:54:39.916562+00:00",
  "items": [
   {
    "title": "ジェリービーンズグループの資金流出についてまとめてみた",
@@ -75,7 +75,14 @@
    ],
    "company": "日経",
    "count": 9000,
-   "people": "約9000件"
+   "people": "約9000件",
+   "others": [
+    {
+     "title": "日経で相次ぐ不正アクセス 1646人分の個人情報漏えい、「なりすましメール」約9000件送信も (ITmedia ビジネスオンライン)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON3ZqRFNvWkpZVWxrZGwycHY3T2loNXU2U0RCS01hVFNUQmVPWEl5TFN4bW12eUdPa1JDYkhSYmVzMGpmMklMdkVPejFTVHBaSkdYYmFZLThBVGEyMXF6ZTBBYms5VV8tb19tSzNLSEJXZk5zREtBWE1sSXMybE5oc0JpWUFVUllVRVI1UTVn?oc=5",
+     "source": "news.yahoo.co.jp"
+    }
+   ]
   },
   {
    "title": "韓国の銀行6行にサイバー攻撃 計2万5000人超の個人情報流出──AIエージェントを使った可能性も 現地報道",
@@ -203,6 +210,26 @@
      "title": "相次ぐサイバー攻撃に“AI利用”か…『焼肉きんぐ』1000万件超が情報漏えい",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fQkp4bXFoNmJFaGhvMWVQQzJKRHBxX2xBUFdTbExWdXdTbWtLcWFocVlPN3J1ei10NGF4THRpSXJLWkV6TE1BN3Z3RkFiU2pENGVCeEVhOTRfOS1Xanc0dTR2R0tuM3lpQ0dZX1c0WXhMQQ?oc=5",
      "source": "テレ朝NEWS"
+    },
+    {
+     "title": "焼肉きんぐに不正アクセス、1078万人分の情報流出 アプリ登録者ほぼ全員が対象",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tUE1xOHFMS3p2WTI3ZWZsRVF2elE3ZC1IMXZkNVd1Mk5ZdzdrVFpLMUxLdlZmbXVpdTh5MDJsOUZQWi1xY0VPSk9NOUFueGY3RDJuSA?oc=5",
+     "source": "ASCII.jp"
+    },
+    {
+     "title": "焼肉きんぐ、ほぼ全会員の個人情報1000万件超が流出 第三者の不正アクセスで",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14bkFlWHhSSmktWktrQWh1QzRyNG5nY1ZWZkVPOVVwTThQRUp0RDBscUgzU1pPa2dYTWoxLXVJaV9OZm9TVEY3UkxpUVU3VjVXMVZTaGlCS2dVdGRjWW9fbWdtNlJ5RnBONFVadDEtZF9jb194RHc?oc=5",
+     "source": "産経ニュース"
+    },
+    {
+     "title": "【速報】焼肉きんぐ会員情報1078万件漏洩 アプリ登録者ほぼ全員流出",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iSzVLRHg4ZThhMWtWZXBzLTdGZDJJODk0dWR0YTk1cV84Z2xjQ1NrRHFoWk1KSjd4dEJTZmhlNFdCTFpLdF9sSlBMZ1pCS0d0YUtNTHZKbEZEejZ3cFBWaVZKWFp0STVuLWh6dmpNazlMQQ?oc=5",
+     "source": "テレ朝NEWS"
+    },
+    {
+     "title": "焼肉きんぐの会員情報 不正アクセスを受け、ほとんどの登録者の個人情報が漏えい 運営会社が公表（メ〜テレ（名古屋テレビ））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iZERLckQtWEpRLXdQWl9CT0RsYkFBSGF4dG1IbnRmLUpoVkFRSVVKb1lkeDV1akdBOXVIZHcxUFdLd3k2UlZQbW1FVWZ6ZXVSNmlxNHA3ZXgxWEduUk55MFhxZlpZemg3aExJSGxNbGxrZHJSNnItdl96bUxXUlE?oc=5",
+     "source": "news.yahoo.co.jp"
     }
    ],
    "company": "焼肉きんぐ",
@@ -231,9 +258,9 @@
    "people": "約105万件"
   },
   {
-   "title": "【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪 ランサムウェアによるサイバー攻撃か 基盤システム障害で全授業が休講中 対面授業は9日以降再開予定（MBSニュース）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XWnk5MFVnQUVyMjRZMGZRTXVpWS1tRFRPcjZRTVJWcHJCSFlYaHhHR3U2YmVyTXlhekw2N3pyMXJpajYxWXEwRWlxX0NpNjhFUXRQMHNiczg5VHRvSGhocl9NNnktYkxNU1ZwckNISUM5eDQ2TnFWV2RGYW01LWs?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "大阪公立大の大規模システム障害、サイバー攻撃が原因か 13万人超の個人情報流出恐れ",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aMXlJa2prVnE1c3NXSUI2QU5pb0tVZ29oVi1XLVpRU2RFQWVmNWpsQ0Nqc1BvOXBTcnA5cmtrUDF5akNtOWpmLVFVS3JQZG4zUDB3V0NTMVVhRkRCazlCQktqTURKa1lnR3c?oc=5",
+   "source": "ITmedia",
    "date": "2026-10-05T07:09:51+00:00",
    "summary": "",
    "region": "国内",
@@ -346,11 +373,36 @@
      "title": "大阪公立大の大規模システム障害、サイバー攻撃が原因か 13万人超の個人情報流出恐れ（産経新聞）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YN1kxcHR6b0xDX1lscWRnOHBIT1JIcVV3b0hhb1FnazRHMVM1RGZpa0hMc3EtcG1Bc2ZvMF8tdUJ0NGlRODNtWGN4UFAxQmxCYTJBSXY3enV3eklndEdoRFlneTROZTRCS0NGRk9CV2hiUzRsemkxU292VlN5VWc?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "大阪公立大がランサムウェア被害を公表、全授業休講で学長が謝罪 (2026年10月5日掲載)",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tQWxMRVI1dlRoNWluY1lxeTJlR2s0NTdsRG80T2RJWXlqaU9LN2dZQUt5MzdlLW1EaVA4UG9tZUpQTzJjUnF3cURJTjVjeDNKdmFScWlwbENtQ0xZYUE?oc=5",
+     "source": "ライブドアニュース"
+    },
+    {
+     "title": "大阪公立大にランサム攻撃",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vS19nc3FILVlmYm1xTXkxRGVQVXZhc0pGQm40RFdiU1Vvd2FsOUFCQ0NoMENtTmY0V2hGTnVIQm5MLW80OGl4UXFfa3pfd2dLRFBzcGJhRQ?oc=5",
+     "source": "埼玉新聞"
+    },
+    {
+     "title": "大阪公立大、約13万人情報流出の恐れ（共同通信）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wWGs1OXhfRDEtU0IyUFgwNm9ZRHFQRFRmeHhkVl83cy1jVU9QT3JmVHU1WEJjcjVkY05PMEg5YWdrbkFZWnB4eEM1Vy1TUFZ4Y2RMREg1X1RidTktbm91bkJGRExIRlpTNnNDRDVJd0tQZ1ZGbjdGVjBGcnRvb28?oc=5",
+     "source": "news.yahoo.co.jp"
+    },
+    {
+     "title": "大阪公立大の大規模システム障害、サイバー攻撃が原因か 13万人超の個人情報流出恐れ (産経新聞)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTnEyUjgtOU83T3FSd3FqZE1Hbk9KNWZOZF92ci1hMGVUWWlreVlHbks3VWNlNWZYcGtYdmFJT2xydFdZQmhaM1E3LWtSZWI1Yk12dWJWSVpjbXJYOW5wd0YtaE9FTzNTTmFtdkxaSnN5OEJjVmRDZWRTelROR2h0QmtSVXFITGZIdS1lQW1n?oc=5",
+     "source": "news.yahoo.co.jp"
+    },
+    {
+     "title": "【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪 ランサムウェアによるサイバー攻撃か 基盤システム障害で全授業が休講中 対面授業は9日以降再開予定（MBSニュース）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XWnk5MFVnQUVyMjRZMGZRTXVpWS1tRFRPcjZRTVJWcHJCSFlYaHhHR3U2YmVyTXlhekw2N3pyMXJpajYxWXEwRWlxX0NpNjhFUXRQMHNiczg5VHRvSGhocl9NNnktYkxNU1ZwckNISUM5eDQ2TnFWV2RGYW01LWs?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ],
    "company": "大阪公立大",
    "count": 130000,
-   "people": "13万人"
+   "people": "13万人超"
   },
   {
    "title": "“免許証画像”闇サイトで売買も……1枚あたり「20円」 相次ぐ個人情報漏えい 悪用リスクは？【追跡取材 news LOG】",
@@ -465,6 +517,11 @@
      "title": "大和証券、問い合わせ管理サービスへの不正アクセスで約11万人の利用者情報漏えいの可能性",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJSzVLcTBDdHh2WGtoRlAyQUZXTG5uaUVfWEtjTHg5cm1TU0FTZ1UzMm5JTFMtTzB5Ujc1ZTJsTlFpRGpxX0ZKM0JYVFFPQzFPVVVxYVhCRzk5RTNaUUNpaGs0c2FxN2w0Q2Mw?oc=5",
      "source": "internet.watch.impress.co.jp"
+    },
+    {
+     "title": "大和証券、顧客11万人の口座番号など漏洩か 委託先に不正アクセス",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrSzlmUndaWU1VTlM2cXB2LUhDZ2IyY1c4TDRkeFJ3R3MydExVc0QzT0lZYUFaU2dvTWNham9uZGc0al80c09icHVXaXpnc0ZCTTk1bXZNdk83clBvelVfZVdXeUtRMHc?oc=5",
+     "source": "asahi.com"
     }
    ],
    "company": "大和証券",
@@ -472,26 +529,16 @@
    "people": "22万件"
   },
   {
-   "title": "日本経済新聞社へのサイバー攻撃となりすましメール送信についてまとめてみた",
-   "url": "https://piyolog.hatenadiary.jp/entry/2026/10/05/115509",
-   "source": "piyolog",
-   "date": "2026-10-05T02:55:09+00:00",
-   "summary": "2026年10月4日、日本経済新聞社は社員のMicrosoft 365のアカウントがサイバー攻撃を受け、なりすましメール約9,000件が送信されたと公表しました。また、同日に日経BPも従業員のメールアカウントへの不正アクセスを、日経はGoogle Workspaceのアカウントへの不正ログインをそれぞれ公表しています。",
+   "title": "タイムズカー情報漏えい、集団訴訟に3万人が参加希望（アスキー）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RYUdBYXlxckdMSDJsVnFuakF1emxXQ0kydDE2dlJCZ3JxNDBPaWNKS0VSZG5mYmlUU3JZVTFRQmhOQ0JDZ2ZKSE1yaE4wYUZNdnZLdXVFazJaSkRMWFEzWkVFU1k3OTZnVWNVTlBzbXV0UDdEbkhaM0JUYm5VM3c?oc=5",
+   "source": "news.yahoo.co.jp",
+   "date": "2026-10-05T02:10:00+00:00",
+   "summary": "",
    "region": "国内",
-   "tags": [
-    "不正アクセス",
-    "不正ログイン"
-   ],
-   "company": "日本経済新聞社",
-   "count": null,
-   "people": "",
-   "others": [
-    {
-     "title": "日経新聞にサイバー攻撃 なりすましメール9千件送信",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mVUR4RjBLUEJLNl9KcGVQampvMkpVUjVrOS03X3FhWGVBQldSQm9XLVpUQlNraXp2RU9yS00zRFRUczVxT1AxZlYyNA?oc=5",
-     "source": "47NEWS"
-    }
-   ]
+   "tags": [],
+   "company": "",
+   "count": 30000,
+   "people": "3万人"
   },
   {
    "title": "ALSOKジョイライフ、7月の不正アクセス調査結果を公表―134件の個人情報、フォレンジックで流出示す事実なし",
@@ -522,11 +569,11 @@
    "people": "50件"
   },
   {
-   "title": "日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IMzJ4WTV6cXJZbjZUTmFqSHJTQUsxbVByMGo3R2FGWDVsbW5PVlRrRFEyYUNoMXZCaUN5WHBEeVBvUTAteWxDbkhLZi1aVHE5eXhzYWVLWVdmbURTUGgtOFdGNHVCbzVndDlV?oc=5",
-   "source": "internet.watch.impress.co.jp",
+   "title": "日本経済新聞社へのサイバー攻撃となりすましメール送信についてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/10/05/115509",
+   "source": "piyolog",
    "date": "2026-10-05T00:42:27+00:00",
-   "summary": "",
+   "summary": "2026年10月4日、日本経済新聞社は社員のMicrosoft 365のアカウントがサイバー攻撃を受け、なりすましメール約9,000件が送信されたと公表しました。また、同日に日経BPも従業員のメールアカウントへの不正アクセスを、日経はGoogle Workspaceのアカウントへの不正ログインをそれぞれ公表しています。",
    "region": "国内",
    "tags": [
     "不正アクセス",
@@ -590,6 +637,26 @@
      "title": "日経新聞にサイバー攻撃 なりすましメール9000件",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzV1plUThZUmVTNkdkNWFTT3lyZzBTbzFRbWZLb2RKc1hINHVOSS1LSU1NaTdtSWh4a3pOVkFVUVlFRWdVMVNLT3RndlVXcjZoN1g3VGFEakFJaXhIeWc?oc=5",
      "source": "テレ東BIZ"
+    },
+    {
+     "title": "日経新聞にサイバー攻撃 なりすましメール９千件送信｜全国の記事｜京都新聞 ON BUSINESS",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBVFlpcENVa0Rqd29XV0FlSWY3ck5jN2g0ZDh0WEVTTGhqSU82ZmdYMlRSMWxwaUhRX2JBU05RRm0ybktZWm5nV1A5S056WHZsdk95X2ZVSTJocWs?oc=5",
+     "source": "京都新聞デジタル"
+    },
+    {
+     "title": "日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IMzJ4WTV6cXJZbjZUTmFqSHJTQUsxbVByMGo3R2FGWDVsbW5PVlRrRFEyYUNoMXZCaUN5WHBEeVBvUTAteWxDbkhLZi1aVHE5eXhzYWVLWVdmbURTUGgtOFdGNHVCbzVndDlV?oc=5",
+     "source": "internet.watch.impress.co.jp"
+    },
+    {
+     "title": "日経新聞にサイバー攻撃 なりすましメール9千件送信",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mVUR4RjBLUEJLNl9KcGVQampvMkpVUjVrOS03X3FhWGVBQldSQm9XLVpUQlNraXp2RU9yS00zRFRUczVxT1AxZlYyNA?oc=5",
+     "source": "47NEWS"
+    },
+    {
+     "title": "日経新聞にサイバー攻撃 なりすましメール9千件送信",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwMTlVNlJVREdCc2duQVBCWXd5TWExM3VHSHdqc29yZ2pkLWVLVUZLZ1dOYUhmeGltZGpKNXRpWWRHMm43SUZiRzlIcnE4RGZFbVVfdUVTTndYUQ?oc=5",
+     "source": "北海道新聞デジタル"
     }
    ]
   },
@@ -608,6 +675,11 @@
      "title": "日経社員アカウントからなりすましメール9000件 「Microsoft 365」に不正ログインか（ITmedia NEWS）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XNWRCSVpQSC1rYkpUZ2o4WnFPdHA0RWQxM2xZU1pDYi1RSkV4YjhvNnFpY0ZTZUprQ0lNQjREb3dnQWNsRG1ObF9xbU4tQkNFQkZKN3I1bEE4WTI0SUVQOUJRbkY3TmtXdkhIeEpjcVhpZHlTa1I3YlZjT1EzdE0?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "日経に不正ログイン、1646人分の個人情報漏洩か",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YRlYwQ2FEaWF6eW1yeU5Tb1phT0xzZEVLR1NOZzJKdDlvdDNibUNqYnFhTlFVT0RETHNYRURZVVZUZDBMRUxUU0FMQV81d1NGNW1CY3U3aDk0aXgwUkFMbU9RMUdaUFQwS0VNeQ?oc=5",
+     "source": "日本経済新聞"
     }
    ],
    "company": "日経",
@@ -2125,6 +2197,11 @@
      "title": "「タイムズカー」免許証画像など約160万件が流出 専門家「借金されてしまうのが一番大きなリスクに」（日テレNEWS NNN）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13VnpXS1RWVEsxMkxabDBpcmMtbkhwb0dDV3hGT19tVDVjYUd4MjhpS3BrODgxSW1qTTlHOEc3SEhRLW9JMXl1OFZIOUJSdDFCUkpucFh1aXlKLUFtRmQ2MzZNeHY2ZzhFWnhCcTI5NGJnMkhYNHRrN25zem8yV0E?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "「タイムズカー」集団訴訟準備サイトに3万7000人登録 会員情報660万件流出に弁護士「被害救済する必要ある」",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QYUVjYUQxWm1ibWkwWUo2SGZNN2F5U3gtcjJWb2x2OG5PWkRJTHZuQ3pJckFuUzhreFh6bEIxbnFCT3l4S1hmdFFiNmNoRkdrQ3ZJOGdIZ2QwOEQ2ekw0OUhlREhhT3NqTzhYX2FreG9iSHF0UE9abl9jX1NadWc?oc=5",
+     "source": "news.yahoo.co.jp"
     }
    ],
    "company": "タイムズカー",
