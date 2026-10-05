@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T16:23:16.692853+00:00",
+ "updated": "2026-10-05T16:24:41.741953+00:00",
  "items": [
   {
    "title": "企業で相次ぐ“不正アクセス” 狙われる「個人情報」（FNNプライムオンライン（フジテレビ系））",
@@ -42,20 +42,6 @@
    "people": ""
   },
   {
-   "title": "回転ずしの大起水産、17万人分の個人情報が流出か 不正アクセスで",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xMkFNYWowalVuRTlVaXhlcDRUeUJ5bEFlakc5YnBHdkVvTEZFblhqS09hekZuRDB2Zi0xUGZNUVBqb0trR3JaZWVrR0gyY09MbU13REtXckNQNGY0VUt0Y283ZUUwelE?oc=5",
-   "source": "朝日新聞",
-   "date": "2026-10-05T12:01:00+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [
-    "不正アクセス"
-   ],
-   "company": "回転ずしの大起水産",
-   "count": 170000,
-   "people": "17万人"
-  },
-  {
    "title": "「大起水産アプリ」に不正アクセス、17万人の個人情報漏えいか 大阪の回転寿司チェーン",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DZ2xXQnRrM2E5QUhvdV9WdjhHZF94VWJPY0Z2cHZVUnpETjBRRlF3eE1pLWxjNjk1Umk5VXk4TFRaRHhNQkhwb1Y4dndTODM2MFpWcmlWUWsyVEkxbU9xek1NY2JUR0lIYmc?oc=5",
    "source": "ITmedia",
@@ -65,7 +51,7 @@
    "tags": [
     "不正アクセス"
    ],
-   "company": "大起水産アプリ",
+   "company": "大起水産",
    "count": 170000,
    "people": "17万人",
    "others": [
@@ -83,6 +69,11 @@
      "title": "大起水産 不正アクセスで約17万5000人分の個人情報漏えいか",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ucl9MMGk1bXluNkowWElVanowLTJqT0NjQzBMM2pEcjl0R2dVVHctbWlpVDZMTWFlMWlzNENjdlNCV2VMdzBJcmM4X2lNcUhZX3ptMXFYUm1RbTZ3bEdj?oc=5",
      "source": "NHKニュース"
+    },
+    {
+     "title": "回転ずしの大起水産、17万人分の個人情報が流出か 不正アクセスで",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xMkFNYWowalVuRTlVaXhlcDRUeUJ5bEFlakc5YnBHdkVvTEZFblhqS09hekZuRDB2Zi0xUGZNUVBqb0trR3JaZWVrR0gyY09MbU13REtXckNQNGY0VUt0Y283ZUUwelE?oc=5",
+     "source": "朝日新聞"
     }
    ]
   },
@@ -242,7 +233,7 @@
      "source": "テレ朝NEWS"
     }
    ],
-   "company": "原因など詳細を調査",
+   "company": "焼肉きんぐ",
    "count": 10780000,
    "people": "1078万人"
   },
@@ -569,7 +560,7 @@
     "不正アクセス",
     "不正ログイン"
    ],
-   "company": "日経新聞社",
+   "company": "日経新聞",
    "count": 9000,
    "people": "9000件",
    "others": [
@@ -1785,7 +1776,7 @@
      "source": "ScanNetSecurity"
     }
    ],
-   "company": "",
+   "company": "京王電鉄",
    "count": null,
    "people": ""
   },
@@ -1933,50 +1924,6 @@
    "people": "約1557件"
   },
   {
-   "title": "免許証画像が漏れると何が“ヤバい”のか タイムズカーで最大約660万件の個人情報漏えいで考えられる「3つのリスク」（1/2 ページ） - ITmedia Mobile",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95Nmo1SVVwRHZiZlF0blJWTm4teElSdEJBcG5DV0l6QVFrclprSXlGVWhqOFFwY3hsa3hZeHFRT0E5b3BkVDJScWNUODJaLThBdl84bHBOemV0eTVsOVY4dmtCbUp4RzljTDB5Tk9BVdIBaEFVX3lxTE9HQ1ZIaS00MlV2QzVxVE5Xb0loRnRSRFlOU2ZsU2J5U2VTMzFDam51QndYRkxWd25VRVpseENmLUVuLXFYVWpNSjhNWDMyMWFlTjRwOFFyNFByaUhVX09ZMjR3RkhqY1lC?oc=5",
-   "source": "ITmedia",
-   "date": "2026-09-29T07:00:00+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [],
-   "others": [
-    {
-     "title": "免許証画像などの漏えい１６０万件 パーク２４、対象者に通知開始",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmbVNtU1F6WXFRZ19Ed0xia2txZUVyd09UUlFDREFpd3dsUS11WE11WW8tVjZJS2tXQ1FsanA1bmxORUl1WkNKLTg0SVY1Q3RCcW5ZbDZmYWZEZmxMX2JkaWpsaw?oc=5",
-     "source": "時事ドットコム"
-    },
-    {
-     "title": "免許証画像などの漏えい160万件 パーク24、対象者に通知開始（時事通信）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5TXgwWFNKMl9NM0VrQjNjcTlyVW93VU4zamJES1hYdGd3cmFibGRkdWppajVMbkJkczJmUy14YzN1RDBUc3hWaWJSZ1l2dG1ZQ0JrUEdfaEp0Q2dKS2RwYWV5RXFYeHZ6TVlJYUxzMjFhZnp5S1YtSDlHeHRSeDg?oc=5",
-     "source": "Yahoo!ニュース"
-    },
-    {
-     "title": "免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延 タイムズカー情報流出直後に",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CenNtZ0VVZjFsLWJ3Q3RjMmZhNWNoVVV4Ny1zdmZEdzhQN2xpX2FTQ2dSdXRHaHNEMnI4YXAzT0t3aGYzZExBbTNtdFRaUU5wYlgxMnRrRW9SSlBOYVlUTzZyejJtaUJrT2c?oc=5",
-     "source": "ITmedia"
-    },
-    {
-     "title": "なぜ危険？約160万件で「免許証画像」漏えい “なりすまし被害”のリスクも… タイムズカーで最大660万件の個人情報漏えい【Nスタ解説】",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ENFdCSlNQdXpXSFczQTAyMHV5RFQxR2hmb19haU84NW5oSl9KeVNzYTVXdG1wZTRRazEwN1JqUlRxZ1YwZUZxNURqT2R5YkFGcVk4aTJOQQ?oc=5",
-     "source": "TBS NEWS DIG"
-    },
-    {
-     "title": "タイムズカー660万件個人情報流出 免許証画像、長期の悪用リスク",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBX2ppTW5kcjByVFI1QjlPaDNyNTh6ZmJPUmVNbTlkdExmREI5eUhxSHc0czBHMXlaRTJKMWR1Q2loaGYxWUdyV3REN21BU0x1NmpyMWVwNEFUbkVZeHdNNW5TTGdhVjQ?oc=5",
-     "source": "朝日新聞"
-    },
-    {
-     "title": "「タイムズカー」免許証画像など約160万件が流出 専門家「借金されてしまうのが一番大きなリスクに」（日テレNEWS NNN）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13VnpXS1RWVEsxMkxabDBpcmMtbkhwb0dDV3hGT19tVDVjYUd4MjhpS3BrODgxSW1qTTlHOEc3SEhRLW9JMXl1OFZIOUJSdDFCUkpucFh1aXlKLUFtRmQ2MzZNeHY2ZzhFWnhCcTI5NGJnMkhYNHRrN25zem8yV0E?oc=5",
-     "source": "Yahoo!ニュース"
-    }
-   ],
-   "company": "",
-   "count": 6600000,
-   "people": "約660万件"
-  },
-  {
    "title": "日本郵便に不正アクセスか 国際郵便の「調査請求Web受付」を停止、原因は調査中",
    "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001841/",
    "source": "ITmedia",
@@ -1999,27 +1946,6 @@
     }
    ],
    "company": "日本郵便",
-   "count": null,
-   "people": ""
-  },
-  {
-   "title": "佐賀大学「ランサムウエア」問題、教職員や学生のＩＤやパスワードが流出した可能性…実害は確認されず",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oMGtFa1d1N0libmthVzBFWWVUZnpWVFNvalA2X1pSS0liY3M5Sm1rSllocl9TQVdCejByakd3WUNmTDR1S0toNGpmMGtLaXcwZ1JLel8tLTRianZHLURjTFlUS2E0aGFoMkI5a2EyUXo5UQ?oc=5",
-   "source": "読売新聞",
-   "date": "2026-09-29T02:53:00+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [
-    "ランサムウェア"
-   ],
-   "others": [
-    {
-     "title": "佐賀大学「ランサムウエア」問題、教職員や学生のＩＤやパスワードが流出した可能性…実害は確認されず (読売新聞オンライン)",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbWE4cG92Y1BueE4zdy1FVl9lLVdqYXQ4enFuRWZpZVhxTHhVV2g4S05DOHJPN0w4QmdBdDlYWnNFRkJJaFJyNF9EMmNNRGlLQllKZHVkZzltVlE5OHVFSW5mLU53ckU2cGtiaklUR0VlLWw0amxpa1A2bk9oNFZQNG1WYXVIZU9zOEVvSE1n?oc=5",
-     "source": "Yahoo!ニュース"
-    }
-   ],
-   "company": "佐賀大学",
    "count": null,
    "people": ""
   },
@@ -2291,6 +2217,41 @@
      "title": "「タイムズカー」情報漏えい 大分県内にも不安広がる 専門家は特殊詐欺への注意呼びかけ",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5VF9iWlA2RlFrZFF0SUxVWDBvbTBwYk1CamZfVWwzS0FodEpBQWpjOE1wZ1p3RkJKMTlNUS0yOWdWRmNhN1FYVENIcnhhS21Jb2dIY2dnTmVUcFVsanlmMzA4WDZaRGRiUkV2aTRldE4xTmVpOUc4ZmdsSmdXZ2s?oc=5",
      "source": "日テレNEWS NNN"
+    },
+    {
+     "title": "免許証画像が漏れると何が“ヤバい”のか タイムズカーで最大約660万件の個人情報漏えいで考えられる「3つのリスク」（1/2 ページ） - ITmedia Mobile",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95Nmo1SVVwRHZiZlF0blJWTm4teElSdEJBcG5DV0l6QVFrclprSXlGVWhqOFFwY3hsa3hZeHFRT0E5b3BkVDJScWNUODJaLThBdl84bHBOemV0eTVsOVY4dmtCbUp4RzljTDB5Tk9BVdIBaEFVX3lxTE9HQ1ZIaS00MlV2QzVxVE5Xb0loRnRSRFlOU2ZsU2J5U2VTMzFDam51QndYRkxWd25VRVpseENmLUVuLXFYVWpNSjhNWDMyMWFlTjRwOFFyNFByaUhVX09ZMjR3RkhqY1lC?oc=5",
+     "source": "ITmedia"
+    },
+    {
+     "title": "免許証画像などの漏えい１６０万件 パーク２４、対象者に通知開始",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmbVNtU1F6WXFRZ19Ed0xia2txZUVyd09UUlFDREFpd3dsUS11WE11WW8tVjZJS2tXQ1FsanA1bmxORUl1WkNKLTg0SVY1Q3RCcW5ZbDZmYWZEZmxMX2JkaWpsaw?oc=5",
+     "source": "時事ドットコム"
+    },
+    {
+     "title": "免許証画像などの漏えい160万件 パーク24、対象者に通知開始（時事通信）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5TXgwWFNKMl9NM0VrQjNjcTlyVW93VU4zamJES1hYdGd3cmFibGRkdWppajVMbkJkczJmUy14YzN1RDBUc3hWaWJSZ1l2dG1ZQ0JrUEdfaEp0Q2dKS2RwYWV5RXFYeHZ6TVlJYUxzMjFhZnp5S1YtSDlHeHRSeDg?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延 タイムズカー情報流出直後に",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CenNtZ0VVZjFsLWJ3Q3RjMmZhNWNoVVV4Ny1zdmZEdzhQN2xpX2FTQ2dSdXRHaHNEMnI4YXAzT0t3aGYzZExBbTNtdFRaUU5wYlgxMnRrRW9SSlBOYVlUTzZyejJtaUJrT2c?oc=5",
+     "source": "ITmedia"
+    },
+    {
+     "title": "なぜ危険？約160万件で「免許証画像」漏えい “なりすまし被害”のリスクも… タイムズカーで最大660万件の個人情報漏えい【Nスタ解説】",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ENFdCSlNQdXpXSFczQTAyMHV5RFQxR2hmb19haU84NW5oSl9KeVNzYTVXdG1wZTRRazEwN1JqUlRxZ1YwZUZxNURqT2R5YkFGcVk4aTJOQQ?oc=5",
+     "source": "TBS NEWS DIG"
+    },
+    {
+     "title": "タイムズカー660万件個人情報流出 免許証画像、長期の悪用リスク",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBX2ppTW5kcjByVFI1QjlPaDNyNTh6ZmJPUmVNbTlkdExmREI5eUhxSHc0czBHMXlaRTJKMWR1Q2loaGYxWUdyV3REN21BU0x1NmpyMWVwNEFUbkVZeHdNNW5TTGdhVjQ?oc=5",
+     "source": "朝日新聞"
+    },
+    {
+     "title": "「タイムズカー」免許証画像など約160万件が流出 専門家「借金されてしまうのが一番大きなリスクに」（日テレNEWS NNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13VnpXS1RWVEsxMkxabDBpcmMtbkhwb0dDV3hGT19tVDVjYUd4MjhpS3BrODgxSW1qTTlHOEc3SEhRLW9JMXl1OFZIOUJSdDFCUkpucFh1aXlKLUFtRmQ2MzZNeHY2ZzhFWnhCcTI5NGJnMkhYNHRrN25zem8yV0E?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ],
    "company": "タイムズカー",
@@ -2318,9 +2279,19 @@
      "title": "佐賀大学のNASにランサムウェア攻撃、ファイルが暗号化される被害",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sVjJMclRRRjdzZy1BTkFuUVc0ZUpFSERKR2QwTi1lYVFMZXJiNndnYmpZVWpUZFZYRzFGek96eldhLWt0dnk1TTFPc0xmZjdMQUlhT2xfQnJmekxWM1VJb1F1Yi1DZHlMT25jVg?oc=5",
      "source": "ScanNetSecurity"
+    },
+    {
+     "title": "佐賀大学「ランサムウエア」問題、教職員や学生のＩＤやパスワードが流出した可能性…実害は確認されず",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oMGtFa1d1N0libmthVzBFWWVUZnpWVFNvalA2X1pSS0liY3M5Sm1rSllocl9TQVdCejByakd3WUNmTDR1S0toNGpmMGtLaXcwZ1JLel8tLTRianZHLURjTFlUS2E0aGFoMkI5a2EyUXo5UQ?oc=5",
+     "source": "読売新聞"
+    },
+    {
+     "title": "佐賀大学「ランサムウエア」問題、教職員や学生のＩＤやパスワードが流出した可能性…実害は確認されず (読売新聞オンライン)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbWE4cG92Y1BueE4zdy1FVl9lLVdqYXQ4enFuRWZpZVhxTHhVV2g4S05DOHJPN0w4QmdBdDlYWnNFRkJJaFJyNF9EMmNNRGlLQllKZHVkZzltVlE5OHVFSW5mLU53ckU2cGtiaklUR0VlLWw0amxpa1A2bk9oNFZQNG1WYXVIZU9zOEVvSE1n?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ],
-   "company": "国立大",
+   "company": "佐賀大学",
    "count": null,
    "people": ""
   },
@@ -2337,28 +2308,6 @@
    "company": "豪州政府Medicare統計ポータル",
    "count": null,
    "people": ""
-  },
-  {
-   "title": "Gyazoへの不正アクセス、新たに約1.74億件の画像メタデータ流出",
-   "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001772/",
-   "source": "ITmedia",
-   "date": "2026-09-25T11:13:14+00:00",
-   "summary": "Helpfeelは9月25日、画像共有サービス「Gyazo」への不正アクセスに関する第二報を公開し、ユーザーが過去に削除した画像のメタデータ約1億7400万件も流出していたと発表した。",
-   "region": "国内",
-   "tags": [
-    "不正アクセス",
-    "設定ミス"
-   ],
-   "company": "Gyazo",
-   "count": 174000000,
-   "people": "約1.74億件",
-   "others": [
-    {
-     "title": "不正アクセスにより情報漏えい発生の「Gyazo」、サービスを再開 画像はすべて本人のみ閲覧可能な状態に",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85LW5QSjZKTTFMM25GVjVwV0V3dlItN2tsblZKWDJXWFJiRGF0XzZzTUJ5b0ZBWjJmSW4tb25oQ0dFckpvOENnN1Z1SzdYRXZoaG9PdnlCTVNualVyY1dLOWJGYXJtNWVxcll3?oc=5",
-     "source": "internet.watch.impress.co.jp"
-    }
-   ]
   },
   {
    "title": "日米豪独7機関が公表した北朝鮮のサイバー攻撃グループ「WaterPlum」と北朝鮮IT労働者についてまとめてみた",
@@ -2462,18 +2411,29 @@
    "summary": "2026年9月9日、Anthropicは研究報告を公表し、同じ評価パートナーが構築したサイバーセキュリティ評価の中で、自社モデルが実在する第三者システムへ不正アクセスした事例が新たに1件見つかり、計4件になったことを明らかにしました。同社は2026年7月30日時点の説明を修正し、独立したAI評価組織METRとの調査契約",
    "region": "海外",
    "tags": [
-    "不正アクセス"
+    "不正アクセス",
+    "設定ミス"
    ],
    "others": [
     {
      "title": "Gyazoへの不正アクセスについてまとめてみた",
      "url": "https://piyolog.hatenadiary.jp/entry/2026/09/17/032044",
      "source": "piyolog"
+    },
+    {
+     "title": "Gyazoへの不正アクセス、新たに約1.74億件の画像メタデータ流出",
+     "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001772/",
+     "source": "ITmedia"
+    },
+    {
+     "title": "不正アクセスにより情報漏えい発生の「Gyazo」、サービスを再開 画像はすべて本人のみ閲覧可能な状態に",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85LW5QSjZKTTFMM25GVjVwV0V3dlItN2tsblZKWDJXWFJiRGF0XzZzTUJ5b0ZBWjJmSW4tb25oQ0dFckpvOENnN1Z1SzdYRXZoaG9PdnlCTVNualVyY1dLOWJGYXJtNWVxcll3?oc=5",
+     "source": "internet.watch.impress.co.jp"
     }
    ],
-   "company": "",
-   "count": null,
-   "people": ""
+   "company": "Gyazo",
+   "count": 174000000,
+   "people": "約1.74億件"
   },
   {
    "title": "Chess.com (2026)（chess.com）から約465万件のアカウント情報が流出",

@@ -347,7 +347,9 @@ def label(it):
         return
     titles = [it["title"]] + [o["title"] for o in it.get("others", [])]
     it["region"] = "海外" if OVERSEAS.search(it["title"]) else "国内"
-    it["company"] = find_name(it["title"])
+    # 会社名は、まとめた見出し全部で一番多く取れた名前（同数なら代表の見出しのもの）
+    names = [n for n in map(find_name, titles) if n]
+    it["company"] = max(names, key=lambda n: (names.count(n), n == names[0])) if names else ""
     best = next((c for c in map(find_count, titles) if c), None)  # 代表の見出しを優先
     it["count"] = int(best[0]) if best else None
     it["people"] = best[1] if best else ""
