@@ -36,6 +36,7 @@ h1 { margin: 0; font-size: 24px; letter-spacing: .02em; display: flex; align-ite
 h1 .dot { width: 10px; height: 10px; border-radius: 50%; background: var(--accent); flex: none; }
 .sub { margin: 4px 0 0; color: var(--muted); font-size: 13px; }
 .sub a { color: var(--muted); }
+.sub.note { margin-top: 2px; font-size: 12.5px; }
 .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 56px; align-items: start; }
 .col { min-width: 0; }
 .col h2 { position: sticky; top: 0; z-index: 1; margin: 0; padding: 8px 2px; background: var(--bg);
@@ -83,6 +84,7 @@ footer a { color: var(--muted); }
   <header>
     <h1><span class="dot" aria-hidden="true"></span>漏えいウォッチ</h1>
     <p class="sub">個人情報の漏えい・流出・不正アクセスのニュースだけを自動で集めています。<span id="updated"></span> ・ <a href="feed.xml">RSS</a></p>
+    <p class="sub note">同じ事件を報じた記事は会社名などから自動でまとめているため、まれに別の事件がまとまることがあります。</p>
   </header>
 
   <div class="cols">
@@ -92,7 +94,7 @@ footer a { color: var(--muted); }
 
   <footer>
     <p>集めているところ: piyolog / Security NEXT / ScanNetSecurity / ITmedia NEWS / Googleニュース（「個人情報 漏えい」「不正アクセス 情報」の検索結果）/ 海外の大型漏えい（100万件以上）は Have I Been Pwned。</p>
-    <p>このサイトは見出しとリンクだけを載せています。記事の中身は各媒体でお読みください。同じ事件を報じた記事は、会社名などから自動でまとめているため、まれに別の事件がまとまることがあります。</p>
+    <p>このサイトは見出しとリンクだけを載せています。記事の中身は各媒体でお読みください。</p>
     <p>海外の漏えいデータ: <a href="https://haveibeenpwned.com/">Have I Been Pwned</a>（<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>）。1時間ごとに自動更新。アクセス解析やCookieは使っていません。</p>
   </footer>
 </div>
