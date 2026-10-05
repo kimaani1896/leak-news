@@ -261,6 +261,15 @@ def find_name(title):
     """見出しから会社・サービス名を取り出す。取れなければ空文字。"""
     t = re.sub(r"【[^】]*】|（[^）]*）|\([^)]*\)", "", title).strip()
     cands = []
+    # 見出しの先頭が加害側（AI・攻撃グループ・悪用された仕組み）のときは、被害側を取る
+    if re.search(r"攻撃グループ|実在(する)?企業", t):
+        return ""  # 解説記事・被害企業名なし
+    m = re.search(r"(?:AI|エージェント|モデル)による(.{2,25}?)への", t)
+    if m:
+        return clean_name(m.group(1))
+    m = re.search(r"を悪用した([^\s、]{2,20}?)の(?:不正|情報)", t)
+    if m:
+        return clean_name(m.group(1))
     m = re.search(r"\s[-－]\s([^-－]{2,25})$", t)  # Security NEXT「… - 会社名」
     if m:
         cands.append(m.group(1))
