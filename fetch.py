@@ -203,6 +203,100 @@ def merge(old, new):
     return added
 
 
+# 見出しが日本語でも、事件の舞台が海外ならこちらに回す
+OVERSEAS = re.compile(r"韓国|中国|台湾|香港|米国|米[政企大当連軍国]|豪州|豪[政企]|英国|欧州|ドイツ|フランス|インド|ロシア|北朝鮮|海外|現地報道|OpenAI|Anthropic|GoogleのAI|Dropbox|Unni|ApplyNow")
+COUNT = re.compile(r"(約|最大|計|全)?\s*(\d[\d,，.]*(?:億\d*)?(?:万\d*千?)?)\s*(超)?(?:の)?\s*(人分|件分|人|件|名|アカウント|口座)(?!目)(超)?")
+COUNT_LOOSE = re.compile(r"(約|最大|計)?\s*(\d[\d,，.]*(?:億|万)\d*)(超)")
+# 会社名として採らない言葉
+NOT_NAME = re.compile(
+    r"相次|免許証|情報|個人|漏え|漏洩|流出|攻撃|まとめ|対策|リスク|識者|被害|能動的|本物|当選|払戻|保育|\d{4}年|国内|専門家"
+    r"|ランサム|不正|本人|おわび|異様|猶予|借入|エキスパート|ITmedia|NEWS|ニュース|ページ|闇サイト|脆弱性|見つかった|悪用|企業や|もぬけ|円$|^\d+日|\d+機関"
+    r"|^(ID|CMS|会員|公式|社内|チケット|ブロガー|メーリング|研究用|荷物|従業員|顧客|作業|一部)|(システム|サーバー?|DB|アカウント|シリーズ)$"
+)
+GENERIC_HEAD = r"^(ECサイト|チケット販売サイト|中古アニメグッズ|美容医療プラットフォーム|デジタル整理券システム|手間いらずの|ANA子会社のデジタルギフト)"
+NAME_CH = r"[^\s、。，,「」『』（）()：:｜|—―…‐]"
+
+
+def to_num(s):
+    s = s.replace(",", "").replace("，", "")
+    n, cur = 0.0, ""
+    for ch in s:
+        if ch in "億万千":
+            n += float(cur or 1) * {"億": 1e8, "万": 1e4, "千": 1e3}[ch]; cur = ""
+        else:
+            cur += ch
+    try:
+        return n + float(cur or 0)
+    except ValueError:
+        return 0
+
+
+def find_count(title):
+    """見出しから影響人数・件数を取り出す（いちばん大きいもの）。"""
+    title = title.translate(str.maketrans("０１２３４５６７８９", "0123456789"))
+    best = None
+    for m in list(COUNT.finditer(title)) + list(COUNT_LOOSE.finditer(title)):
+        if re.search(r"[A-Za-z]\s?$", title[:m.start(2)]):  # Microsoft 365 など
+            continue
+        n = to_num(m.group(2))
+        if n < 1 or re.fullmatch(r"20\d\d", m.group(2)):
+            continue
+        loose = m.re is COUNT_LOOSE
+        unit = "件" if loose else {"人分": "人", "件分": "件", "名": "人", "アカウント": "件", "口座": "件"}.get(m.group(4), m.group(4))
+        over = m.group(3) or (not loose and m.group(5))
+        txt = f"{m.group(1) or ''}{m.group(2)}{unit}{'超' if over else ''}"
+        if not best or n > best[0]:
+            best = (n, txt)
+    return best
+
+
+def clean_name(c):
+    c = re.sub(GENERIC_HEAD, "", c.strip(" 　「」『』"))
+    c = re.sub(r"の([A-Za-z].*|計|約|全)$", "", c)
+    c = re.sub(r"(Webサイト|公式サイト|のシステム.*|社員)$", "", c)
+    return c
+
+
+def find_name(title):
+    """見出しから会社・サービス名を取り出す。取れなければ空文字。"""
+    t = re.sub(r"【[^】]*】|（[^）]*）|\([^)]*\)", "", title).strip()
+    cands = []
+    m = re.search(r"\s[-－]\s([^-－]{2,25})$", t)  # Security NEXT「… - 会社名」
+    if m:
+        cands.append(m.group(1))
+    m = re.match(r"^[「『]([^」』]{2,20})[」』]", t)
+    if m:
+        cands.append(m.group(1))
+    m = re.match(r"^([^\s、]{2,20})[\s、]", t)  # 「会社名、…」「会社名 …」
+    if m:
+        cands.append(m.group(1))
+    m = re.match(rf"^({NAME_CH}{{2,20}}?)(?:の|、|\s|に|で|が|は|への|による|＝)", t)
+    if m:
+        cands.append(m.group(1))
+    m = re.search(rf"({NAME_CH}{{2,20}}?)(?:の{NAME_CH}{{0,15}}?)?(?:に|で|へ|への|が)(?:また|も)?(?:不正|サイバー|ランサム|個人情報|顧客|情報漏|会員)", t)
+    if m:
+        cands.append(m.group(1))
+    cands += re.findall(r"[「『]([^」』]{2,20})[」』]", t)
+    for c in map(clean_name, cands):
+        if len(c) >= 2 and not NOT_NAME.search(c) and not COUNT.search(c) and not (len(c) > 10 and re.search(r"[ぁ-ん]{4,}", c)):
+            return c
+    return ""
+
+
+def label(it):
+    """一覧用の会社名・人数・国内/海外を付ける（毎回つけ直す）。"""
+    if it["source"] == "Have I Been Pwned":
+        it["company"] = re.split(r"（|から約", it["title"])[0]
+        n = it["count"]
+        it["people"] = f"約{n / 1e8:.1f}億件" if n >= 1e8 else f"約{n / 1e4:,.0f}万件"
+        return
+    titles = [it["title"]] + [o["title"] for o in it.get("others", [])]
+    it["region"] = "海外" if OVERSEAS.search(it["title"]) else "国内"
+    it["company"] = find_name(it["title"])
+    best = next((c for c in map(find_count, titles) if c), None)  # 代表の見出しを優先
+    it["count"] = int(best[0]) if best else None
+    it["people"] = best[1] if best else ""
+
 def write_feed(items):
     now = format_datetime(datetime.now(timezone.utc))
     rows = []
@@ -241,6 +335,8 @@ def main():
     added = merge(items, fresh)
     items = [it for it in items if datetime.fromisoformat(it["date"]) >= cutoff]
     items.sort(key=lambda x: x["date"], reverse=True)
+    for it in items:
+        label(it)
     DOCS.mkdir(exist_ok=True)
     ITEMS.write_text(json.dumps({"updated": now.isoformat(), "items": items}, ensure_ascii=False, indent=1), encoding="utf-8")
     write_feed(items)
