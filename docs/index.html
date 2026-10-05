@@ -82,14 +82,27 @@ h1 .dot { width: 10px; height: 10px; border-radius: 50%; background: var(--accen
 .row a:visited .co { color: var(--visited); }
 .empty, .more { text-align: center; color: var(--muted); margin: 16px 0; font-size: 13px; }
 .more button { border: 1px solid var(--line); background: var(--panel); color: var(--text); border-radius: 8px; padding: 7px 16px; font: inherit; cursor: pointer; }
+.tabs { display: none; }
+/* スマホ: 日本/海外をタブで切り替え、1件を1行（日付・会社名・人数）で表示 */
 @media (max-width: 560px) {
-  .cols { gap: 20px; }
+  .tabs { display: flex; position: sticky; top: 0; z-index: 2; gap: 6px; padding: 8px 0; background: var(--bg); }
+  .tabs button { flex: 1; border: 1px solid var(--line); background: var(--chip); color: var(--text); border-radius: 999px;
+    padding: 7px 0; font: inherit; font-size: 14px; font-weight: 700; cursor: pointer; }
+  .tabs button small { font-weight: 400; font-size: 12px; color: var(--muted); margin-left: 4px; }
+  .tabs button[aria-selected="true"] { background: var(--chip-on); color: var(--chip-on-text); border-color: var(--chip-on); }
+  .tabs button[aria-selected="true"] small { color: inherit; opacity: .75; }
+  .cols { display: block; }
+  .cols[data-tab="jp"] .col + .col, .cols[data-tab="world"] .col:first-child { display: none; }
   .col { padding: var(--col-pad-m); }
-  .row a { grid-template-columns: minmax(0, 1fr); padding: 6px 0 8px; }
-  .d { padding: 0 2px 4px; font-size: 12px; }
-  .c1, .c2 { border: 1px solid var(--line); padding: 6px 8px; }
-  .c2 { border-top: 0; align-items: flex-start; text-align: left; }
-  .co, .n { font-size: 14px; }
+  .col h2 { display: none; }
+  .row a { grid-template-columns: 2.9em minmax(0, 1fr) auto; align-items: center; }
+  .d { padding: 9px 2px; font-size: 12px; }
+  .c1 { padding: 9px 8px; border-left: 0; }
+  .c2 { padding: 9px 2px 9px 6px; border-left: 0; }
+  .co { font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .n { font-size: 14px; }
+  .meta, .src { display: none; }
+  .month { margin-top: 14px; font-size: 15px; }
 }
 footer { margin-top: 36px; padding-top: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 12.5px; }
 footer a { color: var(--muted); }
@@ -103,7 +116,11 @@ footer a { color: var(--muted); }
     <p class="sub note">同じ事件を報じた記事は会社名などから自動でまとめているため、まれに別の事件がまとまることがあります。</p>
   </header>
 
-  <div class="cols">
+  <div class="tabs" role="tablist">
+    <button type="button" role="tab" data-tab="jp">日本<small id="t-jp"></small></button>
+    <button type="button" role="tab" data-tab="world">海外<small id="t-world"></small></button>
+  </div>
+  <div class="cols" id="cols" data-tab="jp">
     <section class="col" aria-labelledby="h-jp"><h2 id="h-jp">日本 <small id="c-jp"></small></h2><ul class="rows" id="jp"></ul><div class="more" id="more-jp" hidden><button type="button">もっと見る</button></div></section>
     <section class="col" aria-labelledby="h-world"><h2 id="h-world">海外 <small id="c-world"></small></h2><ul class="rows" id="world"></ul><div class="more" id="more-world" hidden><button type="button">もっと見る</button></div></section>
   </div>
@@ -145,7 +162,7 @@ function row(it) {
 function render() {
   for (const [id, region] of Object.entries(COLS)) {
     const hits = state.items.filter((it) => it.region === region && it.company);
-    $("c-" + id).textContent = `${hits.length}件`;
+    $("c-" + id).textContent = $("t-" + id).textContent = `${hits.length}件`;
     const out = [];
     let month = "";
     const list = hits.slice(0, state.shown[id]);
@@ -168,6 +185,16 @@ function render() {
 
 for (const id of Object.keys(COLS)) {
   $("more-" + id).querySelector("button").onclick = () => { state.shown[id] += PAGE; render(); };
+}
+
+// スマホ用の日本/海外タブ（選んだ方をこのブラウザに覚える）
+function setTab(t) {
+  $("cols").dataset.tab = t;
+  for (const b of document.querySelectorAll(".tabs button")) b.setAttribute("aria-selected", b.dataset.tab === t);
+}
+try { setTab(localStorage.getItem("tab") === "world" ? "world" : "jp"); } catch { setTab("jp"); }
+for (const b of document.querySelectorAll(".tabs button")) {
+  b.onclick = () => { setTab(b.dataset.tab); scrollTo(0, 0); try { localStorage.setItem("tab", b.dataset.tab); } catch {} };
 }
 
 // ダーク/ライト切り替え（選んだ方をこのブラウザに覚える。保存できなくても表示は動く）
