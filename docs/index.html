@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>漏えいウォッチ</title>
+<meta name="description" content="個人情報の漏えい・流出・不正アクセスのニュースだけを自動で集めて一覧にしたサイト">
+<meta name="referrer" content="no-referrer">
+<link rel="alternate" type="application/rss+xml" title="漏えいウォッチ" href="feed.xml">
+<style>
+:root {
+  --bg: #f6f5f2; --panel: #ffffff; --text: #1d1d1f; --muted: #6b6b70; --line: #e4e2dc;
+  --accent: #b42318; --accent-soft: #fdecea; --chip: #efede8; --chip-on: #1d1d1f; --chip-on-text: #ffffff;
+  --link: #1d1d1f; --visited: #6b6b70;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #141416; --panel: #1c1c1f; --text: #ececee; --muted: #9a9aa2; --line: #2c2c31;
+    --accent: #f97066; --accent-soft: #3a1c1a; --chip: #26262b; --chip-on: #ececee; --chip-on-text: #141416;
+    --link: #ececee; --visited: #9a9aa2;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #141416; --panel: #1c1c1f; --text: #ececee; --muted: #9a9aa2; --line: #2c2c31;
+  --accent: #f97066; --accent-soft: #3a1c1a; --chip: #26262b; --chip-on: #ececee; --chip-on-text: #141416;
+  --link: #ececee; --visited: #9a9aa2;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--bg); color: var(--text);
+  font: 15px/1.6 system-ui, -apple-system, "Hiragino Sans", "Noto Sans JP", "Yu Gothic UI", sans-serif;
+}
+.wrap { max-width: 760px; margin: 0 auto; padding: 0 16px 48px; }
+header { padding: 28px 0 12px; }
+h1 { margin: 0; font-size: 24px; letter-spacing: .02em; display: flex; align-items: center; gap: 10px; }
+h1 .dot { width: 10px; height: 10px; border-radius: 50%; background: var(--accent); flex: none; }
+.sub { margin: 4px 0 0; color: var(--muted); font-size: 13px; }
+.sub a { color: var(--muted); }
+.controls { position: sticky; top: 0; z-index: 2; background: var(--bg); padding: 10px 0; border-bottom: 1px solid var(--line); }
+.search {
+  width: 100%; padding: 9px 12px; border: 1px solid var(--line); border-radius: 8px;
+  background: var(--panel); color: var(--text); font: inherit;
+}
+.chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.chip {
+  border: 0; border-radius: 999px; padding: 4px 11px; font: inherit; font-size: 13px;
+  background: var(--chip); color: var(--text); cursor: pointer;
+}
+.chip[aria-pressed="true"] { background: var(--chip-on); color: var(--chip-on-text); }
+.sep { width: 1px; background: var(--line); margin: 2px 4px; }
+.day { margin: 22px 0 6px; font-size: 13px; font-weight: 600; color: var(--muted); }
+.item { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; margin-bottom: 8px; }
+.item a.t { color: var(--link); text-decoration: none; font-weight: 600; overflow-wrap: anywhere; }
+.item a.t:visited { color: var(--visited); }
+.item a.t:hover { text-decoration: underline; }
+.meta { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; margin-top: 4px; font-size: 12.5px; color: var(--muted); }
+.tag { background: var(--accent-soft); color: var(--accent); border-radius: 4px; padding: 0 6px; font-size: 12px; }
+.tag.world { background: var(--chip); color: var(--muted); }
+.sum { margin: 6px 0 0; font-size: 13.5px; color: var(--muted); overflow-wrap: anywhere; }
+details { margin-top: 6px; font-size: 13px; }
+summary { cursor: pointer; color: var(--muted); }
+details ul { margin: 6px 0 0; padding-left: 18px; }
+details li { margin: 2px 0; overflow-wrap: anywhere; }
+details a { color: var(--link); }
+.empty, .more { text-align: center; color: var(--muted); margin: 24px 0; }
+.more button { border: 1px solid var(--line); background: var(--panel); color: var(--text); border-radius: 8px; padding: 8px 18px; font: inherit; cursor: pointer; }
+footer { margin-top: 36px; padding-top: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 12.5px; }
+footer a { color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1><span class="dot" aria-hidden="true"></span>漏えいウォッチ</h1>
+    <p class="sub">個人情報の漏えい・流出・不正アクセスのニュースだけを自動で集めています。<span id="updated"></span> ・ <a href="feed.xml">RSS</a></p>
+  </header>
+
+  <div class="controls">
+    <input class="search" id="q" type="search" placeholder="会社名などで絞り込み（例: 証券、病院）" autocomplete="off">
+    <div class="chips" id="chips"></div>
+  </div>
+
+  <main id="list" aria-live="polite"></main>
+  <div class="more" id="more" hidden><button type="button">もっと見る</button></div>
+
+  <footer>
+    <p>集めているところ: piyolog / Security NEXT / ScanNetSecurity / ITmedia NEWS / Googleニュース（「個人情報 漏えい」「不正アクセス 情報」の検索結果）/ 海外の大型漏えい（100万件以上）は Have I Been Pwned。</p>
+    <p>このサイトは見出しとリンクだけを載せています。記事の中身は各媒体でお読みください。同じ事件を報じた記事は、会社名などから自動でまとめているため、まれに別の事件がまとまることがあります。</p>
+    <p>海外の漏えいデータ: <a href="https://haveibeenpwned.com/">Have I Been Pwned</a>（<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>）。1時間ごとに自動更新。アクセス解析やCookieは使っていません。</p>
+  </footer>
+</div>
+
+<script>
+const PAGE = 60;
+const TAGS = ["ランサムウェア", "不正アクセス", "不正ログイン", "設定ミス", "誤送信・紛失", "内部不正"];
+const state = { region: "すべて", tag: null, q: "", shown: PAGE, items: [] };
+const $ = (id) => document.getElementById(id);
+const jst = (iso, opt) => new Date(iso).toLocaleString("ja-JP", { timeZone: "Asia/Tokyo", ...opt });
+
+function el(tag, attrs = {}, ...kids) {
+  const e = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) {
+    if (k === "class") e.className = v; else e.setAttribute(k, v);
+  }
+  for (const k of kids) if (k != null) e.append(k);
+  return e;
+}
+
+function chips() {
+  const box = $("chips");
+  const mk = (label, active, onClick) => {
+    const b = el("button", { class: "chip", type: "button", "aria-pressed": String(active) }, label);
+    b.onclick = onClick;
+    return b;
+  };
+  box.replaceChildren(
+    ...["すべて", "国内", "海外"].map((r) => mk(r, state.region === r, () => { state.region = r; state.shown = PAGE; render(); })),
+    el("span", { class: "sep", "aria-hidden": "true" }),
+    ...TAGS.map((t) => mk(t, state.tag === t, () => { state.tag = state.tag === t ? null : t; state.shown = PAGE; render(); })),
+  );
+}
+
+function match(it) {
+  if (state.region !== "すべて" && it.region !== state.region) return false;
+  if (state.tag && !(it.tags || []).includes(state.tag)) return false;
+  if (!state.q) return true;
+  const hay = [it.title, it.summary, it.source, ...(it.others || []).map((o) => o.title)].join(" ").toLowerCase();
+  return state.q.toLowerCase().split(/\s+/).every((w) => hay.includes(w));
+}
+
+function card(it) {
+  const meta = el("div", { class: "meta" },
+    el("span", {}, it.source),
+    el("span", {}, jst(it.date, { hour: "2-digit", minute: "2-digit" })),
+    it.region === "海外" ? el("span", { class: "tag world" }, "海外") : null,
+    ...(it.tags || []).map((t) => el("span", { class: "tag" }, t)),
+  );
+  const c = el("article", { class: "item" },
+    el("a", { class: "t", href: it.url, target: "_blank", rel: "noopener noreferrer" }, it.title),
+    meta,
+    it.summary ? el("p", { class: "sum" }, it.summary) : null,
+  );
+  if (it.others && it.others.length) {
+    c.append(el("details", {},
+      el("summary", {}, `同じ件の報道 ほか${it.others.length}件`),
+      el("ul", {}, ...it.others.map((o) => el("li", {},
+        el("a", { href: o.url, target: "_blank", rel: "noopener noreferrer" }, o.title), ` — ${o.source}`))),
+    ));
+  }
+  return c;
+}
+
+function render() {
+  chips();
+  const hits = state.items.filter(match);
+  const list = $("list");
+  if (!hits.length) {
+    list.replaceChildren(el("p", { class: "empty" }, "該当するニュースはありません"));
+    $("more").hidden = true;
+    return;
+  }
+  const out = [];
+  let day = "";
+  for (const it of hits.slice(0, state.shown)) {
+    const d = jst(it.date, { year: "numeric", month: "long", day: "numeric", weekday: "short" });
+    if (d !== day) { out.push(el("h2", { class: "day" }, d)); day = d; }
+    out.push(card(it));
+  }
+  list.replaceChildren(...out);
+  $("more").hidden = hits.length <= state.shown;
+}
+
+$("q").addEventListener("input", (e) => { state.q = e.target.value.trim(); state.shown = PAGE; render(); });
+$("more").querySelector("button").onclick = () => { state.shown += PAGE; render(); };
+
+fetch("items.json", { cache: "no-cache" })
+  .then((r) => r.json())
+  .then((d) => {
+    state.items = d.items;
+    $("updated").textContent = "最終更新 " + jst(d.updated, { month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit" });
+    render();
+  })
+  .catch(() => $("list").replaceChildren(el("p", { class: "empty" }, "読み込みに失敗しました。少し待ってから再読み込みしてください")));
+</script>
+</body>
+</html>

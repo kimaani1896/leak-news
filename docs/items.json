@@ -1,0 +1,2158 @@
+{
+ "updated": "2026-10-05T12:20:21.580033+00:00",
+ "items": [
+  {
+   "title": "大起水産 不正アクセスで約17万5000人分の個人情報漏えいか",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ucl9MMGk1bXluNkowWElVanowLTJqT0NjQzBMM2pEcjl0R2dVVHctbWlpVDZMTWFlMWlzNENjdlNCV2VMdzBJcmM4X2lNcUhZX3ptMXFYUm1RbTZ3bEdj?oc=5",
+   "source": "NHKニュース",
+   "date": "2026-10-05T10:44:18+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "韓国の銀行6行にサイバー攻撃 計2万5000人超の個人情報流出──AIエージェントを使った可能性も 現地報道",
+   "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002009/",
+   "source": "ITmedia",
+   "date": "2026-10-05T09:21:19+00:00",
+   "summary": "韓国の銀行で9月末からサイバー攻撃が相次ぎ、新韓銀行など4行で計2万5000人超の個人情報が流出したと現地紙が報じた。攻撃を受けた銀行のうち2行は、AIエージェントによる攻撃と推定しているという。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "相次ぐ不正アクセス、企業や政府機関でも情報漏洩 AI悪用の影に「一刻の猶予もない」",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DbTNlVjhRbld1UnJZYVRPcUxmdkJqQ0RlWDB5WlBVUENlQjZXcS1aSXpwZXE0WnVCeG5XckYwMWp4aGNCN0sxRU1fVEp5OFp0ZTg0UGc4ak5vNEMtbGs1dlhvSjd0X01NZWdoM2FzMTdfX2lxNWc?oc=5",
+   "source": "産経ニュース",
+   "date": "2026-10-05T09:15:37+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "ブロガー情報管理システムに不正アクセス、個人情報が流出 - 集英社",
+   "url": "https://www.security-next.com/190800",
+   "source": "Security NEXT",
+   "date": "2026-10-05T08:34:51+00:00",
+   "summary": "集英社は、同社のファッション誌で活動しているブロガーの情報管理や連絡に用いるシステム「HAPPY PLUS COMMUNITY（ハピコミュ）」が外部の第三者による不正アクセスを受け、ブロガーの個人情報が外部に流出したことを明らかにした。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "「焼肉きんぐ」個人情報約1079万件が漏えい 公式アプリのシステムに不正アクセス ほぼ全会員分に相当",
+   "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002011/",
+   "source": "ITmedia",
+   "date": "2026-10-05T08:05:00+00:00",
+   "summary": "「焼肉きんぐ」を運営する物語コーポレーションは10月5日、公式アプリの会員管理システムが第三者による不正アクセスを受け、会員情報1078万8963件が漏えいしたと発表した。氏名やメールアドレス、電話番号が含まれる。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "焼肉きんぐに不正アクセス、1078万人分の情報流出 アプリ登録者ほぼ全員が対象（アスキー）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yajdHN2ZXOUJEYmRrN0V4aFp0WDRrd3FkaEx6V3NsSHp1Ri1SVVVWNkZ1Sy1LNEhQeW4zZ2dXSzJWbG0zTkR2YXBwWHlvTzR3aE1adW1OUGpzZzZNV3NPcFJwMTBNMjExZFkxTi1lekk2ZGY2TTB5RHVlTzdadjg?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "焼肉きんぐ 1078万人分の情報流出",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpRXl3QmRsLUVZVE1TMnVVajdlU2lxTEk2ejdqS0Z1Y0QzcUZ6WmdHdzA3M0RVWTgtVkxHdG92S0Y4MEJyMHhjZkhwTTRZdUtS?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "「焼肉きんぐ」、顧客情報漏洩 不正アクセスで1000万件超",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jRFdhTkNYYXF2SnFlT3dlSUtla0RHRFE0MTcxc1hvN3VOdi1RMlpBZ1FnVFMwR1VlUnZUZnJsOEY1cGQ2dDIzM2h4WjJOTnhMZ2RYVGE3Q1pWT2EzSmdOdThUMDF4YkRla2d2WQ?oc=5",
+     "source": "nikkei.com"
+    },
+    {
+     "title": "物語コーポレーション[3097]：当社『焼肉きんぐ』公式アプリ会員管理システムへの第三者からの不正アクセスによる個人情報漏えいに関するお知らせ 2026年10月5日(適時開示) ：日経会社情報DIGITAL",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kMmdvc2RJa2FJaUVycUdwVlNvcnVKcGFLNXYzeU8wNFJ5dnBKcnhnX3BtZTVxLWllekdzZDk0b2JRbEhLd2ZHUHZINVh0V3E4eW9rM2RpTVcyVndFTWp0Y2hVT3l4Q2dLR3c?oc=5",
+     "source": "nikkei.com"
+    },
+    {
+     "title": "「焼肉きんぐ」個人情報約1079万件が漏えい 公式アプリのシステムに不正アクセス ほぼ全会員分に相当",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ORnM4dVpCUWVrUFI3SnFHWGNLeGhXVGZScndsclNRQTFZczFyd1JpZHRFVHlQV0tuQU1sc0ppaXBWRkhtczA0WkpXZ3BKemdBYmRXQ2Z1bjlPcEhDZ0NVSXU1MFNQMTdickE?oc=5",
+     "source": "ITmedia"
+    },
+    {
+     "title": "「焼肉きんぐ」、会員情報漏えい １０００万件超、不正アクセス：時事ドットコム",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fRHBkZVY3NmFwZngwdklJUzdFek1BYTd2NlZULVloNEUydmtrMllvMHBPdl84RGpzTmtZVEU4eFc0TDBlTXEwc1FaT1ZfeGNDVU1hSGtoWkk4VXNGQlg2Mjg2OA?oc=5",
+     "source": "時事ドットコム"
+    },
+    {
+     "title": "「焼肉きんぐ」会員管理システムへの不正アクセスで約1079万件の個人情報漏えい",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjTS0wWU5GOHUxbjlodWZKbzliV0V1aXJkcHdObHZJZlh6c05sVWNSNHRlNl9Hb3BqUEYwZDBRZ0tybmwzOG1zNHo1QjNWcjlDdWlEem9nRWRnYVZPd2tmQThkeHByVkFYLW9r?oc=5",
+     "source": "internet.watch.impress.co.jp"
+    },
+    {
+     "title": "「焼肉きんぐ」公式アプリ、１０７８万件の個人情報漏えい…詐欺などに悪用される恐れ（読売新聞オンライン）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PRHRFVnExM3Zpa3RjYko2WF9rWVNOdjA4Ylc1dHZCSndyUHVxRE5TVGh0OXA3WElsbi05ZHhLYVNSdnJibWV4TnV5cmo2TXdzRlRGeVdRNVAxODNVdXVLUlN5U0hRY3g3OGV3bmU5R3FocUQzTk1ld2ptazNmVXc?oc=5",
+     "source": "Yahoo!ニュース"
+    }
+   ]
+  },
+  {
+   "title": "“免許証画像”闇サイトで売買も……1枚あたり「20円」 相次ぐ個人情報漏えい 悪用リスクは？【追跡取材 news LOG】",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kVU5uRlBKaHhDVWhSdzJDX05IUzhULTlNZ1VQMlZpRTJZMFkyWVJnYVJORHhtMVNvSVJZWDQzSEdSdjQweF9NRGVCNDdEYmc3N2M1YWNWaTJuRWVfTWYzTnFCazNHUERrQmJWVVVncldKaFlOR2xXcXQ5eng?oc=5",
+   "source": "日テレNEWS NNN",
+   "date": "2026-10-05T06:48:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": []
+  },
+  {
+   "title": "e-Taxのシステム障害についてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/10/05/151151",
+   "source": "piyolog",
+   "date": "2026-10-05T06:11:51+00:00",
+   "summary": "2026年9月24日以降、国税庁のe-Taxでログインや納付などの不具合が告知され、10月2日には本人以外の贈与税申告書等が閲覧できる状態になっていたことが発表されました。ここでは関連する情報をまとめます。 9月24日以降のe-Taxの不具合 国税庁は2026年9月24日に国税システムを更改した(出典: 2)。同日以降",
+   "region": "国内",
+   "tags": [
+    "設定ミス"
+   ]
+  },
+  {
+   "title": "佐川急便、2026年9月30日 不正アクセスによる個人情報流出の可能性を発表【第1報〜第3報】",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MTm5UWkV5UFJxNnRyQWZOR2I3UVl6b2R6UklDcEhFdENsRXczOW5CZWV3UEFjWVNjTi1YaXg5cXRGWVhxTzM1OWRENHlKLUVTMFhRQmRhMEJnbnB5?oc=5",
+   "source": "ECのミカタ",
+   "date": "2026-10-05T04:15:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "大和証券、22万件情報漏えいか 顧客約11万人の口座番号も",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiZmh4SG00MTdybjEyc1hRVFhaZDhZU3RzbDN6N1k1MW41REpQd1dVc1V5eEc5ME5Eb2ZUTU5BMlpZV3JsQ2NSa2ZoWnl1V0VOcXM4aHROSGpCUWN6aHMxb1k3YU4ycjh1RVE?oc=5",
+   "source": "ITmedia",
+   "date": "2026-10-05T03:00:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "大和証券、約11万人の顧客情報漏えいか 委託先に不正アクセス（アスキー）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91a0dwcDBrS0VCR0hMam9lV1BXT2xWVUJ0Z2JZcG55a3NFMlRueWdZZ3pKQ0dDdk51eEZkY2ViMHk0dGFMRFcyTEFicEVCQWhudnZVZXhILTFhcFNCTDRCTy1aeW9scnBwWDlIS2lXdGZoRURWeUhxUjlWb1RkYm8?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "大和証、11万人分の顧客情報漏洩の可能性 外部委託先に不正アクセス",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lWjFOdnN6X1B3MUw1LTRkWC1hdkpOLXppYjJVQVlnZFdqN21RbW5JNFJJVG5YNnBpMWVaSXAzdGdadWhzbXRJbUVBUkhEOVJtSzVyU2dMSjBhTWR5b2tndEdPLS1DWWJFcHg4a2ZmSThFSG43TXdybm5Bb3lhUQ?oc=5",
+     "source": "Reuters"
+    },
+    {
+     "title": "大和証、11万人分の顧客情報漏洩の可能性 外部委託先に不正アクセス（ロイター）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VYUZ2M25CNzlNLTBCUnVZQ09tS0EzS1ZqVW9VSGVzeHhGRW4wM3pUR0lYaVJvcklYM3oyNUs5Q2VOVDN5dEcxZkc5X0pCcDc5ZXBaNUxYRm9ORlNManZpSEpBN3V6dzllQ3l4RnJ4TXRIN3R4X3ZlOXJ0WTZiQTQ?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "大和証券 顧客情報11万人分漏洩か",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UR1FnSmhya0RUU2pXVDNLbEdFYUN5Y1BvXzJ2LTU2Z2JpTi1BNUh0QUZtcWVvLVJQTlgxdUp3Tm1rNlA3NTRPMXZDRDBrUDVM?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "大和証券 委託先サーバー不正アクセス 個人情報11万人分流出か",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40ODdKdTA5eGFsT3JWNk9wNXhWa1preU5zRWNyRlRQeHZZTDFvbWJjSmZpWXBuRHNtM2lsS0N2bllwck1LZWxPNXpiSDd5Q1pEUVNpY0F3cmZDVDQwalV3?oc=5",
+     "source": "NHKニュース"
+    },
+    {
+     "title": "大和証券 顧客情報22万件漏洩か 業務委託先に不正アクセス",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiV0xwNXRMWU9rMDE1WEdhZ0hfd2prYS00YVRmbkdDR3R6X296cUliUWRoYmM5SUR2M1ZYU1Uxc1hERF8zMWF5c1E0SjdkS1hONlRTbDVTN1RwQUppMlJRTlJoY1A5SE9YeVNrUW5INUxWZw?oc=5",
+     "source": "テレ朝NEWS"
+    },
+    {
+     "title": "大和証券 不正アクセスで11万分人の個人情報漏えいか（2026年10月4日掲載）｜日テレNEWS NNN",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XOGpWeWNsazFsdkVRMXI2TlgwVVRxejMtTjRLYUtodkxVS2FTbTVWUTByaG1yQm5LY2VsZ0dtQlF3c0VkemZpXzNEVGEtbG5EdXZ1WkR1LUY0enRmcEppajhjOWQwRGhKV2xFZl9fY2pOQUxweXM2clhaM0g?oc=5",
+     "source": "日テレNEWS NNN"
+    },
+    {
+     "title": "大和証券の顧客情報22万件漏洩か 委託先に不正アクセス（ABEMA TIMES）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fMDdlcXBjdTlkX1BTME9mTkc1TmRPYkxiNnFyUFhhOVIwOGlLZjVvZ0hXeDdKZzRvY2lzUFVISU83NVRrS2ZudEQ0QzYwM0h6WWdmNmZtb2lkTVowSTZPZW9VT3hoUUlJeDdKejNGaklhTFhzSGhDYVlUMVEtNmc?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "大和証券、口座番号など顧客情報22万件が漏洩か 委託先に不正アクセス",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qLXVieEl0Yi1PclpmdmlmdmpJY1VrdkVGZEVkWlBEWC1tWlVGckZaX25oaUhkT3BsMmJjMWJ2TXhxYnBhNkY0X09hb3dSdE9Bb0QxYzRSNWppcFJSXzloa253UmZZVHhDelFxaQ?oc=5",
+     "source": "nikkei.com"
+    },
+    {
+     "title": "大和証券グループ本社[8601]：外部委託先への不正アクセスによるお客様情報の漏洩の可能性について 2026年10月5日(適時開示) ：日経会社情報DIGITAL",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jcmtETjdoellsenNkNUdKTmZXd1lNYkZDVGYxcVNwQ0lIYU02cm55SHdMT1RQLVZzaEhwS3B5cE9UUjltTEdmSjgyUEFPSl9ZMFJqek01QkZNaGdndF95MUNCNkVwSGpEd2c?oc=5",
+     "source": "nikkei.com"
+    },
+    {
+     "title": "大和証券、個人情報22万件漏えいか 氏名や口座番号など 情報の不正利用は確認されず 問い合わせの管理委託会社に不正アクセス（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZlpKd1h4RVpZY3EtMk9zOWNvWXdRenNHemhURDJJSHhNellNV2I1RXBMNDR6d0R0cmdlcDF4SWpWUUxIX2tybV82eWM2U1Z2cWVNUDRrVFlac25aOXZjRU1IVERJaXhNZWQ3Qk52NldvWDFxQnNhWks4ZzJPZUE?oc=5",
+     "source": "Yahoo!ニュース"
+    }
+   ]
+  },
+  {
+   "title": "日本経済新聞社へのサイバー攻撃となりすましメール送信についてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/10/05/115509",
+   "source": "piyolog",
+   "date": "2026-10-05T02:55:09+00:00",
+   "summary": "2026年10月4日、日本経済新聞社は社員のMicrosoft 365のアカウントがサイバー攻撃を受け、なりすましメール約9,000件が送信されたと公表しました。また、同日に日経BPも従業員のメールアカウントへの不正アクセスを、日経はGoogle Workspaceのアカウントへの不正ログインをそれぞれ公表しています。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス",
+    "不正ログイン"
+   ]
+  },
+  {
+   "title": "ALSOKジョイライフ、7月の不正アクセス調査結果を公表―134件の個人情報、フォレンジックで流出示す事実なし",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdzBVc18tczIyOEhEOEppdUpZUVUwVV9TUHBLWnhSYU8yVC1ua1VPeURmUW10Q2xsR3BZNXpEaTlWYWVRc2lGYXFqWUJGMlpfME1RV3NnZ0k1N2t6S2tVY21vSkpOYnpBN0txenBobTB4VV9ZYnBXcWd4TzhvaEh0cDlCVDJJcjNMSnYyd3o1dmFHVHlyRTd2NTNuSGU2aDZaSXpWR3V3?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "date": "2026-10-05T02:00:43+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "講談社BECK、旧講談社ビーシーのメールアカウントに不正アクセス-50件の不審メール送信、個人情報漏えいの可能性",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWkNxVmtfZ1BtTmhpdEZSUUNYbFBvalk2aThWbHRkcmRFZmRqWlI2cllyVGNkLXdDU2FpRjd5OE5HTmxucGh1VHRoQ3R3NTVMSXVwQW9EU2pGWEM4RmhNNzlub2JFUkVsZUwyQ3VVeFdTd01uMmQxaEZMLUpocWszTXVEejhFaG9rU0Z2d2tTNTJoenp3UkRNVkU1TQ?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "date": "2026-10-05T01:30:36+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IMzJ4WTV6cXJZbjZUTmFqSHJTQUsxbVByMGo3R2FGWDVsbW5PVlRrRFEyYUNoMXZCaUN5WHBEeVBvUTAteWxDbkhLZi1aVHE5eXhzYWVLWVdmbURTUGgtOFdGNHVCbzVndDlV?oc=5",
+   "source": "internet.watch.impress.co.jp",
+   "date": "2026-10-05T00:42:27+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": []
+  },
+  {
+   "title": "日経社員のGoogle Workspaceに不正ログイン 1646人分の個人情報漏えいか",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jWXkxZENFcGFCLTZ3MzVxeGliOWlaN0l4dWlPSTNqVmE3b1RsN3RaOE5Vb1BGa3RwMURaejZnc0trTGhweWloN0YtQkJhSlNxVWttbkJ0Q3NGRVFYelVSLXk2T0JLcWFnaXc?oc=5",
+   "source": "ITmedia",
+   "date": "2026-10-04T23:39:56+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正ログイン"
+   ],
+   "others": [
+    {
+     "title": "日経社員アカウントからなりすましメール9000件 「Microsoft 365」に不正ログインか（ITmedia NEWS）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XNWRCSVpQSC1rYkpUZ2o4WnFPdHA0RWQxM2xZU1pDYi1RSkV4YjhvNnFpY0ZTZUprQ0lNQjREb3dnQWNsRG1ObF9xbU4tQkNFQkZKN3I1bEE4WTI0SUVQOUJRbkY3TmtXdkhIeEpjcVhpZHlTa1I3YlZjT1EzdE0?oc=5",
+     "source": "Yahoo!ニュース"
+    }
+   ]
+  },
+  {
+   "title": "日経グループへのサイバー攻撃のまとめ―相次ぐインシデント Microsoft 365やGoogle Workspaceへの不正アクセスで個人情報漏洩の恐れ|セキュリティ対策Lab",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUtzanVhRFIwYkc3OXFFUGE4NnlwWXI2TXA4dzcyTXdMWTNIWlB6T1kyT3JCYzI3S1JjelpXUFJwSFpqTUlrdnpWRGI0amxyZVVVR0RsNEVLdFZSYmlpSFA4ZDBNMDZXSmNlcXZlcThJMktoNjBzZlNRQnhVLTZFUHBYQjRKOHVvaWpkbUFNbUprNDdQVjA2YjM5YjlsMlZDODhFODNpNGlaV3c?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "date": "2026-10-04T23:39:40+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "2026年9月 個人情報漏洩の事例 まとめ|セキュリティ対策Lab",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeDcyLW1RTlYzZ0VodjFBZlRmbHNIZnBqMF91MG1xVU9NTTdtSkh1UzZ3a3RpQkJUZUVxcGZNb0l6bWhROUtibHctbzN0eWhKUFgwa09raUFwMmtLS2pHYk1XYjAyMmtLek1qajVCUTRQb3VWejZDR2FKSzhtLVBmZGxiZVk2ejZNQUE?oc=5",
+     "source": "合同会社ロケットボーイズ"
+    }
+   ]
+  },
+  {
+   "title": "池上通信機にサイバー攻撃、サーバ内の一部ファイルが暗号化",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/05/56384.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-10-04T23:05:16+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "池上通信機にサイバー攻撃の可能性、外部から情報提供あり調査",
+     "url": "https://scan.netsecurity.ne.jp/article/2026/10/05/56385.html",
+     "source": "ScanNetSecurity"
+    }
+   ]
+  },
+  {
+   "title": "あいの風とやま鉄道 観光列車の座席管理システムに不正アクセス",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/05/56383.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-10-04T23:05:13+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "LEAN BODY が利用する分析ツール「Metabase」の脆弱性を悪用した不正アクセス",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/05/56382.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-10-04T23:05:10+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "LEAN BODY が利用する分析ツール「Metabase」の脆弱性を悪用した不正アクセス",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1WnpYek1MWHVhZ1V0dmFqSkhUYkxPclNnSHpIRklqNlJ3RFloc3pWV1BQRVhMM3E2NVFEN1Z1MjZuV3E0ZTVrdDNwc05tSTI1aGNpQk1LODFfelNjbkRVcFQ3U0xJSDQ1V0VXVA?oc=5",
+     "source": "ScanNetSecurity"
+    }
+   ]
+  },
+  {
+   "title": "東産業 公式サイトにwp2shell を悪用した不正アクセス",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/05/56381.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-10-04T23:05:07+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "東産業 公式サイトにwp2shell を悪用した不正アクセス",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91TU9yZUNWMFdwSGN0ZFk1akp3aXdMc3oyVUppdWFYWmNqcGwzTTZFRHlaUWdEN0YwUkxWXzZtMXNsdWlqYUYzal9BaVhuM3psUjE2Q3I5Qkk5NzA3UEJTZ0E2Q01YbE5QVlZzVQ?oc=5",
+     "source": "ScanNetSecurity"
+    }
+   ]
+  },
+  {
+   "title": "日本大学の計 5 名の教員アカウントに不正アクセス、スパムメール送信の踏み台に",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/05/56380.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-10-04T23:05:05+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "ECサイト「ビールの縁側」に不正アクセス、9 名のカード情報が漏えいした可能性",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/05/56379.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-10-04T23:05:02+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "ECサイト「ビールの縁側」に不正アクセス、9 名のカード情報が漏えいした可能性",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xMFItd2NlWXpzRjBmaVVfV2lGTWotMUNHU0xhRGdTZFNhdWI5TnZBUVdXTW5qVVRNaUE2TnhzdnBOSVZ3YkVGMTlzS3o2NVVzOFlWaHVWMXFGMmJuZ2swdHAzamg4SWNFSXV0NQ?oc=5",
+     "source": "ScanNetSecurity"
+    }
+   ]
+  },
+  {
+   "title": "日経にサイバー攻撃 なりすましメールを取材先などに9千件不正送信（朝日新聞）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53SDhIMmFudEpET1RNNTd6Um5ITVMzSDJGREQyRTR3YmI4SlZINVJadVlkd0dKWWoyYUdMdGRBRDN5eXRmOHMzTXhBbnZwT2ZhZ1czZWQ4cHRQSm0yWFlRakpRV3huc2x1a0ZfTDNTdjdobEdQdlFkZjVGbWtxck0?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-04T08:45:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "タイムズカー漏えい補償は? ユーザーに届いた「おわび」メール",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yQzRIYm5mbDZtNGsxYTFCR0RveFAwSWZ3SlFFNUx6NzRqVWpTOTF6SnRBNUNLSUtrczh3eUJ5VDJLWUFGZFpyY0ZQUjJNRi1OaEFPREcybFZ6ZU1hQ3VEWXdGNEJiVTZr?oc=5",
+   "source": "毎日新聞",
+   "date": "2026-10-03T09:00:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": []
+  },
+  {
+   "title": "ムーンスター、不正アクセス被害確認から半年後に個人情報漏えいの疑いが発覚",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcHJGLUpqeUFYenhxQ1pOX2p3MzQwSS1DNWxaU3UwdEVISkRVWV96eXB4N0xXU0lBS0QxeThVSlQ5a3JvX2xQbWhPOW0yRWdObXlNOTFrS3ItY3dlTGV2SGo3VU5BUlhzbDRIbVZERTNpTjI2MXdVQmtESmNaOWlDeUFR?oc=5",
+   "source": "fashionsnap.com",
+   "date": "2026-10-03T04:26:55+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "ムーンスターが不正アクセス被害 オンラインストア利用客の個人情報漏えいの疑い（FASHIONSNAP）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MUU56ZHF1RU1HdUhia2N2UUVrbEZTNkxGRE0xc1JrMW83Z2t3ejVlLVQxUG1OdkEzM3FMS2FoSmJjWFBtMWZHQVFQN0h2VUFTV3kzU1dDYlpTaEJhUTI0aVJ0N0ktOXNaMmhZcTV0Q0NheV81S1Q5aGNodVB1Rmc?oc=5",
+     "source": "Yahoo!ニュース"
+    }
+   ]
+  },
+  {
+   "title": "「アバハウス」全顧客の情報漏えいか 会員・受注DBに不正アクセス 「不審な返金メール届いた」報告で判明",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92NEE4R0xhbGFlLWthdlVYM0RWTndDaENxUDl1Sk1ZUmsxNTZzdm5fWC15QnU0UTZhN3pvUHZHZnFBbEctWE5zVVVrUGg4dVlhdWxSdzBNcmhqa2xHT1FnU0c0cW1CMFZUdVE?oc=5",
+   "source": "ITmedia",
+   "date": "2026-10-03T01:45:11+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "アバハウスに不正アクセス、会員の個人情報漏洩の恐れ―実際の注文内容と一致する「返金」詐欺メールも確認",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSnlEMXgzTlNHby1SVWMyVFM3djFkUVlwT3dZSUxkaGk5OV8wLXhoNXpFMkdyNkh5LVVPcngzaWhuOGtZZlBaa3BoN05BbzdTRkJqaFM4YTc0Q0k1cWc1dVgtYWY2X0xacHlER294S3JobnBvRDVYSmtnaDdORmpDLWJ5SW9TUktkcUc0NFNjR1NZeXlhYzR2UE9Fdlc?oc=5",
+     "source": "合同会社ロケットボーイズ"
+    },
+    {
+     "title": "アバハウスに不正アクセス 全顧客の個人情報が漏えいした可能性（FASHIONSNAP）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6S0FXSGFNaXdReDVEeUQyb1R4ZWVOVmZRNnhHY3dpakpnWlp2RUQ3b0d5d0tsZExyemZ2dmUxc3FUS3phY2FMeDVTR3dUSmNaRVctMU9KaGlnQ2g5ZlB4M1RzRHRCd1daeV9BX2FzNnBLVlFfUDNsV3ZEUExTQUE?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "アバハウス、全顧客の個人情報流出か 「不審なメール」報告受け発覚",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaejRkV1Q2QUpuclA1WThITGQwbGNUWkM2OHNZNWZjaDlMeWdyT0c4bDljUWkya2g5RDV6Uk9RcDhROVVhQ0NWOVNKbGZMN2JGQWYyNkRDZEktRl9JYWlyM08wcmZsWTBER1ZGcQ?oc=5",
+     "source": "nikkei.com"
+    }
+   ]
+  },
+  {
+   "title": "ABAHOUSE 全顧客の情報漏えいか",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yNHA1MVBma3JqTkhKRmJCRmZJVGhla3hCYmlQeTAxVUk4SXZkSFMwWHF1UEhBWWt2UEdPenZSNmtxVXVncENzY2JWNlNDZW9P?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-03T01:02:09+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": []
+  },
+  {
+   "title": "約57万件の個人情報漏えいか セイコーマートのサーバーに不正アクセス 名前やメールアドレスなどが第三者に閲覧された可能性 北海道や関東で展開のコンビニ",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LcFpkeUZVbUl6aHhaSFJvckF5RXZpbVl2bTFMNHlVRlhDS25CbWQtbmN0Q3BpZFVUOUNxSHdDclBmSldUNFdqekw1YVlUd2FfdndSNWFLbzE0NER5WHBz?oc=5",
+   "source": "TBS NEWS DIG",
+   "date": "2026-10-03T00:08:27+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "本人確認書類の画像流出、対象アカウントは約160万件 - タイムズカー",
+   "url": "https://www.security-next.com/190989",
+   "source": "Security NEXT",
+   "date": "2026-10-02T14:22:15+00:00",
+   "summary": "パーク24グループのタイムズモビリティが運営するカーシェアリングサービス「タイムズカー」が外部から侵害され、会員の個人情報が流出した問題で、本人確認書類の流出状況を明らかにした。",
+   "region": "国内",
+   "tags": []
+  },
+  {
+   "title": "情報漏えい相次ぐ「異様」と識者",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uU096NkJzZVlZVFdiRjVVQjR5TnBtYTM5Y1QyR0hmZXVILW9nYWJfSXNlczkyV190LXJPdGZIVWY0SUN4Wnk4ay1UUzBoQ0h5?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-02T13:54:01+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": []
+  },
+  {
+   "title": "荷物問合サービスが侵害、個人情報流出の可能性 - 佐川急便",
+   "url": "https://www.security-next.com/190952",
+   "source": "Security NEXT",
+   "date": "2026-10-02T13:46:44+00:00",
+   "summary": "佐川急便は、荷物問い合わせサービスがサイバー攻撃を受け、顧客の個人情報が流出した可能性があることを明らかにした。ウェブサービスの一部を停止している。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "佐川急便「お荷物問い合わせサービス」に不正アクセス、個人情報流出の可能性。荷物の集荷・配達は通常営業",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BblprTVJLOFU2aHJjNzVrdF9URE1SWDlBQWI5ZF81WlREUUNYME1HMHRJQzFUWkJnalE2ZE9SZVpUTFFPOVdibXNKcm9pc1hnREJ4dGRNbkx0eTdB?oc=5",
+     "source": "ネットショップ担当者フォーラム"
+    }
+   ]
+  },
+  {
+   "title": "従業員の個人情報流出か 12万人分、不正アクセスで 第一ライフグループ（時事通信）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5maFN6eWxjWFhrQmVkZTlianN6dDlSUFJRN1NHR3o2UkJWbjlFdlpUUUdPVEluMHNJemtIOFRjTVlhTFM0d0hvcnhNNGJ3TkNhQVBZYkZPdHg4aTQwUEwwUnI5X3Jub0xEczdiRG1NSW1fWExPRFRjZ1lLeF9VNjQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-02T11:23:49+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "第一ライフに不正アクセス 従業員12万人情報漏洩か 顧客情報は不正アクセス確認されず",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KSWxwRGxlelI5NVUzUDZUNWRuTkNlVml4UEgzQjAtVUJPdFpBblVCRDREVk5udDZPN3lWOEx3eHY3ZmNpbDE2eURrTXFoQVd3cnBCU3JOYkk1cWRpZVhFVDdPcGE4LUhEMDFjN1VtdDg1TXFBMFE?oc=5",
+   "source": "産経ニュース",
+   "date": "2026-10-02T09:56:20+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "第一ライフに不正アクセス 従業員12万人分の情報漏えいの可能性",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Sb0lhckxnU05TcjBNbm05SjVuTlZDMmUwX3NCTkNudkRSYnd1SVRYZ2hvVllOU09NWmg3WHpOVng5YWFzSmg2MlFPSWJFbDlhQ1VXREJEQQ?oc=5",
+     "source": "TBS NEWS DIG"
+    },
+    {
+     "title": "第一ライフグループ、従業員の個人情報流出か 退職者含む12万人分",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lLU9CSWZfQWRLeExuV21xd2VqUHF4UHFmcTJRS0xTYmhnUUlMbndONUlJX3REZTVMdENDVHRWREVGOUxEZGQ0eFlTQWVyeHlTTWhjd24wVDEzWUM1amtDR1UyazBSc1lMQzlZcQ?oc=5",
+     "source": "nikkei.com"
+    },
+    {
+     "title": "第一ライフG 従業員情報漏えいか",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JdjkyeUJ6bmEyNW5meEg5VEE5R1I5R1RYazZVSXpoOUd3OUExWjJ0NFM5bng2RGpmRTI0amJJbklWX0VGZGVlSVJ3bHl0ZWpp?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "第一ライフに不正アクセス 12万人分の従業員情報が流出か",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hbjJmQnpsQ0R1bzBseUV6aExmdW9nWjUtV2ZNNV9BdDJWNnB0bEJNcExZWENlZXl1WTNJS1VOWUFFcEhYNFZwZTA2V29keVUwRHV0elVDckZCcWhTRk5r?oc=5",
+     "source": "NHKニュース"
+    }
+   ]
+  },
+  {
+   "title": "ApplyNowの採用管理プラットフォームへの不正アクセスについてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/10/02/174228",
+   "source": "piyolog",
+   "date": "2026-10-02T08:42:28+00:00",
+   "summary": "2026年9月9日、ApplyNowは、同社が提供する採用管理プラットフォームで、利用しているデータ分析ツールの脆弱性を突いた第三者による不正アクセスが発生し、個人データが外部へ漏えいした可能性があると公表しました。その後、複数の自治体や企業が、自組織の応募者や受験者の情報が対象に含まれると公表しています。ここでは関連",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "研究用原子炉利用者の身分証明書などが外部流出 - 原子力機構",
+   "url": "https://www.security-next.com/190957",
+   "source": "Security NEXT",
+   "date": "2026-10-02T08:18:00+00:00",
+   "summary": "日本原子力研究開発機構は、研究支援サイトがサイバー攻撃を受けたことを明らかにした。研究用原子炉の利用者に関する身分証明書や特殊健康診断の結果なども外部に流出したという。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "「一緒に漏れていると思うと怖い」 佐川急便やセイコーマートでも…個人情報流出相次ぐ 「原子力科学研究所」では健康診断の結果などが漏えい（TBS NEWS DIG Powered by JNN）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4NlAwTXZsYVB0TGEwSk0tVlZKOFF2TjEtNGF4Vy1hRW52Y241VHNvQWpyMlE1aFNZOGhCS0diV08wcWdmY1VjLXZSVDhVMWR3SXppVkxiNmNRY19UYnJLUnhROHlJLWRxMFZnMU5rckdlNU1fZHdCZEFHOC04Ylk?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-02T08:16:59+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": []
+  },
+  {
+   "title": "ヤマト運輸のクロネコ代金後払いサービスへの不正アクセスについてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/10/05/023139",
+   "source": "piyolog",
+   "date": "2026-10-02T08:10:31+00:00",
+   "summary": "2026年10月2日、ヤマト運輸は、9月28日に確認した「クロネコ代金後払いサービス」への不正アクセスについて、情報の一部が漏えいした可能性があると公表しました。ここでは関連する情報をまとめます。 9月28日夜に後払いサービスを停止 ヤマト運輸株式会社は9月28日、「クロネコ代金後払いサービス」が第三者による不正アクセ",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "ヤマト運輸、不正アクセスで顧客情報流出か（共同通信）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhZUlra0xlVGRHMVVPU3JFSDdtcTliVkZZTE42eWRheXZyUnNSUllOblZ6Yy1ESDR2cnNBR0J6NE5oajhuNXVJMmNyM2tlRnlaZmdxemFsd1dtYnQ2N3hnTkJnRXZYcTdGRm5qbEtUTkN3V29DZ2pDaWd2Qnowanc?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "ヤマト運輸に不正アクセスで情報流出の可能性 宅配業界に不正アクセス続く",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uSzNDUG1LVDJrNzY2Q2pSWTZQdjBjSVdjdlBBbXFOZWhWUWFJV2xkUUtocnp5TTBZcnpmVDdoRnp4UUY5dGM3YU4wc3BicG80VHZuTjR0R2U3aURkTU9NY1E1b1dMSTNzMkc5b3pUekZzdw?oc=5",
+     "source": "テレ朝NEWS"
+    },
+    {
+     "title": "ヤマト運輸に不正アクセス、氏名や住所漏洩か 通販後払いで",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwUWt2cVg0WUZNeThHZUl2SkZ0RjVFVEVkMUxpMG42cE5JMmhjcFhEWlJSZERTVzBUSWlBdllMYUtyZ1F2S3Fkb2gwLUI1RHRwa3ZvckdjUnpXLVpVaWpPdTZhLXFNWThxRndVQg?oc=5",
+     "source": "nikkei.com"
+    }
+   ]
+  },
+  {
+   "title": "第一生命に不正アクセス 従業員情報12万人分漏えいか 退職者も対象",
+   "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001971/",
+   "source": "ITmedia",
+   "date": "2026-10-02T07:49:41+00:00",
+   "summary": "第一ライフグループと第一生命保険が、2社の使う人事システムが不正アクセスを受け、従業員情報約12万人分が漏えいした可能性があると発表した。うち7万人分は退職者の情報という。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "第一生命に不正アクセス 従業員情報12万人分漏えいか 退職者も対象",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CUzBwOGtQT1hudUVYaldDUENqR0dXZXlHOFhvMU1GWUZyNDE3NE1SUzQ1eFNsZzQzXzlnd2NnS2o1Ti1mbXdkeVNYSDUzZ3FocmtTNjVZNHcyRjVianlFTUdBZTl5aTdQVVE?oc=5",
+     "source": "ITmedia"
+    },
+    {
+     "title": "第一生命に不正アクセス、従業員ら約12万人分の個人情報が漏えいした可能性-退職者約7万人も対象",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOTBMWDBOTTRqbXNHazNSeVE3ZDlESkh4OEN2ZElucHBGUHU4MWs2YVByU21WeHJXa0VKb2ZpdEEzaHVEbzBoTXpwempUNzdiSDgzdEhoMGZEYng2bGo1ck5ZeDVMRFZ6OGE5LWxnTU1Scks5bXJDOUxUNzQwM1RFYk1ZYkk2QnNJSWVHel9lZU9ERzVuQ1lXRDV6MkM?oc=5",
+     "source": "合同会社ロケットボーイズ"
+    }
+   ]
+  },
+  {
+   "title": "ヤマト運輸と佐川急便で相次ぎ不正アクセス、佐川は約100日分の個人情報流出の可能性",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMM2JXUm9ZMC1VNmZMeERPSFE5dzFUcDdZQjVhYkhfNk5JSm92ejJqZU1QVUVob1d3NlBuWHFETW5wUm1TMjJfZ2h1OUVNTlNpTXZjZ29Kb1JjRlhwMHVKZVRVRnU5VVR2?oc=5",
+   "source": "news.mynavi.jp",
+   "date": "2026-10-02T06:29:34+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "【速報】ヤマト運輸、不正アクセスで顧客情報流出か",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzRERyaVBkLWx5UDhHWFNzaWZxRXFYRzEyRzFPX0ZkSFJkWkZNc1JGNUNvY2FlVG92RnNNcy1LNW50TjFjYmhzQ2RiMA?oc=5",
+     "source": "47NEWS"
+    }
+   ]
+  },
+  {
+   "title": "タイムズカー情報流出で免許センターに再交付求める列 集団訴訟は2200人超",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBc3dlQWlhRmRvLTlfeVRncDdYUWRLcm5rbWhuWnc5bmYtTGlKZHVMLUk0ZDBHNkZHWG90RnYzSFJaZG1vNGhNZmlXbzVxSDRtSk1MZjhoMVh2ZEdmMDBOdlh3Zk9BdVhXWkN4OUN1WC1lZw?oc=5",
+   "source": "テレ朝NEWS",
+   "date": "2026-10-02T03:50:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": []
+  },
+  {
+   "title": "「OZmall」に不正アクセス、最大44万人の個人情報が閲覧された可能性 退会者も対象に（アスキー）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zM0d6eWFMaU1weVpsLTlqbE5sazF4QkNyRENxelVBZ19FMVc5VzI3eEJmQ0hJbnVoazZHVUFyOC0xWTNfMm9vRVRPejZFZmU2ZUNtU01vSUZWdjRfRGY0Nlo5T19TWFN5cVdfSlNvRmVWdFFoX2pTdjVCYU5ZZjg?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-02T02:50:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "ニッポンレンタカーで別の不正アクセス発覚 新たに55人分情報漏えいか 免許証番号やクレカ4ケタも",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyM09PNW9vUXhiYUpKVnhOTzBqTk5ESUttb3Y4T2hJS1YyZVZVc3hfQmR1cTlPWEhOMFNlWTg0dFFPTFJ3OGFocjlnSjZISjVuT0ptQ1JURDBxRUVlNmg3Z0tOa0lRb0NJZEE?oc=5",
+   "source": "ITmedia",
+   "date": "2026-10-02T02:48:27+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "メーリングリストで設定ミス、個人情報が公開状態 - 足立区",
+   "url": "https://www.security-next.com/190386",
+   "source": "Security NEXT",
+   "date": "2026-10-02T02:32:37+00:00",
+   "summary": "東京都足立区は、足立区都市農業公園の指定管理者が使用しているメーリングリストにおいて設定ミスがあり、個人情報を含むメールがインターネット上で閲覧可能になっていたことを明らかにした。",
+   "region": "国内",
+   "tags": [
+    "設定ミス"
+   ]
+  },
+  {
+   "title": "日本トレクスの情報システムに不正アクセス、一部業務が停止",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/02/56377.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-10-01T23:05:23+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "日本エネルギー経済研究所、不正アクセスの続報 パスポート情報13件の漏えい確認",
+   "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001976/",
+   "source": "ITmedia",
+   "date": "2026-10-01T23:05:21+00:00",
+   "summary": "日本エネルギー経済研究所は10月2日、9月に公表した不正アクセス被害について、詳細調査の結果を発表した。パスポート情報13件の漏えいを確認したほか、口座情報を含むメールアドレスも流出した可能性がある。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "日本エネルギー経済研究所にフィッシング攻撃、所員6名のMicrosoft 365 アカウントに不正アクセス",
+     "url": "https://scan.netsecurity.ne.jp/article/2026/10/02/56376.html",
+     "source": "ScanNetSecurity"
+    },
+    {
+     "title": "日本エネルギー経済研究所、不正アクセスの続報 パスポート情報13件の漏えい確認",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Nc1Z4RTAycHB6VGN3Y05vSS1Oazd6Y0ZqUkZCVDQwdHdBZ0p3UGpKUnF2YnFEZTJlM08xTTdlWWdlNzZxekdIc2xqTkROTEpWOGVaR19QMVgtMmg4LTZZdHNjVmI3Uk85eGc?oc=5",
+     "source": "ITmedia"
+    },
+    {
+     "title": "日本エネルギー経済研究所、Microsoft 365への不正アクセスでパスポートを含む個人情報漏洩の恐れ",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT1BxVHhwcnBrZ29rZDVHSkJzRHJiZWJNckU4YnBUQUVoWDJuTVBHQnZkcmNLeFJBTEYtUmNaTGhfVVNPLUtQUFkwUzJnSnBQcjVvQ0hETTIyY3BWSkZCcmFCcmRVNUsxdTZvODJpNS1ZMDBsQy1YTmRkMFowa1ctZHBOTGE1OHdCXzZGYjVUdTdKZw?oc=5",
+     "source": "合同会社ロケットボーイズ"
+    }
+   ]
+  },
+  {
+   "title": "当選を落選に書き換え ～ デジタル整理券システム「mogily」に不正アクセス",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/02/56375.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-10-01T23:05:18+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "メトロポイントクラブ会員向けサービスに不正アクセス、約59,000件のメールアドレスが漏えいした可能性",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/02/56374.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-10-01T23:05:15+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "払戻し申請を行った顧客1,463件の個人情報が漏えい ～ イープラスに不正アクセス",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/02/56372.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-10-01T23:05:09+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "本物の警察官と信じた理由は「自分の名や住所など個人情報を知っていた」54.1 ％",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/02/56365.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-10-01T23:00:04+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": []
+  },
+  {
+   "title": "日本信用情報機構、信用情報へ注意喚起を行う「本人申告」のスマホ申込を停止 パーク24の情報漏えいで殺到",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qcDdQQWRBM0FZdDhrb25kVEI3aHhyNUhvaVMyRG82YWZWWWFWMktjdWFJSnJ3TGt1bzlGSmhaWlBMOHJ5X2RzNE5aLUlSSGRPR0RIS1FVRkpEdFREbFl4MWdyVjlLV1hSZVZOaDZMVFlqNzRpTVhqMXZicHQ3ejQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-01T22:55:25+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": []
+  },
+  {
+   "title": "「タイムズカー」への不正アクセス、約160万件の運転免許証画像等の本人確認書類が漏えい",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/02/56371.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-10-01T20:53:25+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "［独自］タイムズカーに集団訴訟、2200人超が参加意向 免許証データ160万件流出の責任問う",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TQVZEYmMtVi1ON1pPUXAyNEsxc2VvWDRvczNueVk0TDNsazVkZmVZWkI0dEpsMVEyLXJlMnloZXV0OVJKOFZUaUNEOXo3SDBHWHE5TW91MXZTcU9OMTNlRFl1dGJmM3NPajVkTw?oc=5",
+     "source": "日経ビジネス電子版"
+    },
+    {
+     "title": "タイムズカー、最大660万件漏洩 免許証画像流出も 信用情報機関に問い合わせ殺到",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xSGNZWGJsLWs0VGR2cVJJbnFJRk9zc05kd2tVVDBlZHJLWi1ndXpBTm5CbGJxMnBFWDVEZDRzQlU1ODFDOVByczgtQS1JajVqdlNQZks4bDI2M2N3ek1YQUEzNEpWb3JUbzNXX0pJZVFEUQ?oc=5",
+     "source": "テレ朝NEWS"
+    },
+    {
+     "title": "タイムズカー、デジ庁、ニチレイ…続く個人情報漏洩「短期間で異様」（朝日新聞）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKYmRXbHFjZUtERmVtSVRiT0sxOVRnSmtkSlRCTG96RTl1ME82QTk3b1FoXzBQbE9yT0xiZnQ2WW96bmRfVFNDZVdvcVVBZWx3ZVI0dERERkY4ZXVWaDV4RGppVGlnanVRV0tUVmJFVUZhMTdPWG81czBxRXBfR2s?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "タイムズカー、セコマ… 相次ぐ個人情報流出 なりすまし被害防ぐには",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Vd2lCVHB3dFRvTVdPaGg0VHZ1bDZZWXU3eHBnOFdNTzVRdVJsaDJkQzdZZEI1OUd0eFdYSjBOdVFlOEpfZFRiVlFNVnNWazAyaDlMSjhnOV9ZUQ?oc=5",
+     "source": "北海道新聞デジタル"
+    },
+    {
+     "title": "タイムズカーなど続々に情報漏えい 運転免許証にはなりすまし借金以上の怖さが存在 どう悪用される？ #エキスパートトピ",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRERhU0dmbUZPdEE0dElLTGtmYTRCb2FLZ0JLRU5oVGNWYm1WaWYycDdHdDg0RUZ1ZDNjNWMwcUtWaU5JbDRaR2p1V2VBWWhHVzJJb0NLWms2MkRPcVVKZmVGMEpfRjNCemw0Qnhxa3B3T0YxVmxlLUd3aXU4OW1aRWw0bThCcm9K?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "660万件の個人情報漏えい》の『タイムズカー』「資金や口座が悪用」弁護士に聞いた“自衛法”と“補償金”の行方（週刊女性PRIME",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JUlRnSTktMjVvanUtTkZfM1NCd0tFMV9pWU8xOXZxdnFQWTZYejZVVktmOEdKanlMVVVnSXpxdnJ5ZnNoVWZCQlh4R0RvRWdQXzdPTklyS0h6WUFFMW1KOWNlQWo2ZHRGX1RJcEtfZkJpVkpGU3JYT3Rua2Z6c28?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "「タイムズカー」情報漏えい “免許証画像”まで...悪用リスクも 対策は？【追跡取材 news LOG】（日テレNEWS NNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ySzVPRW1PNERaLXlsMEJ3WEFlcThNNnUyb0luWTBTMllLdmpPLXZmcFZDb1hzUWo4RDhhMEhzU3AxUjU4eHJLMC1RNnN0eGs0SFpKQmZ0bjlLaUhtUHZNRWRvQVNPQXhWYTZTZ2dEelVqdEZHcnR4bXZVTU9uSFU?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "「タイムズカー」情報漏えい “免許証画像”まで...悪用リスクも 対策は？【追跡取材 news LOG】",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nT0hQcWtMRHYwVnpyUU1tU1c3QmdZbFZ3a0YzVkdCbFVhMFNmWDduRFVuT3g2cWM0aVZXVUpxOWM1NmlCanQ2Q0M5QTlKaF9TM2xzOXMwbURiRVN6WGEtX3FQMkhXMjIwdGNfOGZLdDFsUmd3ZGd3eHE3XzQ?oc=5",
+     "source": "日テレNEWS NNN"
+    }
+   ]
+  },
+  {
+   "title": "佐川急便で不正アクセス 個人情報流出の可能性 氏名・住所・電話番号など（2026年10月1日掲載）｜日テレNEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TQk9qdzlCakpKVnB0Y1U1aDVjdTl1cHJqUDlSTlRac0JNeHhHWHgzOHFXNWtvaXhlSm9GVW9tMktpQ3pVcVZQb2RVaFVjbngwUFgzWjdGbnE2NmVpUXV6ejN0VHd6dEMxVF9qaDhVRm5ZVXcya0ZhMC1Ia0Q?oc=5",
+   "source": "日テレNEWS NNN",
+   "date": "2026-10-01T13:41:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "日本原子力機構に不正アクセス 研究者の顔写真付き身分証など漏えい",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13LTJjRWQ5R1lkcDhhVXNLY2NfSHhLZlEwNnRWRzN6TW9pdFJ2Nmpza2stLVl1RkNTOFRzN3VBZVQxMHQ1OUF2amQycW5SR3FnYXpkb1EzSVNHa1lqLS04cnBMWnhfT2ZaeUE?oc=5",
+   "source": "ITmedia",
+   "date": "2026-10-01T08:46:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "日本原子力機構に不正アクセス 研究者の個人情報が漏えい（共同通信）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ub0xVTmY1N1ZxUWstRTZLZmhKMjJuQ0gyVWVjdUJmc0xmSk5FbTFGVUxMLUl6bnhGZmltWWtzNlhEZmJtWmFhS2VhX3MxbmNFVkJzTGNZRWpfRUhEaGJ1VElaczFzcUhGWW8teWVhNDdoMkg3ZG8xRWMyTVlMMVE?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "「原子力機構」の研究用原子炉サイトに不正アクセス、１７５人分の運転免許証など個人情報漏えい",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSRUxOcEI2RkVUOV9yMG9Cem16Z3l2YzZGSGloakpaQ1hWVlhEU3NEMTRNeUJxQm9CODk1UEF4bXFuTjV0bFY5RDFJWHFuTkxFX20zVmZUZnlKUHFIdVozc2xRM28tZw?oc=5",
+     "source": "読売新聞"
+    }
+   ]
+  },
+  {
+   "title": "佐川急便、不正アクセスで個人情報流出か 送り主・届け先の氏名や住所など、約100日分の荷物データ対象",
+   "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001933/",
+   "source": "ITmedia",
+   "date": "2026-10-01T07:15:57+00:00",
+   "summary": "佐川急便は10月1日、荷物追跡サービスへの不正アクセスについて、顧客の個人情報が外部に流出した可能性があると発表した。荷物の送り主・届け先の氏名や住所などが対象で、同社はWebサービスの一部を停止している。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "佐川急便、不正アクセスで個人情報流出か 送り主・届け先の氏名や住所など、約100日分の荷物データ対象",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FNEotVTNtbXROS3FvMDNhcTBZNjNDdXV2RUF5b2FUVXE2SmY4YVJfSlluS1lHVXBQSUJhOU1RWnlsNkNpVDNKZndTWFdfOGdnZjR6cTY3WTFWRElIWTNwSEFzMkx2andXSVE?oc=5",
+     "source": "ITmedia"
+    },
+    {
+     "title": "佐川急便が不正アクセスで情報流出の可能性 件数や範囲などは現在調査中",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zZEpNQ2ZMQmRDLVJQZmtQbWo4aWZ4eDd5ckxLZ2Izank5eEZVUGNELU12MHN6bUxmVXhkLVJnYk4yOXl5cUR4VWdKY0M1Mk9wRlFMVnpDenJQWm8wbmYxQnNSVVFnX0NjTmtnS1NFeXVOQQ?oc=5",
+     "source": "テレ朝NEWS"
+    },
+    {
+     "title": "佐川急便に不正アクセス 利用者の個人情報流出か",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OS2Z5Uk5yX0tackxPUVl3Rzl6c0xlRlZUakZqbVBWVklmekZsVGhxYWdVUE1QXy1oQlJicU9MczdEUGtmWWpwTm1PWVRsaG05bjF6VmdIRQ?oc=5",
+     "source": "TBS NEWS DIG"
+    },
+    {
+     "title": "佐川急便、不正アクセスで個人情報流出の可能性 荷物追跡APIなど9サービス停止、集荷・配達は通常通り",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CUGJlTU1CenlDNDU5Rk1hOXJvaXJNSk1DQk0tTEFSclZwbnNhZE9QRklkU28wWXdsek1XQ3YwU0x5NU5nS3EzdFR1dXRPbjd6clN5aldJQkR6NTM5eTZyc2h4cTJrT2lpbWttdGVxbEt5WlNMUjBqdlUtLV9zTGs?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "佐川急便、不正アクセスで個人情報流出か 住所や氏名など",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ScUhlenhCNFpaaHlEQmJheWN0ZlFEak8taWZNU094elZoY1drQVBXa1JQRHBiV1Bpd0JOLTVsRmkxYmQzbFk0aUhVMDBzN0VjQWhZRGIyeDZ1UW9VdkpOVG8wX2NPMDI4RDQtYg?oc=5",
+     "source": "nikkei.com"
+    },
+    {
+     "title": "佐川急便「お荷物問い合わせサービス」不正アクセスにより情報流出の可能性、ウェブの荷物問い合わせなどを停止中",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CSUFsRnJwbE9wVGNRdnBBd0VfSE1EUEI3aURrYU03TnFqdXdDNG1lOVdjRXE0WmFEbnR1WEJmNWQ0U2pNTkt6SlMtcjZXR0RPZklqM0VjUlFTNHJwV3N1eXdBYUwxbWRVeTRiNmtTbU5MeHFiQ2VXV0xfeEs5cTg?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "佐川急便「お荷物問い合わせサービス」不正アクセスにより情報流出の可能性、ウェブの荷物問い合わせなどを停止中",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wWHFNeElGeWkyeFJPbDZiZVZDRGszNXc5NE5xR2FhaV9oRmUyaVVNMjJhRDA1amtnOVVYSkxJTlBpRHpneFdQWkJIN0FWQUQyZXdKUDVPeExFMlRvWGhxZEhwczRFblRTTWRZ?oc=5",
+     "source": "internet.watch.impress.co.jp"
+    },
+    {
+     "title": "ヤマト運輸と佐川急便に不正アクセス 個人情報漏えいの恐れ",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4bTQ0SkhYRF9uRDM5dWpTbHZ3NUJ3TVM2LWU4a29XSGc3LWpvc3ppcDQxVDBGUHUwcXNYTDNZSmI3T2ZiTmgxcXYtYmRGbnBFN0Q4M2NQLXFnbHc2N0NKZjJwUQ?oc=5",
+     "source": "時事ドットコム"
+    }
+   ]
+  },
+  {
+   "title": "中古アニメグッズ「らしんばん」に不正アクセス 口座情報や本人確認書類の番号など漏えいの恐れ",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94T1JmU2FOazZna2hGbi1SRFhLdDByb3hpUmpuR1RwZk40Ym5SOFZDRnBMZzlzVWtZWXJ5TTFNV1ZBbXhsT29VT1hrM3dQRlI5TjdQcHVhSWllTUxnYTZuZ2lJQmJUcXZ1WWc?oc=5",
+   "source": "ITmedia",
+   "date": "2026-10-01T06:18:01+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "吉野家HD、バイト応募者の個人情報5366件漏えい 元委託先に不正アクセス 契約終了もデータ残存",
+   "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001928/",
+   "source": "ITmedia",
+   "date": "2026-10-01T06:00:39+00:00",
+   "summary": "吉野家ホールディングスは9月30日、吉野家とはなまるが採用業務を委託していたApplyNow（東京都渋谷区）の採用管理プラットフォームが不正アクセスを受け、アルバイト応募者の個人情報5366件などが漏えいしたと発表した。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "吉野家HD、バイト応募者の個人情報5366件漏えい 元委託先に不正アクセス 契約終了もデータ残存",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoMmJMNjduelF6TWlZeUdFUVl1Z2lObEpMeWdJUVhnVGkwT2lHNnhwSkNVaGZxLTNHX3RfdWVyTnBQZ1h4N2lNSHo1d3R5MjQwVkxWZDhFMHExUTFJMUZtbHZRU2ZaM3pfX2c?oc=5",
+     "source": "ITmedia"
+    }
+   ]
+  },
+  {
+   "title": "「能動的サイバー防御」きょう開始 警察・自衛隊などが攻撃元サーバを無害化 高市首相も狙いを説明",
+   "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001918/",
+   "source": "ITmedia",
+   "date": "2026-10-01T03:21:11+00:00",
+   "summary": "政府は10月1日、「サイバー対処能力強化法」と同整備法の一部施行に伴い、重大なサイバー攻撃を未然に防ぐ「能動的サイバー防御」の運用を始めた。攻撃元のサーバに警察や自衛隊がアクセスし、不正プログラムの消去などで無害化できるようになる。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "VOISINGの利用するBIツールへの不正アクセスについてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/10/01/112213",
+   "source": "piyolog",
+   "date": "2026-10-01T02:22:13+00:00",
+   "summary": "2026年8月18日、VOISINGは、同社が利用するBIツールへの不正アクセスにより顧客の個人情報が漏えいしたと公表しました。ここでは関連する情報をまとめます。 修正プログラムの適用前に脆弱性悪用 株式会社VOISINGは9月30日の第四報で、専門機関による最終調査と社内精査がすべて完了したとして、調査結果を公表。原",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "ヤマト運輸、「クロネコ代金後払いサービス」への不正アクセスで続報 利用者など一部個人情報が漏えいか",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHcklTM1JwakFiNDltcGxlbUdIZ3BZZUJueTFNb2hxSjJNWlhvRDJ6S2NiSHRJTHJ5NjVoT2U4U0VoaEFjRVVrQTE4WVF4R1FMUjFjVjk2aTRUemttLVBtQ3dpNWN4VTNKcGc?oc=5",
+   "source": "ITmedia",
+   "date": "2026-09-30T23:05:22+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "【第2報】「クロネコ代金後払いサービス」への不正アクセスの発生について",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GbkkwNWxtOWdoczlZUW5oZTFfTGZtX3k0X1RBamNZc3JBVUJ0ZjVYdDBGRHBPNEktZzRUendtcTdsWnpqdUo1RU5zNUMzYV85ZUdpVFg3QTE3dmJCOUVMdS1UUk5QTnc?oc=5",
+     "source": "ヤマトホールディングス株式会社"
+    },
+    {
+     "title": "ヤマト運輸「クロネコ代金後払いサービス」、不正アクセスで情報漏えいの可能性",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRakEtR21LYkNBTWk2TXBfRjl0b0JxWVZzQVBNOHd5NDl0V2k0OWluNWRWeUhiWHFueHlhNTN4TFlnVXJzeC1LXzJaZ05Xa3BmR3dscUxEMHJRTDJRVy1vMUtJclNvYWtHcDdj?oc=5",
+     "source": "internet.watch.impress.co.jp"
+    },
+    {
+     "title": "「クロネコ代金後払いサービス」に不正アクセス",
+     "url": "https://scan.netsecurity.ne.jp/article/2026/10/01/56361.html",
+     "source": "ScanNetSecurity"
+    }
+   ]
+  },
+  {
+   "title": "スターツ出版「オズモール」に不正アクセス、会員のメールアドレス 最大447,610名分が漏えいした可能性",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/01/56359.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-09-30T23:05:14+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "「ニッポンレンタカーアプリ」への不正アクセス、運転免許証情報が閲覧されたおそれも",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/01/56358.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-09-30T23:05:12+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "「ニッポンレンタカーアプリ」への不正アクセス、運転免許証情報が閲覧されたおそれも",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhblJTMGVYUnpLNUxqR2dCdTF5YXhYNlNfRlJhNXEwTjlNelZId3dRSnhEWmxiVGllS0NZRDVDZnJqb3ZWT0pscF9TWE1vWDNJR2dhc3ZkYUxIenExRmhhODBQdWl2VllMWlFrdw?oc=5",
+     "source": "ScanNetSecurity"
+    }
+   ]
+  },
+  {
+   "title": "CMSプラグインの脆弱性公表を受け更新作業中に不正アクセスを発見",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/01/56357.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-09-30T23:05:09+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "当選が落選に「ULTRA MART」チケット抽選システムに不正アクセス",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/01/56356.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-09-30T23:05:06+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "「RESPECTion!シンポジウム」参加申込フォームに設定不備、他の申込者の回答内容が閲覧可能に",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/01/56355.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-09-30T23:05:02+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "設定ミス"
+   ]
+  },
+  {
+   "title": "ユニリタ、不正アクセス・情報窃取を公表―ランサムウェア グループ Everestが約128GB・15万9,901ファイルの取得を主張",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY2VLUlVESms1bnp2dnJyQXJuN0NKYUxNVnJONmlDbkNTaDA3X0lDMVQ1WEZfbk15RnFEci11QktkNDBmNjk0dFRRSFphLVl5TG93WktfR0ZwY0xiT1lDSkhuWlJ6VUZWSUZMNEVGZERNUC1KMVJYSlYxQS1CV3Y4YzlndGQySV9G?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "date": "2026-09-30T22:00:13+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "ランサムウェア",
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "セコマ個人情報漏えいは57万2千人分 スマホアプリ会員の49％",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wdHQxZ3VhWnFuMUlDWm9ZWjZwS2ZUWjhBQlB2ZGU2STA0YXlOaXpqN00weEpxcWhJaFY4MFc2Zm5CVDRIS0RyTE9MaG1BX1dQcmd5Y1pGS2FCQQ?oc=5",
+   "source": "北海道新聞デジタル",
+   "date": "2026-09-30T12:53:08+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": []
+  },
+  {
+   "title": "大阪ガス系2社で顧客情報漏洩の可能性 不正アクセス、約8260件",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KMkxuSnlqWlVzSjhsMVlFRWpYa3lZWHJ2YVFocXB1SHFhZUd6ZmFPOWk3TkVtY2ZRY2syLXdMZkxlNElWeWdXYXBDRkhpblNxeFJyQlhCeDJBdks2MXl4amN6aWxIZmdCZ0tjdw?oc=5",
+   "source": "nikkei.com",
+   "date": "2026-09-30T08:56:27+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "集英社のブロガー管理システムに不正アクセス 2835人分の個人情報漏えい、結婚状況や子の有無も",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vRWhKVkpPMW15Z0R1Y0VLQnQ5Z0duNFdScFJhZ1QtYUs0eEJlRktlNzlIbHcybWlsNGk2VEtMN3BzRzNIZ1RNaWJtZUF2YUZIZ0QyY3JzRE11ZXBvVVlfS1U4alIwNE9DMVE?oc=5",
+   "source": "ITmedia",
+   "date": "2026-09-30T08:43:49+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "タイムズカー免許証画像流出、勝手にクレカ発行の恐れ とるべき対策は",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BenNyLTRPeVVnckl0d1Rvd1pBOHZfa0pMQUtBYzJESmtTVmkxb2hfUnowbDVJZ21EeHFLVWxKNlpldi04amVUSDVwRnlfejJNZ2NtZWNwRU9wR2Y1LVlCRnRXQi12WFZCZHBGNw?oc=5",
+   "source": "nikkei.com",
+   "date": "2026-09-30T08:37:11+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": []
+  },
+  {
+   "title": "タイムズカー情報漏えいで「消費者金融の借入」「トクリュウに悪用」も…専門家が語る“最悪シナリオ”（ピンズバNEWS）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oTGRZTlRrTFo4RlJFckkyMzZFNkFEdlZUY290SU9ZNnlhQ29jWlg3SWhDSDloa08xMEVXSV9VWHVNd0J5d091a1Ffa2NoUlVKNVVJVTZMM09QSWVUUmxWbUNUdWxaX2VCWHJIVUZuZ3VMWWpVUkRnbEJIVHlSaEk?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-09-30T07:30:37+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": []
+  },
+  {
+   "title": "「郵便局アプリ」に不正アクセス 氏名や送り先住所など漏えい 19人分・69件",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjMnhMTUVJUlVxYlNkU3FLX3FTMU5uWjVxNkZhcGNzMHpYN1JBYTFaZmpHcjM4alE0T3cyTkRHenh5bFlYZ3FaUjF3WVV4eWRCbXFCVE9VTGhrdGFGWUxjX0ZlcWN6N2JPSVE?oc=5",
+   "source": "ITmedia",
+   "date": "2026-09-30T02:44:12+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "「郵便局アプリ」に不正アクセス、顧客情報を不正に取得",
+     "url": "https://scan.netsecurity.ne.jp/article/2026/10/02/56370.html",
+     "source": "ScanNetSecurity"
+    }
+   ]
+  },
+  {
+   "title": "2026年9月のサイバー攻撃・不正アクセスまとめ、タイムズカーや京王、東京メトロなど",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nTl93d1ppRW9DVWNIeDFhMTRiUkJoM1VmZVBGdHhxdWpUVzk2a21kUjVlQm0zVmhyZjJCNEVDMHcxM3ExMmxjUzNfUTBVVTlZZFFXR0JRSThiVlpYN1oyei1iZ3hib1Ny?oc=5",
+   "source": "news.mynavi.jp",
+   "date": "2026-09-30T01:25:44+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "免許証画像など約160万件漏えい タイムズカー、対象者に連絡開始",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaZFMwbHpRb2dPVzJCd0Y3RnM4U1pzNHdNX3hTU0l0Z1owOFBMYXlZOWRzSEJINHhwUFpSWGpaV1lHTWZNdEQwb1o3bGJIVlFPOW9YXzB1ajVLNWNLeUliX2xvNmNQNmlETXc?oc=5",
+   "source": "ITmedia",
+   "date": "2026-09-30T00:00:41+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": []
+  },
+  {
+   "title": "ID・パスワードが窃取が原因 ～「HALMEK up」に不正アクセス",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/09/30/56343.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-09-29T23:05:07+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "長野県大町市デジタルアーカイブサイトに不正アクセス、オンラインカジノサイト誘導ページに改ざん",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/09/30/56342.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-09-29T23:05:05+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "保育上の不適切な対応も確認 ～ 鎌倉市児童発達支援センターあおぞら園で個人情報を誤送付",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/09/30/56341.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-09-29T23:05:03+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "誤送信・紛失"
+   ]
+  },
+  {
+   "title": "山口東京理科大チームが優勝 ～ 県警ら主催「サイバー攻撃共同対処訓練」で約 90 名が Micro Hardening 演習",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/09/30/56340.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-09-29T23:00:14+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "ランサムウェア被害件数が過去最多の123件に、警察庁が対策情報を紹介",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/09/30/56339.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-09-29T23:00:11+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "ランサムウェア"
+   ]
+  },
+  {
+   "title": "タイムズカーで不正アクセス 「退会済み」含む約660万件の情報が流出：免許証画像も漏えい",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1obUx3Mkd6RFlsaU5wUzR0VkpLdm1HZHgxNVVwLWJadGpOcEpmdFFkQUNsd1lzSjhjZXVoM3NpenlHdjNPUExSRS1jdjFJRjUxWjJUMkk0eHVLUnBFQU8teDJKcTVfd080b2dyMi1MV0tTdw?oc=5",
+   "source": "ITmedia",
+   "date": "2026-09-29T23:00:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "ランサムウェア攻撃による京王電鉄グループのシステム障害についてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/09/30/021814",
+   "source": "piyolog",
+   "date": "2026-09-29T17:18:14+00:00",
+   "summary": "2026年9月26日、京王電鉄は同社グループのサーバーがランサムウェアによる攻撃を受け、一部グループ会社の営業システムに支障が生じていると公表しました。同日以降、ホテルや流通、旅行などのグループ各社がシステム障害を告知しています。ここでは関連する情報をまとめます。 9月26日未明にグループサーバーへの攻撃を確認 京王電",
+   "region": "国内",
+   "tags": [
+    "ランサムウェア"
+   ],
+   "others": [
+    {
+     "title": "京王電鉄にランサムウェア攻撃",
+     "url": "https://scan.netsecurity.ne.jp/article/2026/09/30/56345.html",
+     "source": "ScanNetSecurity"
+    }
+   ]
+  },
+  {
+   "title": "手間いらずの「TEMAIRAZU」シリーズへの不正アクセスについてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/09/30/013735",
+   "source": "piyolog",
+   "date": "2026-09-29T16:37:35+00:00",
+   "summary": "2026年9月28日、手間いらずは同社のサイトコントローラー「TEMAIRAZU」シリーズを利用する宿泊施設に予約した人へ予約に関する不審なメッセージが届いており、調査より同社システムへの不正アクセスを確認したことを公表しました。ここでは関連する情報をまとめます。 予約情報を把握したかのような不審なメッセージ 手間いら",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "宿泊予約管理サービス「TEMAIRAZU」に不正アクセス、予約者に不審なメッセージがあり判明",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53d1d4WTlsODQ2dVZ5NHVYSFd2V2w1Z1NiN3dTdzBCR25rSks2cVd4S3dQQ2tsLVdQRGdhOVJMRWRBOUxEYjByZ1BVX05PNGlGTC1keVh5c2VDUWpnelBpWnpOUUFERkZseng0?oc=5",
+     "source": "internet.watch.impress.co.jp"
+    }
+   ]
+  },
+  {
+   "title": "10日間のうちに国内有名企業10社超で情報漏洩・障害・サイバー攻撃被害……まだまだ増える可能性",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aMWJJa01JVzdWTkpEX0traTRqRXJjUVo3SkQwRy1OUUItSGY1Tm9vTFIyckluZndKZ1d4SGdXcWRHWTRJZkRQX2ttNmNCblVDTHViRlV3?oc=5",
+   "source": "EnterpriseZine",
+   "date": "2026-09-29T16:30:31+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "タイムズカー不正アクセス なぜ退会済みの会員情報も漏洩したのか（山口健太） - エキスパート",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRjJGQWtkTExxVlVhdnBLYkd4cUh2V3NwTjlLeTlaWHZrUl9NQnNmSXRmdzZxWU5WUjF4VnNiazlucGJucVFUY1NnQURRaWRBWkFaUDl2a3pGbFVGQl9RZEs2M1JOYWdfS1RQWUdLR0s2aGNpSlZidkZOQ3ZweHl0dGE3U19YVFFI?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-09-29T09:51:31+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "チケット販売サイト「イープラス」に不正アクセス、個人情報1463件漏えい 口座情報や住所なども一部流出",
+   "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001861/",
+   "source": "ITmedia",
+   "date": "2026-09-29T09:44:58+00:00",
+   "summary": "イープラス社は9月29日、電子チケット「スマチケ」の払い戻し情報を管理するシステムに不正アクセスがあり、利用者の個人情報1463件が漏えいしたと発表した。うち751件は、振込先の口座番号なども含む。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "「イープラス」不正アクセスで個人情報漏えい メールアドレスや口座番号など 1463件が漏えい（ABEMA TIMES）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5md3RDOFhOY0Y4Wm9jV1QwYW15RlJQcTB5LUpwMzJCYkc1eVB0ZlFSRWU2U3ppMXhzUlNoOWczVE83cVJyQXp6U19IOVNtWUdlX0UwTGZoc2ZuOEZSUVFLcHF1czdiWUhQLUg1SDNmcjN3bTA0bTdwbHFFRHltaUE?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "「イープラス」不正アクセスで個人情報漏えい メールアドレスや口座番号など 1463件が漏えい",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wbXBoQTc3V01rQnJoME5mbjJyQUluTExOM0tEX2RaSXgta3N0alp2a3BkVDZLZlM3SWhpQzJoVWFzTzBfX3Y3azliODFqa1J5OC0zMU9TY2ZOUQ?oc=5",
+     "source": "ABEMA"
+    },
+    {
+     "title": "チケット販売サイト「イープラス」に不正アクセス、個人情報1463件漏えい 口座情報や住所なども一部流出",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJc3VqUmZQbmVtbUlGNkJuaW5pVHJVb2RoZXhmYjdZMTJpZW8wd3UzUTlLd3M5QmxrQnBEb2RTYjAzTHA3YjRQaEZCNG50NUtzbXdpREZPWDRSdHRReHNKeGxfXzhFdEp3RXc?oc=5",
+     "source": "ITmedia"
+    },
+    {
+     "title": "チケット販売の「イープラス」で口座情報など個人情報漏えい（2026年9月29日掲載）｜日テレNEWS NNN",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tbmExaVoyRm5Qb3A1SzZOUDdaOGVsd3ZkS0g1a0lwcDAyazlLS19CTUJYV3puWDRPVUZpZ084VTRQSUhNLUkzNmtJdHVCRFQ5Mnp3cHFPNEZoNzU2VkthTUxkM2R4eVVpaTdpTzJueDU5Rk1fLWdWbXhUdW4?oc=5",
+     "source": "日テレNEWS NNN"
+    },
+    {
+     "title": "「イープラス」で不正アクセスによる個人情報漏えいを確認。1463件が対象",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92OFRGLTRUQXRNY2s0blJsRlhuMmIxSXFVbmtNdHVqUEU1T1lYaExETmhmX2N0UVV0dnFFZHZxajJ4c0duVHZQMDdQRDVTSE5sZU9JQkVzb3Y4QQ?oc=5",
+     "source": "電ファミニコゲーマー"
+    },
+    {
+     "title": "「イープラス」不正アクセスで個人情報漏えい メールアドレスや口座番号など 1463件が漏えい",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PZG9XRURXckJZbm83RFZFaW9IVHZydHBlSEEwckJNdzgxNThiS3c4NVBiSUpVdGlITWNYcFZoMzlkc1NBQnFpOFVSdWw4U3lK?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "佐川急便に不正アクセス 住所など個人情報が漏えいか",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DRTR5dkdzYXR1em51S1ZvdFA0eXk0WXhVcEVuVzNoTWI3d0RjWXUyMGxxbXpKNklNNHNxQ2xtSV90RmJtbU40bkZGczRRbFVtb1YtN0ZSelZMb1ctaXM4?oc=5",
+     "source": "NHKニュース"
+    }
+   ]
+  },
+  {
+   "title": "タイムズカー個人情報660万件漏洩 “リスク高い”運転免許証の画像も 何が危険？",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rVjZQc2l3azZuelRJVjNKdDRpWWs3Ui16cnNKeG93WnVDTm1ONkNzWndVeVRjSDk1RTJKUnI0cU40UTl6YmhPclJTX0VxeHI2X1VGMV9WLW5QMjhhZUNuTkZWa001dG9uQ0RRcVQzOEFJUQ?oc=5",
+   "source": "テレ朝NEWS",
+   "date": "2026-09-29T09:36:12+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": []
+  },
+  {
+   "title": "福岡県が個人情報漏えい 介護事業者24法人の役員183人分（毎日新聞）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hWi1KUXhLeUF5M3BHaC1PQTFReFhTbEQ3X290cWtucm5nM3QzVjVjQ2pkdW5QSVczLUhjOHZjMjlJU2d6aW4zU0F0bmR2RjhoRjJpVmt0VmQ4bmtkcW56V2IwVGplYXVkMUhlTW1JVkdiN0FIRGZuNVVZYnFaTjQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-09-29T09:28:27+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": []
+  },
+  {
+   "title": "レゴランド・ジャパン・ホテル、外部予約サービスへの不正アクセスで個人情報漏えいか 予約1557件分に影響",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53QU96Y0ZFU1RZR1V3ZVlRdV9LdFJ4UERwWm5CT21EQnpYM25Mb2lwbXZ2UHFpMlUwUnB5c3JKdnBWV0pfRzFkcXdpU0JTSFZvTjljZ2NxV29seWNWYlZnVkFyQlRiZHhPcEE?oc=5",
+   "source": "ITmedia",
+   "date": "2026-09-29T07:14:06+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "免許証画像が漏れると何が“ヤバい”のか タイムズカーで最大約660万件の個人情報漏えいで考えられる「3つのリスク」（1/2 ページ） - ITmedia Mobile",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95Nmo1SVVwRHZiZlF0blJWTm4teElSdEJBcG5DV0l6QVFrclprSXlGVWhqOFFwY3hsa3hZeHFRT0E5b3BkVDJScWNUODJaLThBdl84bHBOemV0eTVsOVY4dmtCbUp4RzljTDB5Tk9BVdIBaEFVX3lxTE9HQ1ZIaS00MlV2QzVxVE5Xb0loRnRSRFlOU2ZsU2J5U2VTMzFDam51QndYRkxWd25VRVpseENmLUVuLXFYVWpNSjhNWDMyMWFlTjRwOFFyNFByaUhVX09ZMjR3RkhqY1lC?oc=5",
+   "source": "ITmedia",
+   "date": "2026-09-29T07:00:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "others": [
+    {
+     "title": "免許証画像などの漏えい１６０万件 パーク２４、対象者に通知開始",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmbVNtU1F6WXFRZ19Ed0xia2txZUVyd09UUlFDREFpd3dsUS11WE11WW8tVjZJS2tXQ1FsanA1bmxORUl1WkNKLTg0SVY1Q3RCcW5ZbDZmYWZEZmxMX2JkaWpsaw?oc=5",
+     "source": "時事ドットコム"
+    },
+    {
+     "title": "免許証画像などの漏えい160万件 パーク24、対象者に通知開始（時事通信）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5TXgwWFNKMl9NM0VrQjNjcTlyVW93VU4zamJES1hYdGd3cmFibGRkdWppajVMbkJkczJmUy14YzN1RDBUc3hWaWJSZ1l2dG1ZQ0JrUEdfaEp0Q2dKS2RwYWV5RXFYeHZ6TVlJYUxzMjFhZnp5S1YtSDlHeHRSeDg?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延 タイムズカー情報流出直後に",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CenNtZ0VVZjFsLWJ3Q3RjMmZhNWNoVVV4Ny1zdmZEdzhQN2xpX2FTQ2dSdXRHaHNEMnI4YXAzT0t3aGYzZExBbTNtdFRaUU5wYlgxMnRrRW9SSlBOYVlUTzZyejJtaUJrT2c?oc=5",
+     "source": "ITmedia"
+    },
+    {
+     "title": "なぜ危険？約160万件で「免許証画像」漏えい “なりすまし被害”のリスクも… タイムズカーで最大660万件の個人情報漏えい【Nスタ解説】",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ENFdCSlNQdXpXSFczQTAyMHV5RFQxR2hmb19haU84NW5oSl9KeVNzYTVXdG1wZTRRazEwN1JqUlRxZ1YwZUZxNURqT2R5YkFGcVk4aTJOQQ?oc=5",
+     "source": "TBS NEWS DIG"
+    },
+    {
+     "title": "タイムズカー660万件個人情報流出 免許証画像、長期の悪用リスク",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBX2ppTW5kcjByVFI1QjlPaDNyNTh6ZmJPUmVNbTlkdExmREI5eUhxSHc0czBHMXlaRTJKMWR1Q2loaGYxWUdyV3REN21BU0x1NmpyMWVwNEFUbkVZeHdNNW5TTGdhVjQ?oc=5",
+     "source": "朝日新聞"
+    },
+    {
+     "title": "「タイムズカー」免許証画像など約160万件が流出 専門家「借金されてしまうのが一番大きなリスクに」（日テレNEWS NNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13VnpXS1RWVEsxMkxabDBpcmMtbkhwb0dDV3hGT19tVDVjYUd4MjhpS3BrODgxSW1qTTlHOEc3SEhRLW9JMXl1OFZIOUJSdDFCUkpucFh1aXlKLUFtRmQ2MzZNeHY2ZzhFWnhCcTI5NGJnMkhYNHRrN25zem8yV0E?oc=5",
+     "source": "Yahoo!ニュース"
+    }
+   ]
+  },
+  {
+   "title": "日本郵便に不正アクセスか 国際郵便の「調査請求Web受付」を停止、原因は調査中",
+   "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001841/",
+   "source": "ITmedia",
+   "date": "2026-09-29T04:40:17+00:00",
+   "summary": "日本郵便は9月25日、国際郵便物の調査請求Web受付サービスのサーバに外部から不正アクセスを受けた可能性があると発表した。原因と影響範囲は調査中で、サービス再開の時期は決まっていない。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "日本郵便に不正アクセスか 国際郵便の「調査請求Web受付」を停止、原因は調査中",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QbWNGNEM0M016QUltYWpJU205REhwSDNjZE9fUVFncGNPS25oam1uQUFyQ3N0ekZDaDVuUEhxbUJzdnlMUml5T0lGT1RTZkFwUTNhbkh5VVBKUGdXU2pmeDhudC0xOVhMOEE?oc=5",
+     "source": "ITmedia"
+    },
+    {
+     "title": "日本郵便 調査請求 Web受付サービスに不正アクセス、一時的に受付を停止",
+     "url": "https://scan.netsecurity.ne.jp/article/2026/09/30/56344.html",
+     "source": "ScanNetSecurity"
+    }
+   ]
+  },
+  {
+   "title": "セイコーマート、57万アカウントの会員情報漏えいか スマホアプリ用のサーバ介し不正アクセス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aWTZfSUN4VzNpZVZXUUs0Y3hBeWNhaEw5NlBqRFA5bU13UTRzX3pUMEJZSTdzdXhUOTdXam1uYmJVTklPNXp6ZzFrcEF5a3YwM2puUWxtS1NldGY2a2h5eHRZMXB5MmUtN1E?oc=5",
+   "source": "ITmedia",
+   "date": "2026-09-29T03:46:59+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "「セイコーマート」に不正アクセス、約57万件の個人情報流出か（2026年9月29日掲載）｜日テレNEWS NNN",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByT1JRWFNhMU04YVhscEJ4LUoyVjhDcC1FWDVzVDN4SXFpUDhjM2FHMS1fb3dwcURqOUdaY2xETDZ2U1NmVjJya2pOTVA4S2RwNmNrQ0J2Q1QxZ2lSRm52djlqblUwc2RIbXg4Ni1vd2RUdGdYVGs0NmtqLTU?oc=5",
+     "source": "日テレNEWS NNN"
+    },
+    {
+     "title": "「セイコーマートアプリ」に不正アクセス、約57万アカウントの会員情報が漏えいした可能性",
+     "url": "https://scan.netsecurity.ne.jp/article/2026/10/02/56373.html",
+     "source": "ScanNetSecurity"
+    }
+   ]
+  },
+  {
+   "title": "約57万件の個人情報漏えいか セイコーマートのサーバーに不正アクセス 名前やメールアドレスなどが第三者に閲覧された可能性 北海道や関東で展開のコンビニ（HBCニュース北海道）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKTzVjUkoyS0Z0VnFtYzZudjEtOFlmZlRJRW93SnlFUVNIOGw0RFlDU0VVZnVfdGpJa2pIMkswVmJNNzNsVC0xR3AyU1UyRTl0aDNodXpiV3cxdG9lLWhmbUJhLVZXY2F4RXRlcG9pbFV2dGE1VGw1d2Npa291ZnM?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-09-29T01:35:23+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "セコマ 57万件の個人情報漏えいか",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WdG9YeWNfNkVTTXY1ZWhQN1prNWZrMDk4Rk1faDJxdWdKY2VpRTVQdXJKSjNuLXZCc2IxaTZ0LXVqd04xYlBYeTV5bmtxYy1B?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "セイコーマート、不正アクセスで約57万アカウントの会員情報漏えいの可能性",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90Y3RPMXpFaUU1cmxlZEk0UTVVTjFwcDVqWHpzTUg3emZsOFk4a0hpa2lyeGVjYlhVbW9lVEI4UGdSOTRtLXRmTUtiT2E3UDJ2SDgtcjB5WkxlR1JGNS1nQUU4TEJHSW5Zblhr?oc=5",
+     "source": "internet.watch.impress.co.jp"
+    },
+    {
+     "title": "郵便局アプリに不正アクセス 個人情報漏えいか",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45VnNBSDlnWmc1SEJ1aEdNa3RGejZLQmZ3SHlORV9hT2NTcWo2S1R4S245ODBOMWd0cG41QWhDTWJ1cUhjeFVtUUl3cE43RVBTOWt5TA?oc=5",
+     "source": "ASCII.jp"
+    }
+   ]
+  },
+  {
+   "title": "ニッポンレンタカーでも会員41人の情報漏えいのおそれ 免許証番号やクレカ下4ケタも",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBldk16Mno0azMyTi1fOVk3MzhTVTFKVXU5b2lYZkx4Z3k2YjJMeGU2RkJVLWRkeWNmU2RYLW9wQ3Z5cWVyQzZCb3lSZk4teE5Kd0Vrem91UDBqQ3RwanBEN3dLTVFZczBnSnc?oc=5",
+   "source": "ITmedia",
+   "date": "2026-09-29T01:05:22+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": []
+  },
+  {
+   "title": "「660万件」より怖い情報の中身――タイムズカー流出、免許証画像まで取得された深刻度 #エキスパートトピ",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcEpGdU9BekpydjVaYl9hS2JnNzFrS3V2VzYxN25RQlV2ZkV0MjFpbVRtYmdmSFhCdzFoUVJpbXZjckNmMk4tc3Z2b3BpY1RWZHN1ckJoVW4xeHVaT0I3ZEktanJwQzllY0VmZHV6TTIxLWM2MWgzeHl0WUFRUDlRLVZUX1BTTDBk?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-09-28T22:37:40+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": []
+  },
+  {
+   "title": "不正アクセスにより情報漏えい発生の「Gyazo」、サービスを再開 画像はすべて本人のみ閲覧可能な状態に",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85LW5QSjZKTTFMM25GVjVwV0V3dlItN2tsblZKWDJXWFJiRGF0XzZzTUJ5b0ZBWjJmSW4tb25oQ0dFckpvOENnN1Z1SzdYRXZoaG9PdnlCTVNualVyY1dLOWJGYXJtNWVxcll3?oc=5",
+   "source": "internet.watch.impress.co.jp",
+   "date": "2026-09-28T22:00:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス",
+    "設定ミス"
+   ]
+  },
+  {
+   "title": "さくらインターネットに不正アクセス、136万超の会員情報に影響",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83NjlnSFlJby1nMnhBRnVwVkp4c3lTUkozbzNvRUxnVE1WOXBLSnhESURKY1RFWDZoY1VsVFhoamNXQzFMdG1EVWJTVzM4REZLY3c3bUIzYm1HQjhGem5SQWtkVDNYa09rRUJiZA?oc=5",
+   "source": "日経クロステック（xTECH）",
+   "date": "2026-09-28T20:00:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "タイムズカーWebサイトへの不正アクセスについてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/09/28/214857",
+   "source": "piyolog",
+   "date": "2026-09-28T12:48:57+00:00",
+   "summary": "2026年9月25日、タイムズモビリティとパーク24は、カーシェアリングサービス「タイムズカー」のWebサイトが不正アクセスを受け、会員の個人情報が外部に漏えいした可能性があると公表しました。その後の調査で、対象システムに保存されていた会員情報の一部が第三者に取得されたことが判明しています。ここでは関連する情報をまとめ",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "「タイムズカー」のウェブシステムに不正アクセス 個人情報約660万件が流出か 氏名や住所など クレカ情報は含まれず",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JWVpYbTJoQ0w3VkxRUU80WlEweFhVQUNYMUE0RnJxRDNYV1B2U0l6aWhvb0RyeFFaV3R1MDhNTm5YSk1hMlZiLURPeURiZE9kZ2IxZG5lNA?oc=5",
+     "source": "TBS NEWS DIG"
+    },
+    {
+     "title": "カーシェアの「タイムズカー」に不正アクセス、免許証画像など660万件の顧客情報流出［新聞ウォッチ］",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IdFFCMERPblNTRFE2S3I1S1NlUkdONnh3N203NGExTUZSYnNrUlFFdTVVbDlWUWlpc1JnUVdBS0NYZncwTkZ3bkJUQTh6Wl9YVzQ1c2tHZ3JKNG9oNWI0?oc=5",
+     "source": "レスポンス（Response.jp）"
+    },
+    {
+     "title": "「タイムズカー」最大660万件の個人情報流出 免許証画像含まれ悪用される恐れも",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92eVZBNl9JYW84SjNCZDdmclBUMTRmWTZXbVpCVWZnWGJkaEd2Mm9tYmFoQXA4aWpqSWwwdTVjdjVUOUxLYWFhc3czbVp6b1RadFU3WU9sdWNrNzJRSWVkQTgxVDdPdWlxbWtGSno4OFg3UQ?oc=5",
+     "source": "テレ朝NEWS"
+    },
+    {
+     "title": "「タイムズカー」660万件の個人情報が漏えい “免許証”も…漏えいの怖さは？【#みんなのギモン】",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iS3hhNTZIUWJCbXFZRkh0dFRnWElzdGdRbTYxdW5fZWE5bEdzUy1JZnpLT19rSWlSMjA1ZzZ2TEtDTXkxRmJMMVVOSFdKT2tWenAwVnBiM054ckp3UXN3QzBlSzZfbVFWc3kwRkl6eElWRlpjTWV4ajZ6Nlo?oc=5",
+     "source": "日テレNEWS NNN"
+    },
+    {
+     "title": "タイムズカー 運転免許画像などの漏えいは160万件 どうすれば",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93Y1dKcjR3S2I4bFdUSzBwN21GN1RYQW54YkNTWUNfa0ZHNThVR1dHRE9UQXl0MTdaYnlSbWk4NDBsbEs1bzhic2NqbmdBUWRURzc2SVYxREVlQVVmbVZr?oc=5",
+     "source": "NHKニュース"
+    },
+    {
+     "title": "“免許証”画像差し替えで本人確認成立のおそれも…「タイムズカー」で最大約660万件の個人情報漏えい パーク２４が発表",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzMUUtVUFIWXN1MDdvbW9rUUdtQmRkT05Vd3R1S2lDNmxXVjN3OGdvU2kzN2cwMko0Y1FGNzBnSUtMeG92QWRpSk1waE1BVmsxaS1ndmVrME5JZ2VFLXQ2S0FUeXFMUWpPX1FyRFhTa1NrNlczeGVlTkpoblA?oc=5",
+     "source": "日テレNEWS NNN"
+    },
+    {
+     "title": "「タイムズカー」パーク24、運転免許証画像など本人確認書類の情報流出数は160万件",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxX0RLUjNVVWkxS3VzWnVNbkxna184Q2tGZWNBck9iRXl3VWJBNE9BbW9zWU9aUDBqdDg4bGlSRGR6OG5kYXRWcFZzQzR4SXhLOHIzNEJ6MHZENzE5ZTdseU9PNmxrU3AtY3lXSg?oc=5",
+     "source": "nikkei.com"
+    },
+    {
+     "title": "タイムズカーの情報漏洩、免許証など本人確認書類流出は160万件（Impress Watch）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNU1pvcnliYXNJTTZwdXdXMi1JZUc1QVNMMUdfcHNCaFE4akhHbWtUc25WVnJTdlpKcFRrRDMzemNZMUl4emNWYnlqUVpkYUtBaXl3RUNJU1NDWk5TVVloNVY1MWZHWGtMUnBoNDBuVGI5Q0pQSk0wM0NWeUNTbjA?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "「タイムズカー」への不正アクセス 約160万件で「運転免許証画像」など 本人確認書類情報が漏えい",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zdHVzck9KOGctMWVBaUQzZjRZVk5OOXE1QmR6bzJtVDJTTWlwNlhFeUhtSXloUkpSeFNFdklsVmdJUnBVRGJTcThyUVdhaWtDY1p5U0Rrdw?oc=5",
+     "source": "TBS NEWS DIG"
+    },
+    {
+     "title": "「タイムズカー」不正アクセス…免許証の画像など約160万件が流出 最大で約660万件の個人情報が漏えい 専門家「悪用されるリスクが高い」（2026年9月29日掲載）｜日テレNEWS NNN",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53TFJVWGtJWDIwRl9Mek1vYk9scXBOQVV4WDhpZmY2VzN2NEV0aVc2OG1iTUQ5QUUxeDZkQzRQNWpIZm94MDFKNnFrSDBIUzFnTUVCY1htQnM2M1p4OU90bXpheWlCektvNDUyeEtBb3J1VE1HYkc2bjlsLUg?oc=5",
+     "source": "日テレNEWS NNN"
+    },
+    {
+     "title": "「タイムズカー」で約660万件の情報漏えい 「運転免許証などの画像160万件」流出で、次に狙われる恐れがあるのは",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hc0ZYeGNWWkRXek1sX0ViTVpvWHA4OTI1YzFoeGpXUUFOTUNYYW8yNjBTZEF3TXBHRHlOSGUzTzAtdFlDUDVILWFqSmJBWkpsdXFNWUVQYlJFdTBTS1UydlBVZ1g5TXZhVEJWSmpXNUVRUQ?oc=5",
+     "source": "ITmedia"
+    },
+    {
+     "title": "「タイムズカー」不正アクセス、免許証画像など約160万件が漏洩",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SRFVqQktUUEpmOEtwQWZwRGdsbERGRHgtb2JrWll4UWxpZFJzdXdBQTFpWWlhOHVKTGdtSWR1OEhMMUVscHdZQ2tNWmExLUVYTEhTdFA1U2JmUjlY?oc=5",
+     "source": "日経クロステック（xTECH）"
+    },
+    {
+     "title": "免許証・学生証の画像が流出…「タイムズカー」不正アクセス 利用者にできることは？",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NdDhJRG5MYUdOd2hHSHpKLVlQSm5xSWNKOGFsLWlCLXJFWWxNUlhzczBudU5BcXBQb0sxbW9HYlFnaDNwY1EwbXlUZGNkaVNkeWhB?oc=5",
+     "source": "東京新聞"
+    },
+    {
+     "title": "「タイムズカー」に不正アクセス、運転免許証画像含む会員情報が第三者に取得されたことを確認",
+     "url": "https://scan.netsecurity.ne.jp/article/2026/10/01/56360.html",
+     "source": "ScanNetSecurity"
+    },
+    {
+     "title": "「タイムズカー」に不正アクセス、運転免許証画像含む会員情報が第三者に取得されたことを確認",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kRU1Yel96cmhnTnB0TG1LTjNTZEFPdHVNa0ZQVkVRd3RSY1M4YzFkNVBpN2pNSGRhWXFQSENwcjFpWURHN1ZBTmtsVEctZUxMNFpsWlVPcHo3RDZ6cm5KSmRNeDJzc1lXWFBSaQ?oc=5",
+     "source": "ScanNetSecurity"
+    },
+    {
+     "title": "タイムズカーの免許証画像漏えい、「なりすまし」による口座開設やローン契約の恐れ…「被害者は早急に対策を」",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fWTFoUGVfdnM4NUpUSm50WHRkRUIxeS1SNmI1TjQzYjhGWGtsSnVjR0J3eU1EdDI1dDYzcHI3emFZSmJiLUZJWUphazVZdS1lSVp0OFVqanZQVXQ2SmpVOXVLR2FOdw?oc=5",
+     "source": "読売新聞"
+    }
+   ]
+  },
+  {
+   "title": "国立大にまたサイバー攻撃 佐賀大でランサムウェア被害、NASのファイルが暗号化",
+   "url": "https://www.itmedia.co.jp/news/article/2609/28/2000001792/",
+   "source": "ITmedia",
+   "date": "2026-09-28T02:53:46+00:00",
+   "summary": "佐賀大学は9月25日、事務情報システムの一部でランサムウェアによる被害が発生したと発表した。事務用端末の利用を停止し、感染経路と被害範囲を調べている。",
+   "region": "国内",
+   "tags": [
+    "ランサムウェア",
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "佐賀大学のNASにランサムウェア攻撃、ファイルが暗号化される被害",
+     "url": "https://scan.netsecurity.ne.jp/article/2026/09/30/56346.html",
+     "source": "ScanNetSecurity"
+    }
+   ]
+  },
+  {
+   "title": "OpenAIのAIエージェントによる豪州政府Medicare統計ポータルへの不正アクセスについてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/09/26/070036",
+   "source": "piyolog",
+   "date": "2026-09-25T22:00:36+00:00",
+   "summary": "2026年9月24日、オーストラリアのアンソニー・アルバニージー首相は、OpenAIのAIエージェントが同国のMedicare統計報告サービスポータルに不正アクセスしていたことを公表しました。ここでは関連する情報をまとめます。 医薬品支出の調査中にポータルへ侵入 2026年6月18日、OpenAIの研究チームは内部モデ",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "Gyazoへの不正アクセス、新たに約1.74億件の画像メタデータ流出",
+   "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001772/",
+   "source": "ITmedia",
+   "date": "2026-09-25T11:13:14+00:00",
+   "summary": "Helpfeelは9月25日、画像共有サービス「Gyazo」への不正アクセスに関する第二報を公開し、ユーザーが過去に削除した画像のメタデータ約1億7400万件も流出していたと発表した。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "日米豪独7機関が公表した北朝鮮のサイバー攻撃グループ「WaterPlum」と北朝鮮IT労働者についてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/09/25/141110",
+   "source": "piyolog",
+   "date": "2026-09-25T05:11:10+00:00",
+   "summary": "警察庁と国家サイバー統括室(NCO)は2026年9月18日、米国、豪州、ドイツの関係機関とともに、北朝鮮を背景とするサイバー攻撃グループ「WaterPlum」(ウォータープラム)の攻撃手口と、北朝鮮IT労働者による外貨獲得や採用応募の実態を明らかにする文書を合同で公表しました。ここでは関連する情報をまとめます。 採用面",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "GoogleのAIモデルが評価中に実在企業のシステムへ侵入した事案についてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/09/25/130414",
+   "source": "piyolog",
+   "date": "2026-09-25T04:04:14+00:00",
+   "summary": "2026年9月18日、Googleは自社のAI「Gemini」が第三者による能力評価の実施中に、実在する企業3社のシステムへ不正アクセスしていたことを明らかにしました。事案が発生したのは2026年5月。Googleが公にこれを認めたのは、米紙ウォール・ストリート・ジャーナル(WSJ)の取材を受けてからでした。ここでは関",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "美容医療プラットフォーム「Unni（カンナムオンニ）」への不正アクセスについてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/09/24/141557",
+   "source": "piyolog",
+   "date": "2026-09-24T05:15:57+00:00",
+   "summary": "2026年9月7日、美容医療の情報プラットフォーム「Unni（カンナムオンニ）」を運営するヒーリングペーパー(Healingpaper)は、同社サービスへの不正アクセスにより、日本の利用者約4万8000人を含む21万9665人分の個人情報が漏えいしたと公表しました。ここでは関連する情報をまとめます。 相談履歴照会API",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "旭化成の元従業員による営業秘密の持ち出しについてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/09/24/105225",
+   "source": "piyolog",
+   "date": "2026-09-24T01:52:25+00:00",
+   "summary": "2026年9月17日、旭化成株式会社は、同社の元従業員が在職中に入手した機密情報を不正に持ち出し中国企業に流出させていたとして、不正競争防止法違反の疑いで愛知県警に逮捕されたと公表しました。ここでは関連する情報をまとめます。 転職先からの相談が発覚の端緒に 元従業員は1984年に旭化成へ入社し、2018年に退職するまで",
+   "region": "国内",
+   "tags": [
+    "内部不正"
+   ]
+  },
+  {
+   "title": "LimeLeads（limeleads.com）から約1,784万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/LimeLeads",
+   "source": "Have I Been Pwned",
+   "date": "2026-09-22T08:02:37Z",
+   "summary": "漏えい発生 2019-08-01。含まれる情報: メール・位置情報・電話番号",
+   "region": "海外",
+   "count": 17838396,
+   "tags": []
+  },
+  {
+   "title": "Burger King Russia（burgerkingrus.ru）から約316万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/BurgerKingRussia",
+   "source": "Have I Been Pwned",
+   "date": "2026-09-21T13:54:00Z",
+   "summary": "漏えい発生 2024-08-25。含まれる情報: 生年月日・メール・性別・位置情報・氏名・電話番号",
+   "region": "海外",
+   "count": 3155792,
+   "tags": []
+  },
+  {
+   "title": "ニチレイ、計5万件超の個人情報漏えいを確認 7月のサイバー攻撃で",
+   "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001648/",
+   "source": "ITmedia",
+   "date": "2026-09-18T11:00:36+00:00",
+   "summary": "ニチレイは9月18日、7月に発生したシステム障害について、サイバー攻撃を受けたサーバの一部に保管していた個人情報計5万3866件の漏えいを確認したと発表した。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "4件目も見つかったAnthropicの評価中AIモデルによる不正アクセス事案についてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/09/15/141320",
+   "source": "piyolog",
+   "date": "2026-09-15T05:13:20+00:00",
+   "summary": "2026年9月9日、Anthropicは研究報告を公表し、同じ評価パートナーが構築したサイバーセキュリティ評価の中で、自社モデルが実在する第三者システムへ不正アクセスした事例が新たに1件見つかり、計4件になったことを明らかにしました。同社は2026年7月30日時点の説明を修正し、独立したAI評価組織METRとの調査契約",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "Gyazoへの不正アクセスについてまとめてみた",
+     "url": "https://piyolog.hatenadiary.jp/entry/2026/09/17/032044",
+     "source": "piyolog"
+    }
+   ]
+  },
+  {
+   "title": "Chess.com (2026)（chess.com）から約465万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/Chess2026",
+   "source": "Have I Been Pwned",
+   "date": "2026-09-13T13:09:11Z",
+   "summary": "漏えい発生 2026-08-03。含まれる情報: メール・位置情報・氏名・ユーザー名",
+   "region": "海外",
+   "count": 4653212,
+   "tags": []
+  },
+  {
+   "title": "デジタル庁に不正アクセス、個人情報24.6万件漏えいか 各府省庁の職員情報など",
+   "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001406/",
+   "source": "ITmedia",
+   "date": "2026-09-11T04:56:53+00:00",
+   "summary": "デジタル庁は9月11日、同庁が運用する「ガバメントソリューションサービス」（GSS）が外部から不正アクセスを受け、氏名やメールアドレスなど約24万6000件の個人情報が漏えいした可能性があると発表した。一般の人の個人情報は含まれていないという。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "McKesson（mckesson.com）から約640万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/McKesson",
+   "source": "Have I Been Pwned",
+   "date": "2026-09-10T05:45:39Z",
+   "summary": "漏えい発生 2026-08-21。含まれる情報: 生年月日・メール・性別・氏名・電話番号・住所",
+   "region": "海外",
+   "count": 6404340,
+   "tags": []
+  },
+  {
+   "title": "店で免許証スキャン→数時間で闇サイトへ 米国防長官含む1億5300万枚の流出、被害者たちが突き止めた意外な出所",
+   "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001284/",
+   "source": "ITmedia",
+   "date": "2026-09-09T03:00:00+00:00",
+   "summary": "米国とカナダの運転免許証1億5300万枚あまりをスキャンした画像が闇サイトで売りに出されているのが見つかった。セキュリティ専門ジャーナリストのブライアン・クレブス氏が出所をたどった結果、レンタカー大手などと取引のある本人確認サービス会社から流出したとみられることが判明。米連邦捜査局（FBI）ニューオーリンズ支部も捜査に",
+   "region": "国内",
+   "tags": []
+  },
+  {
+   "title": "鳥取県の放射線監視システムへのランサムウェア攻撃についてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/09/07/090941",
+   "source": "piyolog",
+   "date": "2026-09-07T00:09:41+00:00",
+   "summary": "2026年9月3日、鳥取県は、同県が運用する環境放射線モニタリングシステムがサイバー攻撃(ランサムウェアによる攻撃)を受け、システムの主監視局内の電子ファイルが暗号化される被害が発生したと公表しました。同システムは、放射線量率や気象等のデータを収集、監視するためのもので、遠隔地のバックアップ用サーバーは被害を免れており",
+   "region": "国内",
+   "tags": [
+    "ランサムウェア",
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "レノボの認証連携を悪用したDropboxの不正アクセスについてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/09/04/141128",
+   "source": "piyolog",
+   "date": "2026-09-04T05:11:28+00:00",
+   "summary": "2026年9月1日(米国時間)、Dropboxは一部利用者のアカウントが、レノボの認証連携(Lenovo ID)を経由した不正アクセスを受けていたことを、複数の報道機関への説明で明らかにしました *1 。レノボも、自社のIDとDropboxの間にあった旧来の連携に問題があったとしています。ここでは関連する情報をまとめま",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "Manchester Airports Group（magairports.com）から約885万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/ManchesterAirportsGroup",
+   "source": "Have I Been Pwned",
+   "date": "2026-09-02T07:36:59Z",
+   "summary": "漏えい発生 2026-08-27。含まれる情報: メール・位置情報・IPアドレス・氏名・電話番号",
+   "region": "海外",
+   "count": 8849657,
+   "tags": []
+  },
+  {
+   "title": "Questel（questel.com）から約123万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/Questel",
+   "source": "Have I Been Pwned",
+   "date": "2026-09-01T04:49:35Z",
+   "summary": "漏えい発生 2026-08-01。含まれる情報: メール・氏名・電話番号・住所",
+   "region": "海外",
+   "count": 1226209,
+   "tags": []
+  },
+  {
+   "title": "「当選した」自虐投稿も……さくら136万件漏えい可能性、対象者へ通知メール続々",
+   "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001017/",
+   "source": "ITmedia",
+   "date": "2026-09-01T04:20:19+00:00",
+   "summary": "さくらインターネットへの不正アクセスを巡り、影響を受けた可能性のある利用者に8月31日ごろから個別の通知メールが届き始めた。SNS上でも受信報告が相次いでいる。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "イエローハット、最大180万人分の情報漏えいか 作業予約システムに不正アクセス",
+   "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000922/",
+   "source": "ITmedia",
+   "date": "2026-08-28T09:27:36+00:00",
+   "summary": "イエローハットは8月28日、店舗での作業予約に使う「イエローハットWEB作業予約システム」が不正アクセスを受け、最大180万1499人分の個人情報が漏えいした可能性があると発表した。漏えいした可能性があるのは氏名や電話番号などで、クレジットカード情報は含まないとしている。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "トレファク子会社に不正アクセス、13万人超の顧客情報漏えい 二段階認証設定しておらず",
+   "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000908/",
+   "source": "ITmedia",
+   "date": "2026-08-28T07:24:41+00:00",
+   "summary": "トレジャー・ファクトリーは8月28日、連結子会社のカインドオルが運営するECサイトが第三者による不正アクセスを受け、13万6464人分の個人情報が漏えいしたと発表した。原因は、スタッフアカウントの認証情報を狙ったフィッシングメールだったという。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "NISA口座「もぬけの殻」に 不正アクセス被害者らが証券4社に原状回復求め調停",
+   "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000891/",
+   "source": "ITmedia",
+   "date": "2026-08-28T04:10:56+00:00",
+   "summary": "不正アクセスで証券口座を乗っ取られ、保有する有価証券を勝手に売却されたとする79人が27日、大手証券会社4社に対し、原状回復を求める民事調停を東京簡裁に申し立てた。同日、都内で記者会見した被害者らは「口座から一銭もなくなっていた。もぬけの殻だった」などと訴え、早急な対応を求めた。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "ANA子会社のデジタルギフト「選べるe-GIFT」に不正アクセス 担当者情報漏えいか、不正交換も",
+   "url": "https://www.itmedia.co.jp/news/article/2608/26/2000000798/",
+   "source": "ITmedia",
+   "date": "2026-08-26T04:24:59+00:00",
+   "summary": "全日空商事は8月24日、法人向けデジタルギフトサービス「選べるe-GIFT」が不正アクセスを受け、契約企業の担当者の個人情報が漏えいした可能性があると発表した。第三者がギフトを不正に交換した被害も確認している。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "Carhartt（carhartt.com）から約1,293万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/Carhartt",
+   "source": "Have I Been Pwned",
+   "date": "2026-08-25T21:34:25Z",
+   "summary": "漏えい発生 2026-08-13。含まれる情報: メール・氏名・電話番号・住所",
+   "region": "海外",
+   "count": 12933413,
+   "tags": []
+  },
+  {
+   "title": "大阪万博の関係者情報が漏えいか 再委託先のMicrosoft 365アカウントに不正アクセス",
+   "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000657/",
+   "source": "ITmedia",
+   "date": "2026-08-20T08:09:26+00:00",
+   "summary": "2025年日本国際博覧会協会は8月20日、委託業務の再委託先が不正アクセスを受け、大阪・関西万博の関係者やイベント出演者の個人情報を含むメールと添付ファイルが漏えいしたおそれがあると発表した。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "不正アクセスで一部停止中のNTT西子会社レンタルサーバ、復旧見通しを公表 調査完了は8月末見込み",
+   "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000651/",
+   "source": "ITmedia",
+   "date": "2026-08-20T06:36:30+00:00",
+   "summary": "NTTスマートコネクトは8月19日、不正アクセスを受けて一部停止中のレンタルサーバサービス「スマイルサーバ」について、9月中旬ごろの復旧環境の提供開始を目標にすると発表した。外部機関による調査の完了は8月末を見込む。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "Oz Hair and Beauty（ozhairandbeauty.com）から約199万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/OzHairAndBeauty",
+   "source": "Have I Been Pwned",
+   "date": "2026-08-19T03:15:00Z",
+   "summary": "漏えい発生 2026-08-15。含まれる情報: メール・位置情報・氏名・電話番号",
+   "region": "海外",
+   "count": 1988331,
+   "tags": []
+  },
+  {
+   "title": "両毛システムズ、社内システムに不正アクセス被害",
+   "url": "https://www.itmedia.co.jp/news/article/2608/17/2000000566/",
+   "source": "ITmedia",
+   "date": "2026-08-17T05:26:44+00:00",
+   "summary": "情報流出などの影響は「確認中」で、詳細は判明していない。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ]
+  },
+  {
+   "title": "RingCentral（ringcentral.com）から約160万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/RingCentral",
+   "source": "Have I Been Pwned",
+   "date": "2026-08-13T10:54:40Z",
+   "summary": "漏えい発生 2026-07-27。含まれる情報: メール・氏名・電話番号・住所",
+   "region": "海外",
+   "count": 1596490,
+   "tags": []
+  },
+  {
+   "title": "ヨネックス、公式ECショップに不正ログイン 氏名や住所、購入履歴が閲覧された恐れ パスワード変更呼び掛け",
+   "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000527/",
+   "source": "ITmedia",
+   "date": "2026-08-13T04:51:04+00:00",
+   "summary": "ヨネックスは8月12日、公式オンラインショップで第三者による不正ログインが発生したと発表した。リスト型攻撃によるもので、利用者に対しパスワードの再設定を呼び掛けている。",
+   "region": "国内",
+   "tags": [
+    "不正ログイン"
+   ]
+  },
+  {
+   "title": "Exact Sciences（exactsciences.com）から約1,087万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/ExactSciences",
+   "source": "Have I Been Pwned",
+   "date": "2026-08-07T06:27:29Z",
+   "summary": "漏えい発生 2026-07-15。含まれる情報: 生年月日・メール・性別・氏名・電話番号・住所",
+   "region": "海外",
+   "count": 10869543,
+   "tags": []
+  },
+  {
+   "title": "Suno（suno.com）から約5,528万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/Suno",
+   "source": "Have I Been Pwned",
+   "date": "2026-07-20T19:49:51Z",
+   "summary": "漏えい発生 2025-11-25。含まれる情報: メール・氏名・カード情報の一部・電話番号・住所",
+   "region": "海外",
+   "count": 55282226,
+   "tags": []
+  },
+  {
+   "title": "Paidwork（paidwork.com）から約2,327万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/Paidwork",
+   "source": "Have I Been Pwned",
+   "date": "2026-07-19T22:57:18Z",
+   "summary": "漏えい発生 2026-03-29。含まれる情報: 銀行口座・生年月日・メール・性別・IPアドレス・氏名・パスワード・電話番号・住所",
+   "region": "海外",
+   "count": 23272765,
+   "tags": []
+  },
+  {
+   "title": "Goose Creek（goosecreek.com）から約657万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/GooseCreek",
+   "source": "Have I Been Pwned",
+   "date": "2026-07-15T05:03:14Z",
+   "summary": "漏えい発生 2026-06-09。含まれる情報: メール・氏名・電話番号・住所",
+   "region": "海外",
+   "count": 6574121,
+   "tags": []
+  },
+  {
+   "title": "Moody Bible Institute（moody.edu）から約230万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/MoodyBibleInstitute",
+   "source": "Have I Been Pwned",
+   "date": "2026-07-03T16:03:25Z",
+   "summary": "漏えい発生 2026-06-15。含まれる情報: 生年月日・メール・性別・氏名・電話番号・住所",
+   "region": "海外",
+   "count": 2303416,
+   "tags": []
+  },
+  {
+   "title": "Sysco（sysco.com）から約269万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/Sysco",
+   "source": "Have I Been Pwned",
+   "date": "2026-06-28T15:57:29Z",
+   "summary": "漏えい発生 2026-06-15。含まれる情報: メール・氏名・電話番号・住所・ユーザー名",
+   "region": "海外",
+   "count": 2691852,
+   "tags": []
+  },
+  {
+   "title": "Madison Square Garden Sports（msgsports.com）から約980万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/MadisonSquareGardenSports",
+   "source": "Have I Been Pwned",
+   "date": "2026-06-24T13:02:33Z",
+   "summary": "漏えい発生 2026-06-05。含まれる情報: メール・氏名・電話番号・住所",
+   "region": "海外",
+   "count": 9796738,
+   "tags": []
+  },
+  {
+   "title": "Operation Endgame 4.0から約435万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/OperationEndgame4",
+   "source": "Have I Been Pwned",
+   "date": "2026-06-18T20:08:06Z",
+   "summary": "漏えい発生 2026-06-18。含まれる情報: メール・パスワード",
+   "region": "海外",
+   "count": 4348526,
+   "tags": []
+  },
+  {
+   "title": "June 2026 Stealer Logsから約5,628万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/June2026StealerLogs",
+   "source": "Have I Been Pwned",
+   "date": "2026-06-15T19:30:15Z",
+   "summary": "漏えい発生 2026-06-15。含まれる情報: メール・パスワード",
+   "region": "海外",
+   "count": 56278397,
+   "tags": []
+  },
+  {
+   "title": "DentaQuest（dentaquest.com）から約255万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/DentaQuest",
+   "source": "Have I Been Pwned",
+   "date": "2026-06-03T22:56:30Z",
+   "summary": "漏えい発生 2026-05-23。含まれる情報: 生年月日・メール・性別・公的身分証・氏名・電話番号・住所",
+   "region": "海外",
+   "count": 2553599,
+   "tags": []
+  },
+  {
+   "title": "Charter（charter.com）から約485万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/Charter",
+   "source": "Have I Been Pwned",
+   "date": "2026-05-28T20:00:34Z",
+   "summary": "漏えい発生 2026-05-23。含まれる情報: メール・氏名・電話番号・住所",
+   "region": "海外",
+   "count": 4851517,
+   "tags": []
+  },
+  {
+   "title": "Addi（addi.com）から約3,453万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/ADDI",
+   "source": "Have I Been Pwned",
+   "date": "2026-05-18T20:55:51Z",
+   "summary": "漏えい発生 2026-03-25。含まれる情報: メール・公的身分証・IPアドレス・氏名・電話番号・住所",
+   "region": "海外",
+   "count": 34532941,
+   "tags": []
+  },
+  {
+   "title": "Marcus & Millichap（marcusmillichap.com）から約184万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/MarcusMillichap",
+   "source": "Have I Been Pwned",
+   "date": "2026-05-03T22:53:12Z",
+   "summary": "漏えい発生 2026-04-12。含まれる情報: メール・氏名・電話番号・住所",
+   "region": "海外",
+   "count": 1837078,
+   "tags": []
+  },
+  {
+   "title": "ZenBusiness（zenbusiness.com）から約512万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/ZenBusiness",
+   "source": "Have I Been Pwned",
+   "date": "2026-05-02T05:53:38Z",
+   "summary": "漏えい発生 2026-03-27。含まれる情報: メール・氏名・電話番号",
+   "region": "海外",
+   "count": 5118184,
+   "tags": []
+  },
+  {
+   "title": "Pitney Bowes（pitneybowes.com）から約824万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/PitneyBowes",
+   "source": "Have I Been Pwned",
+   "date": "2026-04-27T22:52:07Z",
+   "summary": "漏えい発生 2026-04-20。含まれる情報: メール・氏名・電話番号・住所",
+   "region": "海外",
+   "count": 8243989,
+   "tags": []
+  },
+  {
+   "title": "ADT（adt.com）から約549万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/ADT",
+   "source": "Have I Been Pwned",
+   "date": "2026-04-27T07:36:42Z",
+   "summary": "漏えい発生 2026-04-20。含まれる情報: 生年月日・メール・氏名・電話番号・住所",
+   "region": "海外",
+   "count": 5488888,
+   "tags": []
+  },
+  {
+   "title": "Udemy（udemy.com）から約140万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/Udemy",
+   "source": "Have I Been Pwned",
+   "date": "2026-04-26T23:01:50Z",
+   "summary": "漏えい発生 2026-04-24。含まれる情報: メール・氏名・電話番号・住所",
+   "region": "海外",
+   "count": 1401259,
+   "tags": []
+  },
+  {
+   "title": "Carnival（carnivalcorp.com）から約753万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/Carnival",
+   "source": "Have I Been Pwned",
+   "date": "2026-04-24T01:58:19Z",
+   "summary": "漏えい発生 2026-04-18。含まれる情報: 生年月日・メール・性別・位置情報・氏名",
+   "region": "海外",
+   "count": 7531359,
+   "tags": []
+  },
+  {
+   "title": "Amtrak（amtrak.com）から約215万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/Amtrak",
+   "source": "Have I Been Pwned",
+   "date": "2026-04-17T04:54:48Z",
+   "summary": "漏えい発生 2026-04-03。含まれる情報: メール・氏名・住所",
+   "region": "海外",
+   "count": 2147679,
+   "tags": []
+  },
+  {
+   "title": "McGraw Hill（mheducation.com）から約1,350万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/McGrawHill",
+   "source": "Have I Been Pwned",
+   "date": "2026-04-16T01:31:14Z",
+   "summary": "漏えい発生 2026-04-10。含まれる情報: メール・氏名・電話番号・住所",
+   "region": "海外",
+   "count": 13500136,
+   "tags": []
+  },
+  {
+   "title": "Hallmark（hallmark.com）から約174万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/Hallmark",
+   "source": "Have I Been Pwned",
+   "date": "2026-04-12T02:01:11Z",
+   "summary": "漏えい発生 2026-03-31。含まれる情報: メール・氏名・電話番号・住所",
+   "region": "海外",
+   "count": 1736520,
+   "tags": []
+  }
+ ]
+}
