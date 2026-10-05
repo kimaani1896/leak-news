@@ -30,6 +30,8 @@ FEEDS = [
 ]
 
 INCLUDE = re.compile(r"漏えい|漏洩|漏れ|流出|不正アクセス|ランサム|情報窃取|閲覧できる状態|閲覧可能|誤送信|誤送付|誤配|紛失|盗難|不正ログイン|サイバー攻撃|個人情報")
+# 見出しにあるときだけ拾う言葉（本文だけだと関係ない記事まで入るため）
+INCLUDE_TITLE = re.compile(r"カード情報|改ざん|不正なページ")
 # 対策製品の宣伝・イベント告知・一般論の記事を落とす
 # 「サイバー攻撃」「ランサムウェア」の広い検索で拾った記事は、事件の見出しの形をしたものだけ残す
 INCIDENT = re.compile(r"(に|へ|で|が|、|\s)(サイバー攻撃|ランサム|不正アクセス)|サイバー攻撃(を)?受け|ランサム\S{0,4}(被害|攻撃)|被害|障害|漏え|漏洩|流出")
@@ -38,7 +40,7 @@ EXCLUDE = re.compile(r"セミナー|ウェビナー|提供開始|発売|募集|�
 # タグ（上から順に判定、複数可）
 TAGS = [
     ("ランサムウェア", re.compile(r"ランサム")),
-    ("不正アクセス", re.compile(r"不正アクセス|サイバー攻撃|不正侵入|ハッキング|情報窃取|マルウェア|Emotet")),
+    ("不正アクセス", re.compile(r"不正アクセス|サイバー攻撃|不正侵入|ハッキング|情報窃取|マルウェア|Emotet|改ざん|不正なページ")),
     ("不正ログイン", re.compile(r"不正ログイン|リスト型|なりすましログイン")),
     ("設定ミス", re.compile(r"閲覧できる状態|閲覧可能|設定(の)?不備|設定ミス|公開状態")),
     ("誤送信・紛失", re.compile(r"誤送信|誤送付|誤配|誤掲載|紛失|盗難|置き忘れ")),
@@ -114,7 +116,7 @@ def parse_feed(name, raw):
 
 def is_leak(it):
     text = it["title"] + " " + it["summary"]
-    return bool(INCLUDE.search(text)) and not EXCLUDE.search(it["title"])
+    return bool(INCLUDE.search(text) or INCLUDE_TITLE.search(it["title"])) and not EXCLUDE.search(it["title"])
 
 
 def hibp():

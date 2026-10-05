@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T13:31:43.417728+00:00",
+ "updated": "2026-10-05T13:39:07.251375+00:00",
  "items": [
   {
    "title": "大起水産 不正アクセスで約17万5000人分の個人情報漏えいか",
@@ -170,6 +170,11 @@
      "title": "焼肉きんぐ 公式アプリに不正アクセスによるサイバー攻撃-約1,078万8,963件の個人情報漏洩",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWkFFaGowUnlIM0lIdk1MUVVUY0QtV1Y0QVBQUTk4dE0zdmt6WGF2eDZTUW5YdnQ5eTQ3eWRfaWpGemRHRWJQVGkwVl9weGttdzlHM1BRYXRDeFVrcHgwVkxudEEwRklGYndpbWIyOWJNWjk1MmNrOTdWY1JsLVAzbmtRSHVrQU85dExYVzZ5Y2k?oc=5",
      "source": "合同会社ロケットボーイズ"
+    },
+    {
+     "title": "「焼肉きんぐ」へ不正アクセス 約1079万件の個人情報が流出 防御措置もアプリ登録者ほぼ全てのメールアドレスや電話番号などが流出する（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiNGdfeHBfbDJ3SjU4RXFmYUJudlpTbGktTzczTWtsbkt6UGVfQjNka0FSRlRjajRFdEF2YW1ndzR5MGo0c2JXRDVDUEZYWDhSbHZieURXYmhVdkRMX3RyYVM1blRxX0Y2YUt4Q0FKWi14dHhyeHBpRUlLenRCbG8?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ],
    "company": "焼肉きんぐ",
@@ -277,6 +282,11 @@
      "title": "大阪公立大の大規模システム障害、サイバー攻撃が原因か 13万人超の個人情報流出恐れ",
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUVhaRGxWRnJEVFVjUEEyYmVJNkQ1cm1yeUpRbDJoLTRUbkFSMFc0Q0lWN2x1eWxNX2Joa2JGVWQ3MkdKSWdiZ19CU1BvSl9XRk5XdlJ0Tk1lS0p2WTl4M3RzUVRkWjRwVXBQNlBGU25YR0FHWXVBM0FkRHpkTmpfZ3ZfZ0JoTG95OElRYzdLTG1neEhmSDlrZUdTV3FRWDNEREs1NkZYbUVjUWxwaW9RbXRNUnBzWlkwWEdtRnJsQmNIWnJIc1JONjlYVVhldW95V200T0VpYXpiYTVLcGZBZi1YMDNXMjliV08xMUJTdThmTklNOU9hcmN30gGqAUFVX3lxTFBwdXlkaWZFQVVzYTlHNFBsUnhIU3VrUjRhQXJNaDRnVWExOVdhMDQyWFoxV2xNcG5TLUptZjRjYm9ja2hiN1NPT1FoQk56WnRqazRrdndNa1kxbGlNczJCLW5aTFJOcHRCbTNjNmNvODJRcm10b3hGV3hLaHBWbmlJOVZaOTU0dGU4UUhQTC1YS244YkRQNWxhRF9yeTNBc1REQzZmWUFTMnZn?oc=5",
      "source": "ｄメニューニュース"
+    },
+    {
+     "title": "【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪 ランサムウェアによるサイバー攻撃か 基盤システム障害で全授業が休講中 対面授業は9日以降再開予定",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2RWFSdlppM2N2a3BvYmZONlBRM3loNlNkMFJmQklLVzFZWjJIRElqVG5oMkdfOVNUQWlLMnNBZ0c1a0xhQjRkSHEzdExkVlpwTlg3Q1hlMXJ6SlE5dmFZ?oc=5",
+     "source": "TBS NEWS DIG"
     }
    ],
    "company": "大阪公立大",
@@ -572,6 +582,20 @@
     }
    ],
    "company": "日経グループ",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "「ドズル社ストア」で不正なページに誘導、カード情報を入力した場合はカード会社への連絡を呼びかけ",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/05/56386.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-10-04T23:05:22+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "ドズル社ストア",
    "count": null,
    "people": ""
   },
