@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T16:28:51.883016+00:00",
+ "updated": "2026-10-05T16:30:45.087843+00:00",
  "items": [
   {
    "title": "ジェリービーンズグループの資金流出についてまとめてみた",
@@ -866,13 +866,21 @@
    "title": "「アバハウス」全顧客の情報漏えいか 会員・受注DBに不正アクセス 「不審な返金メール届いた」報告で判明",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92NEE4R0xhbGFlLWthdlVYM0RWTndDaENxUDl1Sk1ZUmsxNTZzdm5fWC15QnU0UTZhN3pvUHZHZnFBbEctWE5zVVVrUGg4dVlhdWxSdzBNcmhqa2xHT1FnU0c0cW1CMFZUdVE?oc=5",
    "source": "ITmedia",
-   "date": "2026-10-03T01:45:11+00:00",
+   "date": "2026-10-03T01:02:09+00:00",
    "summary": "",
    "region": "国内",
    "tags": [
     "不正アクセス"
    ],
+   "company": "アバハウス",
+   "count": null,
+   "people": "",
    "others": [
+    {
+     "title": "ABAHOUSE 全顧客の情報漏えいか",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yNHA1MVBma3JqTkhKRmJCRmZJVGhla3hCYmlQeTAxVUk4SXZkSFMwWHF1UEhBWWt2UEdPenZSNmtxVXVncENzY2JWNlNDZW9P?oc=5",
+     "source": "Yahoo!ニュース"
+    },
     {
      "title": "アバハウスに不正アクセス、会員の個人情報漏洩の恐れ―実際の注文内容と一致する「返金」詐欺メールも確認",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSnlEMXgzTlNHby1SVWMyVFM3djFkUVlwT3dZSUxkaGk5OV8wLXhoNXpFMkdyNkh5LVVPcngzaWhuOGtZZlBaa3BoN05BbzdTRkJqaFM4YTc0Q0k1cWc1dVgtYWY2X0xacHlER294S3JobnBvRDVYSmtnaDdORmpDLWJ5SW9TUktkcUc0NFNjR1NZeXlhYzR2UE9Fdlc?oc=5",
@@ -893,22 +901,7 @@
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVTNvNGJmNjJ6YlR4X2FQM3g1Sl9LM3Vod2lKWWZ6WHdLMllwTzRSY1A5ZUVXeG9zMTNSSy0zdHg3R1JhVlBqaXI0QzNYZDlEckhVZlFIaGZCZ0xXbjBvVFNmdUZxOGpDWUh0bThXUF9BbVUyTVZUaGpVMUZ5b0RFamF3?oc=5",
      "source": "fashionsnap.com"
     }
-   ],
-   "company": "アバハウス",
-   "count": null,
-   "people": ""
-  },
-  {
-   "title": "ABAHOUSE 全顧客の情報漏えいか",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yNHA1MVBma3JqTkhKRmJCRmZJVGhla3hCYmlQeTAxVUk4SXZkSFMwWHF1UEhBWWt2UEdPenZSNmtxVXVncENzY2JWNlNDZW9P?oc=5",
-   "source": "Yahoo!ニュース",
-   "date": "2026-10-03T01:02:09+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [],
-   "company": "ABAHOUSE",
-   "count": null,
-   "people": ""
+   ]
   },
   {
    "title": "ヤマトと佐川に不正アクセス＝個人情報漏えいの恐れ(時事通信)",

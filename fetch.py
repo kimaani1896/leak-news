@@ -292,11 +292,15 @@ def find_count(title):
     return best
 
 
+# 同じ会社のローマ字表記・カタカナ表記などの揺れ（見つけたら足す）。左を右にそろえる
+ALIASES = {"ABAHOUSE": "アバハウス"}
+
+
 def clean_name(c):
     c = re.sub(GENERIC_HEAD, "", c.strip(" 　「」『』"))
     c = re.sub(r"の([A-Za-z].*|計|約|全)$", "", c)
     c = re.sub(r"(Webサイト|公式サイト|のシステム.*|社員|の\S*(障害|被害|問題))$", "", c)
-    return c
+    return ALIASES.get(c.upper(), c)
 
 
 def find_name(title):
