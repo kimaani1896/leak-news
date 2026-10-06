@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T13:11:43.630856+00:00",
+ "updated": "2026-10-06T14:11:41.234051+00:00",
  "items": [
   {
    "title": "介護事業者向けの報告書依頼メールで誤送信 - 鳥取県",
@@ -14,6 +14,18 @@
    "company": "鳥取県",
    "count": null,
    "people": ""
+  },
+  {
+   "title": "旭化成系、医療従事者向けサイトで情報漏洩か 最大約56万人",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tVXhMYWxuZ2QtYi1oYXAwWElUWGpIa2toamZFUy1oVW8wSFd1WHQ1Um1FNlAzeVZBRjE1S0VvOXNJNkJSUW1MYVVUeUhHUVozSEtBYjFlVGF6SHppRlpTRU9oN1JoNUpyUVotdw?oc=5",
+   "source": "日本経済新聞",
+   "date": "2026-10-06T10:27:32+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "旭化成系",
+   "count": 560000,
+   "people": "56万人"
   },
   {
    "title": "広島・修道学園 不正アクセスで個人情報流出か",
@@ -3258,6 +3270,39 @@
     "不正アクセス"
    ],
    "company": "",
+   "count": null,
+   "people": "",
+   "others": [
+    {
+     "title": "国内の不正アクセス、最多ペース 相次ぐ個人情報漏えい、対策急務",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlN3VmWlhGT2pnbmF0bXBvX3VFcDh2Uk5pb3J0cFRpNjlIWnFGWGo0eGhoUVBvbmFsWE9zNGxXeE5oRXliT1hNRm9sQ2E5X09wWTJKeDRKVExkVHBqaUE?oc=5",
+     "source": "新潟日報"
+    }
+   ]
+  },
+  {
+   "title": "企業標的、不正アクセス相次ぐ ＧＭＯ、会員ポイントに被害―ＡＩ普及が影",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GVUZRMjJMV29qb0Y1NEFvTWdYUnhCLW9SYWV3STFuNjVCZ2t1REV3YmxhNkRiUUVtZXFvM3pydF9HcGdHTXRuTFFkR1AtV2xmdFN1Z09tV2dWazJ5cjN6cTZZVQ?oc=5",
+   "source": "時事ドットコム",
+   "date": "2026-10-06T09:34:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "企業標的",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "楽天の会員情報が漏洩している？ 広報は「確認されていない」と回答（山口健太） - エキスパート",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWhYckNoNWR1ZENhNkgyLUM4SF9Ic1Z1UHlRcDNKR05HU1ZFOGZnUVhuX1Z3cXVscC1mOXh6c05NQi1uWlZJcVNVbVZIMWNueV9Sd0RsTk4xSnlfSUxFT2paU2NaMmlzX2k1MWwwdjlnMllWVlltTHM0WU1WcXlTSGNjR1FOV3NY?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-06T09:23:22+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "楽天",
    "count": null,
    "people": ""
   },
