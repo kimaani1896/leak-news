@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T10:46:38.270581+00:00",
+ "updated": "2026-10-06T10:56:47.568386+00:00",
  "items": [
   {
    "title": "広島・修道学園 不正アクセスで個人情報流出か",
@@ -37,48 +37,6 @@
    "people": ""
   },
   {
-   "title": "アプリシステムが侵害、顧客情報流出の可能性 - 回転ずしチェーン",
-   "url": "https://www.security-next.com/191070",
-   "source": "Security NEXT",
-   "date": "2026-10-06T08:48:01+00:00",
-   "summary": "回転ずしチェーンなどを展開する大起水産は、「大起水産公式アプリ」が不正アクセスを受け、顧客の個人情報が流出した可能性があることを明らかにした。アプリは通常通り利用できる。",
-   "region": "国内",
-   "tags": [
-    "不正アクセス"
-   ],
-   "company": "回転ずしチェーン",
-   "count": null,
-   "people": ""
-  },
-  {
-   "title": "韓国金融機関6行へAIを使ったサイバー攻撃、2万5000人超の個人情報流出",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DUkRRblBMZGJVNmdwTno1T0VhVXZ5NnFBODVrOXktWjBsNmhqRkJCSXRpUjk5VmY3YXg0LTVNN29BWFJFVTJUUmtTM2dZSkk?oc=5",
-   "source": "ビジネス+IT",
-   "date": "2026-10-06T08:10:00+00:00",
-   "summary": "",
-   "region": "海外",
-   "tags": [
-    "不正アクセス"
-   ],
-   "company": "",
-   "count": 25000,
-   "people": "2.5万人"
-  },
-  {
-   "title": "ランサム攻撃メンバー拘束 ロシア国籍の男、独へ移送",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KTEZJN0V5TTdvQlB5UE5Mazc4Z0ZpcFFyNnlUcER4a0JTRGhialhwbWZOd1JiVkpfV1Y3NmlIUzJ5cGk1Z19BNFk2SQ?oc=5",
-   "source": "47NEWS",
-   "date": "2026-10-06T08:06:40+00:00",
-   "summary": "",
-   "region": "海外",
-   "tags": [
-    "ランサムウェア"
-   ],
-   "company": "",
-   "count": null,
-   "people": ""
-  },
-  {
    "title": "シチズン時計 約10万人分の情報漏洩の可能性 委託先に不正アクセス 決済情報も流出か（テレビ朝日系（ANN））",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pLWZlQU10aWxqU202VUxxcXBlZVZjaTRGWjFhV3labTJ6aC1lUThQQjVQbnRIbzdyVmtRQnMxMHQ5b2RmdHJtbWtRNVhteUVMcW5VVTFycWtsdVZLNmVGcVpnTnFONHVFaGlBU1ZTVFZxR0QtSlpGRElUcFhWQmc?oc=5",
    "source": "Yahoo!ニュース",
@@ -98,58 +56,16 @@
      "title": "シチズン時計10万人分漏えいか 個人情報、委託業者不正アクセス（共同通信）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nOHZiQkxMd0hWanMzdm5iN1NvX2JBVEFkb25JSmdnRDQ1bWwyWExMY3M1WkNqV3Z6M3hGaGlUTWFWbEo1SGtRWEZ0S2RsZTBVeEtmYkJnMFhFbmVTQlRwbUxBUG1PY2NrOUVBeVpNWnFGZkwyaTlaZ3QwZ1hQLVE?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "シチズン時計 約10万人分の個人情報が流出か",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TYmtxUFRaSm1KWDdqOC0xX3hjR2xtT3lJaFlIUGhnX2FiTjA0a0c1YlJseHZINU5GMExuXzNxSl9pR1NVeHNid1I1T3A3LVBxYlpfcXN1VTdTX2VjbEdB?oc=5",
+     "source": "NHKニュース"
     }
    ],
    "company": "シチズン時計",
    "count": 100000,
    "people": "10万人"
-  },
-  {
-   "title": "サイバー攻撃による情報流出続発、「大変深刻に受け止め」＝官房長官（ロイター）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aTGRJX2JxdFVzdzhZYm5FVFlSQ0NfcmF1bE5pT2M5aGdoNUdvcnA4c0xybjVHQ2pWdnl4VGdNQlFybGlyWnBzM0VKOHRzUkZJS3lNQVVRYVV0TWRLdnEtLVh2M1dnUUJVX0hRaGRJTk5HX1BCdjItZFdaUFp0R2c?oc=5",
-   "source": "Yahoo!ニュース",
-   "date": "2026-10-06T07:48:48+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [
-    "不正アクセス"
-   ],
-   "others": [
-    {
-     "title": "サイバー攻撃による情報流出続発、「大変深刻に受け止め」＝官房長官",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZjZteWd2alI2ZmU3QXRGZTh6bzlZaGpPWmdVMG5BYmVveDRkQ3N1NlRmcGRnb0JndVZ3dUQzeWRSdUNlZWtKcTRCZ193WENLVm9WQ19aRFBDR1RsY1d2dktvWTFacTllWUx0TW14NTA2N0V2UVQ1eU1xMkRwOTdEWEZVeG1CQQ?oc=5",
-     "source": "Reuters"
-    }
-   ],
-   "company": "大変深刻に受け止め",
-   "count": null,
-   "people": ""
-  },
-  {
-   "title": "国内の不正アクセス、最多ペース AI悪用、サイバー攻撃が容易に（共同通信）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0LVQ4b2d1Wk8zTzZ3dEJYUkZoV2hvcWZNMlZsNDhObzQ0aE84ZExiNGJVTURuY1lrM1dCbEE0UkNZckp5ZDBZamF5WHppMGV0bVlyQVlFd2NsbTduSVNBc3A5dFNZeEYyNkZ0SndPSGZyOTB6dmRFVHhZY1Q5QzA?oc=5",
-   "source": "Yahoo!ニュース",
-   "date": "2026-10-06T07:16:07+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [
-    "不正アクセス"
-   ],
-   "company": "",
-   "count": null,
-   "people": "",
-   "others": [
-    {
-     "title": "国内不正アクセス 過去最多ペース",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmRHN4SnNEUzh2Ukp2bmhDNVN1T1ZDT05oU2M3TWt6V1VlZEhqc1RoMWZGRTIyd3g3V1BRUl84UXQ0QVlxcV9BS2J3ekI0RHY4?oc=5",
-     "source": "Yahoo!ニュース"
-    },
-    {
-     "title": "国内の不正アクセス、最多ペース AI悪用、サイバー攻撃が容易に (共同通信)",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQldfODRJOHpUd1ltVVM1OTd1cDd1TElDSmE5aDVYMW5rRDdwWEV2Vl8xaENqczcyR25xc092b2JKX0hIQXNoZ1Noc0JubU9SWUhFRUl0SFBpdGs2SWs3UnNNN01pb29obHBHUXZjcUc2WDdrU1Bha0hmR1lwUll6cGU4WjIwTnhpNjBFZUZ3?oc=5",
-     "source": "Yahoo!ニュース"
-    }
-   ]
   },
   {
    "title": "楽天ドライブ、不正アクセスで1.5万アカウントの保存データ流出（アスキー）",
@@ -169,27 +85,6 @@
      "title": "「楽天ドライブ」に不正アクセス 保存したデータなど1.5万アカウント分が取得・閲覧のおそれ",
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14RmR1N3ZpaTN0bjUzb25pUUIzRFFUUExaZGVSV0N3aGlZdUVjRTlubjdmNm1manpfeExocEdsRVZCa3ZPYldnWXpQcDJGWmt4S1JTazBFY2lSWjlsN3ppbV9JOGZOQlFreWc?oc=5",
      "source": "itmedia.co.jp"
-    }
-   ]
-  },
-  {
-   "title": "「自分の情報は自分で守って」 不正アクセス頻発で古川デジタル相（時事通信）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13QVEtdGJ0YXE4Zkc3bGF6dW45dmJzWXRxOWRZdnB2X2dlR19JZ2tMZXg4dWw0MDZhYXhnOVJHaGNtTlpPekZ5Y2hkelBFS0JwZTJrbFZveW1PSnhxU015LVkwUHBPZkUyajRnY3J0TV9DbDloS2VHZ041U3dIajg?oc=5",
-   "source": "Yahoo!ニュース",
-   "date": "2026-10-06T05:02:38+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [
-    "不正アクセス"
-   ],
-   "company": "",
-   "count": null,
-   "people": "",
-   "others": [
-    {
-     "title": "不正アクセス頻発「自分の情報は自分で守って」 古川デジタル相：時事ドットコム",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QNlIyX3pfSWFjYlh5XzB3LXF2c2dzNmZMSlQ3dFBFbzItbHRWZU50YU9wWXZ3bTZ1UTZTcnNhbWU1NkM4QmtNa1p6dXVDSGhxS0Rkc3hzblNPVDBPRU1LaThSbw?oc=5",
-     "source": "時事ドットコム"
     }
    ]
   },
@@ -412,20 +307,6 @@
      "source": "合同会社ロケットボーイズ"
     }
    ]
-  },
-  {
-   "title": "トヨタ子会社で営業秘密の情報漏えい事件、愛知県警、元社員男女2人を逮捕［新聞ウォッチ］（レスポンス）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kbkRGblZvV1VmMEJuY0JEWVd2aE9WcUYxUVlLZ2dRMGdORGQ0dWQ3UGhzMUJqalNLbDV5bHRTOHJVcUgyZDVKX3RlZHIwNmRYTl9ycE93RTBTbHUtQWJ4RUkyZG1vc3EzYVJDSHhLcGJtUlBFZnA3RWU1S2p0X00?oc=5",
-   "source": "news.yahoo.co.jp",
-   "date": "2026-10-05T23:18:21+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [
-    "内部不正"
-   ],
-   "company": "トヨタ子会社",
-   "count": 2,
-   "people": "2人"
   },
   {
    "title": "「ベネワン・プラットフォーム」のアンケート機能で他企業・団体の個人情報がダウンロード可能に、不具合を認知するも解消作業が適切に実施されず",
@@ -1262,18 +1143,6 @@
    "people": "9人"
   },
   {
-   "title": "DV被害者らの情報漏洩 5年で68件",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mX1p2ZDhBNWE2UjE4RGEtSDFOaEVRU050cmhGV0pnRm1kVTUzOVR4Rzg2Tnota014UkQ5ampvd0duNkFrX29IdE1YaGoyNW8x?oc=5",
-   "source": "Yahoo!ニュース",
-   "date": "2026-10-04T22:55:43+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [],
-   "company": "",
-   "count": 68,
-   "people": "68人"
-  },
-  {
    "title": "日本経済新聞社へのサイバー攻撃となりすましメール送信についてまとめてみた",
    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/05/115509",
    "source": "piyolog",
@@ -1714,18 +1583,6 @@
    "people": "5.9万人"
   },
   {
-   "title": "本物の警察官と信じた理由は「自分の名や住所など個人情報を知っていた」54.1 ％",
-   "url": "https://scan.netsecurity.ne.jp/article/2026/10/02/56365.html",
-   "source": "ScanNetSecurity",
-   "date": "2026-10-01T23:00:04+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [],
-   "company": "",
-   "count": null,
-   "people": ""
-  },
-  {
    "title": "研究用原子炉利用者の身分証明書などが外部流出 - 原子力機構",
    "url": "https://www.security-next.com/190957",
    "source": "Security NEXT",
@@ -1826,6 +1683,11 @@
      "title": "佐川急便、2026年9月30日 不正アクセスによる個人情報流出の可能性を発表【第1報〜第3報】",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MTm5UWkV5UFJxNnRyQWZOR2I3UVl6b2R6UklDcEhFdENsRXczOW5CZWV3UEFjWVNjTi1YaXg5cXRGWVhxTzM1OWRENHlKLUVTMFhRQmRhMEJnbnB5?oc=5",
      "source": "ECのミカタ"
+    },
+    {
+     "title": "佐川急便「お荷物問い合わせサービス」に不正アクセス、一部利用を制限中",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01Y2M4UTg3SUUwZmNiMWhkeUQ4QjE5bzRkVU9iUDZOSDNzc0wzWFJfZmtxaVR2Y3hqZ2ZCSy1hbnIxc0ptaVF1RVk4TVhhd0xrRS1TM2lGcHl5YTdxeC00Q2pwbUZuMlN4RlVz?oc=5",
+     "source": "INTERNET Watch"
     }
    ],
    "company": "佐川急便",
@@ -1878,20 +1740,6 @@
     "不正アクセス"
    ],
    "company": "VOISING",
-   "count": null,
-   "people": ""
-  },
-  {
-   "title": "ランサム被害拡大企業は自衛強化を急げ",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PcE9jeDdFeDFTbmVnTUdERmpnaFhmSC1lWjBZSTM5Q3pBMU56Z2dHTVhmMENlTDFFajk4WUphVDlDbkdNODJvSWZBWQ?oc=5",
-   "source": "47NEWS",
-   "date": "2026-10-01T01:10:13+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [
-    "ランサムウェア"
-   ],
-   "company": "",
    "count": null,
    "people": ""
   },
@@ -1978,20 +1826,6 @@
    ]
   },
   {
-   "title": "CMSプラグインの脆弱性公表を受け更新作業中に不正アクセスを発見",
-   "url": "https://scan.netsecurity.ne.jp/article/2026/10/01/56357.html",
-   "source": "ScanNetSecurity",
-   "date": "2026-09-30T23:05:09+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [
-    "不正アクセス"
-   ],
-   "company": "",
-   "count": null,
-   "people": ""
-  },
-  {
    "title": "当選が落選に「ULTRA MART」チケット抽選システムに不正アクセス",
    "url": "https://scan.netsecurity.ne.jp/article/2026/10/01/56356.html",
    "source": "ScanNetSecurity",
@@ -2033,18 +1867,6 @@
    "company": "ユニリタ",
    "count": null,
    "people": ""
-  },
-  {
-   "title": "セコマ個人情報漏えいは57万2千人分 スマホアプリ会員の49％",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wdHQxZ3VhWnFuMUlDWm9ZWjZwS2ZUWjhBQlB2ZGU2STA0YXlOaXpqN00weEpxcWhJaFY4MFc2Zm5CVDRIS0RyTE9MaG1BX1dQcmd5Y1pGS2FCQQ?oc=5",
-   "source": "北海道新聞デジタル",
-   "date": "2026-09-30T12:53:08+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [],
-   "company": "",
-   "count": 572000,
-   "people": "57万人"
   },
   {
    "title": "大阪ガス系2社で顧客情報漏洩の可能性 不正アクセス、約8260件",
@@ -2168,7 +1990,7 @@
    "tags": [
     "誤送信・紛失"
    ],
-   "company": "",
+   "company": "鎌倉市児童発達支援センターあおぞら園",
    "count": null,
    "people": ""
   },
@@ -2216,20 +2038,6 @@
     }
    ],
    "company": "手間いらず",
-   "count": null,
-   "people": ""
-  },
-  {
-   "title": "10日間のうちに国内有名企業10社超で情報漏洩・障害・サイバー攻撃被害……まだまだ増える可能性",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aMWJJa01JVzdWTkpEX0traTRqRXJjUVo3SkQwRy1OUUItSGY1Tm9vTFIyckluZndKZ1d4SGdXcWRHWTRJZkRQX2ttNmNCblVDTHViRlV3?oc=5",
-   "source": "EnterpriseZine",
-   "date": "2026-09-29T16:30:31+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [
-    "不正アクセス"
-   ],
-   "company": "",
    "count": null,
    "people": ""
   },
@@ -2386,6 +2194,11 @@
      "title": "約57万件の個人情報漏えいか セイコーマートのサーバーに不正アクセス 名前やメールアドレスなどが第三者に閲覧された可能性 北海道や関東で展開のコンビニ",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LcFpkeUZVbUl6aHhaSFJvckF5RXZpbVl2bTFMNHlVRlhDS25CbWQtbmN0Q3BpZFVUOUNxSHdDclBmSldUNFdqekw1YVlUd2FfdndSNWFLbzE0NER5WHBz?oc=5",
      "source": "TBS NEWS DIG"
+    },
+    {
+     "title": "セコマ個人情報漏えいは57万2千人分 スマホアプリ会員の49％",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wdHQxZ3VhWnFuMUlDWm9ZWjZwS2ZUWjhBQlB2ZGU2STA0YXlOaXpqN00weEpxcWhJaFY4MFc2Zm5CVDRIS0RyTE9MaG1BX1dQcmd5Y1pGS2FCQQ?oc=5",
+     "source": "北海道新聞デジタル"
     }
    ],
    "company": "セイコーマート",
@@ -2770,20 +2583,6 @@
    "people": ""
   },
   {
-   "title": "日米豪独7機関が公表した北朝鮮のサイバー攻撃グループ「WaterPlum」と北朝鮮IT労働者についてまとめてみた",
-   "url": "https://piyolog.hatenadiary.jp/entry/2026/09/25/141110",
-   "source": "piyolog",
-   "date": "2026-09-25T05:11:10+00:00",
-   "summary": "警察庁と国家サイバー統括室(NCO)は2026年9月18日、米国、豪州、ドイツの関係機関とともに、北朝鮮を背景とするサイバー攻撃グループ「WaterPlum」(ウォータープラム)の攻撃手口と、北朝鮮IT労働者による外貨獲得や採用応募の実態を明らかにする文書を合同で公表しました。ここでは関連する情報をまとめます。 採用面",
-   "region": "海外",
-   "tags": [
-    "不正アクセス"
-   ],
-   "company": "",
-   "count": null,
-   "people": ""
-  },
-  {
    "title": "美容医療プラットフォーム「Unni（カンナムオンニ）」への不正アクセスについてまとめてみた",
    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/24/141557",
    "source": "piyolog",
@@ -2906,18 +2705,6 @@
    "people": "640万人"
   },
   {
-   "title": "店で免許証スキャン→数時間で闇サイトへ 米国防長官含む1億5300万枚の流出、被害者たちが突き止めた意外な出所",
-   "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001284/",
-   "source": "ITmedia",
-   "date": "2026-09-09T03:00:00+00:00",
-   "summary": "米国とカナダの運転免許証1億5300万枚あまりをスキャンした画像が闇サイトで売りに出されているのが見つかった。セキュリティ専門ジャーナリストのブライアン・クレブス氏が出所をたどった結果、レンタカー大手などと取引のある本人確認サービス会社から流出したとみられることが判明。米連邦捜査局（FBI）ニューオーリンズ支部も捜査に",
-   "region": "海外",
-   "tags": [],
-   "company": "",
-   "count": null,
-   "people": ""
-  },
-  {
    "title": "鳥取県の放射線監視システムへのランサムウェア攻撃についてまとめてみた",
    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/07/090941",
    "source": "piyolog",
@@ -2971,20 +2758,6 @@
    "people": "123万人"
   },
   {
-   "title": "「当選した」自虐投稿も……さくら136万件漏えい可能性、対象者へ通知メール続々",
-   "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001017/",
-   "source": "ITmedia",
-   "date": "2026-09-01T04:20:19+00:00",
-   "summary": "さくらインターネットへの不正アクセスを巡り、影響を受けた可能性のある利用者に8月31日ごろから個別の通知メールが届き始めた。SNS上でも受信報告が相次いでいる。",
-   "region": "国内",
-   "tags": [
-    "不正アクセス"
-   ],
-   "company": "",
-   "count": 1360000,
-   "people": "136万人"
-  },
-  {
    "title": "イエローハット、最大180万人分の情報漏えいか 作業予約システムに不正アクセス",
    "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000922/",
    "source": "ITmedia",
@@ -3011,20 +2784,6 @@
    "company": "トレファク子会社",
    "count": 130000,
    "people": "13万人"
-  },
-  {
-   "title": "NISA口座「もぬけの殻」に 不正アクセス被害者らが証券4社に原状回復求め調停",
-   "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000891/",
-   "source": "ITmedia",
-   "date": "2026-08-28T04:10:56+00:00",
-   "summary": "不正アクセスで証券口座を乗っ取られ、保有する有価証券を勝手に売却されたとする79人が27日、大手証券会社4社に対し、原状回復を求める民事調停を東京簡裁に申し立てた。同日、都内で記者会見した被害者らは「口座から一銭もなくなっていた。もぬけの殻だった」などと訴え、早急な対応を求めた。",
-   "region": "国内",
-   "tags": [
-    "不正アクセス"
-   ],
-   "company": "NISA口座",
-   "count": null,
-   "people": ""
   },
   {
    "title": "ANA子会社のデジタルギフト「選べるe-GIFT」に不正アクセス 担当者情報漏えいか、不正交換も",
@@ -3063,20 +2822,6 @@
     "不正アクセス"
    ],
    "company": "大阪万博",
-   "count": null,
-   "people": ""
-  },
-  {
-   "title": "不正アクセスで一部停止中のNTT西子会社レンタルサーバ、復旧見通しを公表 調査完了は8月末見込み",
-   "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000651/",
-   "source": "ITmedia",
-   "date": "2026-08-20T06:36:30+00:00",
-   "summary": "NTTスマートコネクトは8月19日、不正アクセスを受けて一部停止中のレンタルサーバサービス「スマイルサーバ」について、9月中旬ごろの復旧環境の提供開始を目標にすると発表した。外部機関による調査の完了は8月末を見込む。",
-   "region": "国内",
-   "tags": [
-    "不正アクセス"
-   ],
-   "company": "",
    "count": null,
    "people": ""
   },
