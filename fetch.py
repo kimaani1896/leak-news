@@ -36,7 +36,7 @@ INCLUDE_TITLE = re.compile(r"カード情報|改ざん|不正なページ")
 # 「サイバー攻撃」「ランサムウェア」の広い検索で拾った記事は、事件の見出しの形をしたものだけ残す
 INCIDENT = re.compile(r"(に|へ|で|が|、|\s)(サイバー攻撃|ランサム|不正アクセス)|サイバー攻撃(を)?受け|ランサム\S{0,4}(被害|攻撃)|被害|障害|漏え|漏洩|流出")
 NOISE = re.compile(r"対策|市場|支援|法|措置|社説|動向|白書|警鐘|専門家|とは|方法|選定|ナビ|EXPO|脆弱性|株価|サービス|製品|守る|備え|防御|無害化|集団|摘発|義務|報告書|検証|写真|コスト|復号|ページ目|解説|影響|どう|なぜ|？|\?|社長|狙う|急増|相次|立て続|調査|AIで|AIの|ツール|選択|エキスパート|映す|20[01]\d年|202[0-5]年")
-EXCLUDE = re.compile(r"セミナー|ウェビナー|提供開始|発売|募集|キャンペーン|無料|ソリューション|導入事例|ホワイトペーパー|資格|調査レポート|ランキング|求人|資金流出|攻撃手法|優勝|大会|コンテスト|演習|\d{1,2}月.{0,20}まとめ(?!てみた)")
+EXCLUDE = re.compile(r"セミナー|ウェビナー|提供開始|発売|募集|キャンペーン|無料|ソリューション|導入事例|ホワイトペーパー|資格|調査レポート|ランキング|求人|資金流出|攻撃手法|優勝|大会|コンテスト|演習|\d{1,2}月.{0,20}まとめ(?!てみた)|急反落|反落|続落|急落|ストップ安|に買い")
 # 特定の事件ではなく「相次ぐ漏えい」「対策は」のような全般・解説のニュース（専門サイト以外で、まとめた記事がないものは載せない）
 GENERAL = re.compile(r"相次|急増|狙われ|狙う|とは|どう|なぜ|解説|専門家|識者|警鐘|対策|備え|守る|？|\?|ヤバい|考えられる|立て続|注意点|手口|教訓")
 # タグ（上から順に判定、複数可）
@@ -224,11 +224,11 @@ def consolidate(items, days=14):
     for it in sorted(items, key=lambda x: x["date"]):
         name = it.get("company") or ""
         host = None
-        if it["source"] != "Have I Been Pwned" and len(name) >= 3:
+        if it["source"] != "Have I Been Pwned" and len(name) >= 2:
             d = datetime.fromisoformat(it["date"])
             for k in kept:
                 kn = k.get("company") or ""
-                if (k["source"] != "Have I Been Pwned" and len(kn) >= 3 and (kn in name or name in kn)
+                if (k["source"] != "Have I Been Pwned" and (kn == name or (min(len(kn), len(name)) >= 3 and (kn in name or name in kn)))
                         and (d - datetime.fromisoformat(k["last"])).days <= days):
                     host = k
                     break
@@ -307,7 +307,7 @@ def find_count(title):
 
 # 同じ会社のローマ字表記・カタカナ表記などの揺れ（見つけたら足す）。左を右にそろえる
 ALIASES = {"ABAHOUSE": "アバハウス", "第一ライフ": "第一生命", "第一ライフグループ": "第一生命", "第一ライフG": "第一生命",
-           "日経": "日本経済新聞", "日経新聞": "日本経済新聞", "日本経済新聞社": "日本経済新聞", "日経グループ": "日本経済新聞"}
+           "日経": "日本経済新聞", "日経新聞": "日本経済新聞", "日本経済新聞社": "日本経済新聞", "日経新聞社": "日本経済新聞", "日経グループ": "日本経済新聞"}
 
 
 def alias_text(t):

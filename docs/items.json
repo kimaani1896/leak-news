@@ -1,34 +1,6 @@
 {
- "updated": "2026-10-06T03:19:33.436792+00:00",
+ "updated": "2026-10-06T03:36:46.637768+00:00",
  "items": [
-  {
-   "title": "韓国の金融機関で相次いだ不正アクセスについてまとめてみた",
-   "url": "https://piyolog.hatenadiary.jp/entry/2026/10/06/103019",
-   "source": "piyolog",
-   "date": "2026-10-06T01:30:19+00:00",
-   "summary": "2026年10月1日、新韓銀行は、顧客の融資申込に関する情報が外部に流出したと公表しました。その後、他の金融機関でも情報流出の公表が相次ぎ、金融当局による金融業界全体への緊急点検の要請も行われています。ここでは関連する情報をまとめます。 複数の金融機関で情報流出 新韓銀行は10月1日、融資募集人向けのサービスから約2万",
-   "region": "海外",
-   "tags": [
-    "不正アクセス"
-   ],
-   "company": "韓国",
-   "count": null,
-   "people": ""
-  },
-  {
-   "title": "物語コーポが急反落、不正アクセスによる個人情報漏えい、サイバーセキュリティーに買い(ウエルスアドバイザー)",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeEJjZGJqQi1EMmw4UGJqbWhVMWxxX3c5UnRSWUhiSlV5RUI3TlVVYzROQ0FjY0dZdDBhc2FMNlZYQi1QTGZpaTFUeGlOZFdmWXdGV2dfbFVESzl3MzdGSTcxb25iTl9WT3NTaXp5Mkszc2wxaF81SkcwazdhY3k0U2ZuekVrZG8?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "date": "2026-10-06T00:46:08+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [
-    "不正アクセス"
-   ],
-   "company": "物語コーポが急反落",
-   "count": null,
-   "people": ""
-  },
   {
    "title": "GMO「infoQ」に不正アクセス、最大95万件の会員情報漏えい ポイント287万円分が不正交換される",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mMTBYLWNDWnQ2MFozMDFkV1JsRnZsTWVydEs4eGtHSVUtU0lidUF1S3dUZWFMbzFGMmhlUFh1QTNHTTkwODlTSzlNU3JtUXFBNVFrT1NscU5rR3JsX1drdWEzVGR0d1JvUGc?oc=5",
@@ -54,6 +26,18 @@
      "source": "Yahoo!ニュース"
     }
    ]
+  },
+  {
+   "title": "日本貸金業協会、会員事業者に不正借り入れへの注意を喚起 個人情報流出増で パーク24の事案も影響か（日刊自動車新聞）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CeWszRFptYlQ5SEF5MkhUMXFnT080T2w0WTRzbkZRZFlvSkdBdTU3TGVram1Oc1FVR2lvd3BJX0NLaXZEcGUzRHFZNGx4WnlmV1V5SzMyZHlnaWFydW04YTZTekZHeUZDZVlDLWE2ZlNEMEJPS1k0ZjdZR1B1b2s?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-05T23:20:12+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "日本貸金業協会",
+   "count": null,
+   "people": ""
   },
   {
    "title": "「ベネワン・プラットフォーム」のアンケート機能で他企業・団体の個人情報がダウンロード可能に、不具合を認知するも解消作業が適切に実施されず",
@@ -149,15 +133,25 @@
      "title": "回転ずしの大起水産、17万人分の個人情報が流出か 不正アクセスで",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xMkFNYWowalVuRTlVaXhlcDRUeUJ5bEFlakc5YnBHdkVvTEZFblhqS09hekZuRDB2Zi0xUGZNUVBqb0trR3JaZWVrR0gyY09MbU13REtXckNQNGY0VUt0Y283ZUUwelE?oc=5",
      "source": "朝日新聞"
+    },
+    {
+     "title": "大起水産 約17万5千人分の個人情報漏えいの可能性と発表 公式アプリのシステムに不正アクセスを確認 現時点で不正利用は確認されず",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbnJpX1V0cW5Hc2pBRFNxbHRyU0pOUW1waHR5dzd0cGVQSjB5eUc3aUkyZU5aMGh4b0QyR0pPdzFvazdkMEt1d0Y5M2pIdGFwakFlQUw3ZWVvSlYtSnpYVDYySlZZeEZkMEFpYUtBUkhnUXJjNXNvRmg4dlVreFBad2V3Qk8tTzQ?oc=5",
+     "source": "日テレNEWS NNN"
+    },
+    {
+     "title": "大起水産公式アプリに不正アクセス 17万4933人の個人情報漏えいのおそれ",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85SHR3TTV1NTRXZjI0NWJPdFVDeXpKb1hrTnp2NUtBY3drQzlUWUpTQlZmdVpDdkJpa2FsSkVmcFZORlRfNDFOcGE2OA?oc=5",
+     "source": "サカイタイムズ"
     }
    ]
   },
   {
-   "title": "韓国の銀行6行にサイバー攻撃 計2万5000人超の個人情報流出──AIエージェントを使った可能性も 現地報道",
-   "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002009/",
-   "source": "ITmedia",
+   "title": "韓国の金融機関で相次いだ不正アクセスについてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/10/06/103019",
+   "source": "piyolog",
    "date": "2026-10-05T09:21:19+00:00",
-   "summary": "韓国の銀行で9月末からサイバー攻撃が相次ぎ、新韓銀行など4行で計2万5000人超の個人情報が流出したと現地紙が報じた。攻撃を受けた銀行のうち2行は、AIエージェントによる攻撃と推定しているという。",
+   "summary": "2026年10月1日、新韓銀行は、顧客の融資申込に関する情報が外部に流出したと公表しました。その後、他の金融機関でも情報流出の公表が相次ぎ、金融当局による金融業界全体への緊急点検の要請も行われています。ここでは関連する情報をまとめます。 複数の金融機関で情報流出 新韓銀行は10月1日、融資募集人向けのサービスから約2万",
    "region": "海外",
    "tags": [
     "不正アクセス"
@@ -180,6 +174,11 @@
      "title": "韓国の銀行6行にサイバー攻撃 計2万5000人超の個人情報流出──AIエージェントを使った可能性も 現地報道",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObzJOejdod1g0TUN2M0d4Uk9yblVMR0hiZER1dEZsNEJJd2pIbTRWX0pGRG96OW1iRWtlZzFoeUlHQ0hwcVZESllkLTFPV3FMUEd1ZWNWa2VqTExKVlRUZy1xTWRHZDVzZm9SalVQd19rb2p0ZzhhMEFUaUdtQ3NqZTdfNXlobi1XRHIydjJR?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "韓国の銀行6行にサイバー攻撃 計2万5000人超の個人情報流出──AIエージェントを使った可能性も 現地報道",
+     "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002009/",
+     "source": "ITmedia"
     }
    ]
   },
@@ -506,6 +505,11 @@
      "title": "大阪公立大学がランサムウェア被害、サーバー約500台停止で全授業休講",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WRWRObDFqRlctczFoQkc2TFB3NFJnZFBaVmVsZlBUNjY3RDgyMzFlRy1Qb3dESFFOQkdYUUNUMkpKdzhJNzZHZkVIa1YwVDNZdHFPY3kzdU5xWXlnQUdWZ2hiZU5tTmE1YUxzWkk1ZU0zc00?oc=5",
      "source": "innovaTopia"
+    },
+    {
+     "title": "大阪公立大のシステム障害、原因はサイバー攻撃 少なくとも１３万人分の情報が流出した恐れ",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0R0dTTGFkRlRxRGpXTWZtS21JZllvcU45SFdBalY2bVoyV0FLcXNKRDgtSUZ4dl9qVHFITDg2WC1aR2NZX0diMWhreHNlQ0JCandTQkNxdVhpdzQtMmhKeFBR?oc=5",
+     "source": "朝日放送"
     }
    ],
    "company": "大阪公立大",
@@ -630,18 +634,6 @@
    "company": "講談社BECK",
    "count": 50,
    "people": "50人"
-  },
-  {
-   "title": "日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表（INTERNET Watch）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04eVdvcHRBODJJQmtYcmtJMU9tRGFxRkJjVmo1YlZNSU96ZnZYM2E0YU9tcm14NkRsZDIxeEQxMnlXQ3FXa1dmRUZVd01ZblJvNUVETG9oV2hPOUNjQWVSRUhZU0ZBRDE3LUJ4bEs5ZzNTcS00eGptYmhIdy1MRnc?oc=5",
-   "source": "news.yahoo.co.jp",
-   "date": "2026-10-05T00:42:00+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [],
-   "company": "日経新聞社",
-   "count": null,
-   "people": ""
   },
   {
    "title": "「ドズル社ストア」で不正なページに誘導、カード情報を入力した場合はカード会社への連絡を呼びかけ",
@@ -945,6 +937,11 @@
      "title": "日経新聞にサイバー攻撃",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ESE4zbi1tNGFCdGppcnpPMGZ2bl9VcVl1Rzg0eWVBMVlIeDRyd2txblp1aHE0OGpvS2dnVDlmZE1NNlpCMEZGQjdHMHRYcV9HeHN3N0JPdnA0RFd0WldadkxFSQ?oc=5",
      "source": "nippon.com"
+    },
+    {
+     "title": "日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表（INTERNET Watch）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04eVdvcHRBODJJQmtYcmtJMU9tRGFxRkJjVmo1YlZNSU96ZnZYM2E0YU9tcm14NkRsZDIxeEQxMnlXQ3FXa1dmRUZVd01ZblJvNUVETG9oV2hPOUNjQWVSRUhZU0ZBRDE3LUJ4bEs5ZzNTcS00eGptYmhIdy1MRnc?oc=5",
+     "source": "news.yahoo.co.jp"
     }
    ],
    "company": "日本経済新聞",
@@ -2169,6 +2166,11 @@
      "title": "タイムズカーから流出した｢免許証情報660万件｣は会員だけではない…過去に接点のあった人が今すぐやるべきこと",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91dS1XdldPX0F4ZUkyZlc2WnFfbl9KUWhyTnpRTnBFZUpLQkNNX0VHQlYzd2o2enZoaTdNdlUzaGhDT2NtbS1MaHRZcGd4V0VaQmZtZkQwa3hpRTQ?oc=5",
      "source": "東洋経済オンライン"
+    },
+    {
+     "title": "660万件の個人情報が流出！タイムズカー事件が「いつもの情報漏えい」よりずっと怖い理由",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PX3RrOENSZi03RHBmYXVjQ1NBY2RGR0VYa2xra0dPVUsxYTc5MXp2LU95bDdRMF9BTm4tZGdXWk5wVkJQNkc3Y08ySFXSAU9BVV95cUxNVUlEdHhxRWVjWmxuVHVudS11R2E5TGlGT0ZwZGlZRXRocGNUZTV6X3djUEpPVHVDS0hHMy1fNVZ6bWhqRTItM0xCaGRkRTBv?oc=5",
+     "source": "ダイヤモンド・オンライン"
     }
    ],
    "company": "タイムズカー",
