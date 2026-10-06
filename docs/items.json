@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-06T22:11:42.468640+00:00",
+ "updated": "2026-10-06T23:11:40.982454+00:00",
  "items": [
+  {
+   "title": "KKR京都くに荘のメールサーバに不正アクセス",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/07/56406.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-10-06T23:05:22+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "KKR京都く",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "九州電子 台湾子会社にランサムウェア攻撃、事業運営に必要なシステム環境の復旧を完了",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/07/56405.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-10-06T23:05:18+00:00",
+   "summary": "",
+   "region": "海外",
+   "tags": [
+    "ランサムウェア"
+   ],
+   "others": [
+    {
+     "title": "九州電子 台湾子会社にランサムウェア攻撃、事業運営に必要なシステム環境の復旧を完了",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01ckYxVF8wNUlYTENtWE1DejM1WWw3MHowRWNVdXJBanJEdW41S194TUhSVGdHamhLbHVZRVZGdUVjR1VvU0NDV0FxQ3ZTR2NvdTNrT3VnUFdWUmd0RS1aVWdxaHdCV2g1VG9pZg?oc=5",
+     "source": "ScanNetSecurity"
+    }
+   ],
+   "company": "九州電子",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "異なる手法による別の不正アクセスが判明「ニッポンレンタカーアプリ」",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/07/56403.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-10-06T23:05:11+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "異なる手法",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "なりすましメールで取引先に金銭的な被害も ～ 小田原エンジニアリング従業員のメールアカウントに不正アクセス",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/07/56400.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-10-06T23:05:02+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "小田原エンジニアリング従業員",
+   "count": null,
+   "people": ""
+  },
   {
    "title": "同県サイトで公開した地区防災計画のPDFに個人情報 - 岡山県",
    "url": "https://www.security-next.com/190450",
@@ -98,6 +161,11 @@
      "title": "広島・修道学園に不正アクセス、中高や大学の個人情報流出か",
      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wWEVNV0VnWS1aSHZwR3Z5VENZWFBxNDZrYW95T0VyaGJIMlJGN2NGNWFJSTdsMnJHeU9ub3NfWEpyS1VqdXJ4NmEtS2czVi1hVGQzdmdFWUl3Zw?oc=5",
      "source": "中国新聞デジタル"
+    },
+    {
+     "title": "広島・修道学園に不正アクセス、中高や大学の個人情報流出か",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TN1c1a0c1UU1TSmJiRTBQa1NmeGpzV3hqanRvYjQxY0JhLWNjNUx2bVhwVjQ5cnpQX0t6M3pJOHBrbUtwWWlmMjRITQ?oc=5",
+     "source": "47NEWS"
     }
    ],
    "company": "広島・修道学園",
@@ -105,18 +173,25 @@
    "people": ""
   },
   {
-   "title": "日経BP、メールアカウントへの不正アクセスにより個人情報漏えいの疑い。日経新聞社への攻撃が影響",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuVG1qb01kb1V0ZGxiQkFFNG00WGZSUWRyREcyTDk0anJVU2xia2prdWJWZTctZ2YyVUxwaDhqTnhkR0VYSTB0TnFvcVNJM21JcFNZMTZ6ZjhKQUxNVDR6RjJEa3A4QThtX084?oc=5",
-   "source": "INTERNET Watch",
+   "title": "日経BP従業員のメールアカウントに不正アクセス、26件の個人情報が漏えいした可能性",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/07/56402.html",
+   "source": "ScanNetSecurity",
    "date": "2026-10-06T08:48:36+00:00",
    "summary": "",
    "region": "国内",
    "tags": [
     "不正アクセス"
    ],
-   "company": "日経BP",
-   "count": null,
-   "people": ""
+   "company": "日経BP従業員",
+   "count": 26,
+   "people": "26人",
+   "others": [
+    {
+     "title": "日経BP、メールアカウントへの不正アクセスにより個人情報漏えいの疑い。日経新聞社への攻撃が影響",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuVG1qb01kb1V0ZGxiQkFFNG00WGZSUWRyREcyTDk0anJVU2xia2prdWJWZTctZ2YyVUxwaDhqTnhkR0VYSTB0TnFvcVNJM21JcFNZMTZ6ZjhKQUxNVDR6RjJEa3A4QThtX084?oc=5",
+     "source": "INTERNET Watch"
+    }
+   ]
   },
   {
    "title": "シチズン時計、委託先への不正アクセスで約10万人分の個人情報漏えいか 大和証券と同じサービスが原因に",
@@ -168,9 +243,14 @@
      "title": "シチズン時計 約10万人分の情報漏洩の可能性 委託先に不正アクセス 決済情報も流出か（テレビ朝日系（ANN））",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pLWZlQU10aWxqU202VUxxcXBlZVZjaTRGWjFhV3labTJ6aC1lUThQQjVQbnRIbzdyVmtRQnMxMHQ5b2RmdHJtbWtRNVhteUVMcW5VVTFycWtsdVZLNmVGcVpnTnFONHVFaGlBU1ZTVFZxR0QtSlpGRElUcFhWQmc?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "不正アクセス「シチズン」約10万人分の個人情報漏えいか 「焼肉きんぐ」も…漏えい相次ぐ",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04U1owa0JGcjNZdDJGQ3VwQUtVekNPZWJlMmUzc1NOaUk3cjFzU2R5QjdJYVd4dFNOTndJdFpGR3d1QUVBT2I4S3dWeGNsMjA0M0U3QjF4WGttTnI3bGtJdXc0ZW51MUZLeWduTml2cEN3YWUyQ2sxWHVlUEk?oc=5",
+     "source": "日テレNEWS NNN"
     }
    ],
-   "company": "シチズン時計",
+   "company": "シチズン",
    "count": 100000,
    "people": "10万人"
   },
@@ -438,6 +518,11 @@
      "title": "GMO子会社、95万件情報漏えい（共同通信）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PV09EcFJBd084X2VUOUJOYU5lZjBydnFDQkdoTDJZN19hV1pDeERoQjJsNUxjZ2g3RHFoUVV2Sy00akYxTVlRbGExZGN2bDVDTVoyVW0wVmcxSnRVWHVWcHJJTEpiSFh3eHpnYWktUktibkJTWUs2VFlESUQyM00?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "GMOリサーチ&AIのアンケート「infoQ」で不正アクセス、最大約95万件の個人情報が漏えいし、不正なポイント交換も",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpaFh1d0FiV1ptSk5pR05lbzRibmRQWXM3MkNJMW5nV1VmNXM2RGZtNHllbS1tLXFkLVZ1WWdhcFpZa19idE5tREw1VllOdTlFMjVwWXpUZWN0UjRNNVJReWRPQjVGVkI2T1B3?oc=5",
+     "source": "INTERNET Watch"
     }
    ]
   },
@@ -492,6 +577,20 @@
     "不正アクセス"
    ],
    "company": "信濃毎日新聞デジタル",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "「PhotoGoods」に不正アクセス、カード情報が漏えいした可能性",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KR0N6NmpXaElfeUZFa3YwMC1LSzdROUlUZVN1eWkzdU1ZODhidUhJYThvM0t0SjRNRE9UN2FiS3dCY29mLVVqYTNXN1NmVUhmdlBIRXZLTFViUWN2cjJ0SExWWmw5X2VV?oc=5",
+   "source": "ScanNetSecurity",
+   "date": "2026-10-05T23:05:05+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "PhotoGoods",
    "count": null,
    "people": ""
   },
@@ -1532,6 +1631,11 @@
      "title": "日経新聞にサイバー攻撃（共同通信）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NZWdvY1JhUk5xbVJiTVVjUm5CcXROT013ZWZHWEZIVEpJTFBMaHFsUl9aTkduTnpzSHQzSkU2bU9tanFYUTNQd0c0TkxxNlB2SFZXWjA4a29BRHE0clQwS0YyNUdBRm1xV1FadGhBdkN6MVkxeTBKa1dCbEVPc28?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "日本経済新聞社社員の「マイクロソフト365」のアカウントにサイバー攻撃、悪性サイトに誘導するメールを送信",
+     "url": "https://scan.netsecurity.ne.jp/article/2026/10/07/56401.html",
+     "source": "ScanNetSecurity"
     }
    ],
    "company": "日本経済新聞",
@@ -2748,6 +2852,11 @@
      "title": "タイムズカーの個人情報漏えい…不安の声 鹿児島県（KKB鹿児島放送）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZVmYtYmE2QklNMHJpYmxra1JnenZuT1pTSVBtbmtCSzM5eVpBY0NFTjhhZmR0TlNCNUswTWVqUkpDS28wUi1XYTBrRm1Qb2hFRkRKd3B1dXJjM2N4cVk5Tll0MzJaRXlKWld5bG00dGIxNXdObXZPMlZYQzdtS0k?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "「タイムズカーで免許画像流出」被害者に“不審電話” ダークウェブで売買される個人情報の実態（KBC九州朝日放送）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FOXAzeWRQclRFUklyenRhQy1UeWJGZEk1TmFCN3NDN01kbklGS3hhbFNHYWJncmU4UTM2MGszLUVSMzdBU1AwSzVldEJkY2EtU20wemt5NjNLMUZ6NGV4Y1k0NWRueHZKT0tFOEFTMzdiRWlsZl9nS3pKSDdCRVE?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ],
    "company": "タイムズカー",
@@ -3354,6 +3463,34 @@
   }
  ],
  "misc": [
+  {
+   "title": "シンテックホズミの元社員2人が逮捕された営業秘密漏えい事件についてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/10/07/072551",
+   "source": "piyolog",
+   "date": "2026-10-06T22:25:51+00:00",
+   "summary": "2026年10月5日、愛知県警は、トヨタ自動車の子会社シンテックホズミの元社員の男女2人を、同社の営業秘密を漏らしたなどとして不正競争防止法違反の疑いで逮捕し、発表しました。ここでは関連する情報をまとめます。 元上司と元部下の2人を逮捕 シンテックホズミは愛知県みよし市に本社を置く搬送用機械装置メーカーで、株主はトヨタ",
+   "region": "国内",
+   "tags": [
+    "内部不正"
+   ],
+   "company": "シンテックホズミ",
+   "count": 2,
+   "people": "2人"
+  },
+  {
+   "title": "サイバー攻撃で情報漏えい急増、ＡＩ悪用で「短時間・広範囲に」…会員ポイントが不正交換される「二次被害」も",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01aWl1Vk1fMzZMemhuNm9rSFhwOGo4NXo5UndwYjNFeGVxSmJnRWw5ckdaTDZlakx0cmJ0cllaQVRaamRBbmYwRmlyZHF1RFNNbDVMTlB2WkRIaHJrUXdoVzZOQ3RFZw?oc=5",
+   "source": "読売新聞",
+   "date": "2026-10-06T21:00:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "短時間・広範囲に",
+   "count": null,
+   "people": ""
+  },
   {
    "title": "サイバー攻撃で企業・団体の情報漏えい被害最多、今年５００件超・すでに過去２年に並ぶ…ＡＩ使い弱点探索か",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81UnQ3cUdlZUw4Z2hrMWt4LUpWbTBqOG1GZFVBeFlqdjB3MjZmbHoyRXFXUGxRcG5LbEw4U0d4eDJKcktYWS01bXVadEVwei1NaHpTQ3B3VDNTQXo0dHIxRDdIblhVZw?oc=5",
