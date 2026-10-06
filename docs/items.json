@@ -1,6 +1,34 @@
 {
- "updated": "2026-10-06T03:43:51.161275+00:00",
+ "updated": "2026-10-06T04:11:40.975257+00:00",
  "items": [
+  {
+   "title": "デンマークで住民登録簿に不正アクセス 880万人分の個人番号など流出 政府「極めて深刻」",
+   "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002032/",
+   "source": "ITmedia",
+   "date": "2026-10-06T03:41:53+00:00",
+   "summary": "デンマーク政府は2026年10月5日（現地時間）、同国の中央個人登録簿「CPR」に第三者が不正アクセスし、約880万人分の氏名や住所、個人番号が取得されたと発表した。民間企業が持つ正規の照会権限を悪用した手口で、警察が捜査している。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "デンマーク",
+   "count": 8800000,
+   "people": "880万人"
+  },
+  {
+   "title": "ミスターマックスで不正アクセス 個人情報最大170万人超流出か",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54dzlWQmpuSWFSZ3dVeGhsMHBKbjBnMzROYnAteV9wai1NQVpnRGtfUU9QVTU5N19qMjlTQ21zcmZMaDVZZTlpWldiUFU2WmZqdTQ5NTlxblRpazZkZmRR?oc=5",
+   "source": "NHKニュース",
+   "date": "2026-10-06T03:19:57+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "ミスターマックス",
+   "count": 1700000,
+   "people": "170万人"
+  },
   {
    "title": "GMO「infoQ」に不正アクセス、最大95万件の会員情報漏えい ポイント287万円分が不正交換される",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mMTBYLWNDWnQ2MFozMDFkV1JsRnZsTWVydEs4eGtHSVUtU0lidUF1S3dUZWFMbzFGMmhlUFh1QTNHTTkwODlTSzlNU3JtUXFBNVFrT1NscU5rR3JsX1drdWEzVGR0d1JvUGc?oc=5",
@@ -24,8 +52,27 @@
      "title": "GMO「infoQ」に不正アクセス、最大95万件の会員情報漏えい ポイント287万円分が不正交換される（ITmedia NEWS）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kWURGaFFXcWswZTdVbGJhbFo0NkEwcGJHTWlBTDc4TEdIb2t4MTJjWGV2OXVLZ2dEZGY4dE5rY2RSQnNfVWE4Vmxhdy1reU1DQ084dnpRMzNwX3Z6N1YwY0tCWDhZczJ0R21jVnpqV3pJcm9NdXBud3U0Ny0wMVk?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "【情報まとめ】GMO不正アクセス ポイント不正利用も確認 二次被害が確認されたケースは初めて（テレビ朝日系（ANN））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCSlpibTJqRXl6c3pyRTU0cUMwZzRiT0hfamZicFVEVW5sZzIta3NHd0pmQ2s5ZDlPWVZzU25RdHZmQUIyR3JVMmZCekJkTUNsSDgzYjdLLVl0YUVhR3V4YlV6TGFyVE53LTBrUzhfTmR3MHcySTNwYjZXUkVqNzQ?oc=5",
+     "source": "news.yahoo.co.jp"
     }
    ]
+  },
+  {
+   "title": "トヨタ子会社で営業秘密の情報漏えい事件、愛知県警、元社員男女2人を逮捕［新聞ウォッチ］（レスポンス）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kbkRGblZvV1VmMEJuY0JEWVd2aE9WcUYxUVlLZ2dRMGdORGQ0dWQ3UGhzMUJqalNLbDV5bHRTOHJVcUgyZDVKX3RlZHIwNmRYTl9ycE93RTBTbHUtQWJ4RUkyZG1vc3EzYVJDSHhLcGJtUlBFZnA3RWU1S2p0X00?oc=5",
+   "source": "news.yahoo.co.jp",
+   "date": "2026-10-05T23:18:21+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "内部不正"
+   ],
+   "company": "トヨタ子会社",
+   "count": 2,
+   "people": "2人"
   },
   {
    "title": "「ベネワン・プラットフォーム」のアンケート機能で他企業・団体の個人情報がダウンロード可能に、不具合を認知するも解消作業が適切に実施されず",
@@ -503,6 +550,11 @@
      "title": "大阪公立大でシステム障害＝サイバー攻撃、１３万人分流出恐れ",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fSHJ1c3lGbGt5ZC05WFJGTkl2MW1SZkJaMWlsOWJRVDJTQWZmWkRsN1RVY2NZRkNSQWplODlrT01Md3BxX0NBM28wNTR4WmljeVN1SDNMN3h0a1BJ?oc=5",
      "source": "nippon.com"
+    },
+    {
+     "title": "大阪公立大の大規模システム障害はサイバー攻撃が原因か ランサムウエアの可能性",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZkhlZEdqd1E2Q0VvV0xwOHNBbnJFdmZkaFh1YmM0QzZHREd4ZGVkWDJhdWdHdEtjaHpFd2tTMFJ3Y0ZHcldKTjA1Z3Nzd1huRlJHV0tRRktSQ1VHcW1QWVJmeWhybVNhQ2FWMEl0SXRZX21YTXZobWQ5RkRXMVVoSU1Od3FRVXA0cWIxYnhUY9IBlAFBVV95cUxPN1BtM3hFS0ZCUktZNFEwY2F0Tjc4TERXZktnNXhPLVU5cWlPSnVvT2E4OElhSFRUOUdBTzI0NDItUHozN3VFUk9ZbzYtWThzc19BSzRCeVJsWm1nVFhZd2hkQ0FUanhSZVdQcjM5U0NKNEpkUzd2aGw4MF9XN3hSbDJxSEhIczNUOUtDQ2QxMERDM214?oc=5",
+     "source": "Infoseek"
     }
    ],
    "company": "大阪公立大",
@@ -935,6 +987,11 @@
      "title": "日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表（INTERNET Watch）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04eVdvcHRBODJJQmtYcmtJMU9tRGFxRkJjVmo1YlZNSU96ZnZYM2E0YU9tcm14NkRsZDIxeEQxMnlXQ3FXa1dmRUZVd01ZblJvNUVETG9oV2hPOUNjQWVSRUhZU0ZBRDE3LUJ4bEs5ZzNTcS00eGptYmhIdy1MRnc?oc=5",
      "source": "news.yahoo.co.jp"
+    },
+    {
+     "title": "ミスターマックス・ホールディングス[8203]：不正アクセスによる情報流出に関するお詫びとお知らせ 2026年10月6日(適時開示) ：日経会社情報DIGITAL",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15bUtLWkN0ZGVHRTVMU19pMjVmTVYtTzg3VHVIZEowX3R5YnlnQ1dvSmM1TnltNVZYQkI1YldHSkJLM2IyRmgwck13Y0ViNEoxQ2FxeGVoYnJNSlphWjQ0cE9sX0JhajRhSkE?oc=5",
+     "source": "日本経済新聞"
     }
    ],
    "company": "日本経済新聞",
