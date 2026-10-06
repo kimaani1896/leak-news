@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-06T14:11:41.234051+00:00",
+ "updated": "2026-10-06T15:11:42.504382+00:00",
  "items": [
+  {
+   "title": "旭化成子会社のサイトにサイバー攻撃 最大55万8000人分の情報流出の可能性（TBS NEWS DIG Powered by JNN）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zSGlKYlA4TWxBQ3JRRWFSaXRrTzh6UUtIU2RMZTlWNG9xbWpxUDVGeFgzbnRQZnNvV3lCR2ZISS1OejQ1VFctZERuNXgyQTlTS0d4X0xuV043d0dpbVUxeEVaYTdqWlJ0XzZWMkpjemN6SzBlZ0VjOG5hMDRYYTQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-06T14:21:22+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "旭化成子会社でも漏えいか サイバー攻撃最大55万人超（共同通信）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JYmt5QU9ZMUlFZGs2RFlUZHFrbko1RlpKT2xBLWYtU01JVVFaNTYyVmp4OU82YTlvZjRHZjdZVTc4cXhidkFiYWdvNm9UZ1pFWk1qVzZUb25JazVWV1Fpb2NCOTRoSXNzUEoyM3VlUWI5OGdQR3NDT3JyaGY0MVE?oc=5",
+     "source": "Yahoo!ニュース"
+    }
+   ],
+   "company": "旭化成子会社",
+   "count": 558000,
+   "people": "56万人"
+  },
   {
    "title": "介護事業者向けの報告書依頼メールで誤送信 - 鳥取県",
    "url": "https://www.security-next.com/190687",
@@ -102,9 +123,14 @@
      "title": "シチズン、10万人分の個人情報流出か（時事通信）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hZlpETjRCa0lSVUtuaFRPMkRoYVI0SzBxVEpyNDlXUFFqLWNlOGdlRUZfdkVNUjJfSDN2Z3ZVdnZxQXAzNEN0SmxWeHR5VEhkQ3ZZYTBVM3pZYUNnT0lzanBIbEJzTFZuZmpYcThOUEZmLWlybFRUd19JMGs4cTQ?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "「シチズン」でも個人情報漏えいか…約10万人分 相次ぐ情報漏えい AIによる攻撃か…「背後に国家がいる可能性」",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PTFhDbkZZdjhjZUNvUXpCRzVQdDRuTnFJQXQyci1BWjByeEJJZ0hYZVZHTjhmVk9vT1RhODhjcEg3Q0VzWXQ3TzZfaGhlRlpjRzVRNkt2c0hlNFF1WTRBR1JOSHhTWjdWdnJvM0FZUW1KeEN5X3JsYms4cFpxXzA?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ],
-   "company": "シチズン時計",
+   "company": "シチズン",
    "count": 100000,
    "people": "10万人"
   },
@@ -152,6 +178,11 @@
      "title": "西鉄系のニモカ、不正アクセスで約500件の顧客情報流出",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFVXhLcklFc0thaTBzY1RfNUx6bGVkWGdhZ0xKY0dDZ2tFYVVUOVFVX245UEFNZGo1YjZOV2RaNGRwekkwRmM5OE9MUWdsMEgzTjFxRmpjTWREZ3VDSFY4aWk2QnhZbnhBaklCYQ?oc=5",
      "source": "日本経済新聞"
+    },
+    {
+     "title": "交通系IC「ニモカ」で個人情報521件漏えい 一部サービス停止（毎日新聞）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UQm5fdWZRRFZrTUhpQ2Z1S3pEaVd0RFNVUTdYRlliNHlLaU0zRWhub05tSWlrcnR1amVkSkVZTDhzeGtWUTlRbW56RDVlb1Z5NzRZYnBkWGE2NXhWMjlPMXpORHJlbUNxbGZzOVl3YWVsNUNBY0M1UXg0bTJaRE0?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ]
   },
@@ -934,6 +965,11 @@
      "title": "大阪公立大学、ランサムウェア攻撃でサーバー500台停止、13万人分の個人情報流出か（ビジネス＋IT）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wVC1ZLWtuQjZQWFl1Z3VpNlhial9ITW5oQ29LV3lrYjZBbmZnbl9YS2VaTEVVci1DVUwzTURHc3ZIbFVjZFpsTjJZQUo3V0M0dmVBOFJiRmx0bzdGVU1qN0x5R2VhclZiZlVfYlUwLXlYb1lVRkJVM0xFd0hzVms?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "大阪公立大学、ランサムウェア攻撃でサーバー500台停止、13万人分の個人情報流出か",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zcWpRQWdEVTc5bzZmZV80Rmh5TTUyVmRUdW5qWTlpYWtPbTE0TlI3aU5vWEhlVzdFZ2syYTY2dEhvNGROcEdDeFRlOFEwdnFmZURR?oc=5",
+     "source": "ビジネス+IT"
     }
    ],
    "company": "大阪公立大",
@@ -1421,6 +1457,11 @@
      "title": "従業員アカウントに不正アクセス、取材先に大量なりすましメール - 日経",
      "url": "https://www.security-next.com/191072",
      "source": "Security NEXT"
+    },
+    {
+     "title": "日経新聞にサイバー攻撃 社員になりすましたメール9000件を送信 他のメールアドレス・氏名など外部に漏洩か",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13RDFrd3ppN28wX2l4Ym4wWE84NmFoRUVGSkMtWGtZSHk3Snh3RWdfVnNJLXpfTnZnc0ptSmNxTEpLWWZzYWRnZ2w2NVVkdw?oc=5",
+     "source": "FNNプライムオンライン"
     }
    ],
    "company": "日本経済新聞",
@@ -3234,6 +3275,20 @@
  ],
  "misc": [
   {
+   "title": "韓国 金融機関で個人情報漏えい相次ぐ AI悪用のサイバー攻撃か",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wdFM3Z3JuS2JuYlZidnVOdUVoZEoxRkVmLUdtZ0lJZjgwX2p3U005RW9RekxmWFpQVGVSelhHS0s2eFhqWGpkNGszOGNrZW9TQlNmQkJSTVJPX3NHNHF3?oc=5",
+   "source": "NHKニュース",
+   "date": "2026-10-06T14:53:48+00:00",
+   "summary": "",
+   "region": "海外",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "韓国",
+   "count": null,
+   "people": ""
+  },
+  {
    "title": "企業への不正アクセス被害相次ぐ 個人情報の大規模流出も",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QTk1nOFFFbUc5ckNYUHJfZ1RibTUwdS1VS1JaM0N3WEFiWWxmMVVhMEZCcHVCRWc3N1g0N0cwaGg1RlNxUlR5QXJZSEVFNkVfVzBYT2JDNUNmT0libVBz?oc=5",
    "source": "NHKニュース",
@@ -3260,6 +3315,20 @@
    "people": ""
   },
   {
+   "title": "企業向け問い合わせ受付システムに不正アクセス 最大5社から71万件余の情報漏洩か",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sc0RrUU9aV1NUT0Njc2otdDJzRnlIYTIzSExxM3VPbnhROEM4VkFNeTVXbmNwQTZOZUI4YUppTUFqQUJPLURDM3UwNVJQNlQtUlpCWFdlRFZzdUxxNmh0dEk1UTJ1X2ZHNDJFUWhBRnRiQQ?oc=5",
+   "source": "テレ朝NEWS",
+   "date": "2026-10-06T10:42:45+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "",
+   "count": 710000,
+   "people": "71万人"
+  },
+  {
    "title": "国内の不正アクセス、最多ペース 相次ぐ個人情報漏えい、対策急務",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40Ukg5MmhyRWJCRjdPU2ItS3pwV01udHNBOUhxQk9MNHdLc2Z0djJ4ekJCNmQ0WWpYVktwbXhITlBaZzdsZjZKYVBPZw?oc=5",
    "source": "47NEWS",
@@ -3277,6 +3346,16 @@
      "title": "国内の不正アクセス、最多ペース 相次ぐ個人情報漏えい、対策急務",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlN3VmWlhGT2pnbmF0bXBvX3VFcDh2Uk5pb3J0cFRpNjlIWnFGWGo0eGhoUVBvbmFsWE9zNGxXeE5oRXliT1hNRm9sQ2E5X09wWTJKeDRKVExkVHBqaUE?oc=5",
      "source": "新潟日報"
+    },
+    {
+     "title": "国内の不正アクセス、最多ペース 相次ぐ個人情報漏えい、対策急務",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjSzVpZjhSU1BVLU5DOFRnck1WRHN5YUFVSFN1UWlKdldmZ3Uxa3d0Z2RmZE5TNlZnSTJlX0RzeGJpa2NxbnZ2VjJHMjk5dw?oc=5",
+     "source": "NEWSjp"
+    },
+    {
+     "title": "国内の不正アクセス、最多ペース 相次ぐ個人情報漏えい、対策急務",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uemp1WE5WRWRBem9CZWtQTjRkaC1lMzZ5bHdLMzBnaXBYdDQ2LW1UelZiYjNDZTJhbWl0SGFmQ00zOGZlcXJZRG5OZVowLXlDZ2NhY1pVWG5QTGFDZzdrLXlIbw?oc=5",
+     "source": "河北新報オンライン"
     }
    ]
   },
