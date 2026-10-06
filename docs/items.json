@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-06T08:11:42.133407+00:00",
+ "updated": "2026-10-06T09:11:08.127983+00:00",
  "items": [
+  {
+   "title": "日経BP、メールアカウントへの不正アクセスにより個人情報漏えいの疑い。日経新聞社への攻撃が影響",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuVG1qb01kb1V0ZGxiQkFFNG00WGZSUWRyREcyTDk0anJVU2xia2prdWJWZTctZ2YyVUxwaDhqTnhkR0VYSTB0TnFvcVNJM21JcFNZMTZ6ZjhKQUxNVDR6RjJEa3A4QThtX084?oc=5",
+   "source": "INTERNET Watch",
+   "date": "2026-10-06T08:48:36+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "日経BP",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "アプリシステムが侵害、顧客情報流出の可能性 - 回転ずしチェーン",
+   "url": "https://www.security-next.com/191070",
+   "source": "Security NEXT",
+   "date": "2026-10-06T08:48:01+00:00",
+   "summary": "回転ずしチェーンなどを展開する大起水産は、「大起水産公式アプリ」が不正アクセスを受け、顧客の個人情報が流出した可能性があることを明らかにした。アプリは通常通り利用できる。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "回転ずしチェーン",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "韓国金融機関6行へAIを使ったサイバー攻撃、2万5000人超の個人情報流出",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DUkRRblBMZGJVNmdwTno1T0VhVXZ5NnFBODVrOXktWjBsNmhqRkJCSXRpUjk5VmY3YXg0LTVNN29BWFJFVTJUUmtTM2dZSkk?oc=5",
+   "source": "ビジネス+IT",
+   "date": "2026-10-06T08:10:00+00:00",
+   "summary": "",
+   "region": "海外",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "",
+   "count": 25000,
+   "people": "2.5万人"
+  },
+  {
+   "title": "サイバー攻撃による情報流出続発、「大変深刻に受け止め」＝官房長官（ロイター）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aTGRJX2JxdFVzdzhZYm5FVFlSQ0NfcmF1bE5pT2M5aGdoNUdvcnA4c0xybjVHQ2pWdnl4VGdNQlFybGlyWnBzM0VKOHRzUkZJS3lNQVVRYVV0TWRLdnEtLVh2M1dnUUJVX0hRaGRJTk5HX1BCdjItZFdaUFp0R2c?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-06T07:48:48+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "サイバー攻撃による情報流出続発、「大変深刻に受け止め」＝官房長官",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZjZteWd2alI2ZmU3QXRGZTh6bzlZaGpPWmdVMG5BYmVveDRkQ3N1NlRmcGRnb0JndVZ3dUQzeWRSdUNlZWtKcTRCZ193WENLVm9WQ19aRFBDR1RsY1d2dktvWTFacTllWUx0TW14NTA2N0V2UVQ1eU1xMkRwOTdEWEZVeG1CQQ?oc=5",
+     "source": "Reuters"
+    }
+   ],
+   "company": "大変深刻に受け止め",
+   "count": null,
+   "people": ""
+  },
   {
    "title": "国内の不正アクセス、最多ペース AI悪用、サイバー攻撃が容易に（共同通信）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0LVQ4b2d1Wk8zTzZ3dEJYUkZoV2hvcWZNMlZsNDhObzQ0aE84ZExiNGJVTURuY1lrM1dCbEE0UkNZckp5ZDBZamF5WHppMGV0bVlyQVlFd2NsbTduSVNBc3A5dFNZeEYyNkZ0SndPSGZyOTB6dmRFVHhZY1Q5QzA?oc=5",
@@ -13,7 +76,14 @@
    ],
    "company": "",
    "count": null,
-   "people": ""
+   "people": "",
+   "others": [
+    {
+     "title": "国内不正アクセス 過去最多ペース",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmRHN4SnNEUzh2Ukp2bmhDNVN1T1ZDT05oU2M3TWt6V1VlZEhqc1RoMWZGRTIyd3g3V1BRUl84UXQ0QVlxcV9BS2J3ekI0RHY4?oc=5",
+     "source": "Yahoo!ニュース"
+    }
+   ]
   },
   {
    "title": "楽天ドライブ、不正アクセスで1.5万アカウントの保存データ流出（アスキー）",
@@ -143,6 +213,16 @@
      "title": "最大173万人分情報流出 MrMax、不正アクセス メールアドレスや電話番号など",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UY29HeDJ6OURuNGNyczBZd1FwRlVseWEtbHlzZExrZE4yS2lsU3ZqaktBRVYyVGFrWUZTUXc2SjhLUTBVMXI3M0U4VTNuV1VwVFZtRXhoX0poX0h3amg5Z2dyUnJlck9CeGdILUJTU2VsLWNvUUE?oc=5",
      "source": "産経ニュース"
+    },
+    {
+     "title": "ミスターマックスに不正アクセス、最大173万人分の情報流出（アスキー）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuT241QVdtb3NYcVBWSzNDeC11X3BObkZCMFNKQ1VibGtOa2pnLWJ6dFZTX0FXV3V5YWFpRHBEZENGb05BVVZMdzAxUFhKa3ZLVlY5QkRlQ1NjZGFQN2w2V2cwUjNjMTI5TW1aZFd4a2lTRXlOQlVRWEx6Y0NyX2s?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "ミスターマックスに不正アクセス 170万人超情報流出（ABEMA TIMES）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PbkJYSVNxVDdMT2pmamdHVVl5Rk0xOW1RU2lrU3I1cVZCVWNJc3hoaGNkSjhwUm9MX3FOTXRVUHNfZkJaa09fTmRURnJuOW5CR0Zwc3p5RWxHNUF4d29WdnU2WHJFSXVkb1dJZlNfbnB5NjBLcTFXNFJja1d3anM?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ]
   },
@@ -225,6 +305,11 @@
     {
      "title": "「GMO」グループ会社で情報漏えい 会員ポイントの不正交換も 相次ぐ情報漏えいに経済界も警鐘「攻撃者がAIを積極的に…」",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RYlpWdWdmRldBR204S19BREs1aS1NSUM4ckExMGJTUG1XWG5UNDEybjBVSDRDczl5aGJpaHlGUTFqeXhCWTZGWk5fcVBUeGdXR1pCT1ZkQllpWTZYNTBFRmMydDNEM19IeExNU1ZMeTdVdVRvejRtMmZ4Mzc0ZEk?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "GMOリサーチ&AIのアンケート「infoQ」で不正アクセス、最大約95万件の個人情報が漏えいし、不正なポイント交換も",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tTG5OWHBvNmpIY3hRTktXUzRlSVR3MEZkZEdEYS1COE9EbEc0RzhXRFBtWDlQSUw2VkhjeFQ1N1Bja2tXY2FtSGtUb2xHbXk1X1dqZFU0UWVKNjFHaDBrMlh3aVhLOXJjczByekJQaXpYX1NjRHhEa2FFUWE2eXc?oc=5",
      "source": "Yahoo!ニュース"
     }
    ]
@@ -2518,6 +2603,11 @@
      "title": "660万件の個人情報が流出！タイムズカー事件が「いつもの情報漏洩」よりずっと怖い理由（ダイヤモンド・オンライン）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JQ3ZMeVJlRDJNTGQ5ZTR0QTZjSHp5dU92eXNWbUNhY3lSZllVVWh0aDBEWXg3ck9SVEM2MUdoRm5DNTlnTlkzWk90VzNtUWJjTmJ5dzBHa29EUTd3N1JDN21YSVNzT1I2MUdoZW4za0xpbU5LRUtjVGhfa3BJbW8?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "タイムズカー660万件の個人情報流出 ── 退会者の免許証画像まで残っていた。不要な個人情報を持つこと自体がリスクです",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTTQ1elViREFlUU5EbVE5ZjVkaHdVb19iWFNWS0U2ZkN5MjFiTWJDSktKLVBqakFjdWo5ZHBMQ1k5Q1dURnZEUlFUY0I3SnBSMzY2Rm5ZX20zalhmc0ZaNUtXaTlTdjN1bWZKUlVGNUhUSVhmWEdsa1QwM1RFN3BYdTVidUZJdDk2UDJSSQ?oc=5",
+     "source": "オルタナティブ・ブログ"
     }
    ],
    "company": "タイムズカー",
