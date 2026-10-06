@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T17:24:23.532294+00:00",
+ "updated": "2026-10-06T18:11:30.173269+00:00",
  "items": [
   {
    "title": "同県サイトで公開した地区防災計画のPDFに個人情報 - 岡山県",
@@ -55,6 +55,16 @@
      "title": "旭化成子会社のサイトにサイバー攻撃 最大55万8000人分の情報流出の可能性",
      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZeTlqbTdyb0s2UEVPd0pmMUNVQXdRR2ozZXFzeklRT0tJRllkNk5uVGV0MkNEOWR0elp0cVRyS3VNNk5wLTdzQ19jQXdrZzBDWVIxaGNiWQ?oc=5",
      "source": "TBS NEWS DIG"
+    },
+    {
+     "title": "旭化成子会社でも漏えいか サイバー攻撃最大55万人超",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mdHlINmU5UG9Bd25nZmw5bDNjTmFJVHRIOUJZM1ZJOWxianFNcEZqcGx5a3o0S1ZFNW83bkpQUE1WVWllbkRIOTByVQ?oc=5",
+     "source": "47NEWS"
+    },
+    {
+     "title": "旭化成子会社 55万人分情報流出か",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsdHNKbEpzOGhLaU84WG5mYlNna0Y5bG5jcVJodGU3Qnk5VGtjMnBVdmJuTE96MXo4T0EzTHpxWGFCOUI1Z2c3cEZaTXh3R0ZT?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ]
   },
@@ -78,6 +88,11 @@
      "title": "「おわび」装う二次被害にも注意 不正アクセスで個人情報流出 福岡でも相次ぐ 対策は",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTEZMMDI4X2dfZ0JEZlZoa1N6M1JQclR4NTFpQk5fMmtlemFTRWk3RjI5eXFqbV9GbnlfWnF2eENUdU15c3Etck1yTkl5TGllVS1xOGVCUXRCYjFOd0xiYlYtOVhNTE5fYk1CZE1CS1AtN3NUbXFXdHJMZUtQSy1BMUl0bw?oc=5",
      "source": "日テレNEWS NNN"
+    },
+    {
+     "title": "広島・修道学園に不正アクセス、中高や大学の個人情報流出か",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wWEVNV0VnWS1aSHZwR3Z5VENZWFBxNDZrYW95T0VyaGJIMlJGN2NGNWFJSTdsMnJHeU9ub3NfWEpyS1VqdXJ4NmEtS2czVi1hVGQzdmdFWUl3Zw?oc=5",
+     "source": "中国新聞デジタル"
     }
    ],
    "company": "広島・修道学園",
@@ -177,6 +192,11 @@
      "title": "「楽天ドライブ」、不正アクセスにより約1.5万アカウントのデータなどが漏えい",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CeEE5WnJiUklKbl9Bbi1USHNFb2J0Y1VBcmk5MlI4R2ZkNW83cy1TdWNVNkwweUVZN1RGaGZzVVpfMzdTVWdOZU5wVzE0MWtCcC1OTlhRaHBIX1ZNblRVLU9nMTJabnpsNWNn?oc=5",
      "source": "INTERNET Watch"
+    },
+    {
+     "title": "「楽天ドライブ」写真流出 文書も、不正アクセスで（共同通信）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yR2wwOFRkYTlQWHdCTzNyZ0VIby1fQ21FX3dxN2FORDV2T21qMjFhZHJaRWVmSklnd1ZyRkFaVEpmSV9BV1VVUEhYM2w1TlB3VmpQTHlJVFR5TTh3b0c5SFNEOGtsaTlJYTNkMXBFT0gwck0taHN6MmlUZHFZN1U?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ]
   },
@@ -3315,6 +3335,20 @@
  ],
  "misc": [
   {
+   "title": "企業に相次ぐ不正アクセス、個人情報標的 対策「コストでなく投資」",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWMEhacjQwek8tMS0tVmpIWGJvdjNOZ2ZqcnBmODJ3LTVVem56SXk4cmpZYUpsV2NsNmxvbEw3SzhvTm9Wbm40QW9vM3g4MlRVRVBRanNwalhBUWR2WmpJUzY1YVRhQWcySWJQRA?oc=5",
+   "source": "日本経済新聞",
+   "date": "2026-10-06T17:00:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "コストでなく投資",
+   "count": null,
+   "people": ""
+  },
+  {
    "title": "韓国 金融機関で個人情報漏えい相次ぐ AI悪用のサイバー攻撃か",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wdFM3Z3JuS2JuYlZidnVOdUVoZEoxRkVmLUdtZ0lJZjgwX2p3U005RW9RekxmWFpQVGVSelhHS0s2eFhqWGpkNGszOGNrZW9TQlNmQkJSTVJPX3NHNHF3?oc=5",
    "source": "NHKニュース",
@@ -3699,7 +3733,14 @@
    "tags": [],
    "company": "",
    "count": null,
-   "people": ""
+   "people": "",
+   "others": [
+    {
+     "title": "【金融庁が警鐘】相次ぐ「情報漏えい」…AI攻撃が爆速化する前に銀行が今やるべきこと",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sZlI3TnZrRUl0MGpYQ204dFZ4N2xJeGNjQ09SX19XTXlPQmZNQVBDR0l2UU9kc3dybjZyUWZvOV9wZGRIaXVXQ1FhQ29oeWs?oc=5",
+     "source": "ビジネス+IT"
+    }
+   ]
   },
   {
    "title": "【4.5万人登録】相次ぐ情報流出。次は集団訴訟がやってくる",
