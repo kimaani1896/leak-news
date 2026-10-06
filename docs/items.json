@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T09:11:08.127983+00:00",
+ "updated": "2026-10-06T10:11:27.404404+00:00",
  "items": [
   {
    "title": "日経BP、メールアカウントへの不正アクセスにより個人情報漏えいの疑い。日経新聞社への攻撃が影響",
@@ -44,6 +44,46 @@
    "people": "2.5万人"
   },
   {
+   "title": "ランサム攻撃メンバー拘束 ロシア国籍の男、独へ移送",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KTEZJN0V5TTdvQlB5UE5Mazc4Z0ZpcFFyNnlUcER4a0JTRGhialhwbWZOd1JiVkpfV1Y3NmlIUzJ5cGk1Z19BNFk2SQ?oc=5",
+   "source": "47NEWS",
+   "date": "2026-10-06T08:06:40+00:00",
+   "summary": "",
+   "region": "海外",
+   "tags": [
+    "ランサムウェア"
+   ],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "シチズン時計 約10万人分の情報漏洩の可能性 委託先に不正アクセス 決済情報も流出か（テレビ朝日系（ANN））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pLWZlQU10aWxqU202VUxxcXBlZVZjaTRGWjFhV3labTJ6aC1lUThQQjVQbnRIbzdyVmtRQnMxMHQ5b2RmdHJtbWtRNVhteUVMcW5VVTFycWtsdVZLNmVGcVpnTnFONHVFaGlBU1ZTVFZxR0QtSlpGRElUcFhWQmc?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-06T08:06:16+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "シチズン 約10万人分情報漏えいか",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82Zkg2RzAwOFl3bFVBMGVkMnREaUNDMUY1YTk4Y1hBV0VVdzNVR1Q4cnFZalU1QXJZNzJNN0lGc1dWRThXYWN5ZFFDdEpZZUY4?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "シチズン時計10万人分漏えいか 個人情報、委託業者不正アクセス（共同通信）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nOHZiQkxMd0hWanMzdm5iN1NvX2JBVEFkb25JSmdnRDQ1bWwyWExMY3M1WkNqV3Z6M3hGaGlUTWFWbEo1SGtRWEZ0S2RsZTBVeEtmYkJnMFhFbmVTQlRwbUxBUG1PY2NrOUVBeVpNWnFGZkwyaTlaZ3QwZ1hQLVE?oc=5",
+     "source": "Yahoo!ニュース"
+    }
+   ],
+   "company": "シチズン時計",
+   "count": 100000,
+   "people": "10万人"
+  },
+  {
    "title": "サイバー攻撃による情報流出続発、「大変深刻に受け止め」＝官房長官（ロイター）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aTGRJX2JxdFVzdzhZYm5FVFlSQ0NfcmF1bE5pT2M5aGdoNUdvcnA4c0xybjVHQ2pWdnl4VGdNQlFybGlyWnBzM0VKOHRzUkZJS3lNQVVRYVV0TWRLdnEtLVh2M1dnUUJVX0hRaGRJTk5HX1BCdjItZFdaUFp0R2c?oc=5",
    "source": "Yahoo!ニュース",
@@ -82,6 +122,11 @@
      "title": "国内不正アクセス 過去最多ペース",
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmRHN4SnNEUzh2Ukp2bmhDNVN1T1ZDT05oU2M3TWt6V1VlZEhqc1RoMWZGRTIyd3g3V1BRUl84UXQ0QVlxcV9BS2J3ekI0RHY4?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "国内の不正アクセス、最多ペース AI悪用、サイバー攻撃が容易に (共同通信)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQldfODRJOHpUd1ltVVM1OTd1cDd1TElDSmE5aDVYMW5rRDdwWEV2Vl8xaENqczcyR25xc092b2JKX0hIQXNoZ1Noc0JubU9SWUhFRUl0SFBpdGs2SWs3UnNNN01pb29obHBHUXZjcUc2WDdrU1Bha0hmR1lwUll6cGU4WjIwTnhpNjBFZUZ3?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ]
   },
@@ -97,7 +142,14 @@
    ],
    "company": "楽天ドライブ",
    "count": 15000,
-   "people": "1.5万人"
+   "people": "1.5万人",
+   "others": [
+    {
+     "title": "「楽天ドライブ」に不正アクセス 保存したデータなど1.5万アカウント分が取得・閲覧のおそれ",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14RmR1N3ZpaTN0bjUzb25pUUIzRFFUUExaZGVSV0N3aGlZdUVjRTlubjdmNm1manpfeExocEdsRVZCa3ZPYldnWXpQcDJGWmt4S1JTazBFY2lSWjlsN3ppbV9JOGZOQlFreWc?oc=5",
+     "source": "itmedia.co.jp"
+    }
+   ]
   },
   {
    "title": "「自分の情報は自分で守って」 不正アクセス頻発で古川デジタル相（時事通信）",
@@ -2608,6 +2660,16 @@
      "title": "タイムズカー660万件の個人情報流出 ── 退会者の免許証画像まで残っていた。不要な個人情報を持つこと自体がリスクです",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTTQ1elViREFlUU5EbVE5ZjVkaHdVb19iWFNWS0U2ZkN5MjFiTWJDSktKLVBqakFjdWo5ZHBMQ1k5Q1dURnZEUlFUY0I3SnBSMzY2Rm5ZX20zalhmc0ZaNUtXaTlTdjN1bWZKUlVGNUhUSVhmWEdsa1QwM1RFN3BYdTVidUZJdDk2UDJSSQ?oc=5",
      "source": "オルタナティブ・ブログ"
+    },
+    {
+     "title": "【情報まとめ】タイムズカー、焼肉きんぐ、ミスターマックス…大手企業で不正アクセス相次ぐ GMO「勝手にAmazonギフトコードに交換」不正利用で二次被害の確認は初",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2cHlEbV95NFRKc2ZKV1RGX1VleVJrTzV2V3dfMGdJZVNGSzFPX3lhWURTN25yNUF5VjB6V0d1RU1YRkl2Y3QySVlMM1ZfWEcxNzRVTjNGSmdwaWttNks1YzhBb0h4eEJiYjV5bmxVXzR2UQ?oc=5",
+     "source": "テレ朝NEWS"
+    },
+    {
+     "title": "タイムズカーの個人情報漏えい問題 悪用の恐れあり 特例で広島県が免許再交付 顔写真と免許証番号を変更（テレビ新広島）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11VzB1azR1ZHlkdmRUQUdsRmN4dEYzVm5mUm90alNTVnVaS0VGYjdZcF9NRWtMYl9jX3RxdW5HMzNvZ2FiaTNvM1lRdW5kaGZKZnllcXdid00zNVo0U2NMdklMMTZIdTF4RHVPWGoyTkdvRzk2TGZFX2lraUlwMGs?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ],
    "company": "タイムズカー",
