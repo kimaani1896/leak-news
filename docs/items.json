@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T01:15:56.826356+00:00",
+ "updated": "2026-10-06T01:18:46.684699+00:00",
  "items": [
   {
    "title": "「ベネワン・プラットフォーム」のアンケート機能で他企業・団体の個人情報がダウンロード可能に、不具合を認知するも解消作業が適切に実施されず",
@@ -39,7 +39,7 @@
    ],
    "company": "ムラウチドットコム",
    "count": 7716811,
-   "people": "7,716,811件",
+   "people": "772万人",
    "others": [
     {
      "title": "ムラウチドットコムに不正アクセス、7,716,811件の個人情報が漏えい",
@@ -110,7 +110,7 @@
    ],
    "company": "日経",
    "count": 1646,
-   "people": "1646人",
+   "people": "1,646人",
    "others": [
     {
      "title": "日経で相次ぐ不正アクセス 1646人分の個人情報漏えい、「なりすましメール」約9000件送信も (ITmedia ビジネスオンライン)",
@@ -131,7 +131,7 @@
    ],
    "company": "韓国",
    "count": 25000,
-   "people": "計2万5000人超",
+   "people": "2.5万人",
    "others": [
     {
      "title": "日経新聞にサイバー攻撃",
@@ -279,7 +279,7 @@
    ],
    "company": "焼肉きんぐ",
    "count": 10780000,
-   "people": "1078万人"
+   "people": "1,078万人"
   },
   {
    "title": "ホワイトエッセンス、約105万アカウントの個人情報流出 8月発表の不正アクセス調査で判明",
@@ -300,7 +300,7 @@
    ],
    "company": "ホワイトエッセンス",
    "count": 1050000,
-   "people": "約105万件"
+   "people": "105万人"
   },
   {
    "title": "大阪公立大の大規模システム障害、サイバー攻撃が原因か 13万人超の個人情報流出恐れ",
@@ -447,7 +447,7 @@
    ],
    "company": "大阪公立大",
    "count": 130000,
-   "people": "13万人超"
+   "people": "13万人"
   },
   {
    "title": "大和証券、22万件情報漏えいか 顧客約11万人の口座番号も",
@@ -538,7 +538,7 @@
    ],
    "company": "大和証券",
    "count": 220000,
-   "people": "22万件"
+   "people": "22万人"
   },
   {
    "title": "タイムズカー情報漏えい、集団訴訟に3万人が参加希望（アスキー）",
@@ -564,7 +564,7 @@
    ],
    "company": "ALSOKジョイライフ",
    "count": 134,
-   "people": "134件"
+   "people": "134人"
   },
   {
    "title": "講談社BECK、旧講談社ビーシーのメールアカウントに不正アクセス-50件の不審メール送信、個人情報漏えいの可能性",
@@ -578,7 +578,7 @@
    ],
    "company": "講談社BECK",
    "count": 50,
-   "people": "50件"
+   "people": "50人"
   },
   {
    "title": "日本経済新聞社へのサイバー攻撃となりすましメール送信についてまとめてみた",
@@ -593,7 +593,7 @@
    ],
    "company": "日経新聞",
    "count": 1646,
-   "people": "1646人",
+   "people": "1,646人",
    "others": [
     {
      "title": "【速報】日経新聞にサイバー攻撃 取材先などに不審メール9000件",
@@ -696,7 +696,7 @@
    ],
    "company": "日経",
    "count": 1646,
-   "people": "1646人"
+   "people": "1,646人"
   },
   {
    "title": "日経グループへのサイバー攻撃のまとめ―相次ぐインシデント Microsoft 365やGoogle Workspaceへの不正アクセスで個人情報漏洩の恐れ|セキュリティ対策Lab",
@@ -827,7 +827,7 @@
    ],
    "company": "日本大学",
    "count": 5,
-   "people": "計5人"
+   "people": "5人"
   },
   {
    "title": "ECサイト「ビールの縁側」に不正アクセス、9 名のカード情報が漏えいした可能性",
@@ -848,6 +848,11 @@
     {
      "title": "「PhotoGoods」に不正アクセス、カード情報が漏えいした可能性",
      "url": "https://scan.netsecurity.ne.jp/article/2026/10/06/56392.html",
+     "source": "ScanNetSecurity"
+    },
+    {
+     "title": "「PhotoGoods」に不正アクセス、カード情報が漏えいした可能性",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YSnk4VXlVVnROaXJqcGViNXY3cXpGQTIyU0E1ZGlWWFUtWHlyTERneUptWDBOcGhSZ3BsRk5IdVRMMGxPNnpoOERGMGFyZ29aVUYyMGpHc1BVeERRUGxveHhTZFc2SlhvclIybw?oc=5",
      "source": "ScanNetSecurity"
     }
    ],
@@ -1100,7 +1105,7 @@
    "tags": [],
    "company": "",
    "count": 2200,
-   "people": "2200人超"
+   "people": "2,200人"
   },
   {
    "title": "「OZmall」に不正アクセス、最大44万人の個人情報が閲覧された可能性 退会者も対象に（アスキー）",
@@ -1114,7 +1119,7 @@
    ],
    "company": "OZmall",
    "count": 440000,
-   "people": "最大44万人"
+   "people": "44万人"
   },
   {
    "title": "メーリングリストで設定ミス、個人情報が公開状態 - 足立区",
@@ -1173,7 +1178,7 @@
    ],
    "company": "日本エネルギー経済研究所",
    "count": 13,
-   "people": "13件"
+   "people": "13人"
   },
   {
    "title": "当選を落選に書き換え ～ デジタル整理券システム「mogily」に不正アクセス",
@@ -1201,7 +1206,7 @@
    ],
    "company": "メトロポイントクラブ会員向けサービス",
    "count": 59000,
-   "people": "約59,000件"
+   "people": "5.9万人"
   },
   {
    "title": "本物の警察官と信じた理由は「自分の名や住所など個人情報を知っていた」54.1 ％",
@@ -1367,7 +1372,7 @@
    ],
    "company": "吉野家HD",
    "count": 5366,
-   "people": "5366件"
+   "people": "5,366人"
   },
   {
    "title": "VOISINGの利用するBIツールへの不正アクセスについてまとめてみた",
@@ -1470,7 +1475,7 @@
    ],
    "company": "スターツ出版",
    "count": 447610,
-   "people": "最大447,610人",
+   "people": "45万人",
    "others": [
     {
      "title": "オズモール、不正アクセスによるサイバー攻撃で最大44万2,779名分の個人情報漏洩の恐れ-退会者も対象",
@@ -1546,7 +1551,7 @@
    "tags": [],
    "company": "",
    "count": 572000,
-   "people": "57万2千人"
+   "people": "57万人"
   },
   {
    "title": "大阪ガス系2社で顧客情報漏洩の可能性 不正アクセス、約8260件",
@@ -1560,7 +1565,7 @@
    ],
    "company": "大阪ガス系2社",
    "count": 8260,
-   "people": "約8260件"
+   "people": "8,260人"
   },
   {
    "title": "ブロガー情報管理システムに不正アクセス、個人情報が流出 - 集英社",
@@ -1574,7 +1579,7 @@
    ],
    "company": "集英社",
    "count": 2835,
-   "people": "2835人",
+   "people": "2,835人",
    "others": [
     {
      "title": "集英社のブロガー管理システムに不正アクセス 2835人分の個人情報漏えい、結婚状況や子の有無も",
@@ -1609,7 +1614,7 @@
    ],
    "company": "名張近鉄ガス",
    "count": 6800,
-   "people": "6800件"
+   "people": "6,800人"
   },
   {
    "title": "「郵便局アプリ」に不正アクセス 氏名や送り先住所など漏えい 19人分・69件",
@@ -1630,7 +1635,7 @@
    ],
    "company": "郵便局アプリ",
    "count": 69,
-   "people": "69件"
+   "people": "69人"
   },
   {
    "title": "2026年9月のサイバー攻撃・不正アクセスまとめ、タイムズカーや京王、東京メトロなど",
@@ -1656,7 +1661,7 @@
    "tags": [],
    "company": "",
    "count": 1600000,
-   "people": "約160万件"
+   "people": "160万人"
   },
   {
    "title": "ID・パスワードが窃取が原因 ～「HALMEK up」に不正アクセス",
@@ -1699,20 +1704,6 @@
    "company": "",
    "count": null,
    "people": ""
-  },
-  {
-   "title": "山口東京理科大チームが優勝 ～ 県警ら主催「サイバー攻撃共同対処訓練」で約 90 名が Micro Hardening 演習",
-   "url": "https://scan.netsecurity.ne.jp/article/2026/09/30/56340.html",
-   "source": "ScanNetSecurity",
-   "date": "2026-09-29T23:00:14+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [
-    "不正アクセス"
-   ],
-   "company": "山口東京理科大チームが優勝",
-   "count": 90,
-   "people": "約90人"
   },
   {
    "title": "ランサムウェア攻撃による京王電鉄グループのシステム障害についてまとめてみた",
@@ -1829,7 +1820,7 @@
    ],
    "company": "イープラス",
    "count": 1463,
-   "people": "1463件"
+   "people": "1,463人"
   },
   {
    "title": "福岡県が個人情報漏えい 介護事業者24法人の役員183人分（毎日新聞）",
@@ -1855,7 +1846,7 @@
    ],
    "company": "レゴランド・ジャパン・ホテル",
    "count": 1557,
-   "people": "約1557件"
+   "people": "1,557人"
   },
   {
    "title": "日本郵便に不正アクセスか 国際郵便の「調査請求Web受付」を停止、原因は調査中",
@@ -1932,7 +1923,7 @@
    ],
    "company": "セイコーマート",
    "count": 570000,
-   "people": "57万件"
+   "people": "57万人"
   },
   {
    "title": "ニッポンレンタカーでも会員41人の情報漏えいのおそれ 免許証番号やクレカ下4ケタも",
@@ -1975,7 +1966,7 @@
    "tags": [],
    "company": "",
    "count": 6600000,
-   "people": "660万件"
+   "people": "660万人"
   },
   {
    "title": "さくらインターネットに不正アクセス、136万超の会員情報に影響",
@@ -1989,7 +1980,7 @@
    ],
    "company": "さくらインターネット",
    "count": 1360000,
-   "people": "136万件超"
+   "people": "136万人"
   },
   {
    "title": "タイムズカーWebサイトへの不正アクセスについてまとめてみた",
@@ -2200,7 +2191,7 @@
    ],
    "company": "タイムズカー",
    "count": 6600000,
-   "people": "約660万件"
+   "people": "660万人"
   },
   {
    "title": "国立大にまたサイバー攻撃 佐賀大でランサムウェア被害、NASのファイルが暗号化",
@@ -2291,7 +2282,7 @@
    "count": 17838396,
    "tags": [],
    "company": "LimeLeads",
-   "people": "約1,784万件"
+   "people": "1,784万人"
   },
   {
    "title": "Burger King Russia（burgerkingrus.ru）から約316万件のアカウント情報が流出",
@@ -2303,7 +2294,7 @@
    "count": 3155792,
    "tags": [],
    "company": "Burger King Russia",
-   "people": "約316万件"
+   "people": "316万人"
   },
   {
    "title": "ニチレイ、計5万件超の個人情報漏えいを確認 7月のサイバー攻撃で",
@@ -2317,7 +2308,7 @@
    ],
    "company": "ニチレイ",
    "count": 50000,
-   "people": "計5万件超"
+   "people": "5万人"
   },
   {
    "title": "4件目も見つかったAnthropicの評価中AIモデルによる不正アクセス事案についてまとめてみた",
@@ -2349,7 +2340,7 @@
    ],
    "company": "Gyazo",
    "count": 174000000,
-   "people": "約1.74億件"
+   "people": "17,400万人"
   },
   {
    "title": "Chess.com (2026)（chess.com）から約465万件のアカウント情報が流出",
@@ -2361,7 +2352,7 @@
    "count": 4653212,
    "tags": [],
    "company": "Chess.com (2026)",
-   "people": "約465万件"
+   "people": "465万人"
   },
   {
    "title": "デジタル庁に不正アクセス、個人情報24.6万件漏えいか 各府省庁の職員情報など",
@@ -2375,7 +2366,7 @@
    ],
    "company": "デジタル庁",
    "count": 246000,
-   "people": "24.6万件"
+   "people": "25万人"
   },
   {
    "title": "McKesson（mckesson.com）から約640万件のアカウント情報が流出",
@@ -2387,7 +2378,7 @@
    "count": 6404340,
    "tags": [],
    "company": "McKesson",
-   "people": "約640万件"
+   "people": "640万人"
   },
   {
    "title": "店で免許証スキャン→数時間で闇サイトへ 米国防長官含む1億5300万枚の流出、被害者たちが突き止めた意外な出所",
@@ -2440,7 +2431,7 @@
    "count": 8849657,
    "tags": [],
    "company": "Manchester Airports Group",
-   "people": "約885万件"
+   "people": "885万人"
   },
   {
    "title": "Questel（questel.com）から約123万件のアカウント情報が流出",
@@ -2452,7 +2443,7 @@
    "count": 1226209,
    "tags": [],
    "company": "Questel",
-   "people": "約123万件"
+   "people": "123万人"
   },
   {
    "title": "「当選した」自虐投稿も……さくら136万件漏えい可能性、対象者へ通知メール続々",
@@ -2466,7 +2457,7 @@
    ],
    "company": "",
    "count": 1360000,
-   "people": "136万件"
+   "people": "136万人"
   },
   {
    "title": "イエローハット、最大180万人分の情報漏えいか 作業予約システムに不正アクセス",
@@ -2480,7 +2471,7 @@
    ],
    "company": "イエローハット",
    "count": 1800000,
-   "people": "最大180万人"
+   "people": "180万人"
   },
   {
    "title": "トレファク子会社に不正アクセス、13万人超の顧客情報漏えい 二段階認証設定しておらず",
@@ -2494,7 +2485,7 @@
    ],
    "company": "トレファク子会社",
    "count": 130000,
-   "people": "13万人超"
+   "people": "13万人"
   },
   {
    "title": "NISA口座「もぬけの殻」に 不正アクセス被害者らが証券4社に原状回復求め調停",
@@ -2534,7 +2525,7 @@
    "count": 12933413,
    "tags": [],
    "company": "Carhartt",
-   "people": "約1,293万件"
+   "people": "1,293万人"
   },
   {
    "title": "大阪万博の関係者情報が漏えいか 再委託先のMicrosoft 365アカウントに不正アクセス",
@@ -2574,7 +2565,7 @@
    "count": 1988331,
    "tags": [],
    "company": "Oz Hair and Beauty",
-   "people": "約199万件"
+   "people": "199万人"
   },
   {
    "title": "両毛システムズ、社内システムに不正アクセス被害",
@@ -2600,7 +2591,7 @@
    "count": 1596490,
    "tags": [],
    "company": "RingCentral",
-   "people": "約160万件"
+   "people": "160万人"
   },
   {
    "title": "ヨネックス、公式ECショップに不正ログイン 氏名や住所、購入履歴が閲覧された恐れ パスワード変更呼び掛け",
@@ -2626,7 +2617,7 @@
    "count": 10869543,
    "tags": [],
    "company": "Exact Sciences",
-   "people": "約1,087万件"
+   "people": "1,087万人"
   },
   {
    "title": "Suno（suno.com）から約5,528万件のアカウント情報が流出",
@@ -2638,7 +2629,7 @@
    "count": 55282226,
    "tags": [],
    "company": "Suno",
-   "people": "約5,528万件"
+   "people": "5,528万人"
   },
   {
    "title": "Paidwork（paidwork.com）から約2,327万件のアカウント情報が流出",
@@ -2650,7 +2641,7 @@
    "count": 23272765,
    "tags": [],
    "company": "Paidwork",
-   "people": "約2,327万件"
+   "people": "2,327万人"
   },
   {
    "title": "Goose Creek（goosecreek.com）から約657万件のアカウント情報が流出",
@@ -2662,7 +2653,7 @@
    "count": 6574121,
    "tags": [],
    "company": "Goose Creek",
-   "people": "約657万件"
+   "people": "657万人"
   },
   {
    "title": "Moody Bible Institute（moody.edu）から約230万件のアカウント情報が流出",
@@ -2674,7 +2665,7 @@
    "count": 2303416,
    "tags": [],
    "company": "Moody Bible Institute",
-   "people": "約230万件"
+   "people": "230万人"
   },
   {
    "title": "Sysco（sysco.com）から約269万件のアカウント情報が流出",
@@ -2686,7 +2677,7 @@
    "count": 2691852,
    "tags": [],
    "company": "Sysco",
-   "people": "約269万件"
+   "people": "269万人"
   },
   {
    "title": "Madison Square Garden Sports（msgsports.com）から約980万件のアカウント情報が流出",
@@ -2698,7 +2689,7 @@
    "count": 9796738,
    "tags": [],
    "company": "Madison Square Garden Sports",
-   "people": "約980万件"
+   "people": "980万人"
   },
   {
    "title": "Operation Endgame 4.0から約435万件のアカウント情報が流出",
@@ -2710,7 +2701,7 @@
    "count": 4348526,
    "tags": [],
    "company": "Operation Endgame 4.0",
-   "people": "約435万件"
+   "people": "435万人"
   },
   {
    "title": "June 2026 Stealer Logsから約5,628万件のアカウント情報が流出",
@@ -2722,7 +2713,7 @@
    "count": 56278397,
    "tags": [],
    "company": "June 2026 Stealer Logs",
-   "people": "約5,628万件"
+   "people": "5,628万人"
   },
   {
    "title": "DentaQuest（dentaquest.com）から約255万件のアカウント情報が流出",
@@ -2734,7 +2725,7 @@
    "count": 2553599,
    "tags": [],
    "company": "DentaQuest",
-   "people": "約255万件"
+   "people": "255万人"
   },
   {
    "title": "Charter（charter.com）から約485万件のアカウント情報が流出",
@@ -2746,7 +2737,7 @@
    "count": 4851517,
    "tags": [],
    "company": "Charter",
-   "people": "約485万件"
+   "people": "485万人"
   },
   {
    "title": "Addi（addi.com）から約3,453万件のアカウント情報が流出",
@@ -2758,7 +2749,7 @@
    "count": 34532941,
    "tags": [],
    "company": "Addi",
-   "people": "約3,453万件"
+   "people": "3,453万人"
   },
   {
    "title": "Marcus & Millichap（marcusmillichap.com）から約184万件のアカウント情報が流出",
@@ -2770,7 +2761,7 @@
    "count": 1837078,
    "tags": [],
    "company": "Marcus & Millichap",
-   "people": "約184万件"
+   "people": "184万人"
   },
   {
    "title": "ZenBusiness（zenbusiness.com）から約512万件のアカウント情報が流出",
@@ -2782,7 +2773,7 @@
    "count": 5118184,
    "tags": [],
    "company": "ZenBusiness",
-   "people": "約512万件"
+   "people": "512万人"
   },
   {
    "title": "Pitney Bowes（pitneybowes.com）から約824万件のアカウント情報が流出",
@@ -2794,7 +2785,7 @@
    "count": 8243989,
    "tags": [],
    "company": "Pitney Bowes",
-   "people": "約824万件"
+   "people": "824万人"
   },
   {
    "title": "ADT（adt.com）から約549万件のアカウント情報が流出",
@@ -2806,7 +2797,7 @@
    "count": 5488888,
    "tags": [],
    "company": "ADT",
-   "people": "約549万件"
+   "people": "549万人"
   },
   {
    "title": "Udemy（udemy.com）から約140万件のアカウント情報が流出",
@@ -2818,7 +2809,7 @@
    "count": 1401259,
    "tags": [],
    "company": "Udemy",
-   "people": "約140万件"
+   "people": "140万人"
   },
   {
    "title": "Carnival（carnivalcorp.com）から約753万件のアカウント情報が流出",
@@ -2830,7 +2821,7 @@
    "count": 7531359,
    "tags": [],
    "company": "Carnival",
-   "people": "約753万件"
+   "people": "753万人"
   },
   {
    "title": "Amtrak（amtrak.com）から約215万件のアカウント情報が流出",
@@ -2842,7 +2833,7 @@
    "count": 2147679,
    "tags": [],
    "company": "Amtrak",
-   "people": "約215万件"
+   "people": "215万人"
   },
   {
    "title": "McGraw Hill（mheducation.com）から約1,350万件のアカウント情報が流出",
@@ -2854,7 +2845,7 @@
    "count": 13500136,
    "tags": [],
    "company": "McGraw Hill",
-   "people": "約1,350万件"
+   "people": "1,350万人"
   },
   {
    "title": "Hallmark（hallmark.com）から約174万件のアカウント情報が流出",
@@ -2866,7 +2857,7 @@
    "count": 1736520,
    "tags": [],
    "company": "Hallmark",
-   "people": "約174万件"
+   "people": "174万人"
   }
  ]
 }

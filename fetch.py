@@ -36,7 +36,7 @@ INCLUDE_TITLE = re.compile(r"カード情報|改ざん|不正なページ")
 # 「サイバー攻撃」「ランサムウェア」の広い検索で拾った記事は、事件の見出しの形をしたものだけ残す
 INCIDENT = re.compile(r"(に|へ|で|が|、|\s)(サイバー攻撃|ランサム|不正アクセス)|サイバー攻撃(を)?受け|ランサム\S{0,4}(被害|攻撃)|被害|障害|漏え|漏洩|流出")
 NOISE = re.compile(r"対策|市場|支援|法|措置|社説|動向|白書|警鐘|専門家|とは|方法|選定|ナビ|EXPO|脆弱性|株価|サービス|製品|守る|備え|防御|無害化|集団|摘発|義務|報告書|検証|写真|コスト|復号|ページ目|解説|影響|どう|なぜ|？|\?|社長|狙う|急増|相次|立て続|調査|AIで|AIの|ツール|選択|エキスパート|映す|20[01]\d年|202[0-5]年")
-EXCLUDE = re.compile(r"セミナー|ウェビナー|提供開始|発売|募集|キャンペーン|無料|ソリューション|導入事例|ホワイトペーパー|資格|調査レポート|ランキング|求人|資金流出|攻撃手法")
+EXCLUDE = re.compile(r"セミナー|ウェビナー|提供開始|発売|募集|キャンペーン|無料|ソリューション|導入事例|ホワイトペーパー|資格|調査レポート|ランキング|求人|資金流出|攻撃手法|優勝|大会|コンテスト|演習")
 # 特定の事件ではなく「相次ぐ漏えい」「対策は」のような全般・解説のニュース（専門サイト以外で、まとめた記事がないものは載せない）
 GENERAL = re.compile(r"相次|急増|狙われ|狙う|とは|どう|なぜ|解説|専門家|識者|警鐘|対策|備え|守る|？|\?|ヤバい|考えられる|立て続|注意点|手口|教訓")
 # タグ（上から順に判定、複数可）
@@ -346,12 +346,20 @@ def find_name(title):
     return ""
 
 
+def people_text(n):
+    """表示用の人数。1万以上は「◯万人」、それ未満は「◯人」にそろえる（件・アカウントも人として数える）。"""
+    if n >= 100_000:
+        return f"{round(n / 1e4):,}万人"
+    if n >= 10_000:
+        return f"{round(n / 1e4, 1):g}万人"
+    return f"{n:,}人"
+
+
 def label(it):
     """一覧用の会社名・人数・国内/海外を付ける（毎回つけ直す）。"""
     if it["source"] == "Have I Been Pwned":
         it["company"] = re.split(r"（|から約", it["title"])[0]
-        n = it["count"]
-        it["people"] = f"約{n / 1e8:.1f}億件" if n >= 1e8 else f"約{n / 1e4:,.0f}万件"
+        it["people"] = people_text(it["count"])
         return
     titles = [it["title"]] + [o["title"] for o in it.get("others", [])]
     it["region"] = "海外" if OVERSEAS.search(it["title"]) else "国内"
@@ -360,7 +368,7 @@ def label(it):
     it["company"] = max(names, key=lambda n: (names.count(n), n == names[0])) if names else ""
     best = next((c for c in map(find_count, titles) if c), None)  # 代表の見出しを優先
     it["count"] = int(best[0]) if best else None
-    it["people"] = best[1] if best else ""
+    it["people"] = people_text(it["count"]) if best else ""
 
 def write_feed(items):
     now = format_datetime(datetime.now(timezone.utc))
