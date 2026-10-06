@@ -1,6 +1,74 @@
 {
- "updated": "2026-10-05T22:54:39.916562+00:00",
+ "updated": "2026-10-06T01:10:13.766740+00:00",
  "items": [
+  {
+   "title": "不正アクセスなぜ急増 原因はAIか、それとも…… 専門家の見解は",
+   "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002013/",
+   "source": "ITmedia",
+   "date": "2026-10-06T01:00:00+00:00",
+   "summary": "9月末以降、不正アクセスやそれに伴う情報漏えいの発表が日本企業から相次いでいる。その原因は……専門家に見解を聞いた。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "失効クレジットカードを「復活」させる攻撃手法 ～ 非接触決済の通信改ざんで不正決済成功",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/06/56397.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-10-05T23:20:02+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "失効クレジットカードを",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "「ベネワン・プラットフォーム」のアンケート機能で他企業・団体の個人情報がダウンロード可能に、不具合を認知するも解消作業が適切に実施されず",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/06/56394.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-10-05T23:05:10+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "ベネワン・プラットフォーム",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "「信濃毎日新聞デジタル」に不正アクセス、一時的に一部の履歴データが消去",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/06/56393.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-10-05T23:05:09+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "信濃毎日新聞デジタル",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "ムラウチドットコムに不正アクセス、7,716,811件の個人情報が漏えい",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/06/56391.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-10-05T23:05:02+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "ムラウチドットコム",
+   "count": 7716811,
+   "people": "7,716,811件"
+  },
   {
    "title": "ジェリービーンズグループの資金流出についてまとめてみた",
    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/06/002029",
@@ -111,6 +179,11 @@
     {
      "title": "韓国の銀行6行にサイバー攻撃 計2万5000人超の個人情報流出──AIエージェントを使った可能性も 現地報道",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GbTBJOHJXeDlCcFlPdzZXTkJCd2s3dTZwTlVSbHh3c1JlYUdZSEhvU3ZGYUhia245eGVhUjVtTnRQS24zMFAyeWhrNDI5V21SVHJrdEo2YWdJOHQwWWw3cGR1MTBCU0MtSV9mT0FpYUNEQXBfVEE5RXA0cVRPZnM?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "韓国の銀行6行にサイバー攻撃 計2万5000人超の個人情報流出──AIエージェントを使った可能性も 現地報道",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObzJOejdod1g0TUN2M0d4Uk9yblVMR0hiZER1dEZsNEJJd2pIbTRWX0pGRG96OW1iRWtlZzFoeUlHQ0hwcVZESllkLTFPV3FMUEd1ZWNWa2VqTExKVlRUZy1xTWRHZDVzZm9SalVQd19rb2p0ZzhhMEFUaUdtQ3NqZTdfNXlobi1XRHIydjJR?oc=5",
      "source": "Yahoo!ニュース"
     }
    ]
@@ -230,6 +303,11 @@
      "title": "焼肉きんぐの会員情報 不正アクセスを受け、ほとんどの登録者の個人情報が漏えい 運営会社が公表（メ〜テレ（名古屋テレビ））",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iZERLckQtWEpRLXdQWl9CT0RsYkFBSGF4dG1IbnRmLUpoVkFRSVVKb1lkeDV1akdBOXVIZHcxUFdLd3k2UlZQbW1FVWZ6ZXVSNmlxNHA3ZXgxWEduUk55MFhxZlpZemg3aExJSGxNbGxrZHJSNnItdl96bUxXUlE?oc=5",
      "source": "news.yahoo.co.jp"
+    },
+    {
+     "title": "「焼肉きんぐ」会員情報流出 約1000万件 アプリ登録者ほぼ全ての会員番号や氏名、メールアドレス、電話番号（CBCテレビ）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FaUhQZmZWc1ZKRXhpeVdQV3hQOEtYN0NTS2NxZlVOa0hxRm9hOXlsc0h6RVg1OWg2QXE4UVNNeGIxRFY4YUg4aThlQjlGeE1GX3htR25BLWh6RU9LMjdsM3lqOURNRUZXX0N3SFpNdkZiMFFqRF95WEZaU09MYXM?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ],
    "company": "焼肉きんぐ",
@@ -831,6 +909,11 @@
     {
      "title": "ECサイト「ビールの縁側」に不正アクセス、9 名のカード情報が漏えいした可能性",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xMFItd2NlWXpzRjBmaVVfV2lGTWotMUNHU0xhRGdTZFNhdWI5TnZBUVdXTW5qVVRNaUE2TnhzdnBOSVZ3YkVGMTlzS3o2NVVzOFlWaHVWMXFGMmJuZ2swdHAzamg4SWNFSXV0NQ?oc=5",
+     "source": "ScanNetSecurity"
+    },
+    {
+     "title": "「PhotoGoods」に不正アクセス、カード情報が漏えいした可能性",
+     "url": "https://scan.netsecurity.ne.jp/article/2026/10/06/56392.html",
      "source": "ScanNetSecurity"
     }
    ],
@@ -2202,6 +2285,11 @@
      "title": "「タイムズカー」集団訴訟準備サイトに3万7000人登録 会員情報660万件流出に弁護士「被害救済する必要ある」",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QYUVjYUQxWm1ibWkwWUo2SGZNN2F5U3gtcjJWb2x2OG5PWkRJTHZuQ3pJckFuUzhreFh6bEIxbnFCT3l4S1hmdFFiNmNoRkdrQ3ZJOGdIZ2QwOEQ2ekw0OUhlREhhT3NqTzhYX2FreG9iSHF0UE9abl9jX1NadWc?oc=5",
      "source": "news.yahoo.co.jp"
+    },
+    {
+     "title": "タイムズカー、デジ庁、ニチレイ…続く個人情報漏洩「短期間で異様」",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tTkNnVVByeTNfZUowaWdEWnVCZFV5NmlMNVZmeE5aWDZyUkVVTjV3MGg1Q2dEV3VNRVdNUmxmV0R5ZDgzZjZiUG5YS0ZGczFFMmdKRldFQkpVLUJjOFpGbmZNUVU2Vjg?oc=5",
+     "source": "朝日新聞"
     }
    ],
    "company": "タイムズカー",
