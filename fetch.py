@@ -36,7 +36,7 @@ INCLUDE_TITLE = re.compile(r"カード情報|改ざん|不正なページ")
 # 「サイバー攻撃」「ランサムウェア」の広い検索で拾った記事は、事件の見出しの形をしたものだけ残す
 INCIDENT = re.compile(r"(に|へ|で|が|、|\s)(サイバー攻撃|ランサム|不正アクセス)|サイバー攻撃(を)?受け|ランサム\S{0,4}(被害|攻撃)|被害|障害|漏え|漏洩|流出")
 NOISE = re.compile(r"対策|市場|支援|法|措置|社説|動向|白書|警鐘|専門家|とは|方法|選定|ナビ|EXPO|脆弱性|株価|サービス|製品|守る|備え|防御|無害化|集団|摘発|義務|報告書|検証|写真|コスト|復号|ページ目|解説|影響|どう|なぜ|？|\?|社長|狙う|急増|相次|立て続|調査|AIで|AIの|ツール|選択|エキスパート|映す|20[01]\d年|202[0-5]年")
-EXCLUDE = re.compile(r"セミナー|ウェビナー|提供開始|発売|募集|キャンペーン|無料|ソリューション|導入事例|ホワイトペーパー|資格|調査レポート|ランキング|求人")
+EXCLUDE = re.compile(r"セミナー|ウェビナー|提供開始|発売|募集|キャンペーン|無料|ソリューション|導入事例|ホワイトペーパー|資格|調査レポート|ランキング|求人|資金流出|攻撃手法")
 # 特定の事件ではなく「相次ぐ漏えい」「対策は」のような全般・解説のニュース（専門サイト以外で、まとめた記事がないものは載せない）
 GENERAL = re.compile(r"相次|急増|狙われ|狙う|とは|どう|なぜ|解説|専門家|識者|警鐘|対策|備え|守る|？|\?|ヤバい|考えられる|立て続|注意点|手口|教訓")
 # タグ（上から順に判定、複数可）
@@ -117,8 +117,8 @@ def parse_feed(name, raw):
 
 
 def is_leak(it):
-    text = it["title"] + " " + it["summary"]
-    return bool(INCLUDE.search(text) or INCLUDE_TITLE.search(it["title"])) and not EXCLUDE.search(it["title"])
+    # 見出しに漏えい系の言葉が無い記事（システム障害・営業秘密・政策など）は、本文に出てきても入れない
+    return bool(INCLUDE.search(it["title"]) or INCLUDE_TITLE.search(it["title"])) and not EXCLUDE.search(it["title"])
 
 
 def hibp():
@@ -283,6 +283,8 @@ def find_count(title):
         n = to_num(m.group(2))
         if n < 1 or re.fullmatch(r"20\d\d", m.group(2)):
             continue
+        if title[m.end():].startswith("送信") or "メール" in title[max(0, m.start() - 6):m.start()]:
+            continue  # 送ったメールの数は漏えい件数ではない
         loose = m.re is COUNT_LOOSE
         unit = "件" if loose else {"人分": "人", "件分": "件", "名": "人", "アカウント": "件", "口座": "件"}.get(m.group(4), m.group(4))
         over = m.group(3) or (not loose and m.group(5))
@@ -399,11 +401,13 @@ def main():
     fresh = [it for it in fresh if it["date"] and cutoff <= datetime.fromisoformat(it["date"]) <= now + timedelta(hours=1)]
     added = merge(items, fresh)
     items = [it for it in items if datetime.fromisoformat(it["date"]) >= cutoff]
-    items = [it for it in items if not (it["source"] not in PRIORITY and it["source"] != "Have I Been Pwned"
-                                        and GENERAL.search(it["title"]) and not it.get("others"))]
+    items = [it for it in items if is_leak(it) or it["source"] == "Have I Been Pwned"]
     items.sort(key=lambda x: x["date"], reverse=True)
     for it in items:
         label(it)
+    # 一般論・解説記事を落とす。専門サイトでも会社名が取れないものは落とす
+    items = [it for it in items if not (it["source"] != "Have I Been Pwned" and GENERAL.search(it["title"])
+                                        and (not it["company"] or (it["source"] not in PRIORITY and not it.get("others"))))]
     items = consolidate(items)
     for it in items:
         label(it)

@@ -1,34 +1,6 @@
 {
- "updated": "2026-10-06T01:12:18.623570+00:00",
+ "updated": "2026-10-06T01:15:56.826356+00:00",
  "items": [
-  {
-   "title": "不正アクセスなぜ急増 原因はAIか、それとも…… 専門家の見解は",
-   "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002013/",
-   "source": "ITmedia",
-   "date": "2026-10-06T01:00:00+00:00",
-   "summary": "9月末以降、不正アクセスやそれに伴う情報漏えいの発表が日本企業から相次いでいる。その原因は……専門家に見解を聞いた。",
-   "region": "国内",
-   "tags": [
-    "不正アクセス"
-   ],
-   "company": "",
-   "count": null,
-   "people": ""
-  },
-  {
-   "title": "失効クレジットカードを「復活」させる攻撃手法 ～ 非接触決済の通信改ざんで不正決済成功",
-   "url": "https://scan.netsecurity.ne.jp/article/2026/10/06/56397.html",
-   "source": "ScanNetSecurity",
-   "date": "2026-10-05T23:20:02+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [
-    "不正アクセス"
-   ],
-   "company": "失効クレジットカードを",
-   "count": null,
-   "people": ""
-  },
   {
    "title": "「ベネワン・プラットフォーム」のアンケート機能で他企業・団体の個人情報がダウンロード可能に、不具合を認知するも解消作業が適切に実施されず",
    "url": "https://scan.netsecurity.ne.jp/article/2026/10/06/56394.html",
@@ -67,19 +39,14 @@
    ],
    "company": "ムラウチドットコム",
    "count": 7716811,
-   "people": "7,716,811件"
-  },
-  {
-   "title": "ジェリービーンズグループの資金流出についてまとめてみた",
-   "url": "https://piyolog.hatenadiary.jp/entry/2026/10/06/002029",
-   "source": "piyolog",
-   "date": "2026-10-05T15:20:29+00:00",
-   "summary": "2026年9月30日、ジェリービーンズグループは、役員を装った第三者の送金指示によって資金が流出した事案について、調査委員会の調査報告書(要約版)を公表しました。ここでは関連する情報をまとめます。 会長を名乗るメールで個人LINEの情報を要求 同社は2026年1月頃から、役員を騙るなりすましメールを複数受信していた。1",
-   "region": "国内",
-   "tags": [],
-   "company": "ジェリービーンズグループ",
-   "count": null,
-   "people": ""
+   "people": "7,716,811件",
+   "others": [
+    {
+     "title": "ムラウチドットコムに不正アクセス、7,716,811件の個人情報が漏えい",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwaHpSYkpMZVFFYmg2b3BycmVfZDY0Wk50alBHSVh2UFJmSG5TWWVBMERDbUpaNkkyUUxrYmNyMEpsbF9vVkphNjRBWWxGRmsxcFU4NWU1OFh5UFE4ZERiZ29iMXBxMVJBRElzTA?oc=5",
+     "source": "ScanNetSecurity"
+    }
+   ]
   },
   {
    "title": "複数サイトに不正アクセス、プラグイン脆弱性が標的に - ベネッセグループ会社",
@@ -142,8 +109,8 @@
     "不正アクセス"
    ],
    "company": "日経",
-   "count": 9000,
-   "people": "約9000件",
+   "count": 1646,
+   "people": "1646人",
    "others": [
     {
      "title": "日経で相次ぐ不正アクセス 1646人分の個人情報漏えい、「なりすましメール」約9000件送信も (ITmedia ビジネスオンライン)",
@@ -483,39 +450,6 @@
    "people": "13万人超"
   },
   {
-   "title": "“免許証画像”闇サイトで売買も……1枚あたり「20円」 相次ぐ個人情報漏えい 悪用リスクは？【追跡取材 news LOG】",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kVU5uRlBKaHhDVWhSdzJDX05IUzhULTlNZ1VQMlZpRTJZMFkyWVJnYVJORHhtMVNvSVJZWDQzSEdSdjQweF9NRGVCNDdEYmc3N2M1YWNWaTJuRWVfTWYzTnFCazNHUERrQmJWVVVncldKaFlOR2xXcXQ5eng?oc=5",
-   "source": "日テレNEWS NNN",
-   "date": "2026-10-05T06:48:00+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [],
-   "company": "",
-   "count": null,
-   "people": "",
-   "others": [
-    {
-     "title": "“免許証画像”闇サイトで売買も……1枚あたり「20円」 相次ぐ個人情報漏えい 悪用リスクは？【追跡取材 news LOG】",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11N0YwX1U0M3ZjelBYTmh0NlVIMU93Tkc3bjJUM2RVZ1ItQUE2b0NwTEJsWkpOcGtrN214SVo2RWpJU2F3UnZNNWtQMTJEWk84YTlsQ0FURG5SQzc2blJjNkdaLUh6VFdfVDRCYmlCWlliU3ByMDUtVHIyc3VaUDg?oc=5",
-     "source": "Yahoo!ニュース"
-    }
-   ]
-  },
-  {
-   "title": "e-Taxのシステム障害についてまとめてみた",
-   "url": "https://piyolog.hatenadiary.jp/entry/2026/10/05/151151",
-   "source": "piyolog",
-   "date": "2026-10-05T06:11:51+00:00",
-   "summary": "2026年9月24日以降、国税庁のe-Taxでログインや納付などの不具合が告知され、10月2日には本人以外の贈与税申告書等が閲覧できる状態になっていたことが発表されました。ここでは関連する情報をまとめます。 9月24日以降のe-Taxの不具合 国税庁は2026年9月24日に国税システムを更改した(出典: 2)。同日以降",
-   "region": "国内",
-   "tags": [
-    "設定ミス"
-   ],
-   "company": "e-Tax",
-   "count": null,
-   "people": ""
-  },
-  {
    "title": "大和証券、22万件情報漏えいか 顧客約11万人の口座番号も",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiZmh4SG00MTdybjEyc1hRVFhaZDhZU3RzbDN6N1k1MW41REpQd1dVc1V5eEc5ME5Eb2ZUTU5BMlpZV3JsQ2NSa2ZoWnl1V0VOcXM4aHROSGpCUWN6aHMxb1k3YU4ycjh1RVE?oc=5",
    "source": "ITmedia",
@@ -658,8 +592,8 @@
     "不正ログイン"
    ],
    "company": "日経新聞",
-   "count": 9000,
-   "people": "9000件",
+   "count": 1646,
+   "people": "1646人",
    "others": [
     {
      "title": "【速報】日経新聞にサイバー攻撃 取材先などに不審メール9000件",
@@ -946,8 +880,8 @@
     "不正アクセス"
    ],
    "company": "",
-   "count": 9000,
-   "people": "9000件"
+   "count": null,
+   "people": ""
   },
   {
    "title": "日経にサイバー攻撃 なりすましメールを取材先などに9千件不正送信（朝日新聞）",
@@ -998,8 +932,8 @@
     }
    ],
    "company": "日経",
-   "count": 9000,
-   "people": "9000件"
+   "count": null,
+   "people": ""
   },
   {
    "title": "ムーンスター、不正アクセス被害確認から半年後に個人情報漏えいの疑いが発覚",
@@ -1436,20 +1370,6 @@
    "people": "5366件"
   },
   {
-   "title": "「能動的サイバー防御」きょう開始 警察・自衛隊などが攻撃元サーバを無害化 高市首相も狙いを説明",
-   "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001918/",
-   "source": "ITmedia",
-   "date": "2026-10-01T03:21:11+00:00",
-   "summary": "政府は10月1日、「サイバー対処能力強化法」と同整備法の一部施行に伴い、重大なサイバー攻撃を未然に防ぐ「能動的サイバー防御」の運用を始めた。攻撃元のサーバに警察や自衛隊がアクセスし、不正プログラムの消去などで無害化できるようになる。",
-   "region": "国内",
-   "tags": [
-    "不正アクセス"
-   ],
-   "company": "",
-   "count": null,
-   "people": ""
-  },
-  {
    "title": "VOISINGの利用するBIツールへの不正アクセスについてまとめてみた",
    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/01/112213",
    "source": "piyolog",
@@ -1793,20 +1713,6 @@
    "company": "山口東京理科大チームが優勝",
    "count": 90,
    "people": "約90人"
-  },
-  {
-   "title": "ランサムウェア被害件数が過去最多の123件に、警察庁が対策情報を紹介",
-   "url": "https://scan.netsecurity.ne.jp/article/2026/09/30/56339.html",
-   "source": "ScanNetSecurity",
-   "date": "2026-09-29T23:00:11+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [
-    "ランサムウェア"
-   ],
-   "company": "",
-   "count": 123,
-   "people": "123件"
   },
   {
    "title": "ランサムウェア攻撃による京王電鉄グループのシステム障害についてまとめてみた",
@@ -2362,20 +2268,6 @@
    "people": ""
   },
   {
-   "title": "GoogleのAIモデルが評価中に実在企業のシステムへ侵入した事案についてまとめてみた",
-   "url": "https://piyolog.hatenadiary.jp/entry/2026/09/25/130414",
-   "source": "piyolog",
-   "date": "2026-09-25T04:04:14+00:00",
-   "summary": "2026年9月18日、Googleは自社のAI「Gemini」が第三者による能力評価の実施中に、実在する企業3社のシステムへ不正アクセスしていたことを明らかにしました。事案が発生したのは2026年5月。Googleが公にこれを認めたのは、米紙ウォール・ストリート・ジャーナル(WSJ)の取材を受けてからでした。ここでは関",
-   "region": "海外",
-   "tags": [
-    "不正アクセス"
-   ],
-   "company": "",
-   "count": null,
-   "people": ""
-  },
-  {
    "title": "美容医療プラットフォーム「Unni（カンナムオンニ）」への不正アクセスについてまとめてみた",
    "url": "https://piyolog.hatenadiary.jp/entry/2026/09/24/141557",
    "source": "piyolog",
@@ -2386,20 +2278,6 @@
     "不正アクセス"
    ],
    "company": "Unni",
-   "count": null,
-   "people": ""
-  },
-  {
-   "title": "旭化成の元従業員による営業秘密の持ち出しについてまとめてみた",
-   "url": "https://piyolog.hatenadiary.jp/entry/2026/09/24/105225",
-   "source": "piyolog",
-   "date": "2026-09-24T01:52:25+00:00",
-   "summary": "2026年9月17日、旭化成株式会社は、同社の元従業員が在職中に入手した機密情報を不正に持ち出し中国企業に流出させていたとして、不正競争防止法違反の疑いで愛知県警に逮捕されたと公表しました。ここでは関連する情報をまとめます。 転職先からの相談が発覚の端緒に 元従業員は1984年に旭化成へ入社し、2018年に退職するまで",
-   "region": "国内",
-   "tags": [
-    "内部不正"
-   ],
-   "company": "旭化成",
    "count": null,
    "people": ""
   },
