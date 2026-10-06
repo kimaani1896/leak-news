@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T06:11:41.527341+00:00",
+ "updated": "2026-10-06T06:43:04.034607+00:00",
  "items": [
   {
    "title": "楽天ドライブ、不正アクセスで1.5万アカウントの保存データ流出（アスキー）",
@@ -39,7 +39,7 @@
    "tags": [
     "不正アクセス"
    ],
-   "company": "交通系IC",
+   "company": "ニモカ",
    "count": 521,
    "people": "521人"
   },
@@ -68,41 +68,6 @@
      "source": "ITmedia"
     }
    ]
-  },
-  {
-   "title": "MrMax 最大173万人分の情報流出",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XalV4V010UWdhdTJ5U0d2TEt0S0hLNUwxbTRJVXZIM3U1d3NjLVhPa3MxX1FOUnBjVW5haTlsZWdWXzhvX2tQQlBoc0tvQWFf?oc=5",
-   "source": "news.yahoo.co.jp",
-   "date": "2026-10-06T03:28:46+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [
-    "不正アクセス"
-   ],
-   "company": "MrMax",
-   "count": 1730000,
-   "people": "173万人",
-   "others": [
-    {
-     "title": "最大173万人分情報流出 MrMax、不正アクセス",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uX0k0NWYzUkp4azNraWVhTkQ1NjZBR0VZV2dCTG5SZjd3eDlOM3d2dThFTUd0SWQ0MC1uMkctMEltdldvdGZCMVRZRW9teDNLeDJkTW9rSENRbm1RcFAxaWo0dw?oc=5",
-     "source": "nippon.com"
-    }
-   ]
-  },
-  {
-   "title": "ＧＭＯ系のアンケートサイト「ｉｎｆｏＱ」に不正アクセス、最大９４万分の会員情報が流出…一部会員のポイントが不正に交換",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2SjVWNVBYYzF0cHl0UFlhbGdwb24zVlRha2tlN3FNeEFtOEJ4NVMxTHVaSmY5ZkZoVlB1R0REckVkSEVfNlRhbzBFWm1yTGktVHBWTUNubUNJbzQ0N2laZkowOGc?oc=5",
-   "source": "読売新聞",
-   "date": "2026-10-06T03:22:00+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [
-    "不正アクセス"
-   ],
-   "company": "ＧＭＯ系",
-   "count": null,
-   "people": ""
   },
   {
    "title": "ミスターマックスで不正アクセス 個人情報最大170万人超流出か",
@@ -137,6 +102,21 @@
      "title": "ミスターマックス、不正アクセスで最大173万人の顧客情報流出（毎日新聞）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjSEgyVExBWnEtbTRSLXVMZkpMdFJJZmR3N29BN1ktbmFxdFRZVmhvVW5tSkJ6cDNvUXhsdW5WMjNoRTBNSGdNWDF6dXJ5b1ZwTUpPYXpQMVNzRHoxUV82Q0dvQ1pTdGktMmZWTnB1VTdrNHI3a0dxcThKajJiWVE?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "MrMax 最大173万人分の情報流出",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XalV4V010UWdhdTJ5U0d2TEt0S0hLNUwxbTRJVXZIM3U1d3NjLVhPa3MxX1FOUnBjVW5haTlsZWdWXzhvX2tQQlBoc0tvQWFf?oc=5",
+     "source": "news.yahoo.co.jp"
+    },
+    {
+     "title": "最大173万人分情報流出 MrMax、不正アクセス",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uX0k0NWYzUkp4azNraWVhTkQ1NjZBR0VZV2dCTG5SZjd3eDlOM3d2dThFTUd0SWQ0MC1uMkctMEltdldvdGZCMVRZRW9teDNLeDJkTW9rSENRbm1RcFAxaWo0dw?oc=5",
+     "source": "nippon.com"
+    },
+    {
+     "title": "ミスターマックスにも不正アクセス 最大173万人分の個人情報が流出のおそれ アプリとオンラインストア会員が対象 福岡",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3Nk12d2E4dVNUb2RCX0RqaWdXVUFmN2FrcW4zR0FUeTJTdlJ1RXFFdm9sQU5rQlVpMTZRNFBFTm56UGVCcWhlZFBILTViVF9HT0lfQnA2LTl1YkNWSWc0UlJFd2tOY0lmWk5JQ1JDSkp5SDdtVm5vRHdJYk1FRWM?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ]
   },
@@ -148,7 +128,7 @@
    "summary": "",
    "region": "国内",
    "tags": [],
-   "company": "ハッカー",
+   "company": "楽天",
    "count": 101000000,
    "people": "10,100万人"
   },
@@ -200,6 +180,16 @@
      "title": "GMOリサーチ＆AI「infoQ」に不正アクセス 最大94万件の個人情報漏洩 ポイント約287万円分不正交換か（ABEMA TIMES）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TSWIxbDVDUW4zZWc3bG04OGEyTVloaUFtOGp2SWwzU3NxZThiTE4yT2NvYmtQMzN3ZWc3V0JTN2o0LUgyN3JhbzgwdEJBa0U0Z1ZvZUdhc3JDWlJQV0dDV3IzcFNEdkY3aHVmWjBBQ0NWRkhMRWtTby1uQmJFUlU?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "ＧＭＯ系のアンケートサイト「ｉｎｆｏＱ」に不正アクセス、最大９４万分の会員情報が流出…一部会員のポイントが不正に交換",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2SjVWNVBYYzF0cHl0UFlhbGdwb24zVlRha2tlN3FNeEFtOEJ4NVMxTHVaSmY5ZkZoVlB1R0REckVkSEVfNlRhbzBFWm1yTGktVHBWTUNubUNJbzQ0N2laZkowOGc?oc=5",
+     "source": "読売新聞"
+    },
+    {
+     "title": "GMO子会社が情報漏えい 最大95万件、不正アクセス",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nS3VwclVkb05SRU14T2ZlczRUZC1VeG50WDBuNFNMMDMtenJ2MWVfSVFPakJHdFFJRXFfaEx3VVg2NWY0OWNyNTl4R0lpZnVZU3JfRndHTTUzX3JaN1dmNllMYw?oc=5",
+     "source": "nippon.com"
     }
    ]
   },
@@ -354,6 +344,16 @@
      "title": "大起水産に不正アクセス 公式アプリのシステムから約17万5000人の個人情報漏えいか（テレビ朝日系（ANN））",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BeGVMMXE5VnV3YzB2ekwyR0hGbFRrcFBNbmhSODFibzBLSjVhVGxNclFqbVZLVHlLbFhoWUJuOXhJdWtveGd2WVNwbnNjRDROV0xRUWRnaUltdU1TdjVWbkRudUhWYVhUb2VuRHRlLVE4R1h4TV9fYUFQay11TDQ?oc=5",
      "source": "news.yahoo.co.jp"
+    },
+    {
+     "title": "大起水産 約17万5千人分の個人情報漏えいの可能性と発表 公式アプリのシステムに不正アクセスを確認 現時点で不正利用は確認されず（読売テレビ）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yMTU5OFFOdFdjVjFkbWM3SWxsdjJvay1qaUoxZG82amFQTFZfank2dkE0TzM4bkV0VVpwWDhWeWNDRGppdFFjRTlqQkM4d29tWTNVRzZOd3dKN2REY3p4WkY1eWhkbGt5REdtLVpQbnBQc1I5VTRoWF9pd21KcDQ?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "大起水産に不正アクセス 公式アプリのシステムから約17万5000人の個人情報漏えいか",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QTXVFUGdSQlNMZEY5UUlkX2tSVlJYRHJwdGE3cUxSb2x5UnNGQ1NSTkMxNHBaMF9jS1BldlZERXh1TTNIQnUzM2M3YnFJSWdidEJCZzh1cHozNXJLd2h5ZGtkRDFPRVQteDhnQjBic2ZxZw?oc=5",
+     "source": "テレ朝NEWS"
     }
    ]
   },
@@ -746,6 +746,16 @@
      "title": "大阪公立大の大規模システム障害はサイバー攻撃が原因か ランサムウエアの可能性 (産経新聞)",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUTlySGRtU1o2M1paT19yNzZlc09tSmJPZVo4MUxIcFY4X214ZUxFMHZtQkJsOGJheXlfR09vV2hHT0R4VE4wN2t1SmNZejEzWlJvVGFNM3NvU1ZUNHVPbEVfaFd6bGJkOXhFLUYzalZFZzBQVHRnVFFoOUVmbm9vLUFzS2x4RHJnVjB2UFZn?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "大阪公立大にランサムウェア攻撃か サーバー500台停止で全授業休講",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1uSFJMY2E0Yzh5UUtUQWFjY1M3ekJiMEcwOTY2bmY0ajFUNk9GbXJnMFNxd3VpMklWLVJFZmFZZFhRZTJqRWlPRA?oc=5",
+     "source": "株式会社アクト"
+    },
+    {
+     "title": "大阪公立大学、システム障害は「ランサムウェアによる攻撃」と発表しました",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxVjFIX0RZSk93a3BDcW1STnhZakM5bkZCbkcwREYwRmhGNnNxLV9tMmRXWmd2TXhLWC0wQWUyN0RIYTQ1aUJqelFBNndNbjAwRU44aTRpZmpiMC0wUTJNc09xenZuVk0?oc=5",
+     "source": "やさしい朝日新聞"
     }
    ],
    "company": "大阪公立大",
