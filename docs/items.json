@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T16:37:50.111000+00:00",
+ "updated": "2026-10-06T17:11:17.291557+00:00",
  "items": [
   {
    "title": "同県サイトで公開した地区防災計画のPDFに個人情報 - 岡山県",
@@ -300,6 +300,11 @@
      "title": "ミスターマックスに不正アクセス 170万人超情報流出（ABEMA TIMES）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PbkJYSVNxVDdMT2pmamdHVVl5Rk0xOW1RU2lrU3I1cVZCVWNJc3hoaGNkSjhwUm9MX3FOTXRVUHNfZkJaa09fTmRURnJuOW5CR0Zwc3p5RWxHNUF4d29WdnU2WHJFSXVkb1dJZlNfbnB5NjBLcTFXNFJja1d3anM?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "最大約174万人の個人情報が流出 ミスターマックスに不正アクセス – Quebee キュエビー",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qRkx0MzdPWXBfVUVQQU4weEEzN3BwNmxEMkxDc3FoSkw5T05pSVpSQVNNb1RwUDc2RC1qcThGYmlueGc1RWpvU2NVRlVMRXpONzhQNlVPdkY?oc=5",
+     "source": "QAB 琉球朝日放送"
     }
    ]
   },
@@ -3407,6 +3412,20 @@
      "source": "河北新報オンライン"
     }
    ]
+  },
+  {
+   "title": "相次ぐ情報漏洩・不正アクセスなどを受け、サイバーセキュリティクラウドが無償の「緊急相談窓口」を開設",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZN0J6TEVwX3dFUF9JZzNKUDc4STlNZThnRWMtN3pvUWkwZjNLRUZwYzNXXy1IMjJjbmQ2UmRGSVJGNzNDcks1X0F5bzA2bzZBZ21venZn?oc=5",
+   "source": "EnterpriseZine",
+   "date": "2026-10-06T10:15:58+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "緊急相談窓口",
+   "count": null,
+   "people": ""
   },
   {
    "title": "企業標的、不正アクセス相次ぐ ＧＭＯ、会員ポイントに被害―ＡＩ普及が影",
