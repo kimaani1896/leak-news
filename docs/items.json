@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-06T05:11:41.401670+00:00",
+ "updated": "2026-10-06T06:11:41.527341+00:00",
  "items": [
+  {
+   "title": "楽天ドライブ、不正アクセスで1.5万アカウントの保存データ流出（アスキー）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kVXFXbFE5OFhVWnd5QVEyRXhFUzlPZDFIemJDZGdoeG1jQWNBYlpGTjlzY0EzWlRoTWNxQi1tcmUwMkUtWGVJSWdENVpKV1lwb1l4bkhYWVRFdXpwdmFBY3BxNkhMQXUzS3gzTWpOTUZZZnZvRXpzZHdVWVFQQTg?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-06T05:40:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "楽天ドライブ",
+   "count": 15000,
+   "people": "1.5万人"
+  },
+  {
+   "title": "「自分の情報は自分で守って」 不正アクセス頻発で古川デジタル相（時事通信）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13QVEtdGJ0YXE4Zkc3bGF6dW45dmJzWXRxOWRZdnB2X2dlR19JZ2tMZXg4dWw0MDZhYXhnOVJHaGNtTlpPekZ5Y2hkelBFS0JwZTJrbFZveW1PSnhxU015LVkwUHBPZkUyajRnY3J0TV9DbDloS2VHZ041U3dIajg?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-06T05:02:38+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "交通系IC「ニモカ」個人情報漏えい 521件のカード番号やメールアドレスなど 第三者の不正アクセスで 利用履歴照会サービスが停止 福岡（TNCテレビ西日本）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04M29ONWd4dmlCUThvdzh5QjJCeDRTcVJ5N3RNYzR6NXkwOHBtRkM0UjNSSldCd1d1NjVYazR5WjBnQmpfQ1ZURU1oYTF6TXZMRFdhLUZiVHZpUzlDS2NsbHNtUV9SZjJObWdxZTc1YmFMZnBOUjd5UlVQaThNVFU?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-06T04:57:02+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "交通系IC",
+   "count": 521,
+   "people": "521人"
+  },
   {
    "title": "デンマークで住民登録簿に不正アクセス 880万人分の個人番号など流出 政府「極めて深刻」",
    "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002032/",
@@ -19,6 +61,11 @@
      "title": "デンマーク版「マイナンバー」に不正アクセス、880万人分が対象に（アスキー）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tclJwYnowQWZmUFp3dXhqWHJOQmdoQ3d3Umgtb2dkWUVrbW5JeEJrYTAyZkx6dXpONC1kcVk2YUktQkNVWXdlajFGQk5KcktNeDUzQkRSdkJsM2VYdGJEeEgxNnVta3Y3LU4tcFhrWm5oYm1fQ09iZVpSaXhsblU?oc=5",
      "source": "news.yahoo.co.jp"
+    },
+    {
+     "title": "デンマークで住民登録簿に不正アクセス 880万人分の個人番号など流出 政府「極めて深刻」",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NVF8xdFlfQzhQaTNkWFQ4ZURwcEJuUGJ4YzVXbWhQVHNnN2ZTaTRJODRvZXJ1S3lVVnpuOHZrUEhScnZhc0t0eGFXNDBLN0RLejNaRnVHZF95eTBBUU1hZ1B6RlltdjlRZ0E?oc=5",
+     "source": "ITmedia"
     }
    ]
   },
@@ -29,10 +76,19 @@
    "date": "2026-10-06T03:28:46+00:00",
    "summary": "",
    "region": "国内",
-   "tags": [],
+   "tags": [
+    "不正アクセス"
+   ],
    "company": "MrMax",
    "count": 1730000,
-   "people": "173万人"
+   "people": "173万人",
+   "others": [
+    {
+     "title": "最大173万人分情報流出 MrMax、不正アクセス",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uX0k0NWYzUkp4azNraWVhTkQ1NjZBR0VZV2dCTG5SZjd3eDlOM3d2dThFTUd0SWQ0MC1uMkctMEltdldvdGZCMVRZRW9teDNLeDJkTW9rSENRbm1RcFAxaWo0dw?oc=5",
+     "source": "nippon.com"
+    }
+   ]
   },
   {
    "title": "ＧＭＯ系のアンケートサイト「ｉｎｆｏＱ」に不正アクセス、最大９４万分の会員情報が流出…一部会員のポイントが不正に交換",
@@ -66,8 +122,35 @@
      "title": "ミスターマックス、不正アクセスで最大173万人の顧客情報流出",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03V056RGNiWjh5a3BoSmE2VDFwaWpuQ2FJN3Fub3NMQURldmFBNm5SRlIzdzdvTFJLY1E3eFlHZTdhUWRNbXcyeVpxU2h2WEpHV3pSMUVROG9kTW5WZWtYTjEtZUJHai1QaF9ONQ?oc=5",
      "source": "日本経済新聞"
+    },
+    {
+     "title": "ミスターマックスのアプリ MrMax アプリとオンラインストアへ不正アクセスによるサイバー攻撃-最大約173万件の個人情報漏洩",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOEhaMmt3NW1GYWhvSlpQUEF4R1c0aXg4cGJtZ0E4Y3dHMzF3T1J5NUkxYVkwbC1Cc0VtbGQwcGNTMUJEZ3I5eC11bzFZekEyNjlVUGJudmFMN3JncGFPellNV0tsb3NWS1BiNzVBSXdCajlSbDJiYUxhTnQ0cHdGNw?oc=5",
+     "source": "合同会社ロケットボーイズ"
+    },
+    {
+     "title": "ミスターマックス、最大１７３万人分の個人情報流出…オンラインストアのサーバーに不正アクセス（読売新聞オンライン）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JS1J1YUtIMlJXMWxkOS1wYTU0M1RJSFIwLWMwY1J3eklhM1BmWDc1Z3QwdkxWZi1DV2FLUmx4aUtWT2ktSFZhLVA2d0Rxa2F2aXRaSlVjdzFXcnFockR1OEI4WDFubU9Od25XQjVsMVRwVEZ3VmNveC1pZkRWdWs?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "ミスターマックス、不正アクセスで最大173万人の顧客情報流出（毎日新聞）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjSEgyVExBWnEtbTRSLXVMZkpMdFJJZmR3N29BN1ktbmFxdFRZVmhvVW5tSkJ6cDNvUXhsdW5WMjNoRTBNSGdNWDF6dXJ5b1ZwTUpPYXpQMVNzRHoxUV82Q0dvQ1pTdGktMmZWTnB1VTdrNHI3a0dxcThKajJiWVE?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ]
+  },
+  {
+   "title": "ハッカーが楽天会員1億100万件の個人情報 販売を主張―氏名・住所・ポイント情報のサンプル掲載、漏洩元・真正性は未確認",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOVpTY0JNTnE2R0xQWUdfcWU2YUhmUmRTN2xmWVFKdndsSnZUTVVzdHFNdGRuMllEMjdHeHdERFU4OW94c2p1ZU9jLTc2ZFpyajNBb2p6T0VHaUpBRDJ3Mi14OVZOYmIxRUhCNTJYc1U4X0ltckFaMk1TZUJvZEpGNWNsb1pHdUFjelJDXzVRY0dwTXlPV1E?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "date": "2026-10-06T02:00:29+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "ハッカー",
+   "count": 101000000,
+   "people": "10,100万人"
   },
   {
    "title": "GMO「infoQ」に不正アクセス、最大95万件の会員情報漏えい ポイント287万円分が不正交換される",
@@ -97,6 +180,26 @@
      "title": "【情報まとめ】GMO不正アクセス ポイント不正利用も確認 二次被害が確認されたケースは初めて（テレビ朝日系（ANN））",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCSlpibTJqRXl6c3pyRTU0cUMwZzRiT0hfamZicFVEVW5sZzIta3NHd0pmQ2s5ZDlPWVZzU25RdHZmQUIyR3JVMmZCekJkTUNsSDgzYjdLLVl0YUVhR3V4YlV6TGFyVE53LTBrUzhfTmR3MHcySTNwYjZXUkVqNzQ?oc=5",
      "source": "news.yahoo.co.jp"
+    },
+    {
+     "title": "GMO子会社が不正アクセスで情報漏洩 利用者氏名やメールアドレスなど最大95万件",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tSEdfYmJQSWN3RVBpbmNvNU9nOE1kU190R0lDMl9SbFBLSXZ1akxNdm1zVllibkJSYzlER3pKMkZwaGZaLXRMdGd2MmJza1ZNZ3dVOTcyYnBRM2hUQ1pKSWNFSUhuU0kwTGZUTUI1dUkwX1puYnc?oc=5",
+     "source": "産経ニュース"
+    },
+    {
+     "title": "「GMO」グループ会社でも95万件情報漏えい 不正アクセスで氏名やアドレスなど 一部会員のポイントがAmazonギフトコードに不正交換 全額補填へ（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uOHRjMWJpZ0s1RURzcW9mSzl1U1BINXJLVkVKdGtJcENfbkZsZXJkTW1iZlB1NjQyNTNUaDl3N0hDcjZmVE81Z3Nzd045Nm1oOFlIajRUd2ZXZjhGU2ltOW9acTJqYms4eGxsM2VPaVVHemFId1pmdVlXd1Z3NlE?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "GMO系に不正アクセス、個人情報95万人分漏洩 ポイント不正利用も",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaTW1ldnRrSnNzVE1weWdfa3NFT0c3U0hka21QSWlPcUdGN1ZxblV3Ynh3VG1WamZWelFUeDFTeDJuLThXdkhYMG1zRkp3UGc1bzRUa3ZiVEVfR0JjMnN2blhRZWpBRWtzbVM1cA?oc=5",
+     "source": "日本経済新聞"
+    },
+    {
+     "title": "GMOリサーチ＆AI「infoQ」に不正アクセス 最大94万件の個人情報漏洩 ポイント約287万円分不正交換か（ABEMA TIMES）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TSWIxbDVDUW4zZWc3bG04OGEyTVloaUFtOGp2SWwzU3NxZThiTE4yT2NvYmtQMzN3ZWc3V0JTN2o0LUgyN3JhbzgwdEJBa0U0Z1ZvZUdhc3JDWlJQV0dDV3IzcFNEdkY3aHVmWjBBQ0NWRkhMRWtTby1uQmJFUlU?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ]
   },
@@ -112,7 +215,14 @@
    ],
    "company": "スタディサプリ",
    "count": 3687,
-   "people": "3,687人"
+   "people": "3,687人",
+   "others": [
+    {
+     "title": "スタディサプリに不正アクセス、3,687件の登録メールアドレス特定の可能性―千代田区の児童・生徒8名も対象",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWlZTSEJxaEZsMnhjSElIQXh2Tk0yT1NmMjNlNy02SUJqdG11VlVJdGJ6ZV9YWGMyemNCeGZmV1l6c3czazJtNVJHYVhkTHhVMzd2Wmsyd0k2Um5jOG1kdWZEcGRVTXdzNWpZNjN3LWFTdXBKS1J6Wml0c19nTEtic0lnbEpfUjdPc1k3cjQtaTNkM0pfZ3Nsd3pTWQ?oc=5",
+     "source": "合同会社ロケットボーイズ"
+    }
+   ]
   },
   {
    "title": "トヨタ子会社で営業秘密の情報漏えい事件、愛知県警、元社員男女2人を逮捕［新聞ウォッチ］（レスポンス）",
@@ -138,7 +248,14 @@
    "tags": [],
    "company": "ベネワン・プラットフォーム",
    "count": null,
-   "people": ""
+   "people": "",
+   "others": [
+    {
+     "title": "「ベネワン・プラットフォーム」のアンケート機能で他企業・団体の個人情報がダウンロード可能に、不具合を認知するも解消作業が適切に実施されず",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4enZ3cDVFSzNWZlFRaU5XOVdkeHVjUWtlM1JwTnBKbFJWdVhXY1VGdVZCMlh6T2NnemNjc1JPQ05sdGNIZkFOUG5HM0RlYm9vVGMzRWo0bjd5N1hRYnByRlNBR3NiU0NNYVY1MA?oc=5",
+     "source": "ScanNetSecurity"
+    }
+   ]
   },
   {
    "title": "「信濃毎日新聞デジタル」に不正アクセス、一時的に一部の履歴データが消去",
@@ -416,6 +533,11 @@
      "title": "焼肉きんぐの会員情報 不正アクセスを受け、ほとんどの登録者の個人情報が漏えい 運営会社が公表",
      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5EbXllczk0QTJUVy1fdUlrWG05WU5makVEWlZlSm9JM0s1VlA3cHhHNV9NeE1SWjlJRWFJdTNreGRpYjA3YWRBSngwY1ZHbHhTeGfSAWRBVV95cUxNYlFMUkFkZGdkOFVkeTdscmNoSjRKc0RVZzgtN1RTVzdxWVhsT0RPVEtZeUJWcmU2aDgyYjNkQjVDMjN6Zmk5aktnVjhUZ2xCZ3RuTUo0aTVoSERNdng1alFycW5D?oc=5",
      "source": "nagoyatv.com"
+    },
+    {
+     "title": "「焼肉きんぐ」システムに不正アクセス、1000万件超の個人情報流出（ロイター）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kWld2dC1GWUF3aUtPRXVUbWVrNWJQV1RJbERQZGY0bGx4cmJWZF9IMDIyMTBuejFCcGZ2aDdhNXB1S082N1RKc3hMcVYyM1VBWDNTMjdXZlpiSzhQdTFWUENmNExWZmY3S2M1SExzMnM5Vm9MQkhfUWdHQmJpazQ?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ],
    "company": "焼肉きんぐ",
@@ -619,6 +741,11 @@
      "title": "大阪公立大 サイバー攻撃受け障害",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95SzhBaHZrMFdQZnZIbWRuVEV0ZHZaQmpMV09YMjMwVl95UVpxQlNFQ0RzWm5peERKUEctN3JXa0d6OF9lRlVnUVk4SnNsOGRMVk5fSUd0c0kwS3VjS2Zv?oc=5",
      "source": "news.yahoo.co.jp"
+    },
+    {
+     "title": "大阪公立大の大規模システム障害はサイバー攻撃が原因か ランサムウエアの可能性 (産経新聞)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUTlySGRtU1o2M1paT19yNzZlc09tSmJPZVo4MUxIcFY4X214ZUxFMHZtQkJsOGJheXlfR09vV2hHT0R4VE4wN2t1SmNZejEzWlJvVGFNM3NvU1ZUNHVPbEVfaFd6bGJkOXhFLUYzalZFZzBQVHRnVFFoOUVmbm9vLUFzS2x4RHJnVjB2UFZn?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ],
    "company": "大阪公立大",
@@ -626,11 +753,11 @@
    "people": "13万人"
   },
   {
-   "title": "大和証券、22万件情報漏えいか 顧客約11万人の口座番号も",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiZmh4SG00MTdybjEyc1hRVFhaZDhZU3RzbDN6N1k1MW41REpQd1dVc1V5eEc5ME5Eb2ZUTU5BMlpZV3JsQ2NSa2ZoWnl1V0VOcXM4aHROSGpCUWN6aHMxb1k3YU4ycjh1RVE?oc=5",
-   "source": "ITmedia",
+   "title": "委託先で侵害、問い合わせ顧客の情報が流出か - 大和証券",
+   "url": "https://www.security-next.com/191068",
+   "source": "Security NEXT",
    "date": "2026-10-05T03:00:00+00:00",
-   "summary": "",
+   "summary": "大和証券は、同社に問い合わせを行った顧客の個人情報が外部に流出した可能性があることを明らかにした。",
    "region": "国内",
    "tags": [
     "不正アクセス"
@@ -710,11 +837,16 @@
      "title": "大和証券、顧客11万人の口座番号など漏洩か 委託先に不正アクセス",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrSzlmUndaWU1VTlM2cXB2LUhDZ2IyY1c4TDRkeFJ3R3MydExVc0QzT0lZYUFaU2dvTWNham9uZGc0al80c09icHVXaXpnc0ZCTTk1bXZNdk83clBvelVfZVdXeUtRMHc?oc=5",
      "source": "asahi.com"
+    },
+    {
+     "title": "大和証券、22万件情報漏えいか 顧客約11万人の口座番号も",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiZmh4SG00MTdybjEyc1hRVFhaZDhZU3RzbDN6N1k1MW41REpQd1dVc1V5eEc5ME5Eb2ZUTU5BMlpZV3JsQ2NSa2ZoWnl1V0VOcXM4aHROSGpCUWN6aHMxb1k3YU4ycjh1RVE?oc=5",
+     "source": "ITmedia"
     }
    ],
    "company": "大和証券",
-   "count": 220000,
-   "people": "22万人"
+   "count": 110000,
+   "people": "11万人"
   },
   {
    "title": "ALSOKジョイライフ、7月の不正アクセス調査結果を公表―134件の個人情報、フォレンジックで流出示す事実なし",
@@ -884,6 +1016,18 @@
    "company": "ビールの縁側",
    "count": 9,
    "people": "9人"
+  },
+  {
+   "title": "DV被害者らの情報漏洩 5年で68件",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mX1p2ZDhBNWE2UjE4RGEtSDFOaEVRU050cmhGV0pnRm1kVTUzOVR4Rzg2Tnota014UkQ5ampvd0duNkFrX29IdE1YaGoyNW8x?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-04T22:55:43+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "",
+   "count": 68,
+   "people": "68人"
   },
   {
    "title": "日本経済新聞社へのサイバー攻撃となりすましメール送信についてまとめてみた",
@@ -1121,6 +1265,11 @@
      "title": "アバハウスに不正アクセス 全顧客の個人情報が漏えいした可能性",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVTNvNGJmNjJ6YlR4X2FQM3g1Sl9LM3Vod2lKWWZ6WHdLMllwTzRSY1A5ZUVXeG9zMTNSSy0zdHg3R1JhVlBqaXI0QzNYZDlEckhVZlFIaGZCZ0xXbjBvVFNmdUZxOGpDWUh0bThXUF9BbVUyTVZUaGpVMUZ5b0RFamF3?oc=5",
      "source": "fashionsnap.com"
+    },
+    {
+     "title": "アバハウス、会員・受注情報漏えいの可能性 注文内容と一致する不審な返金案内メールを確認（日本ネット経済新聞）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxR2lYT3BlLXNfdjdudVR3VnpzRGNlOW1nWXp1ZHJPeGVSZjdsWHpCeFBzSFA3cW5MNURRUTE1U0xxbGpZSEtneERuY1IyVm9TN0dMMV9Bd1hRMV9pRl9ZS0x2dWVVVmVVOTdaWVJGY2E0NWl1akhfOGNPYnp3QVE?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ]
   },
@@ -2283,6 +2432,16 @@
      "title": "タイムズカー情報漏洩 法的責任は",
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zZTBCVVZyN2NUN2RxWEZ6Zi1zOVU3S2hDWGYyOE5RTXZyY1BtNHhfTER6YUFHZ3NPbnV3Nk9vVW1vWjh5aVhqakM1aTVpT25v?oc=5",
      "source": "news.yahoo.co.jp"
+    },
+    {
+     "title": "タイムズカーで「情報漏洩」被害に遭った人が、今すぐやるべきこと",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LaTl5Y1FUdkNYTXdUQ0JGRFZrVVIxek14VWloRnNOdnNPQktFOG9EWFZBX2YxWDdoejVKOFQtSHpIRmd6Z1YwSXpjMXjSAU9BVV95cUxNSHZMajNuT1BobHBicEVScXRBcnpOUzBEVVdRbGJXNlphaHR5WDlsS2xyaDNzeFZPcXJWUzFzQy1oWVl1LUlqLUdqd0d5R2Zz?oc=5",
+     "source": "ダイヤモンド・オンライン"
+    },
+    {
+     "title": "660万件の個人情報が流出！タイムズカー事件が「いつもの情報漏洩」よりずっと怖い理由（ダイヤモンド・オンライン）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JQ3ZMeVJlRDJNTGQ5ZTR0QTZjSHp5dU92eXNWbUNhY3lSZllVVWh0aDBEWXg3ck9SVEM2MUdoRm5DNTlnTlkzWk90VzNtUWJjTmJ5dzBHa29EUTd3N1JDN21YSVNzT1I2MUdoZW4za0xpbU5LRUtjVGhfa3BJbW8?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ],
    "company": "タイムズカー",
