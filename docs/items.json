@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T03:11:08.559078+00:00",
+ "updated": "2026-10-06T03:19:33.436792+00:00",
  "items": [
   {
    "title": "韓国の金融機関で相次いだ不正アクセスについてまとめてみた",
@@ -30,9 +30,9 @@
    "people": ""
   },
   {
-   "title": "GMO「infoQ」に不正アクセス、最大95万件の会員情報漏えい ポイント287万円分が不正交換される（ITmedia NEWS）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kWURGaFFXcWswZTdVbGJhbFo0NkEwcGJHTWlBTDc4TEdIb2t4MTJjWGV2OXVLZ2dEZGY4dE5rY2RSQnNfVWE4Vmxhdy1reU1DQ084dnpRMzNwX3Z6N1YwY0tCWDhZczJ0R21jVnpqV3pJcm9NdXBud3U0Ny0wMVk?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "GMO「infoQ」に不正アクセス、最大95万件の会員情報漏えい ポイント287万円分が不正交換される",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mMTBYLWNDWnQ2MFozMDFkV1JsRnZsTWVydEs4eGtHSVUtU0lidUF1S3dUZWFMbzFGMmhlUFh1QTNHTTkwODlTSzlNU3JtUXFBNVFrT1NscU5rR3JsX1drdWEzVGR0d1JvUGc?oc=5",
+   "source": "ITmedia",
    "date": "2026-10-06T00:00:41+00:00",
    "summary": "",
    "region": "国内",
@@ -47,6 +47,11 @@
      "title": "GMOグループ会社に不正アクセス 会員の個人情報94万件余流出か",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpTm1vYnJ5dDNTTF9uV01raXpmN00yMVpzWmREUWZDaTNPNVhQTW5yZHQtbkhBbnNkZUluZW93TnR1UXZrOXdnSE8xTDRyaWRGYThSRnlaTktGdmx5RmJ3?oc=5",
      "source": "NHKニュース"
+    },
+    {
+     "title": "GMO「infoQ」に不正アクセス、最大95万件の会員情報漏えい ポイント287万円分が不正交換される（ITmedia NEWS）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kWURGaFFXcWswZTdVbGJhbFo0NkEwcGJHTWlBTDc4TEdIb2t4MTJjWGV2OXVLZ2dEZGY4dE5rY2RSQnNfVWE4Vmxhdy1reU1DQ084dnpRMzNwX3Z6N1YwY0tCWDhZczJ0R21jVnpqV3pJcm9NdXBud3U0Ny0wMVk?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ]
   },
@@ -307,6 +312,16 @@
     {
      "title": "焼肉きんぐの会員情報 不正アクセスを受け、登録者のほとんどの個人情報が漏えい 運営会社が公表",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iUUxSQWRkZ2Q4VWR5N2xyY2hKNEpzRFVnOC03VFNXN3FZWGxPRE9US1l5QlZyZTZoODJiM2RCNUMyM3pmaTlqS2dWOFRnbEJndG5NSjRpNWhIRE12eDVqUXJxbkPSAWRBVV95cUxNYlFMUkFkZGdkOFVkeTdscmNoSjRKc0RVZzgtN1RTVzdxWVhsT0RPVEtZeUJWcmU2aDgyYjNkQjVDMjN6Zmk5aktnVjhUZ2xCZ3RuTUo0aTVoSERNdng1alFycW5D?oc=5",
+     "source": "nagoyatv.com"
+    },
+    {
+     "title": "焼肉きんぐに不正アクセス、1078万人分の情報流出 アプリ登録者ほぼ全員が対象 (アスキー)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd19KSW9RSGw5bTFXaFdBaW5rV2t6TVVmbm10ZlZndnJIZy1fZEI5d2taZGYwQS1BUk9qSnJWOUl6WXM1QVlONXRSWXg3eFF2dE9ld3NrOVVrbnF1eDR5VzBlRm5sd2sxSDExMVVUNEs2T1pSdXVjVTd3Q2VwZTVOTDc0ektHRk1fOUhpX3Rn?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "焼肉きんぐの会員情報 不正アクセスを受け、ほとんどの登録者の個人情報が漏えい 運営会社が公表",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5EbXllczk0QTJUVy1fdUlrWG05WU5makVEWlZlSm9JM0s1VlA3cHhHNV9NeE1SWjlJRWFJdTNreGRpYjA3YWRBSngwY1ZHbHhTeGfSAWRBVV95cUxNYlFMUkFkZGdkOFVkeTdscmNoSjRKc0RVZzgtN1RTVzdxWVhsT0RPVEtZeUJWcmU2aDgyYjNkQjVDMjN6Zmk5aktnVjhUZ2xCZ3RuTUo0aTVoSERNdng1alFycW5D?oc=5",
      "source": "nagoyatv.com"
     }
    ],
