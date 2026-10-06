@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T16:11:18.318883+00:00",
+ "updated": "2026-10-06T16:37:50.111000+00:00",
  "items": [
   {
    "title": "同県サイトで公開した地区防災計画のPDFに個人情報 - 岡山県",
@@ -12,27 +12,6 @@
    "company": "岡山県",
    "count": null,
    "people": ""
-  },
-  {
-   "title": "旭化成子会社のサイトにサイバー攻撃 最大55万8000人分の情報流出の可能性（TBS NEWS DIG Powered by JNN）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zSGlKYlA4TWxBQ3JRRWFSaXRrTzh6UUtIU2RMZTlWNG9xbWpxUDVGeFgzbnRQZnNvV3lCR2ZISS1OejQ1VFctZERuNXgyQTlTS0d4X0xuV043d0dpbVUxeEVaYTdqWlJ0XzZWMkpjemN6SzBlZ0VjOG5hMDRYYTQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "date": "2026-10-06T14:21:22+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [
-    "不正アクセス"
-   ],
-   "others": [
-    {
-     "title": "旭化成子会社でも漏えいか サイバー攻撃最大55万人超（共同通信）",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JYmt5QU9ZMUlFZGs2RFlUZHFrbko1RlpKT2xBLWYtU01JVVFaNTYyVmp4OU82YTlvZjRHZjdZVTc4cXhidkFiYWdvNm9UZ1pFWk1qVzZUb25JazVWV1Fpb2NCOTRoSXNzUEoyM3VlUWI5OGdQR3NDT3JyaGY0MVE?oc=5",
-     "source": "Yahoo!ニュース"
-    }
-   ],
-   "company": "旭化成子会社",
-   "count": 558000,
-   "people": "56万人"
   },
   {
    "title": "介護事業者向けの報告書依頼メールで誤送信 - 鳥取県",
@@ -55,10 +34,29 @@
    "date": "2026-10-06T10:27:32+00:00",
    "summary": "",
    "region": "国内",
-   "tags": [],
-   "company": "旭化成系",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "旭化成子会社",
    "count": 560000,
-   "people": "56万人"
+   "people": "56万人",
+   "others": [
+    {
+     "title": "旭化成子会社のサイトにサイバー攻撃 最大55万8000人分の情報流出の可能性（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zSGlKYlA4TWxBQ3JRRWFSaXRrTzh6UUtIU2RMZTlWNG9xbWpxUDVGeFgzbnRQZnNvV3lCR2ZISS1OejQ1VFctZERuNXgyQTlTS0d4X0xuV043d0dpbVUxeEVaYTdqWlJ0XzZWMkpjemN6SzBlZ0VjOG5hMDRYYTQ?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "旭化成子会社でも漏えいか サイバー攻撃最大55万人超（共同通信）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JYmt5QU9ZMUlFZGs2RFlUZHFrbko1RlpKT2xBLWYtU01JVVFaNTYyVmp4OU82YTlvZjRHZjdZVTc4cXhidkFiYWdvNm9UZ1pFWk1qVzZUb25JazVWV1Fpb2NCOTRoSXNzUEoyM3VlUWI5OGdQR3NDT3JyaGY0MVE?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "旭化成子会社のサイトにサイバー攻撃 最大55万8000人分の情報流出の可能性",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZeTlqbTdyb0s2UEVPd0pmMUNVQXdRR2ozZXFzeklRT0tJRllkNk5uVGV0MkNEOWR0elp0cVRyS3VNNk5wLTdzQ19jQXdrZzBDWVIxaGNiWQ?oc=5",
+     "source": "TBS NEWS DIG"
+    }
+   ]
   },
   {
    "title": "広島・修道学園 不正アクセスで個人情報流出か",
@@ -1489,6 +1487,11 @@
      "title": "日経新聞にサイバー攻撃 社員になりすましたメール9000件を送信 他のメールアドレス・氏名など外部に漏洩か",
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13RDFrd3ppN28wX2l4Ym4wWE84NmFoRUVGSkMtWGtZSHk3Snh3RWdfVnNJLXpfTnZnc0ptSmNxTEpLWWZzYWRnZ2w2NVVkdw?oc=5",
      "source": "FNNプライムオンライン"
+    },
+    {
+     "title": "日経新聞にサイバー攻撃（共同通信）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NZWdvY1JhUk5xbVJiTVVjUm5CcXROT013ZWZHWEZIVEpJTFBMaHFsUl9aTkduTnpzSHQzSkU2bU9tanFYUTNQd0c0TkxxNlB2SFZXWjA4a29BRHE0clQwS0YyNUdBRm1xV1FadGhBdkN6MVkxeTBKa1dCbEVPc28?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ],
    "company": "日本経済新聞",

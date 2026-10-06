@@ -222,16 +222,21 @@ def merge(old, new):
     return added
 
 
+def base_name(c):
+    """まとめ判定用の会社名。「旭化成子会社」「旭化成系」「〇〇グループ会社」などを親会社名にそろえる（表示は変えない）。"""
+    return re.sub(r"(の)?(子会社|関連会社|グループ会社|グループ|傘下|系\d*社|系)$", "", c or "")
+
+
 def consolidate(items, days=14):
     """続報が3日を過ぎて別の行になった事件を、会社名が同じなら1件にまとめる（日付は最初の報道のまま）。"""
     kept = []
     for it in sorted(items, key=lambda x: x["date"]):
-        name = it.get("company") or ""
+        name = base_name(it.get("company"))
         host = None
         if it["source"] != "Have I Been Pwned" and len(name) >= 2:
             d = datetime.fromisoformat(it["date"])
             for k in kept:
-                kn = k.get("company") or ""
+                kn = base_name(k.get("company"))
                 if (k["source"] != "Have I Been Pwned" and (kn == name or (min(len(kn), len(name)) >= 3 and (kn in name or name in kn)))
                         and (d - datetime.fromisoformat(k["last"])).days <= days):
                     host = k
@@ -240,7 +245,7 @@ def consolidate(items, days=14):
             # 会社名が取れない見出しでも、既にある行の会社名が見出しに入っていればそこにまとめる
             d, t = datetime.fromisoformat(it["date"]), alias_text(it["title"])
             for k in kept:
-                kn = k.get("company") or ""
+                kn = base_name(k.get("company"))
                 if (k["source"] != "Have I Been Pwned" and len(kn) >= 3 and kn in t
                         and (d - datetime.fromisoformat(k["last"])).days <= days):
                     host = k
