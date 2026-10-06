@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T10:56:47.568386+00:00",
+ "updated": "2026-10-06T11:06:09.078316+00:00",
  "items": [
   {
    "title": "広島・修道学園 不正アクセスで個人情報流出か",
@@ -284,6 +284,11 @@
      "title": "GMOグループ会社 不正アクセスによる個人情報流出 ポイントの不正利用も（TBS NEWS DIG Powered by JNN）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GcjF3clRZVWc2VzJldDQ0VE5ObzV5WDJwY2pic2ZkV19ha3dXMUJZcV9BWm5fM3RmN2s5c2J2ZXplRjIxZ241aU82Z3RWMXhVTmliX1htNk9qQ1g2cWdXZk1wNXg5eFBXOWlGOUctTUxIMEdYYW10Vl84bkQ1V0E?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "アンケートサイト infoQに不正アクセス、最大94万8,498件の個人情報漏洩の恐れ",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdkJwLVpqdzgtcVo2M2s3QUFpSHZLTnAwTzhiX0p2VGxJZ2VjTDRMaEhEN2NTbjVwUi02eXlDZnlGTldIY0pocGs4MndvQkxpNmJUeVVXS0s0RVFEQklCRG1wZnZYMDJTY19kSncxQW5vWEJtYWFGQXpZeldQd0toU3dadU9OZTdiTTNtd3FvYTBUMWk4RlRHcVhxQQ?oc=5",
+     "source": "合同会社ロケットボーイズ"
     }
    ]
   },
@@ -974,6 +979,21 @@
    "people": "11万人"
   },
   {
+   "title": "The Japan Timesに不正アクセス、ランサムウェア グループ Eclipseが犯行声明",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdl9WRGxqYUtrUGx4U3BsTDRsV05xQjNrYUZWVUl6RVp4ZzdVN1hxbFdra25Sc2duXzFPRWQ4VzlfcWVFeU5kbGRReXl5bEN0Q2V2amtOUlBNMjJ1MzNjR0w5NHotQ08xRTlrSEFVSU1KRnlONDRwWEFna2FxUWZUVWsyaXhqMkVJMDBxeHdPM00xX3B2S0JuNDFIMGJ1T1Z6MEtRVzRMUkQ?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "date": "2026-10-05T02:30:41+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "ランサムウェア",
+    "不正アクセス"
+   ],
+   "company": "The Japan Times",
+   "count": null,
+   "people": ""
+  },
+  {
    "title": "ALSOKジョイライフ、7月の不正アクセス調査結果を公表―134件の個人情報、フォレンジックで流出示す事実なし",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdzBVc18tczIyOEhEOEppdUpZUVUwVV9TUHBLWnhSYU8yVC1ua1VPeURmUW10Q2xsR3BZNXpEaTlWYWVRc2lGYXFqWUJGMlpfME1RV3NnZ0k1N2t6S2tVY21vSkpOYnpBN0txenBobTB4VV9ZYnBXcWd4TzhvaEh0cDlCVDJJcjNMSnYyd3o1dmFHVHlyRTd2NTNuSGU2aDZaSXpWR3V3?oc=5",
    "source": "合同会社ロケットボーイズ",
@@ -1000,6 +1020,20 @@
    "company": "講談社BECK",
    "count": 50,
    "people": "50人"
+  },
+  {
+   "title": "Garmin（ガーミン）のランサムウェア被害",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JWVJPRGc1bFlfZGdfWHozM1JZdnBoTjdfM2xNQ3BlUzRKdXN5RG5jMUIzbnc2bDctR0xsWlpzdmt2bVlPVy0yejhjU3Y?oc=5",
+   "source": "Smart Watch Life",
+   "date": "2026-10-05T00:14:57+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "ランサムウェア"
+   ],
+   "company": "Garmin",
+   "count": null,
+   "people": ""
   },
   {
    "title": "「ドズル社ストア」で不正なページに誘導、カード情報を入力した場合はカード会社への連絡を呼びかけ",
@@ -3128,6 +3162,450 @@
    "tags": [],
    "company": "Hallmark",
    "people": "174万人"
+  }
+ ],
+ "misc": [
+  {
+   "title": "国内の不正アクセス、最多ペース 相次ぐ個人情報漏えい、対策急務",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40Ukg5MmhyRWJCRjdPU2ItS3pwV01udHNBOUhxQk9MNHdLc2Z0djJ4ekJCNmQ0WWpYVktwbXhITlBaZzdsZjZKYVBPZw?oc=5",
+   "source": "47NEWS",
+   "date": "2026-10-06T10:17:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "アプリシステムが侵害、顧客情報流出の可能性 - 回転ずしチェーン",
+   "url": "https://www.security-next.com/191070",
+   "source": "Security NEXT",
+   "date": "2026-10-06T08:48:01+00:00",
+   "summary": "回転ずしチェーンなどを展開する大起水産は、「大起水産公式アプリ」が不正アクセスを受け、顧客の個人情報が流出した可能性があることを明らかにした。アプリは通常通り利用できる。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "個人情報流出なぜ相次ぐ?“異様な状況”AI悪用可能性の指摘も",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqSGZldk95OEt2WFhzWDFCYVVZdFppR2ZFRmx6SjR0cF9GQl8wR2VPWlhmTEFOVzFBX2NuQVdUVEs1MkFvLVUtcnZabmVQS3JhVXBybzc5VVpSbkZjQWlz?oc=5",
+   "source": "NHKニュース",
+   "date": "2026-10-06T08:32:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "紀藤正樹弁護士 相次ぐ個人情報漏えいに「個別訴訟はあまりに被害者の労力負担が大きい」（東スポWEB）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91cWhDeFBoN1RSa0l4R3lfR1FGLUMxN1cyQlN3WWxKMTJOM2xOcG1fTndRMmdRUzlnWE5tUEU0VE96eFIwMjNHRzZ6RnBkS2JiWm5GWGUyTThrTkdQUmp1amZRak95WWRpaXR0NWhZZkpIYnVoc2dYendxUVk2aEk?oc=5",
+   "source": "news.yahoo.co.jp",
+   "date": "2026-10-06T08:30:35+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "紀藤正樹弁護士",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "不正アクセスの個人情報流出、古川デジタル相「自分で守る意識を」",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVMFc2UmNsYlktZm9mMkxuaWtKdGlVcExxcV94Qlp4NUxpbE5peG4zUEJmUEtZWUJSTHcyOHRQTUhtcWdZWlpRWk9YaDA3cEt6UVJjR2dUU1lsaUc1eG9fZGctR0JvYjQ?oc=5",
+   "source": "朝日新聞",
+   "date": "2026-10-06T08:15:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "自分で守る意識を",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "韓国金融機関6行へAIを使ったサイバー攻撃、2万5000人超の個人情報流出",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DUkRRblBMZGJVNmdwTno1T0VhVXZ5NnFBODVrOXktWjBsNmhqRkJCSXRpUjk5VmY3YXg0LTVNN29BWFJFVTJUUmtTM2dZSkk?oc=5",
+   "source": "ビジネス+IT",
+   "date": "2026-10-06T08:10:00+00:00",
+   "summary": "",
+   "region": "海外",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "",
+   "count": 25000,
+   "people": "2.5万人"
+  },
+  {
+   "title": "サイバー攻撃による情報流出続発、「大変深刻に受け止め」＝官房長官（ロイター）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aTGRJX2JxdFVzdzhZYm5FVFlSQ0NfcmF1bE5pT2M5aGdoNUdvcnA4c0xybjVHQ2pWdnl4VGdNQlFybGlyWnBzM0VKOHRzUkZJS3lNQVVRYVV0TWRLdnEtLVh2M1dnUUJVX0hRaGRJTk5HX1BCdjItZFdaUFp0R2c?oc=5",
+   "source": "news.yahoo.co.jp",
+   "date": "2026-10-06T07:48:48+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "サイバー攻撃による情報流出続発、「大変深刻に受け止め」＝官房長官",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZjZteWd2alI2ZmU3QXRGZTh6bzlZaGpPWmdVMG5BYmVveDRkQ3N1NlRmcGRnb0JndVZ3dUQzeWRSdUNlZWtKcTRCZ193WENLVm9WQ19aRFBDR1RsY1d2dktvWTFacTllWUx0TW14NTA2N0V2UVQ1eU1xMkRwOTdEWEZVeG1CQQ?oc=5",
+     "source": "reuters.com"
+    }
+   ],
+   "company": "大変深刻に受け止め",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "企業で情報流出相次ぐ 自分の情報漏えいしたら…どう対応する？（中京テレビＮＥＷＳ）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQT3plbTdlNWVlcTNmODU3a19OQlZROTlFZFVGaFB1V1FXQWcxQ0NJazBudlhtZUpYUlFJSEFMdmVaT1N0bWJaS2FiWmxTZFRLenJLeDd2eVZ0clU4UXVleUtKYjlqcjNtbTQ5ZmZtTUpoNUw3c0VRNUFxMy00cUU?oc=5",
+   "source": "news.yahoo.co.jp",
+   "date": "2026-10-06T07:48:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "国内の不正アクセス、最多ペース AI悪用、サイバー攻撃が容易に（共同通信）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0LVQ4b2d1Wk8zTzZ3dEJYUkZoV2hvcWZNMlZsNDhObzQ0aE84ZExiNGJVTURuY1lrM1dCbEE0UkNZckp5ZDBZamF5WHppMGV0bVlyQVlFd2NsbTduSVNBc3A5dFNZeEYyNkZ0SndPSGZyOTB6dmRFVHhZY1Q5QzA?oc=5",
+   "source": "news.yahoo.co.jp",
+   "date": "2026-10-06T07:16:07+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "国内の不正アクセス、最多ペース AI悪用、サイバー攻撃が容易に (共同通信)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQldfODRJOHpUd1ltVVM1OTd1cDd1TElDSmE5aDVYMW5rRDdwWEV2Vl8xaENqczcyR25xc092b2JKX0hIQXNoZ1Noc0JubU9SWUhFRUl0SFBpdGs2SWs3UnNNN01pb29obHBHUXZjcUc2WDdrU1Bha0hmR1lwUll6cGU4WjIwTnhpNjBFZUZ3?oc=5",
+     "source": "news.yahoo.co.jp"
+    },
+    {
+     "title": "国内不正アクセス 過去最多ペース",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmRHN4SnNEUzh2Ukp2bmhDNVN1T1ZDT05oU2M3TWt6V1VlZEhqc1RoMWZGRTIyd3g3V1BRUl84UXQ0QVlxcV9BS2J3ekI0RHY4?oc=5",
+     "source": "news.yahoo.co.jp"
+    }
+   ],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "不正アクセスによる個人情報漏洩相次ぐ 専門家が分析する原因と対策は",
+   "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxOT0F5SzVMSmoxcDllTzBUNzJuUkhZaG9SLS1fc0ZHb1dnSHJyek9RYjJqOUdZQWNreUZwaVFlUEFIZS1tZkhvek9jWWhlYkZsbllUbTdleU9LN3ViWnY3enZzU0ZkcFVPT2lZWjlfUzF3V1RZVnA3Ni1mUlVrQ0ZFRnUzOXVnc3RLaUNlM2RZTjlYSzdoa1NhR1E3YVpJeHVjRFhIenJWb2dZNHNfOXBsdmdBMURNVFZieC1lZnhjbjY0RnpBVVo5NEdKWFd6c1kzQTdmWVIwWUFxTG9TV1VSRE9jNVBsUlZyNW1QcWRTY09adVVSY1hWR0tNUjgzUVFSX21LM1NqZ3k5Y2tfZ2tsS3ZoZElxTWd0WFlEeUtUbGRIbnQtdzc2MWttSHRzQmxCSmdXb1kyZlNuZ1ZBaDhEVkpBcUh0ZTZTUGg1ZVZJODJIbTZPcTJRZ1VhRzZUYTd2WW1pcXB1U1VUaUtSeFBjYzZBRjNFX0Q2WENNYmJwbTFYbE55V3RTN0pmdjBnTXF4UGpGU2ZNSW15X3BySXJBdnFLeHFuNzAyRVdLaW9VMlBsa1pmQmdPU0E2MHRmWU16RTFKeEJFU0hIS09Ka3BEZzBZdThqTmlIMzZpbUNxOXVScmFmYjhrOXVYU1A4UWM?oc=5",
+   "source": "SmartNews",
+   "date": "2026-10-06T06:23:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "不正アクセス頻発「自分の情報は自分で守って」 古川デジタル相：時事ドットコム",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QNlIyX3pfSWFjYlh5XzB3LXF2c2dzNmZMSlQ3dFBFbzItbHRWZU50YU9wWXZ3bTZ1UTZTcnNhbWU1NkM4QmtNa1p6dXVDSGhxS0Rkc3hzblNPVDBPRU1LaThSbw?oc=5",
+   "source": "jiji.com",
+   "date": "2026-10-06T05:02:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "「次元が違う深刻さ」タイムズ160万件の免許証画像流出に専門家が警鐘「勝手に借金で『ブラックリスト』に」（女性自身）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZYTBEangxeUl3ajNscnhQOU1FQWxtTmx0N09ldnBheEdBZzdoQTJKOWlUS0lFQTBfT3U0SmgwY2Y5SHJaU2oweFU3ekxqc2RPYUZDRXozR1IzVktlY3pRRXg4STBVS3BCLVE2a0VtU2JWelNscVI1Q29Sb1o5UUE?oc=5",
+   "source": "news.yahoo.co.jp",
+   "date": "2026-10-06T03:35:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "次元が違う深刻さ",
+   "count": 1600000,
+   "people": "160万人"
+  },
+  {
+   "title": "相次ぐ情報漏えいとサイバー攻撃＝わずか1週間で企業・大学に被害拡大",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96UFVCSnRGaXBzYS13VnNXcjRoY1llLWhMMmhHNEFoQXpOaWtRMGVZZ2FZdUxMY1E0d1RiZ19hSkZKSGlGbWZ6N0RUdWJTbk83Q3U2UnZPQ2w?oc=5",
+   "source": "リスク対策.com",
+   "date": "2026-10-06T02:57:46+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "不正アクセスなぜ急増 原因はAIか、それとも…… 専門家の見解は",
+   "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002013/",
+   "source": "ITmedia",
+   "date": "2026-10-06T01:00:00+00:00",
+   "summary": "9月末以降、不正アクセスやそれに伴う情報漏えいの発表が日本企業から相次いでいる。その原因は……専門家に見解を聞いた。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "不正アクセスなぜ急増 原因はAIか、それとも…… 専門家の見解は（1/2 ページ）",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wWW5MTEtkYkNzSGFsU2NmN1dUQlFwNkZTVEhwcGMxRk80ZU9kWl83cmk1RXJzZjhWenNjN3Q1WjFmanhsb011bmlGYloxb1FoaVNsaXpXOEF0cWxIQkxGUlZOR2VPUGQ4MVE?oc=5",
+     "source": "ITmedia"
+    },
+    {
+     "title": "なぜ不正アクセス急増 識者の見解",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VOHNTV2d3ZjNnanhXcjVpSGhocWp1UVRaZ1RSa191bXdEV2hxVmlCMXp5OHNRYnhUWm0ycFlfb2xqYk1iU09GQzQwdWFVU3ph?oc=5",
+     "source": "news.yahoo.co.jp"
+    }
+   ],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "日本貸金業協会、会員事業者に不正借り入れへの注意を喚起 個人情報流出増で パーク24の事案も影響か（日刊自動車新聞）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CeWszRFptYlQ5SEF5MkhUMXFnT080T2w0WTRzbkZRZFlvSkdBdTU3TGVram1Oc1FVR2lvd3BJX0NLaXZEcGUzRHFZNGx4WnlmV1V5SzMyZHlnaWFydW04YTZTekZHeUZDZVlDLWE2ZlNEMEJPS1k0ZjdZR1B1b2s?oc=5",
+   "source": "news.yahoo.co.jp",
+   "date": "2026-10-05T23:20:12+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "日本貸金業協会",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "なぜ退会者の免許証が7年残る？ タイムズカー漏えいが問う“データの持ち方”（ITmedia エンタープライズ）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lcEpQaGpscWxJLWotSXFrZEs5Z1NScFNmeU56QVhtMzBBUXVuT3ZScURDeXlKZ2hBeEhFbFc1YTdkc1EyZzhBeHozZTBJckNYczBza0VFZHFfclN2NEoyMG9YQm5uN3VNQmVvZXBhM1VfU1FhRFNycVhaRVFfQU0?oc=5",
+   "source": "news.yahoo.co.jp",
+   "date": "2026-10-05T22:15:14+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "なぜ退会者",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "【金融庁が警鐘】相次ぐ「情報漏えい」…AI攻撃が爆速化する前に銀行が今やるべきこと（ビジネス＋IT）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CTUFSUE9SN29xN19fVi1PLVBac1AwcHJ3cU53ZTlXRnFRUzhEWXIxb3czQ0pXSHlXVmVYbXN4ek5rczNaTWtLVmhRZkVQeWFqa3ZCcXhwcFN0RHBqcWFrNzY4dWI3S0Q4UjMzY09qWXBZNGdvMGJjYjBXN2I2ZG8?oc=5",
+   "source": "news.yahoo.co.jp",
+   "date": "2026-10-05T21:40:06+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "【4.5万人登録】相次ぐ情報流出。次は集団訴訟がやってくる",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORmRhaXlKRVdnbDFhdVRGeE1fWE1QYUtkOE5zRmE2QjZ1aGlYVzB5d25XUEVoWEhEa2w3d0tDcVhISUc1RFQ0Qmx0dkFxMnM2TmVVZXI0YzlvNVNueUNkcFRTVnQ5MkMtRlhGaXY3THJoY1EzVnZiQUZEczZDajQ2LTdQMFlvSWlQUjFtUDZiTHVOUF9aRkU2OXhpVWJqZjU4SzV2Q0Z6Uko1TVlTU1A3NTZtLTNaTDRiMjJJX3k3dDVvZXhDdnRvU0tBMG9hbkw4LUV6cw?oc=5",
+   "source": "newspicks.com",
+   "date": "2026-10-05T20:30:03+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "",
+   "count": 45000,
+   "people": "4.5万人"
+  },
+  {
+   "title": "相次ぐ個人情報漏えい、大和証券は顧客１１万人分の口座番号含む２２万件…大阪公立大は学生証の顔写真など１３万人以上",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNZTFOX243VWRJSGdlZkJfazlndkhnd2x5OGNpTDNzVTA3T0hueUxndmhvTmdyOXlLWjZkSTJOOTRGZ0ZPV0U0U2V6WHRpQjJuMmdCYkpxck0wdVJCNnFzblZaY3VSZw?oc=5",
+   "source": "読売新聞",
+   "date": "2026-10-05T20:00:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "others": [
+    {
+     "title": "相次ぐ個人情報漏えい、大和証券は顧客１１万人分の口座番号含む２２万件…大阪公立大は学生証の顔写真など１３万人以上",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NUG44ME1HOTh1QWUzX1pENzlra09YNUJRakEwSFh6SUlBZ082Nk5WSHNMTkdYRUtMamFObXQ5ZnRaUjhsVVVUVlczd0UxUTg1blVGd25OZGhQdFBNc2w5VHR4eS1iWWs0ZFNOQm9aRFdfRllMTjJGZ0xhV2d1cnM?oc=5",
+     "source": "news.yahoo.co.jp"
+    }
+   ],
+   "company": "",
+   "count": 220000,
+   "people": "22万人"
+  },
+  {
+   "title": "相次ぐ不正アクセス、企業や政府機関でも情報漏洩 AI悪用の影に「一刻の猶予もない」",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DbTNlVjhRbld1UnJZYVRPcUxmdkJqQ0RlWDB5WlBVUENlQjZXcS1aSXpwZXE0WnVCeG5XckYwMWp4aGNCN0sxRU1fVEp5OFp0ZTg0UGc4ak5vNEMtbGs1dlhvSjd0X01NZWdoM2FzMTdfX2lxNWc?oc=5",
+   "source": "産経ニュース",
+   "date": "2026-10-05T09:15:37+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "“免許証画像”闇サイトで売買も……1枚あたり「20円」 相次ぐ個人情報漏えい 悪用リスクは？【追跡取材 news LOG】",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kVU5uRlBKaHhDVWhSdzJDX05IUzhULTlNZ1VQMlZpRTJZMFkyWVJnYVJORHhtMVNvSVJZWDQzSEdSdjQweF9NRGVCNDdEYmc3N2M1YWNWaTJuRWVfTWYzTnFCazNHUERrQmJWVVVncldKaFlOR2xXcXQ5eng?oc=5",
+   "source": "日テレNEWS NNN",
+   "date": "2026-10-05T06:48:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "相次ぐ不正アクセス、AIが原因？ 専門家に聞く (1/3)",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hZnVZN1MxTXAyRGxNNDdhZndkRmVCejJKV3R1VXlYNUZxZmVuTXZRdGlPYk1hbURyNHlwSGRhYTFCbEFYWnpwT3dBUDBsUUM4aGQtNw?oc=5",
+   "source": "ASCII.jp",
+   "date": "2026-10-05T01:00:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "タイムズカー漏えい補償は? ユーザーに届いた「おわび」メール",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yQzRIYm5mbDZtNGsxYTFCR0RveFAwSWZ3SlFFNUx6NzRqVWpTOTF6SnRBNUNLSUtrczh3eUJ5VDJLWUFGZFpyY0ZQUjJNRi1OaEFPREcybFZ6ZU1hQ3VEWXdGNEJiVTZr?oc=5",
+   "source": "毎日新聞",
+   "date": "2026-10-03T09:00:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "情報漏えい相次ぐ「異様」と識者",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uU096NkJzZVlZVFdiRjVVQjR5TnBtYTM5Y1QyR0hmZXVILW9nYWJfSXNlczkyV190LXJPdGZIVWY0SUN4Wnk4ay1UUzBoQ0h5?oc=5",
+   "source": "news.yahoo.co.jp",
+   "date": "2026-10-02T13:54:01+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "本物の警察官と信じた理由は「自分の名や住所など個人情報を知っていた」54.1 ％",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/02/56365.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-10-01T23:00:04+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "2026年 国内のサイバー攻撃や不正アクセスによる大規模な個人情報漏洩の事例 まとめ",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdzYyUm4wdWtYTDU1UlBXRXhRd01pN2h3WTFTZVUzRDRfSjFoT01naFJidTQ1dDJlVUNLbHpEQWI4bGZnd0M3OE1PdEUzZFlaN3NVb1VGNUNab3dBWTBPU05aWW1rXy0yS0QtV1NZcHhRSU1iQkJ4Zm4wNUY4Z2l0Xzc5cW5IQTMtUUJxM3ZQOUxRV25WR3djSEtRRW5zVEo4N3VRejJKY2poeDAySGhLdg?oc=5",
+   "source": "合同会社ロケットボーイズ",
+   "date": "2026-09-30T23:45:05+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "CMSプラグインの脆弱性公表を受け更新作業中に不正アクセスを発見",
+   "url": "https://scan.netsecurity.ne.jp/article/2026/10/01/56357.html",
+   "source": "ScanNetSecurity",
+   "date": "2026-09-30T23:05:09+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "タイムズカー免許証画像流出、勝手にクレカ発行の恐れ とるべき対策は",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BenNyLTRPeVVnckl0d1Rvd1pBOHZfa0pMQUtBYzJESmtTVmkxb2hfUnowbDVJZ21EeHFLVWxKNlpldi04amVUSDVwRnlfejJNZ2NtZWNwRU9wR2Y1LVlCRnRXQi12WFZCZHBGNw?oc=5",
+   "source": "日本経済新聞",
+   "date": "2026-09-30T08:37:11+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "タイムズカー情報漏えいで「消費者金融の借入」「トクリュウに悪用」も…専門家が語る“最悪シナリオ”（ピンズバNEWS）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oTGRZTlRrTFo4RlJFckkyMzZFNkFEdlZUY290SU9ZNnlhQ29jWlg3SWhDSDloa08xMEVXSV9VWHVNd0J5d091a1Ffa2NoUlVKNVVJVTZMM09QSWVUUmxWbUNUdWxaX2VCWHJIVUZuZ3VMWWpVUkRnbEJIVHlSaEk?oc=5",
+   "source": "news.yahoo.co.jp",
+   "date": "2026-09-30T07:30:37+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "10日間のうちに国内有名企業10社超で情報漏洩・障害・サイバー攻撃被害……まだまだ増える可能性",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aMWJJa01JVzdWTkpEX0traTRqRXJjUVo3SkQwRy1OUUItSGY1Tm9vTFIyckluZndKZ1d4SGdXcWRHWTRJZkRQX2ttNmNCblVDTHViRlV3?oc=5",
+   "source": "EnterpriseZine",
+   "date": "2026-09-29T16:30:31+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "日米豪独7機関が公表した北朝鮮のサイバー攻撃グループ「WaterPlum」と北朝鮮IT労働者についてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/09/25/141110",
+   "source": "piyolog",
+   "date": "2026-09-25T05:11:10+00:00",
+   "summary": "警察庁と国家サイバー統括室(NCO)は2026年9月18日、米国、豪州、ドイツの関係機関とともに、北朝鮮を背景とするサイバー攻撃グループ「WaterPlum」(ウォータープラム)の攻撃手口と、北朝鮮IT労働者による外貨獲得や採用応募の実態を明らかにする文書を合同で公表しました。ここでは関連する情報をまとめます。 採用面",
+   "region": "海外",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "",
+   "count": null,
+   "people": ""
   }
  ]
 }

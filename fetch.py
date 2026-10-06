@@ -37,7 +37,10 @@ INCLUDE_TITLE = re.compile(r"カード情報|改ざん|不正なページ")
 # 「サイバー攻撃」「ランサムウェア」の広い検索で拾った記事は、事件の見出しの形をしたものだけ残す
 INCIDENT = re.compile(r"(に|へ|で|が|、|\s)(サイバー攻撃|ランサム|不正アクセス)|サイバー攻撃(を)?受け|ランサム\S{0,4}(被害|攻撃)|被害|障害|漏え|漏洩|流出")
 NOISE = re.compile(r"対策|市場|支援|法|措置|社説|動向|白書|警鐘|専門家|とは|方法|選定|ナビ|EXPO|脆弱性|株価|サービス|製品|守る|備え|防御|無害化|集団|摘発|義務|報告書|検証|写真|コスト|復号|ページ目|解説|影響|どう|なぜ|？|\?|社長|狙う|急増|相次|立て続|調査|AIで|AIの|ツール|選択|エキスパート|映す|20[01]\d年|202[0-5]年")
-EXCLUDE = re.compile(r"セミナー|ウェビナー|提供開始|発売|募集|キャンペーン|無料|ソリューション|導入事例|ホワイトペーパー|資格|調査レポート|ランキング|求人|資金流出|攻撃手法|優勝|大会|コンテスト|演習|\d{1,2}月.{0,20}まとめ(?!てみた)|急反落|反落|続落|急落|ストップ安|に買い|注意を?喚起|営業秘密|官房長官|デジタル相|拘束|調停|最多ペース")
+EXCLUDE = re.compile(r"セミナー|ウェビナー|提供開始|発売|募集|キャンペーン|無料|ソリューション|導入事例|ホワイトペーパー|資格|調査レポート|ランキング|求人|資金流出|攻撃手法|優勝|大会|コンテスト|演習|\d{1,2}月.{0,20}まとめ(?!てみた)|急反落|反落|続落|急落|ストップ安|に買い")
+# 事件の行には出さないが、捨てずに「その他の関連記事」へ回す（発言・統計・逮捕・注意喚起など）
+SOFT = re.compile(r"注意を?喚起|営業秘密|官房長官|デジタル相|拘束|調停|最多ペース")
+MISC_DAYS = 14
 # 特定の事件ではなく「相次ぐ漏えい」「対策は」のような全般・解説のニュース（専門サイト以外で、まとめた記事がないものは載せない）
 GENERAL = re.compile(r"相次|急増|狙われ|狙う|とは|どう|なぜ|解説|専門家|識者|警鐘|対策|備え|守る|？|\?|ヤバい|考えられる|立て続|注意点|手口|教訓")
 # タグ（上から順に判定、複数可）
@@ -104,7 +107,7 @@ def parse_feed(name, raw):
             m = re.match(r"^(.*)\s+-\s+([^-]+)$", title)
             if m:
                 title, source = m.group(1).strip(), m.group(2).strip()
-            title = re.split(r"\s+[|｜]\s+|：日経$", title)[0].strip()
+            title = re.split(r"\s*[|｜]\s*|：日経$", title)[0].strip()
         d = parse_date(f.get("pubDate") or f.get("date") or f.get("published"))
         out.append({
             "title": title,
@@ -267,7 +270,7 @@ NOT_NAME = re.compile(
     r"|ランサム|不正|本人|おわび|異様|猶予|借入|エキスパート|ITmedia|NEWS|ニュース|ページ|闇サイト|脆弱性|見つかった|悪用|企業や|もぬけ|円$|^\d+日|\d+機関"
     r"|ご不便|ご心配|ご迷惑|お詫び|^企業$|^ハッカー|^交通系IC$|^回転ずしチェーン$|侵害|^NISA口座$|^(ID|CMS|会員|公式|社内|チケット|ブロガー|メーリング|研究用|荷物|従業員|顧客|作業|一部)|(システム|サーバー?|DB|アカウント|シリーズ)$"
 )
-GENERIC_HEAD = r"^(ECサイト|チケット販売サイト|中古アニメグッズ|美容医療プラットフォーム|デジタル整理券システム|手間いらずの|ANA子会社のデジタルギフト)"
+GENERIC_HEAD = r"^(アンケートサイト\s*|ECサイト|チケット販売サイト|中古アニメグッズ|美容医療プラットフォーム|デジタル整理券システム|手間いらずの|ANA子会社のデジタルギフト)"
 NAME_CH = r"[^\s、。，,「」『』（）()：:｜|—―…‐]"
 
 
@@ -309,7 +312,7 @@ def find_count(title):
 # 同じ会社のローマ字表記・カタカナ表記などの揺れ（見つけたら足す）。左を右にそろえる
 ALIASES = {"ABAHOUSE": "アバハウス", "第一ライフ": "第一生命", "第一ライフグループ": "第一生命", "第一ライフG": "第一生命",
            "日経": "日本経済新聞", "日経新聞": "日本経済新聞", "日本経済新聞社": "日本経済新聞", "日経新聞社": "日本経済新聞", "日経グループ": "日本経済新聞",
-           "MrMax": "ミスターマックス", "GMO系": "GMO", "セコマ": "セイコーマート"}
+           "MrMax": "ミスターマックス", "GMO系": "GMO", "セコマ": "セイコーマート", "infoQ": "GMO"}
 
 
 def alias_text(t):
@@ -424,7 +427,10 @@ def main():
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(days=KEEP_DAYS)
     state = json.loads(ITEMS.read_text(encoding="utf-8")) if ITEMS.exists() else {"items": []}
-    items = state["items"]
+    items = state["items"] + state.get("misc", [])  # 前回「その他」に回した記事も毎回判定し直す
+    for it in items:  # 「見出し|サイト名」の後ろを落とす（前は空白なしの | を見逃していた）
+        if it["source"] not in PRIORITY and it["source"] != "Have I Been Pwned":
+            it["title"] = re.split(r"\s*[|｜]\s*", it["title"])[0].strip()
     fresh, errors = [], []
     for name, url in FEEDS:
         try:
@@ -447,18 +453,22 @@ def main():
     items.sort(key=lambda x: x["date"], reverse=True)
     for it in items:
         label(it)
-    # 一般論・解説記事を落とす。専門サイトでも会社名が取れないものは落とす
-    items = [it for it in items if not (it["source"] != "Have I Been Pwned" and GENERAL.search(it["title"])
-                                        and (not it["company"] or (it["source"] not in PRIORITY and not it.get("others"))))]
+    # 発言・統計・解説記事や、専門サイトでも会社名が取れないものは「その他」へ
+    misc = [it for it in items if SOFT.search(it["title"]) or (it["source"] != "Have I Been Pwned" and GENERAL.search(it["title"])
+            and (not it["company"] or (it["source"] not in PRIORITY and not it.get("others"))))]
+    items = [it for it in items if it not in misc]
     items = consolidate(items)
     for it in items:
         label(it)
-    # 続報としてまとまらず会社名も取れない行は、事件の記事ではない（統計・政治家の発言・解説など）ことが多いので出さない
+    # 続報としてまとまらず会社名も取れない行も「その他」へ（統計・政治家の発言・解説などが多い）
+    misc += [it for it in items if it["source"] != "Have I Been Pwned" and not it["company"]]
     items = [it for it in items if it["source"] == "Have I Been Pwned" or it["company"]]
+    misc = sorted((it for it in misc if datetime.fromisoformat(it["date"]) >= now - timedelta(days=MISC_DAYS)),
+                  key=lambda x: x["date"], reverse=True)
     DOCS.mkdir(exist_ok=True)
-    ITEMS.write_text(json.dumps({"updated": now.isoformat(), "items": items}, ensure_ascii=False, indent=1), encoding="utf-8")
+    ITEMS.write_text(json.dumps({"updated": now.isoformat(), "items": items, "misc": misc}, ensure_ascii=False, indent=1), encoding="utf-8")
     write_feed(items)
-    print(f"added={added} total={len(items)}")
+    print(f"added={added} total={len(items)} misc={len(misc)}")
     for e in errors:
         print("WARN", e)
 
