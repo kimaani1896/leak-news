@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T06:43:04.034607+00:00",
+ "updated": "2026-10-06T07:11:41.110037+00:00",
  "items": [
   {
    "title": "楽天ドライブ、不正アクセスで1.5万アカウントの保存データ流出（アスキー）",
@@ -27,7 +27,14 @@
    ],
    "company": "",
    "count": null,
-   "people": ""
+   "people": "",
+   "others": [
+    {
+     "title": "不正アクセス頻発「自分の情報は自分で守って」 古川デジタル相：時事ドットコム",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QNlIyX3pfSWFjYlh5XzB3LXF2c2dzNmZMSlQ3dFBFbzItbHRWZU50YU9wWXZ3bTZ1UTZTcnNhbWU1NkM4QmtNa1p6dXVDSGhxS0Rkc3hzblNPVDBPRU1LaThSbw?oc=5",
+     "source": "時事ドットコム"
+    }
+   ]
   },
   {
    "title": "交通系IC「ニモカ」個人情報漏えい 521件のカード番号やメールアドレスなど 第三者の不正アクセスで 利用履歴照会サービスが停止 福岡（TNCテレビ西日本）",
@@ -190,6 +197,11 @@
      "title": "GMO子会社が情報漏えい 最大95万件、不正アクセス",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nS3VwclVkb05SRU14T2ZlczRUZC1VeG50WDBuNFNMMDMtenJ2MWVfSVFPakJHdFFJRXFfaEx3VVg2NWY0OWNyNTl4R0lpZnVZU3JfRndHTTUzX3JaN1dmNllMYw?oc=5",
      "source": "nippon.com"
+    },
+    {
+     "title": "焼肉きんぐ・MrMax・infoQ・タイムズカーなどでサイバー攻撃や不正アクセスによる大規模な個人情報漏洩-今すぐ注意したい事と対策|セキュリティ対策Lab",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOUVSREpRZW5ZUXAySFp4cWRSS0VURDJ0R0ZPQ3VDUUZBNExVNGp3YWpSamlCdEMyRmdla3hfX3hOSkExaUd3Q2NLQ0dUczRnNllXTWRYeGctY1cxN01DMF9vQVpxNG5mZWx3amZxamY4Rnd2UHI0cGU4bEcxTmNWNTc2UVhNVkgxbnBiLW1WUTlIeXRvNGwtYVRoNkhoU2laMFBJ?oc=5",
+     "source": "合同会社ロケットボーイズ"
     }
    ]
   },
@@ -354,6 +366,11 @@
      "title": "大起水産に不正アクセス 公式アプリのシステムから約17万5000人の個人情報漏えいか",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QTXVFUGdSQlNMZEY5UUlkX2tSVlJYRHJwdGE3cUxSb2x5UnNGQ1NSTkMxNHBaMF9jS1BldlZERXh1TTNIQnUzM2M3YnFJSWdidEJCZzh1cHozNXJLd2h5ZGtkRDFPRVQteDhnQjBic2ZxZw?oc=5",
      "source": "テレ朝NEWS"
+    },
+    {
+     "title": "大起水産 約１７万５０００人分の個人情報漏えいした可能性 公式アプリのシステムに不正アクセス",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uNkg2RHJoM0EzMEVJS05BOHd1X0lKOWpKSUI5UTZ3d3RFNk54S0Jta1RETldEU2JTQUoxWjJ5T3JsOVh1QVJmTUVBNXlCN0hUbHNKQWVOWk9JTzE5WnloUjlWcmZxa1ZhMVIzNXZNVUVjck5KZmhZUGs2ZjBnY28?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ]
   },
@@ -537,6 +554,11 @@
     {
      "title": "「焼肉きんぐ」システムに不正アクセス、1000万件超の個人情報流出（ロイター）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kWld2dC1GWUF3aUtPRXVUbWVrNWJQV1RJbERQZGY0bGx4cmJWZF9IMDIyMTBuejFCcGZ2aDdhNXB1S082N1RKc3hMcVYyM1VBWDNTMjdXZlpiSzhQdTFWUENmNExWZmY3S2M1SExzMnM5Vm9MQkhfUWdHQmJpazQ?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "焼肉きんぐ、顧客情報が流出 1千万件超、不正アクセスで（共同通信）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ENGhYUUN0NXZ1NXUxXzZNSXprb2VzNEt4OHE3am5YcldiLWpUVmY4ckZLeS16MmtzSEJNN3diNGE2aG9tU3dfMndodUk4elZXaUJzVmhTcG13RnJuUDhqa0phdjJiSTI0SzJreEl5YjZmQW9TWmRtd2RnQV9DVVE?oc=5",
      "source": "Yahoo!ニュース"
     }
    ],
