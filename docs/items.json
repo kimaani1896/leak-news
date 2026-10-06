@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T11:11:36.907855+00:00",
+ "updated": "2026-10-06T12:11:44.322306+00:00",
  "items": [
   {
    "title": "広島・修道学園 不正アクセスで個人情報流出か",
@@ -61,6 +61,11 @@
      "title": "シチズン時計 約10万人分の個人情報が流出か",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TYmtxUFRaSm1KWDdqOC0xX3hjR2xtT3lJaFlIUGhnX2FiTjA0a0c1YlJseHZINU5GMExuXzNxSl9pR1NVeHNid1I1T3A3LVBxYlpfcXN1VTdTX2VjbEdB?oc=5",
      "source": "NHKニュース"
+    },
+    {
+     "title": "シチズン、顧客情報10万人漏洩か 業務委託先に不正アクセス",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45aEJtMHFJQWtRU1N6RTFXWGRNZjZrUERVOXA5NWwxVnprOWJoX09BVGZMR1hsbjMxNmNjbUNfckJsQTRZTHE1bWNlVnRyRjlpTW9CNjRNUnVpWkttYU55ZmpOblZGLVhJUlpocw?oc=5",
+     "source": "日本経済新聞"
     }
    ],
    "company": "シチズン時計",
@@ -100,7 +105,14 @@
    ],
    "company": "ニモカ",
    "count": 521,
-   "people": "521人"
+   "people": "521人",
+   "others": [
+    {
+     "title": "西鉄系のニモカ、不正アクセスで約500件の顧客情報流出",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFVXhLcklFc0thaTBzY1RfNUx6bGVkWGdhZ0xKY0dDZ2tFYVVUOVFVX245UEFNZGo1YjZOV2RaNGRwekkwRmM5OE9MUWdsMEgzTjFxRmpjTWREZ3VDSFY4aWk2QnhZbnhBaklCYQ?oc=5",
+     "source": "日本経済新聞"
+    }
+   ]
   },
   {
    "title": "デンマークで住民登録簿に不正アクセス 880万人分の個人番号など流出 政府「極めて深刻」",
@@ -289,6 +301,11 @@
      "title": "アンケートサイト infoQに不正アクセス、最大94万8,498件の個人情報漏洩の恐れ",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdkJwLVpqdzgtcVo2M2s3QUFpSHZLTnAwTzhiX0p2VGxJZ2VjTDRMaEhEN2NTbjVwUi02eXlDZnlGTldIY0pocGs4MndvQkxpNmJUeVVXS0s0RVFEQklCRG1wZnZYMDJTY19kSncxQW5vWEJtYWFGQXpZeldQd0toU3dadU9OZTdiTTNtd3FvYTBUMWk4RlRHcVhxQQ?oc=5",
      "source": "合同会社ロケットボーイズ"
+    },
+    {
+     "title": "GMO子会社、95万件情報漏えい（共同通信）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PV09EcFJBd084X2VUOUJOYU5lZjBydnFDQkdoTDJZN19hV1pDeERoQjJsNUxjZ2g3RHFoUVV2Sy00akYxTVlRbGExZGN2bDVDTVoyVW0wVmcxSnRVWHVWcHJJTEpiSFh3eHpnYWktUktibkJTWUs2VFlESUQyM00?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ]
   },
@@ -2559,6 +2576,11 @@
      "title": "タイムズカーの個人情報漏えい問題 悪用の恐れあり 特例で広島県が免許再交付 顔写真と免許証番号を変更（テレビ新広島）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11VzB1azR1ZHlkdmRUQUdsRmN4dEYzVm5mUm90alNTVnVaS0VGYjdZcF9NRWtMYl9jX3RxdW5HMzNvZ2FiaTNvM1lRdW5kaGZKZnllcXdid00zNVo0U2NMdklMMTZIdTF4RHVPWGoyTkdvRzk2TGZFX2lraUlwMGs?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "タイムズカーの個人情報漏えい…不安の声 鹿児島県（KKB鹿児島放送）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZVmYtYmE2QklNMHJpYmxra1JnenZuT1pTSVBtbmtCSzM5eVpBY0NFTjhhZmR0TlNCNUswTWVqUkpDS28wUi1XYTBrRm1Qb2hFRkRKd3B1dXJjM2N4cVk5Tll0MzJaRXlKWld5bG00dGIxNXdObXZPMlZYQzdtS0k?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ],
    "company": "タイムズカー",
@@ -3166,6 +3188,32 @@
  ],
  "misc": [
   {
+   "title": "企業への不正アクセス被害相次ぐ 個人情報の大規模流出も",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QTk1nOFFFbUc5ckNYUHJfZ1RibTUwdS1VS1JaM0N3WEFiWWxmMVVhMEZCcHVCRWc3N1g0N0cwaGg1RlNxUlR5QXJZSEVFNkVfVzBYT2JDNUNmT0libVBz?oc=5",
+   "source": "NHKニュース",
+   "date": "2026-10-06T11:53:33+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "相次ぐ個人情報漏えい 中小企業の対策支援 大阪商工会議所",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41VmhiY1ZweFhqZmZVVTZMRk5RaUN2S3R5d1ZwOF9JTndIcjNrQzhIcTlDaWhxWEFvVG5wOWZWX2k3V1JRbngxVzYzM3Q4c1V5YU5qUGFjeUk1LTF0UndZ?oc=5",
+   "source": "NHKニュース",
+   "date": "2026-10-06T11:03:29+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
    "title": "国内の不正アクセス、最多ペース 相次ぐ個人情報漏えい、対策急務",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40Ukg5MmhyRWJCRjdPU2ItS3pwV01udHNBOUhxQk9MNHdLc2Z0djJ4ekJCNmQ0WWpYVktwbXhITlBaZzdsZjZKYVBPZw?oc=5",
    "source": "47NEWS",
@@ -3330,7 +3378,14 @@
    ],
    "company": "",
    "count": null,
-   "people": ""
+   "people": "",
+   "others": [
+    {
+     "title": "不正アクセス頻発「自分の情報は自分で守って」 古川デジタル相（時事通信）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13QVEtdGJ0YXE4Zkc3bGF6dW45dmJzWXRxOWRZdnB2X2dlR19JZ2tMZXg4dWw0MDZhYXhnOVJHaGNtTlpPekZ5Y2hkelBFS0JwZTJrbFZveW1PSnhxU015LVkwUHBPZkUyajRnY3J0TV9DbDloS2VHZ041U3dIajg?oc=5",
+     "source": "Yahoo!ニュース"
+    }
+   ]
   },
   {
    "title": "「次元が違う深刻さ」タイムズ160万件の免許証画像流出に専門家が警鐘「勝手に借金で『ブラックリスト』に」（女性自身）",
