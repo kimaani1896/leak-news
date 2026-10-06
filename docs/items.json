@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-06T15:11:42.504382+00:00",
+ "updated": "2026-10-06T16:11:18.318883+00:00",
  "items": [
+  {
+   "title": "同県サイトで公開した地区防災計画のPDFに個人情報 - 岡山県",
+   "url": "https://www.security-next.com/190450",
+   "source": "Security NEXT",
+   "date": "2026-10-06T14:44:21+00:00",
+   "summary": "岡山県は、同県サイトに個人情報を参照できるPDFファイルを誤って掲載していたことを明らかにした。",
+   "region": "国内",
+   "tags": [],
+   "company": "岡山県",
+   "count": null,
+   "people": ""
+  },
   {
    "title": "旭化成子会社のサイトにサイバー攻撃 最大55万8000人分の情報流出の可能性（TBS NEWS DIG Powered by JNN）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zSGlKYlA4TWxBQ3JRRWFSaXRrTzh6UUtIU2RMZTlWNG9xbWpxUDVGeFgzbnRQZnNvV3lCR2ZISS1OejQ1VFctZERuNXgyQTlTS0d4X0xuV043d0dpbVUxeEVaYTdqWlJ0XzZWMkpjemN6SzBlZ0VjOG5hMDRYYTQ?oc=5",
@@ -63,6 +75,11 @@
      "title": "「おわび」装う二次被害にも注意 不正アクセスで個人情報流出 福岡でも相次ぐ 対策は（FBS福岡放送）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tZVdmTjZDbkliMWo1czNRNGhhNHZ5aHFWY0gyaENKM1hmeUx3Y3RldmJjV3c4Y185czN0cEJHN1lwaFlOdk9zN3Z5M0xVdHM0VVNJRzlRRUMzUWhvU1FYbDVCTkJtbWdNZ0RORUNVbDIwNDBoWjJac0NxS3NQbVE?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "「おわび」装う二次被害にも注意 不正アクセスで個人情報流出 福岡でも相次ぐ 対策は",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTEZMMDI4X2dfZ0JEZlZoa1N6M1JQclR4NTFpQk5fMmtlemFTRWk3RjI5eXFqbV9GbnlfWnF2eENUdU15c3Etck1yTkl5TGllVS1xOGVCUXRCYjFOd0xiYlYtOVhNTE5fYk1CZE1CS1AtN3NUbXFXdHJMZUtQSy1BMUl0bw?oc=5",
+     "source": "日テレNEWS NNN"
     }
    ],
    "company": "広島・修道学園",
@@ -157,6 +174,11 @@
      "title": "楽天ドライブに不正アクセス、保存データを含む1万5,382アカウントの情報漏洩",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnNWWW1YTWt4a2E2VENLVmQ2amY0VzEwSnFZQjRjWTdpRzBQQ1lPVWdvQ3FQMXUyOTVvYUlsVVdGUFNPUU9kYWlSVnBvUFl3a29aR041bkJfRDBUbV82eXdUTUo5R2VYQmx1aWxuUzc2TXNPeEFsU2Fsb3BHSWJ3MXZNQUczNUhUWjBacFprSzRfQTZYMG1YdXJxSDVmanpNbGJUa3h0UHRhQQ?oc=5",
      "source": "合同会社ロケットボーイズ"
+    },
+    {
+     "title": "「楽天ドライブ」、不正アクセスにより約1.5万アカウントのデータなどが漏えい",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CeEE5WnJiUklKbl9Bbi1USHNFb2J0Y1VBcmk5MlI4R2ZkNW83cy1TdWNVNkwweUVZN1RGaGZzVVpfMzdTVWdOZU5wVzE0MWtCcC1OTlhRaHBIX1ZNblRVLU9nMTJabnpsNWNn?oc=5",
+     "source": "INTERNET Watch"
     }
    ]
   },
@@ -183,6 +205,11 @@
      "title": "交通系IC「ニモカ」で個人情報521件漏えい 一部サービス停止（毎日新聞）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UQm5fdWZRRFZrTUhpQ2Z1S3pEaVd0RFNVUTdYRlliNHlLaU0zRWhub05tSWlrcnR1amVkSkVZTDhzeGtWUTlRbW56RDVlb1Z5NzRZYnBkWGE2NXhWMjlPMXpORHJlbUNxbGZzOVl3YWVsNUNBY0M1UXg0bTJaRE0?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "ニモカ利用者521人の情報流出、生年月日やメアドなど 履歴照会サービスに不正アクセス",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fMFc0bi1UN0JDdHcwS0FzRHdnUWZVdFM4aEFYeHhlLTAtYWVZVHMzOE5jYm4tZnJ3a0JBb0Y4bW96V0dHWF96dmdRZFVOWkJmaUxTeGRB?oc=5",
+     "source": "西日本新聞me"
     }
    ]
   },
@@ -1564,11 +1591,11 @@
    "people": ""
   },
   {
-   "title": "第一生命に不正アクセス 従業員情報12万人分漏えいか 退職者も対象",
-   "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001971/",
-   "source": "ITmedia",
+   "title": "人事システムから従業員の個人情報が流出した可能性 - 第一ライフG",
+   "url": "https://www.security-next.com/190994",
+   "source": "Security NEXT",
    "date": "2026-10-02T07:49:41+00:00",
-   "summary": "第一ライフグループと第一生命保険が、2社の使う人事システムが不正アクセスを受け、従業員情報約12万人分が漏えいした可能性があると発表した。うち7万人分は退職者の情報という。",
+   "summary": "第一ライフグループと第一生命保険は、人事システムが不正アクセスを受け、従業員や退職者に関する個人情報が流出した可能性があることを明らかにした。",
    "region": "国内",
    "tags": [
     "不正アクセス"
@@ -1613,6 +1640,11 @@
      "title": "従業員の個人情報流出か 12万人分、不正アクセスで 第一ライフグループ（時事通信）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5maFN6eWxjWFhrQmVkZTlianN6dDlSUFJRN1NHR3o2UkJWbjlFdlpUUUdPVEluMHNJemtIOFRjTVlhTFM0d0hvcnhNNGJ3TkNhQVBZYkZPdHg4aTQwUEwwUnI5X3Jub0xEczdiRG1NSW1fWExPRFRjZ1lLeF9VNjQ?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "第一生命に不正アクセス 従業員情報12万人分漏えいか 退職者も対象",
+     "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001971/",
+     "source": "ITmedia"
     }
    ],
    "company": "第一生命",
@@ -3287,6 +3319,20 @@
    "company": "韓国",
    "count": null,
    "people": ""
+  },
+  {
+   "title": "「いきなり増えた」専門家が指摘するサイバー攻撃の新手法 焼肉きんぐ1080万件など相次ぐ情報漏洩、AIが悪用されている可能性【なるほどッ！】（日テレNEWS NNN）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNS1ROV0xIejFpTi00OEcwLVJCM2lwS3RSR2ozNk9UeGNVd2hIeXdVRFVPZkxCd2JmYU5sTTI5aGQ2SlVtNGhGWlNTamNUSnE0RU9OS05aR2p4ZjhJSlJ6VEdWak1vZURCN2UxRVhIWlZTV2Noc3ZSLVc5cjEtemc?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-06T12:32:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "いきなり増えた",
+   "count": 10800000,
+   "people": "1,080万人"
   },
   {
    "title": "企業への不正アクセス被害相次ぐ 個人情報の大規模流出も",
