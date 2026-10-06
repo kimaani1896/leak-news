@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T18:11:30.173269+00:00",
+ "updated": "2026-10-06T19:11:44.266042+00:00",
  "items": [
   {
    "title": "同県サイトで公開した地区防災計画のPDFに個人情報 - 岡山県",
@@ -65,6 +65,11 @@
      "title": "旭化成子会社 55万人分情報流出か",
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsdHNKbEpzOGhLaU84WG5mYlNna0Y5bG5jcVJodGU3Qnk5VGtjMnBVdmJuTE96MXo4T0EzTHpxWGFCOUI1Z2c3cEZaTXh3R0ZT?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "旭化成子会社 個人情報55万人余 漏えいの可能性と発表",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lSkJ4SGFkMTdUN1U4dk9LMFJ0Z3RKdVBXZmhVSmFxZmpwME85WHVxUkVPWUVNX0g4ZENTQWdnWUc4QnFGTjJYYVhEWHIxdHZzeDFZQ0gtQTF4RnRJMHA0?oc=5",
+     "source": "NHKニュース"
     }
    ]
   },
@@ -114,9 +119,9 @@
    "people": ""
   },
   {
-   "title": "シチズン時計 約10万人分の情報漏洩の可能性 委託先に不正アクセス 決済情報も流出か（テレビ朝日系（ANN））",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pLWZlQU10aWxqU202VUxxcXBlZVZjaTRGWjFhV3labTJ6aC1lUThQQjVQbnRIbzdyVmtRQnMxMHQ5b2RmdHJtbWtRNVhteUVMcW5VVTFycWtsdVZLNmVGcVpnTnFONHVFaGlBU1ZTVFZxR0QtSlpGRElUcFhWQmc?oc=5",
-   "source": "Yahoo!ニュース",
+   "title": "シチズン時計、委託先への不正アクセスで約10万人分の個人情報漏えいか 大和証券と同じサービスが原因に",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DZXdKUUw0c3JuNUVqRjZXYkZ3RFlHSGplZU1pWWg4MmNBUXhBX2QxY25HX0NNRTJ3NExYZjI3d0pyTk5rQmRwbDFETTRYQkdDcmgzbENUcFhtWjF5ZUlrcUstc3lObHNIdGc?oc=5",
+   "source": "ITmedia",
    "date": "2026-10-06T08:06:16+00:00",
    "summary": "",
    "region": "国内",
@@ -158,9 +163,14 @@
      "title": "「シチズン」でも個人情報漏えいか…約10万人分 相次ぐ情報漏えい AIによる攻撃か…「背後に国家がいる可能性」",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PTFhDbkZZdjhjZUNvUXpCRzVQdDRuTnFJQXQyci1BWjByeEJJZ0hYZVZHTjhmVk9vT1RhODhjcEg3Q0VzWXQ3TzZfaGhlRlpjRzVRNkt2c0hlNFF1WTRBR1JOSHhTWjdWdnJvM0FZUW1KeEN5X3JsYms4cFpxXzA?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "シチズン時計 約10万人分の情報漏洩の可能性 委託先に不正アクセス 決済情報も流出か（テレビ朝日系（ANN））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pLWZlQU10aWxqU202VUxxcXBlZVZjaTRGWjFhV3labTJ6aC1lUThQQjVQbnRIbzdyVmtRQnMxMHQ5b2RmdHJtbWtRNVhteUVMcW5VVTFycWtsdVZLNmVGcVpnTnFONHVFaGlBU1ZTVFZxR0QtSlpGRElUcFhWQmc?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ],
-   "company": "シチズン",
+   "company": "シチズン時計",
    "count": 100000,
    "people": "10万人"
   },
@@ -1020,6 +1030,11 @@
      "title": "大阪公立大学、ランサムウェア攻撃でサーバー500台停止、13万人分の個人情報流出か",
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zcWpRQWdEVTc5bzZmZV80Rmh5TTUyVmRUdW5qWTlpYWtPbTE0TlI3aU5vWEhlVzdFZ2syYTY2dEhvNGROcEdDeFRlOFEwdnFmZURR?oc=5",
      "source": "ビジネス+IT"
+    },
+    {
+     "title": "大阪公立大学、ランサムウェア攻撃でサーバー500台停止、13万人分の個人情報流出か (ビジネス＋IT)",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQm9tSFo1blpFS29iREYyX19EOHhMUVhIWVgxLTRsVjZkNXJ0NUhoejF3TFMtSFlIWThJUE15d1BFQmk2WHByeWFxVXZJUDJWeHByVUN1bUh4X2toR3F2dTZUSTJXOTdodUZsOXFjTGtFMGJLWmJqXzFUSy1ESk56N3JIMEFuRFYwdmR1aV9R?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ],
    "company": "大阪公立大",
@@ -3359,6 +3374,20 @@
     "不正アクセス"
    ],
    "company": "韓国",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "相次ぐ不正アクセス 自分の情報をどう守る リスクと対策は",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yRnFwTmRQZ19DY1VsbWE1azRaZlItYWVFUjlZWi1LXzktMXVzRGVUSGdvX2tmd0RUQUc5NWwtWGlwSmkxX2VCR3BVQ3c3X1ZCRjF5dEhIbERnUW5vVjM4?oc=5",
+   "source": "NHKニュース",
+   "date": "2026-10-06T13:08:42+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "",
    "count": null,
    "people": ""
   },
