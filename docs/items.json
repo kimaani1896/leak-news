@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T02:11:17.383199+00:00",
+ "updated": "2026-10-06T03:11:08.559078+00:00",
  "items": [
   {
    "title": "韓国の金融機関で相次いだ不正アクセスについてまとめてみた",
@@ -16,6 +16,20 @@
    "people": ""
   },
   {
+   "title": "物語コーポが急反落、不正アクセスによる個人情報漏えい、サイバーセキュリティーに買い(ウエルスアドバイザー)",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeEJjZGJqQi1EMmw4UGJqbWhVMWxxX3c5UnRSWUhiSlV5RUI3TlVVYzROQ0FjY0dZdDBhc2FMNlZYQi1QTGZpaTFUeGlOZFdmWXdGV2dfbFVESzl3MzdGSTcxb25iTl9WT3NTaXp5Mkszc2wxaF81SkcwazdhY3k0U2ZuekVrZG8?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "date": "2026-10-06T00:46:08+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "物語コーポが急反落",
+   "count": null,
+   "people": ""
+  },
+  {
    "title": "GMO「infoQ」に不正アクセス、最大95万件の会員情報漏えい ポイント287万円分が不正交換される（ITmedia NEWS）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kWURGaFFXcWswZTdVbGJhbFo0NkEwcGJHTWlBTDc4TEdIb2t4MTJjWGV2OXVLZ2dEZGY4dE5rY2RSQnNfVWE4Vmxhdy1reU1DQ084dnpRMzNwX3Z6N1YwY0tCWDhZczJ0R21jVnpqV3pJcm9NdXBud3U0Ny0wMVk?oc=5",
    "source": "Yahoo!ニュース",
@@ -27,7 +41,14 @@
    ],
    "company": "GMO",
    "count": 950000,
-   "people": "95万人"
+   "people": "95万人",
+   "others": [
+    {
+     "title": "GMOグループ会社に不正アクセス 会員の個人情報94万件余流出か",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpTm1vYnJ5dDNTTF9uV01raXpmN00yMVpzWmREUWZDaTNPNVhQTW5yZHQtbkhBbnNkZUluZW93TnR1UXZrOXdnSE8xTDRyaWRGYThSRnlaTktGdmx5RmJ3?oc=5",
+     "source": "NHKニュース"
+    }
+   ]
   },
   {
    "title": "「ベネワン・プラットフォーム」のアンケート機能で他企業・団体の個人情報がダウンロード可能に、不具合を認知するも解消作業が適切に実施されず",
@@ -460,6 +481,16 @@
      "title": "大阪公立大 大規模システム障害の原因は「ランサムウェアによるサイバー攻撃」か 大学が会見 ８日まですべての授業が休講に",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY3BtQTlnLWdtUnNtaHpjVU1Sam92cFZlR19sMlJnSVhDeTFZejl4SzF6ZHVtWUczQmVzc2JnQWtKaEFMRHJOWE9XSGdFd2s3ZmNFWnZsbnB1VzllNFhST0V1Y1Vzbjd3Y2ZNZ1BfMGY1eXlReFBPYVg5MlIwQ3RxQjFVVUZ1ejAxd2ljam1n?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪 ランサムウェアによるサイバー攻撃か 基盤システム障害で全授業が休講中 対面授業は9日以降再開予定",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHem1ycnV1cmFlSFFwaGVCbHowQ0cxRmFMNGtfZGpMZ2tLMVZNaVR4SlE3S2ZCMDZGZ1Bqb2o2S3YyYUdZQ2tCVFNvX1FKbUxJN0hwWWE0dw?oc=5",
+     "source": "TBS NEWS DIG"
+    },
+    {
+     "title": "大阪公立大学がランサムウェア被害、サーバー約500台停止で全授業休講",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WRWRObDFqRlctczFoQkc2TFB3NFJnZFBaVmVsZlBUNjY3RDgyMzFlRy1Qb3dESFFOQkdYUUNUMkpKdzhJNzZHZkVIa1YwVDNZdHFPY3kzdU5xWXlnQUdWZ2hiZU5tTmE1YUxzWkk1ZU0zc00?oc=5",
+     "source": "innovaTopia"
     }
    ],
    "company": "大阪公立大",
@@ -584,6 +615,18 @@
    "company": "講談社BECK",
    "count": 50,
    "people": "50人"
+  },
+  {
+   "title": "日経新聞社、Microsoft 365アカウントの情報漏えいと、Google Workspaceからの情報漏えい疑いを発表（INTERNET Watch）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04eVdvcHRBODJJQmtYcmtJMU9tRGFxRkJjVmo1YlZNSU96ZnZYM2E0YU9tcm14NkRsZDIxeEQxMnlXQ3FXa1dmRUZVd01ZblJvNUVETG9oV2hPOUNjQWVSRUhZU0ZBRDE3LUJ4bEs5ZzNTcS00eGptYmhIdy1MRnc?oc=5",
+   "source": "news.yahoo.co.jp",
+   "date": "2026-10-05T00:42:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "日経新聞社",
+   "count": null,
+   "people": ""
   },
   {
    "title": "「ドズル社ストア」で不正なページに誘導、カード情報を入力した場合はカード会社への連絡を呼びかけ",
@@ -2106,6 +2149,11 @@
      "title": "タイムズカー不正アクセス 運転免許証の画像や本人確認書類など160万件が流出 学生証や公共料金請求書なども",
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1YUThDekZPeEZKYUJXNVFuU2hVdmhuUENEenlvTFRsNXZha2Zrd2N0RWY0bzRwNVZmWU9CX3RVQjFwZTR5cjhRcUlYMGVUZw?oc=5",
      "source": "fnn.jp"
+    },
+    {
+     "title": "タイムズカーから流出した｢免許証情報660万件｣は会員だけではない…過去に接点のあった人が今すぐやるべきこと",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91dS1XdldPX0F4ZUkyZlc2WnFfbl9KUWhyTnpRTnBFZUpLQkNNX0VHQlYzd2o2enZoaTdNdlUzaGhDT2NtbS1MaHRZcGd4V0VaQmZtZkQwa3hpRTQ?oc=5",
+     "source": "東洋経済オンライン"
     }
    ],
    "company": "タイムズカー",
