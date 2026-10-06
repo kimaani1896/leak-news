@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T07:11:41.110037+00:00",
+ "updated": "2026-10-06T08:11:42.133407+00:00",
  "items": [
+  {
+   "title": "国内の不正アクセス、最多ペース AI悪用、サイバー攻撃が容易に（共同通信）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0LVQ4b2d1Wk8zTzZ3dEJYUkZoV2hvcWZNMlZsNDhObzQ0aE84ZExiNGJVTURuY1lrM1dCbEE0UkNZckp5ZDBZamF5WHppMGV0bVlyQVlFd2NsbTduSVNBc3A5dFNZeEYyNkZ0SndPSGZyOTB6dmRFVHhZY1Q5QzA?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-06T07:16:07+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
   {
    "title": "楽天ドライブ、不正アクセスで1.5万アカウントの保存データ流出（アスキー）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kVXFXbFE5OFhVWnd5QVEyRXhFUzlPZDFIemJDZGdoeG1jQWNBYlpGTjlzY0EzWlRoTWNxQi1tcmUwMkUtWGVJSWdENVpKV1lwb1l4bkhYWVRFdXpwdmFBY3BxNkhMQXUzS3gzTWpOTUZZZnZvRXpzZHdVWVFQQTg?oc=5",
@@ -124,6 +138,11 @@
      "title": "ミスターマックスにも不正アクセス 最大173万人分の個人情報が流出のおそれ アプリとオンラインストア会員が対象 福岡",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3Nk12d2E4dVNUb2RCX0RqaWdXVUFmN2FrcW4zR0FUeTJTdlJ1RXFFdm9sQU5rQlVpMTZRNFBFTm56UGVCcWhlZFBILTViVF9HT0lfQnA2LTl1YkNWSWc0UlJFd2tOY0lmWk5JQ1JDSkp5SDdtVm5vRHdJYk1FRWM?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "最大173万人分情報流出 MrMax、不正アクセス メールアドレスや電話番号など",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UY29HeDJ6OURuNGNyczBZd1FwRlVseWEtbHlzZExrZE4yS2lsU3ZqaktBRVYyVGFrWUZTUXc2SjhLUTBVMXI3M0U4VTNuV1VwVFZtRXhoX0poX0h3amg5Z2dyUnJlck9CeGdILUJTU2VsLWNvUUE?oc=5",
+     "source": "産経ニュース"
     }
    ]
   },
@@ -202,6 +221,11 @@
      "title": "焼肉きんぐ・MrMax・infoQ・タイムズカーなどでサイバー攻撃や不正アクセスによる大規模な個人情報漏洩-今すぐ注意したい事と対策|セキュリティ対策Lab",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOUVSREpRZW5ZUXAySFp4cWRSS0VURDJ0R0ZPQ3VDUUZBNExVNGp3YWpSamlCdEMyRmdla3hfX3hOSkExaUd3Q2NLQ0dUczRnNllXTWRYeGctY1cxN01DMF9vQVpxNG5mZWx3amZxamY4Rnd2UHI0cGU4bEcxTmNWNTc2UVhNVkgxbnBiLW1WUTlIeXRvNGwtYVRoNkhoU2laMFBJ?oc=5",
      "source": "合同会社ロケットボーイズ"
+    },
+    {
+     "title": "「GMO」グループ会社で情報漏えい 会員ポイントの不正交換も 相次ぐ情報漏えいに経済界も警鐘「攻撃者がAIを積極的に…」",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RYlpWdWdmRldBR204S19BREs1aS1NSUM4ckExMGJTUG1XWG5UNDEybjBVSDRDczl5aGJpaHlGUTFqeXhCWTZGWk5fcVBUeGdXR1pCT1ZkQllpWTZYNTBFRmMydDNEM19IeExNU1ZMeTdVdVRvejRtMmZ4Mzc0ZEk?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ]
   },
@@ -560,6 +584,16 @@
      "title": "焼肉きんぐ、顧客情報が流出 1千万件超、不正アクセスで（共同通信）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ENGhYUUN0NXZ1NXUxXzZNSXprb2VzNEt4OHE3am5YcldiLWpUVmY4ckZLeS16MmtzSEJNN3diNGE2aG9tU3dfMndodUk4elZXaUJzVmhTcG13RnJuUDhqa0phdjJiSTI0SzJreEl5YjZmQW9TWmRtd2RnQV9DVVE?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "『焼肉きんぐ』1000万件超の情報漏洩 なぜ今、飲食店アプリが狙われるのか？ #エキスパートトピ（山路力也） - エキスパート",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ3BXc0hsQzFqdExLZlpwQU5PcGpYOVFYYnAxVDNTUmZzTjE5MC1UR1BhcnoycS12amQ2Y0o0cHBYdVZadUNWdmZUWGMxRGtJZldzQnVpbktyMGpJZzBxOFBWNjB6LVhrNWc0MGd1SEVzdnh4LTU5Mi05Z2RZTVdlTzRTVkVlcHBZ?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "焼肉きんぐ 公式アプリに不正アクセス、1078万件の個人情報漏えい",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HUDhSZ192U01UTjBBSHBvdWh5UFFXdm5ESXFtZ1pabFU1V3B6STU5cjhKcnJFdFU5eG5nbGhzUkVlSXJ2ZkczUHh0amxoLUpTSmpJ?oc=5",
+     "source": "ビジネス+IT"
     }
    ],
    "company": "焼肉きんぐ",
@@ -874,6 +908,11 @@
      "title": "大和証券、22万件情報漏えいか 顧客約11万人の口座番号も",
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiZmh4SG00MTdybjEyc1hRVFhaZDhZU3RzbDN6N1k1MW41REpQd1dVc1V5eEc5ME5Eb2ZUTU5BMlpZV3JsQ2NSa2ZoWnl1V0VOcXM4aHROSGpCUWN6aHMxb1k3YU4ycjh1RVE?oc=5",
      "source": "ITmedia"
+    },
+    {
+     "title": "大和証券 不正アクセスで11万分人の個人情報漏えいか（日テレNEWS NNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xME14ZnkweGVjTjg0STlJbWJ5SC1NVEhrN1psejJJUnlySU01Vk5mcDd6WGRHc2JEYUszWHJBNGM0RnMwT2szclRBTWtadmlNd0tpUk90VFpJek9JbDlKc3h4NzQ2QkpCTm5ZZzJaX29Cb0J3MXBQSzJZMmxmdEk?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ],
    "company": "大和証券",
@@ -1232,6 +1271,11 @@
      "title": "ミスターマックス・ホールディングス[8203]：不正アクセスによる情報流出に関するお詫びとお知らせ 2026年10月6日(適時開示) ：日経会社情報DIGITAL",
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15bUtLWkN0ZGVHRTVMU19pMjVmTVYtTzg3VHVIZEowX3R5YnlnQ1dvSmM1TnltNVZYQkI1YldHSkJLM2IyRmgwck13Y0ViNEoxQ2FxeGVoYnJNSlphWjQ0cE9sX0JhajRhSkE?oc=5",
      "source": "日本経済新聞"
+    },
+    {
+     "title": "日経新聞にサイバー攻撃 不審メール9000件を送信（FNNプライムオンライン（フジテレビ系））",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1adXRRVTBsVDVJUG54V1JSRUtwd1pZY3VUX2tNc1lFLXNLOXpTYUN6SUVkMHhlRVh4WjIxQ1VYRVo2Wm1RT1NoZkkwOXZUMnMza25PMTN3eVB0d0hkeEJ3aXExcWFtc0tnNVFRdm50ejFrdHpQbnBucG40cEJtN2s?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ],
    "company": "日本経済新聞",
