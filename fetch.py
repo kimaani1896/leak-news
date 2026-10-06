@@ -36,7 +36,7 @@ INCLUDE_TITLE = re.compile(r"カード情報|改ざん|不正なページ")
 # 「サイバー攻撃」「ランサムウェア」の広い検索で拾った記事は、事件の見出しの形をしたものだけ残す
 INCIDENT = re.compile(r"(に|へ|で|が|、|\s)(サイバー攻撃|ランサム|不正アクセス)|サイバー攻撃(を)?受け|ランサム\S{0,4}(被害|攻撃)|被害|障害|漏え|漏洩|流出")
 NOISE = re.compile(r"対策|市場|支援|法|措置|社説|動向|白書|警鐘|専門家|とは|方法|選定|ナビ|EXPO|脆弱性|株価|サービス|製品|守る|備え|防御|無害化|集団|摘発|義務|報告書|検証|写真|コスト|復号|ページ目|解説|影響|どう|なぜ|？|\?|社長|狙う|急増|相次|立て続|調査|AIで|AIの|ツール|選択|エキスパート|映す|20[01]\d年|202[0-5]年")
-EXCLUDE = re.compile(r"セミナー|ウェビナー|提供開始|発売|募集|キャンペーン|無料|ソリューション|導入事例|ホワイトペーパー|資格|調査レポート|ランキング|求人|資金流出|攻撃手法|優勝|大会|コンテスト|演習")
+EXCLUDE = re.compile(r"セミナー|ウェビナー|提供開始|発売|募集|キャンペーン|無料|ソリューション|導入事例|ホワイトペーパー|資格|調査レポート|ランキング|求人|資金流出|攻撃手法|優勝|大会|コンテスト|演習|\d{1,2}月.{0,20}まとめ(?!てみた)")
 # 特定の事件ではなく「相次ぐ漏えい」「対策は」のような全般・解説のニュース（専門サイト以外で、まとめた記事がないものは載せない）
 GENERAL = re.compile(r"相次|急増|狙われ|狙う|とは|どう|なぜ|解説|専門家|識者|警鐘|対策|備え|守る|？|\?|ヤバい|考えられる|立て続|注意点|手口|教訓")
 # タグ（上から順に判定、複数可）
@@ -166,10 +166,12 @@ def similar(a, b):
     na, nb = find_name(a), find_name(b)
     if na and nb and (na in nb or nb in na) and min(len(na), len(nb)) >= 3:
         return True
-    x, y = bigrams(a), bigrams(b)
-    if x and y and len(x & y) / min(len(x), len(y)) >= 0.6:
+    if any((ka in kb or kb in ka) and min(len(ka), len(kb)) >= 3 for ka in keys(a) for kb in keys(b)):
         return True
-    return any((ka in kb or kb in ka) and min(len(ka), len(kb)) >= 3 for ka in keys(a) for kb in keys(b))
+    if na and nb:
+        return False  # 会社名がはっきり違うなら、見出しの文字が似ていても別の事件（「◯◯にサイバー攻撃」どうし等）
+    x, y = bigrams(a), bigrams(b)
+    return bool(x and y and len(x & y) / min(len(x), len(y)) >= 0.6)
 
 
 # 代表の見出しに使う優先順（数字が小さいほど優先、Googleニュース経由の媒体は最後）
@@ -227,6 +229,15 @@ def consolidate(items, days=14):
             for k in kept:
                 kn = k.get("company") or ""
                 if (k["source"] != "Have I Been Pwned" and len(kn) >= 3 and (kn in name or name in kn)
+                        and (d - datetime.fromisoformat(k["last"])).days <= days):
+                    host = k
+                    break
+        elif it["source"] != "Have I Been Pwned" and not name:
+            # 会社名が取れない見出しでも、既にある行の会社名が見出しに入っていればそこにまとめる
+            d, t = datetime.fromisoformat(it["date"]), alias_text(it["title"])
+            for k in kept:
+                kn = k.get("company") or ""
+                if (k["source"] != "Have I Been Pwned" and len(kn) >= 3 and kn in t
                         and (d - datetime.fromisoformat(k["last"])).days <= days):
                     host = k
                     break
@@ -295,7 +306,15 @@ def find_count(title):
 
 
 # 同じ会社のローマ字表記・カタカナ表記などの揺れ（見つけたら足す）。左を右にそろえる
-ALIASES = {"ABAHOUSE": "アバハウス", "第一ライフ": "第一生命", "第一ライフグループ": "第一生命", "第一ライフG": "第一生命"}
+ALIASES = {"ABAHOUSE": "アバハウス", "第一ライフ": "第一生命", "第一ライフグループ": "第一生命", "第一ライフG": "第一生命",
+           "日経": "日本経済新聞", "日経新聞": "日本経済新聞", "日本経済新聞社": "日本経済新聞", "日経グループ": "日本経済新聞"}
+
+
+def alias_text(t):
+    """見出しの中の表記揺れをそろえる（会社名が取れない見出しを既存の行と突き合わせるため）。"""
+    for k in sorted(ALIASES, key=len, reverse=True):
+        t = t.replace(k, ALIASES[k])
+    return t
 
 
 def clean_name(c):
@@ -410,6 +429,9 @@ def main():
     added = merge(items, fresh)
     items = [it for it in items if datetime.fromisoformat(it["date"]) >= cutoff]
     items = [it for it in items if is_leak(it) or it["source"] == "Have I Been Pwned"]
+    for it in items:  # まとめた「他の報道」にも同じ除外をかける
+        if it.get("others"):
+            it["others"] = [o for o in it["others"] if not EXCLUDE.search(o["title"])]
     items.sort(key=lambda x: x["date"], reverse=True)
     for it in items:
         label(it)
