@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-06T10:11:27.404404+00:00",
+ "updated": "2026-10-06T10:46:38.270581+00:00",
  "items": [
+  {
+   "title": "広島・修道学園 不正アクセスで個人情報流出か",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OckVfczNTUG80blV5TXR6YnU0VFdhdTRLcF9ta1pqRC1xNjJVMVpxbFNDaFlOcnJrb0ZvS1c2SEhzUUpVVzlEeGUydVZQQ0pOcUNZR1pLd2hsN2NDUEZMYkV5N2drWUxNb0dkV25Cc0hmc3VpVk1ZbUJnX0FKWTQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-06T09:45:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "others": [
+    {
+     "title": "「おわび」装う二次被害にも注意 不正アクセスで個人情報流出 福岡でも相次ぐ 対策は（FBS福岡放送）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tZVdmTjZDbkliMWo1czNRNGhhNHZ5aHFWY0gyaENKM1hmeUx3Y3RldmJjV3c4Y185czN0cEJHN1lwaFlOdk9zN3Z5M0xVdHM0VVNJRzlRRUMzUWhvU1FYbDVCTkJtbWdNZ0RORUNVbDIwNDBoWjJac0NxS3NQbVE?oc=5",
+     "source": "Yahoo!ニュース"
+    }
+   ],
+   "company": "広島・修道学園",
+   "count": null,
+   "people": ""
+  },
   {
    "title": "日経BP、メールアカウントへの不正アクセスにより個人情報漏えいの疑い。日経新聞社への攻撃が影響",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuVG1qb01kb1V0ZGxiQkFFNG00WGZSUWRyREcyTDk0anJVU2xia2prdWJWZTctZ2YyVUxwaDhqTnhkR0VYSTB0TnFvcVNJM21JcFNZMTZ6ZjhKQUxNVDR6RjJEa3A4QThtX084?oc=5",
@@ -363,6 +384,11 @@
      "title": "GMOリサーチ&AIのアンケート「infoQ」で不正アクセス、最大約95万件の個人情報が漏えいし、不正なポイント交換も",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tTG5OWHBvNmpIY3hRTktXUzRlSVR3MEZkZEdEYS1COE9EbEc0RzhXRFBtWDlQSUw2VkhjeFQ1N1Bja2tXY2FtSGtUb2xHbXk1X1dqZFU0UWVKNjFHaDBrMlh3aVhLOXJjczByekJQaXpYX1NjRHhEa2FFUWE2eXc?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "GMOグループ会社 不正アクセスによる個人情報流出 ポイントの不正利用も（TBS NEWS DIG Powered by JNN）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GcjF3clRZVWc2VzJldDQ0VE5ObzV5WDJwY2pic2ZkV19ha3dXMUJZcV9BWm5fM3RmN2s5c2J2ZXplRjIxZ241aU82Z3RWMXhVTmliX1htNk9qQ1g2cWdXZk1wNXg5eFBXOWlGOUctTUxIMEdYYW10Vl84bkQ1V0E?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ]
   },
@@ -451,6 +477,11 @@
     {
      "title": "ムラウチドットコムに不正アクセス、7,716,811件の個人情報が漏えい",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwaHpSYkpMZVFFYmg2b3BycmVfZDY0Wk50alBHSVh2UFJmSG5TWWVBMERDbUpaNkkyUUxrYmNyMEpsbF9vVkphNjRBWWxGRmsxcFU4NWU1OFh5UFE4ZERiZ29iMXBxMVJBRElzTA?oc=5",
+     "source": "ScanNetSecurity"
+    },
+    {
+     "title": "ムラウチドットコムに不正アクセス、7,716,811件の個人情報が漏えい 2枚目の写真・画像",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uNjlzVi12MXFJR1JXMUNiazhuem1yWkV4VzNydldrOFJLelpzSWdhYjlqaGM1ME12STRZUnVJTjVKTDZRM3A5R2ZKWG45VzdKMW9oN2dHX0ZYdVR4NjV2Z3NGLWtOeWJMbUtTdC1JMUF4d0lsdEE?oc=5",
      "source": "ScanNetSecurity"
     }
    ]
@@ -949,6 +980,11 @@
      "title": "大阪公立大学、システム障害は「ランサムウェアによる攻撃」と発表しました",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxVjFIX0RZSk93a3BDcW1STnhZakM5bkZCbkcwREYwRmhGNnNxLV9tMmRXWmd2TXhLWC0wQWUyN0RIYTQ1aUJqelFBNndNbjAwRU44aTRpZmpiMC0wUTJNc09xenZuVk0?oc=5",
      "source": "やさしい朝日新聞"
+    },
+    {
+     "title": "大阪公立大学、ランサムウェア攻撃でサーバー500台停止、13万人分の個人情報流出か（ビジネス＋IT）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wVC1ZLWtuQjZQWFl1Z3VpNlhial9ITW5oQ29LV3lrYjZBbmZnbl9YS2VaTEVVci1DVUwzTURHc3ZIbFVjZFpsTjJZQUo3V0M0dmVBOFJiRmx0bzdGVU1qN0x5R2VhclZiZlVfYlUwLXlYb1lVRkJVM0xFd0hzVms?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ],
    "company": "大阪公立大",
@@ -1246,7 +1282,8 @@
    "region": "国内",
    "tags": [
     "不正アクセス",
-    "不正ログイン"
+    "不正ログイン",
+    "内部不正"
    ],
    "others": [
     {
@@ -1413,6 +1450,11 @@
      "title": "日経新聞にサイバー攻撃 不審メール9000件を送信（FNNプライムオンライン（フジテレビ系））",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1adXRRVTBsVDVJUG54V1JSRUtwd1pZY3VUX2tNc1lFLXNLOXpTYUN6SUVkMHhlRVh4WjIxQ1VYRVo2Wm1RT1NoZkkwOXZUMnMza25PMTN3eVB0d0hkeEJ3aXExcWFtc0tnNVFRdm50ejFrdHpQbnBucG40cEJtN2s?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "従業員アカウントに不正アクセス、取材先に大量なりすましメール - 日経",
+     "url": "https://www.security-next.com/191072",
+     "source": "Security NEXT"
     }
    ],
    "company": "日本経済新聞",
