@@ -1,6 +1,20 @@
 {
- "updated": "2026-10-06T12:11:44.322306+00:00",
+ "updated": "2026-10-06T13:11:43.630856+00:00",
  "items": [
+  {
+   "title": "介護事業者向けの報告書依頼メールで誤送信 - 鳥取県",
+   "url": "https://www.security-next.com/190687",
+   "source": "Security NEXT",
+   "date": "2026-10-06T12:55:43+00:00",
+   "summary": "鳥取県は、実績報告書の提出を介護事業者に依頼するメールにおいて送信ミスがあり、メールアドレスが流出したことを明らかにした。",
+   "region": "国内",
+   "tags": [
+    "誤送信・紛失"
+   ],
+   "company": "鳥取県",
+   "count": null,
+   "people": ""
+  },
   {
    "title": "広島・修道学園 不正アクセスで個人情報流出か",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OckVfczNTUG80blV5TXR6YnU0VFdhdTRLcF9ta1pqRC1xNjJVMVpxbFNDaFlOcnJrb0ZvS1c2SEhzUUpVVzlEeGUydVZQQ0pOcUNZR1pLd2hsN2NDUEZMYkV5N2drWUxNb0dkV25Cc0hmc3VpVk1ZbUJnX0FKWTQ?oc=5",
@@ -66,6 +80,16 @@
      "title": "シチズン、顧客情報10万人漏洩か 業務委託先に不正アクセス",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45aEJtMHFJQWtRU1N6RTFXWGRNZjZrUERVOXA5NWwxVnprOWJoX09BVGZMR1hsbjMxNmNjbUNfckJsQTRZTHE1bWNlVnRyRjlpTW9CNjRNUnVpWkttYU55ZmpOblZGLVhJUlpocw?oc=5",
      "source": "日本経済新聞"
+    },
+    {
+     "title": "シチズン時計、委託先 スカラコミュニケーションズへの不正アクセスで約10万人の個人情報漏洩の可能性―スカラコミュニケーションズは大和証券にも影響",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNlMwSWNfRlpPTFNYWElCWmRhRWJwN0hWMVJRVEluMWpZc3pSY1NMUEVIdUUtVkpnTzExRUVKbW9XU0VpNHFtUG5Rcmk5SEFYWlRtWHAyWUx0R0VBR3NXU2hmbEg3Smt5Q3ZMSGtaQ0hHOFVqdUNWMFJSblZfNHBKZ294MFZ1TWp4UmVnVzBCM2E4NG1ZV1ZkbV9uSFZSTzQ?oc=5",
+     "source": "合同会社ロケットボーイズ"
+    },
+    {
+     "title": "シチズン、10万人分の個人情報流出か（時事通信）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hZlpETjRCa0lSVUtuaFRPMkRoYVI0SzBxVEpyNDlXUFFqLWNlOGdlRUZfdkVNUjJfSDN2Z3ZVdnZxQXAzNEN0SmxWeHR5VEhkQ3ZZYTBVM3pZYUNnT0lzanBIbEJzTFZuZmpYcThOUEZmLWlybFRUd19JMGs4cTQ?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ],
    "company": "シチズン時計",
@@ -90,6 +114,11 @@
      "title": "「楽天ドライブ」に不正アクセス 保存したデータなど1.5万アカウント分が取得・閲覧のおそれ",
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14RmR1N3ZpaTN0bjUzb25pUUIzRFFUUExaZGVSV0N3aGlZdUVjRTlubjdmNm1manpfeExocEdsRVZCa3ZPYldnWXpQcDJGWmt4S1JTazBFY2lSWjlsN3ppbV9JOGZOQlFreWc?oc=5",
      "source": "itmedia.co.jp"
+    },
+    {
+     "title": "楽天ドライブに不正アクセス、保存データを含む1万5,382アカウントの情報漏洩",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnNWWW1YTWt4a2E2VENLVmQ2amY0VzEwSnFZQjRjWTdpRzBQQ1lPVWdvQ3FQMXUyOTVvYUlsVVdGUFNPUU9kYWlSVnBvUFl3a29aR041bkJfRDBUbV82eXdUTUo5R2VYQmx1aWxuUzc2TXNPeEFsU2Fsb3BHSWJ3MXZNQUczNUhUWjBacFprSzRfQTZYMG1YdXJxSDVmanpNbGJUa3h0UHRhQQ?oc=5",
+     "source": "合同会社ロケットボーイズ"
     }
    ]
   },
@@ -665,6 +694,11 @@
      "title": "焼肉きんぐ 公式アプリに不正アクセス、1078万件の個人情報漏えい",
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HUDhSZ192U01UTjBBSHBvdWh5UFFXdm5ESXFtZ1pabFU1V3B6STU5cjhKcnJFdFU5eG5nbGhzUkVlSXJ2ZkczUHh0amxoLUpTSmpJ?oc=5",
      "source": "ビジネス+IT"
+    },
+    {
+     "title": "「焼肉きんぐ」に不正アクセス 公式アプリの顧客情報1078万件超が漏洩（中京テレビＮＥＷＳ）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NV0tzdmtQc3ZvNmpwTmtVWW90Y2F4eVctaEl2Qi1vTWltUnZac3RnZW5oVVRpbk5vWlFoS2gyZExFR2N6bEw4X0hEU2FVSmgwdlV0NWxDX3N3U2JJNWV1VzRLeTFPbWZhazVSWXpWY1JMTWFjckxMUnNWWjg1azA?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ],
    "company": "焼肉きんぐ",
@@ -3505,6 +3539,20 @@
    "company": "",
    "count": 220000,
    "people": "22万人"
+  },
+  {
+   "title": "企業で相次ぐ“不正アクセス” 狙われる「個人情報」（FNNプライムオンライン（フジテレビ系））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4ZEhaN29rT3BFc1JNWXUxMTJzXzVfSTlKREVORHVPc2pyRUNlUkxFRmpPMnNqOWtXXzg1UDNuS3lyYU9BcFItekxYUUdxRk1FMFM4VnVuQTFiQ3pHMVlPS1l6YnhTejZnZWtTY1RUa1E3WWNuUHpPcjgwajJIQWc?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-05T15:22:18+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "",
+   "count": null,
+   "people": ""
   },
   {
    "title": "相次ぐ不正アクセス、企業や政府機関でも情報漏洩 AI悪用の影に「一刻の猶予もない」",
