@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T01:48:06.404735+00:00",
+ "updated": "2026-10-07T02:11:42.024262+00:00",
  "items": [
   {
    "title": "東洋紡グループのメールアカウントへの不正アクセスについてまとめてみた",
@@ -144,6 +144,11 @@
      "title": "旭化成系、医療従事者向けサイトで情報漏洩か 最大約56万人",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tVXhMYWxuZ2QtYi1oYXAwWElUWGpIa2toamZFUy1oVW8wSFd1WHQ1Um1FNlAzeVZBRjE1S0VvOXNJNkJSUW1MYVVUeUhHUVozSEtBYjFlVGF6SHppRlpTRU9oN1JoNUpyUVotdw?oc=5",
      "source": "日本経済新聞"
+    },
+    {
+     "title": "旭化成セラピューティクス「Pharma DIGITAL」に不正アクセスによるサイバー攻撃、医療従事者約51万4,000人の個人情報漏洩の可能性",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbkQ4WFBGWkxBODktTnNJdElyQVhCeVQyS3ZDSWxzeE1FYTRNLUpPRmw5Qjl0Q19tZzZ3ak5lcjY5djVidklJNFFfOEZ1VXlCelczZlFkRG5Ba2REWnN2Mk0wNHg1eXE4VUEwc3Bkc3ZLbzB3bk1aVjdRTmRUZ2V2a00tUmxEYjk3SDZGSDRBQXU?oc=5",
+     "source": "合同会社ロケットボーイズ"
     }
    ]
   },
@@ -544,6 +549,11 @@
      "title": "GMOリサーチ&AIのアンケート「infoQ」で不正アクセス、最大約95万件の個人情報が漏えいし、不正なポイント交換も",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpaFh1d0FiV1ptSk5pR05lbzRibmRQWXM3MkNJMW5nV1VmNXM2RGZtNHllbS1tLXFkLVZ1WWdhcFpZa19idE5tREw1VllOdTlFMjVwWXpUZWN0UjRNNVJReWRPQjVGVkI2T1B3?oc=5",
      "source": "INTERNET Watch"
+    },
+    {
+     "title": "GMOグループ会社 不正アクセスによる個人情報流出 ポイントの不正利用も",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yY3dlWXpuUzdBSno3bTdTajZIR05hNF9SZkNwUnJYcnpZSENyQVh2dHZkS1p4MGk3WmhfWW5PZXBIdGdnNVBTQ3YxTmF3Tjk0UGprTzNldUFUdjhLaU9aLXlxRmc3NS0wRUJBYk1jMUNoY1dB?oc=5",
+     "source": "TBS NEWS DIG"
     }
    ]
   },
@@ -718,6 +728,11 @@
      "title": "大起水産 約１７万５０００人分の個人情報漏えいした可能性 公式アプリのシステムに不正アクセス",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uNkg2RHJoM0EzMEVJS05BOHd1X0lKOWpKSUI5UTZ3d3RFNk54S0Jta1RETldEU2JTQUoxWjJ5T3JsOVh1QVJmTUVBNXlCN0hUbHNKQWVOWk9JTzE5WnloUjlWcmZxa1ZhMVIzNXZNVUVjck5KZmhZUGs2ZjBnY28?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "大起水産 約１７万５０００人分の個人情報漏えいした可能性 公式アプリのシステムに不正アクセス",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TY09XVXU2WEJSNENkSkdyX2JuRDM1NUdjTnA4R3R6YU5heGRvZnR1Q0VzcXJ6MFpQR1p2bnlfd3loQ1RnZ3luc3Y1YkJDbVRObndDNmdtbFVDTEYwNFVOZW1B?oc=5",
+     "source": "朝日放送"
     }
    ]
   },
@@ -3623,6 +3638,20 @@
    "people": ""
   },
   {
+   "title": "会員ポイント不正交換も…“生成AI”で攻撃が効率化 企業に不正アクセス被害相次ぐ（テレビ朝日系（ANN））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wejVwR1dRalJxcVdTMkwwakJIVEozWDlCUlk2cVltZU1mOElCRDY3Vi1KMjNpUEc0b3RmNkFDbHpRd2pac2psLU9PVllNdGptVDVvcjY1cElLNkJMamNoT0JaMUNPVmVUNjIxSDNSb043Zjh5VHZlTjhvWDF0X0k?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-06T14:48:16+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "",
+   "count": null,
+   "people": ""
+  },
+  {
    "title": "相次ぐ不正アクセス 自分の情報をどう守る リスクと対策は",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yRnFwTmRQZ19DY1VsbWE1azRaZlItYWVFUjlZWi1LXzktMXVzRGVUSGdvX2tmd0RUQUc5NWwtWGlwSmkxX2VCR3BVQ3c3X1ZCRjF5dEhIbERnUW5vVjM4?oc=5",
    "source": "NHKニュース",
@@ -3831,6 +3860,20 @@
    "company": "",
    "count": 25000,
    "people": "2.5万人"
+  },
+  {
+   "title": "ランサム攻撃メンバー拘束 ロシア国籍の男、独へ移送",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KTEZJN0V5TTdvQlB5UE5Mazc4Z0ZpcFFyNnlUcER4a0JTRGhialhwbWZOd1JiVkpfV1Y3NmlIUzJ5cGk1Z19BNFk2SQ?oc=5",
+   "source": "47NEWS",
+   "date": "2026-10-06T08:06:40+00:00",
+   "summary": "",
+   "region": "海外",
+   "tags": [
+    "ランサムウェア"
+   ],
+   "company": "",
+   "count": null,
+   "people": ""
   },
   {
    "title": "サイバー攻撃による情報流出続発、「大変深刻に受け止め」＝官房長官（ロイター）",
