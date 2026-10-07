@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-07T04:11:45.785112+00:00",
+ "updated": "2026-10-07T05:11:15.615430+00:00",
  "items": [
+  {
+   "title": "上場企業「個人情報漏えい」、過去最悪ペース ～ 100万件以上、2026年はすでに10件の異常事態 ～",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KMDJpaEs3aWctZ0dyd200S0hGSnZ6eVE4MmEzTEllTzR4dmlJZGVvUTUzSGs1cTRQNVppMlg5T0tyV1V4eUtnUVN0MjVQZ3FhZmt0TnJlcWdyS183dnRaUGRrU1NwZw?oc=5",
+   "source": "東京商工リサーチ",
+   "date": "2026-10-07T04:26:29+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "上場企業",
+   "count": 1000000,
+   "people": "100万人"
+  },
   {
    "title": "Angel One（angelone.in）から約677万件のアカウント情報が流出",
    "url": "https://haveibeenpwned.com/Breach/AngelOne",
@@ -1731,6 +1743,11 @@
      "title": "日経にサイバー攻撃 なりすましメールを取材先などに9千件不正送信",
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZUW1xbkNXYjAwcFpyYmZsN205OS1PUWQ1SzhES3QwUU1hRWpnWDFvM21lNHprWGNHYTRScXVFM1lDd0lpTmxjSUZSMTYyMnhteTBKMk1tblRENUlDSGVmM2Y1WlIzTzdXb0hCTjhn?oc=5",
      "source": "朝日新聞"
+    },
+    {
+     "title": "日本経済新聞社社員の「マイクロソフト365」のアカウントにサイバー攻撃、悪性サイトに誘導するメールを送信",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xa25BUm82Wld6VFlNVXBhSHZyek5rMzltc05uVEZzaTNmSXR2Q2VTRXQ3aVI0R3pOb2NCWklZRUZRWjl1Y3VuOEpUem1VcThvdUVRRDBJVUhUeHVaZmlPZEtKS2RSdVNLcmZoOA?oc=5",
+     "source": "ScanNetSecurity"
     }
    ],
    "company": "日本経済新聞",
@@ -2971,6 +2988,11 @@
     {
      "title": "【タイムズカー個人情報漏えい問題】特例で広島県が免許再交付 悪用の恐れあり 顔写真と免許証番号を変更（テレビ新広島）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zX2R0clJQOWtvY2t0OFFKbWVzcEN2elpZOWs5TDBxUHJtdlVSWi1IV2ozZlRVcEllbGhzQ2J2NVkzd2l5RW80MTBKc0M0UFRPQjFiajNfcWI5Nm1fbzJoTjZleGZodkt0eVZaTEVUNlFTdGtuaEJGVTM5ekpMdEk?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "タイムズカー会員情報流出 運転免許証データは退会後7年間保管 パーク24「自社の方針で保管期間決めた」",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pb3F0dElrNGlPRzFfeU14bkk1WFdMa0pPVW13T3REM0YzakxvNlhtSHctbkwwRGVud0JRcVdrVDNpN1RuQmF1TlRYcTZFYVFwdDZzc0ozYUY5R2xhQV9IUHV1ZG5nWjA0OTgxTGNucG9OTW5ISTZlb2RtZEFiN1E?oc=5",
      "source": "Yahoo!ニュース"
     }
    ],
