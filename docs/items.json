@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T01:11:37.005765+00:00",
+ "updated": "2026-10-07T01:48:06.404735+00:00",
  "items": [
   {
    "title": "東洋紡グループのメールアカウントへの不正アクセスについてまとめてみた",
@@ -92,9 +92,9 @@
    "people": ""
   },
   {
-   "title": "旭化成系、医療従事者向けサイトで情報漏洩か 最大約56万人",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tVXhMYWxuZ2QtYi1oYXAwWElUWGpIa2toamZFUy1oVW8wSFd1WHQ1Um1FNlAzeVZBRjE1S0VvOXNJNkJSUW1MYVVUeUhHUVozSEtBYjFlVGF6SHppRlpTRU9oN1JoNUpyUVotdw?oc=5",
-   "source": "日本経済新聞",
+   "title": "旭化成子会社、約51万人分の個人情報漏えいか 医療関係者向けサイトに不正アクセス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZSmRhbUsweWE1U2ZIUTRZdFBvYVN3ZXBMOG9pc0NRcDR1Y0FtanV0ZGhmdzd6V0l4cUZxcE9ybGw5dTQyM1J4OHNqLUNpRWNlQTFoeDRyRVpJZ3NSNnBUUmVEYUppU0drTFE?oc=5",
+   "source": "ITmedia",
    "date": "2026-10-06T10:27:32+00:00",
    "summary": "",
    "region": "国内",
@@ -102,8 +102,8 @@
     "不正アクセス"
    ],
    "company": "旭化成子会社",
-   "count": 560000,
-   "people": "56万人",
+   "count": 510000,
+   "people": "51万人",
    "others": [
     {
      "title": "旭化成子会社のサイトにサイバー攻撃 最大55万8000人分の情報流出の可能性（TBS NEWS DIG Powered by JNN）",
@@ -139,6 +139,11 @@
      "title": "旭化成子会社、約51万人分の個人情報漏えいか 医療関係者向けサイトに不正アクセス（ITmedia NEWS）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tWW5ReXU2THZHTUpydzdQYjZlVE02WTRmLVJBTEp3Y0dkNGNEQWo3MjEydExRQUM3VjBvVG9oRVczSjFNWERfY3dJRlZXdHo2U3FNVmx6dUNWODFyNkp3MjFaZXFENWxDcDhDV2ZHOTBJRk91T3hmRFZZRU5Zekk?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "旭化成系、医療従事者向けサイトで情報漏洩か 最大約56万人",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tVXhMYWxuZ2QtYi1oYXAwWElUWGpIa2toamZFUy1oVW8wSFd1WHQ1Um1FNlAzeVZBRjE1S0VvOXNJNkJSUW1MYVVUeUhHUVozSEtBYjFlVGF6SHppRlpTRU9oN1JoNUpyUVotdw?oc=5",
+     "source": "日本経済新聞"
     }
    ]
   },
@@ -4015,6 +4020,18 @@
      "source": "ビジネス+IT"
     }
    ]
+  },
+  {
+   "title": "大手企業で情報漏洩の発表相次ぐ 焼肉きんぐは1000万件超（テレビ朝日系（ANN））",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hckg5NEI0aU1GVTRXaGhJMUYwUTBWOXNsUERFTEkyYjRHNk40M0JoMTQwVm5zb1k2clI2c3ZTNDRqV25fSGFya01HYTZ3aWRIYUFUWnJHcjNOaC1wZUNTSi1JZlktX0VKc0d5cFRXcllwVkNSTEZ6ZmJBS1JrTnM?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-05T20:56:41+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "大手企業",
+   "count": 10000000,
+   "people": "1,000万人"
   },
   {
    "title": "【4.5万人登録】相次ぐ情報流出。次は集団訴訟がやってくる",
