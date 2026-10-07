@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-07T00:32:07.809841+00:00",
+ "updated": "2026-10-07T01:11:37.005765+00:00",
  "items": [
+  {
+   "title": "東洋紡グループのメールアカウントへの不正アクセスについてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/10/07/094633",
+   "source": "piyolog",
+   "date": "2026-10-07T00:46:33+00:00",
+   "summary": "2026年9月25日、東洋紡は、グループ会社の従業員が利用するメールアカウントが第三者による不正アクセスを受け、フィッシングサイトへの誘導を目的とした不審メールが送信されたと公表しました。その後、不審メールを受信した別のグループ会社の従業員も不正アクセスを受けたことが公表されています。ここでは関連する情報をまとめます。",
+   "region": "国内",
+   "tags": [
+    "不正アクセス",
+    "内部不正"
+   ],
+   "company": "東洋紡グループ",
+   "count": null,
+   "people": ""
+  },
   {
    "title": "KKR京都くに荘のメールサーバに不正アクセス",
    "url": "https://scan.netsecurity.ne.jp/article/2026/10/07/56406.html",
@@ -930,11 +945,11 @@
    "people": "105万人"
   },
   {
-   "title": "大阪公立大の大規模システム障害、サイバー攻撃が原因か 13万人超の個人情報流出恐れ",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aMXlJa2prVnE1c3NXSUI2QU5pb0tVZ29oVi1XLVpRU2RFQWVmNWpsQ0Nqc1BvOXBTcnA5cmtrUDF5akNtOWpmLVFVS3JQZG4zUDB3V0NTMVVhRkRCazlCQktqTURKa1lnR3c?oc=5",
-   "source": "ITmedia",
+   "title": "ランサム攻撃起因とみられる大阪公立大学のシステム障害についてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/10/07/095650",
+   "source": "piyolog",
    "date": "2026-10-05T07:09:51+00:00",
-   "summary": "",
+   "summary": "2026年10月5日、大阪公立大学は会見を開き、10月2日に発生した情報基盤システムの大規模な障害について、サイバー攻撃、いわゆるランサムウェア攻撃によるものと判断していると説明しました。ここでは関連する情報をまとめます。 2日未明に全キャンパスの基盤システムが停止 2026年10月2日未明、大阪公立大学の情報基盤シス",
    "region": "国内",
    "tags": [
     "ランサムウェア",
@@ -1135,6 +1150,11 @@
      "title": "大阪公立大学、ランサムウェア攻撃でサーバー500台停止、13万人分の個人情報流出か (ビジネス＋IT)",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQm9tSFo1blpFS29iREYyX19EOHhMUVhIWVgxLTRsVjZkNXJ0NUhoejF3TFMtSFlIWThJUE15d1BFQmk2WHByeWFxVXZJUDJWeHByVUN1bUh4X2toR3F2dTZUSTJXOTdodUZsOXFjTGtFMGJLWmJqXzFUSy1ESk56N3JIMEFuRFYwdmR1aV9R?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "大阪公立大の大規模システム障害、サイバー攻撃が原因か 13万人超の個人情報流出恐れ",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aMXlJa2prVnE1c3NXSUI2QU5pb0tVZ29oVi1XLVpRU2RFQWVmNWpsQ0Nqc1BvOXBTcnA5cmtrUDF5akNtOWpmLVFVS3JQZG4zUDB3V0NTMVVhRkRCazlCQktqTURKa1lnR3c?oc=5",
+     "source": "ITmedia"
     }
    ],
    "company": "大阪公立大",
@@ -2566,6 +2586,11 @@
      "title": "異なる手法による別の不正アクセスが判明「ニッポンレンタカーアプリ」",
      "url": "https://scan.netsecurity.ne.jp/article/2026/10/07/56403.html",
      "source": "ScanNetSecurity"
+    },
+    {
+     "title": "異なる手法による別の不正アクセスが判明「ニッポンレンタカーアプリ」",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uQURNcXM0T3N1cXRpV2NWYXI2OXhfQmhlMU04WFhUUmFTTGF1UmdMdjVoUFZ2UHBPTzBETkRtOUhkNWM2RUxibUJ3MGRPekh4OVU1N0dvU0dKeElEcmROWkpTbld3eVpLZUlPQw?oc=5",
+     "source": "ScanNetSecurity"
     }
    ]
   },
@@ -3511,6 +3536,20 @@
    "people": "2人"
   },
   {
+   "title": "【解説】「背後に国家か」サイバー攻撃による情報漏えい相次ぐ（2026年10月6日掲載）",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13RXV1emNXNE1FbHIxWURxVGwyV25ESmFwTFlpYmJOQUViYXRXWG5ncTNqQ2pUWW4tcHBWSHp4ZDZ6NURVeWJ3ME1sTWRQUlgtbG1zeWx0enNJR2FVSkpwQlhucWtWRUdJNEYzRWFmRG5KX0JyX3pKRWh1VC0?oc=5",
+   "source": "日テレNEWS NNN",
+   "date": "2026-10-06T21:55:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [
+    "不正アクセス"
+   ],
+   "company": "背後に国家か",
+   "count": null,
+   "people": ""
+  },
+  {
    "title": "サイバー攻撃で情報漏えい急増、ＡＩ悪用で「短時間・広範囲に」…会員ポイントが不正交換される「二次被害」も",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01aWl1Vk1fMzZMemhuNm9rSFhwOGo4NXo5UndwYjNFeGVxSmJnRWw5ckdaTDZlakx0cmJ0cllaQVRaamRBbmYwRmlyZHF1RFNNbDVMTlB2WkRIaHJrUXdoVzZOQ3RFZw?oc=5",
    "source": "読売新聞",
@@ -3521,6 +3560,18 @@
     "不正アクセス"
    ],
    "company": "短時間・広範囲に",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "タイムズカー情報漏えい 業界団体に対策の点検を要請 国交省",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BQzBDUEJ3WVZ2RllHNWRTbjlRVFd5ME9CbW9pTGhfWnZyTTh0UXRPcUkzS1d1dTc2VlVycUVUanM5QmJUVkhHRDZ6UVk1UGhwckw1NG5aQVd5SjExb0RR?oc=5",
+   "source": "NHKニュース",
+   "date": "2026-10-06T20:04:00+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "",
    "count": null,
    "people": ""
   },
