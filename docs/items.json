@@ -1,6 +1,21 @@
 {
- "updated": "2026-10-07T02:11:42.024262+00:00",
+ "updated": "2026-10-07T03:11:40.522733+00:00",
  "items": [
+  {
+   "title": "スカラコミュニケーションズへの不正アクセスについてまとめてみた",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/10/07/120750",
+   "source": "piyolog",
+   "date": "2026-10-07T03:07:50+00:00",
+   "summary": "2026年10月6日、スカラコミュニケーションズは、同社が提供するFAQシステム「i-ask」の管理サイトへの不正アクセスにより、利用企業の問い合わせ情報が漏えいした可能性があると公表しました。ここでは関連する情報をまとめます。 管理サイトへの不正ログインから遮断まで 株式会社スカラコミュニケーションズ(以下、SC社)",
+   "region": "国内",
+   "tags": [
+    "不正アクセス",
+    "不正ログイン"
+   ],
+   "company": "スカラコミュニケーションズ",
+   "count": null,
+   "people": ""
+  },
   {
    "title": "東洋紡グループのメールアカウントへの不正アクセスについてまとめてみた",
    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/07/094633",
@@ -3607,7 +3622,14 @@
    ],
    "company": "",
    "count": 500,
-   "people": "500人"
+   "people": "500人",
+   "others": [
+    {
+     "title": "サイバー攻撃で企業・団体の情報漏えい被害最多、今年５００件超・すでに過去２年に並ぶ…ＡＩ使い弱点探索か",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdk5za3RmdGdaXzZwQS1iMlRmYjd5SEo3VWxZVUxfRkJBYkdwNGFwdDczUi1za29Uc1hjRHU2Y21SaDJ5ZFQ3OXNWU25vNWR5TUI3ajVNeERsMlFlREZpRm5mTm1uajJRM1AyRkhrTVhCZkptV3h4NXREQW1abzY4QnJTQTdIX09lV2RPcXdn?oc=5",
+     "source": "Yahoo!ニュース"
+    }
+   ]
   },
   {
    "title": "企業に相次ぐ不正アクセス、個人情報標的 対策「コストでなく投資」",
@@ -4015,6 +4037,11 @@
      "title": "なぜ不正アクセス急増 識者の見解",
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VOHNTV2d3ZjNnanhXcjVpSGhocWp1UVRaZ1RSa191bXdEV2hxVmlCMXp5OHNRYnhUWm0ycFlfb2xqYk1iU09GQzQwdWFVU3ph?oc=5",
      "source": "news.yahoo.co.jp"
+    },
+    {
+     "title": "不正アクセスなぜ急増 原因はAIか、それとも…… 専門家の見解は（ITmedia NEWS）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QSTRoUnR3S0NYMzdSUm5mcUpERFlNeURieDRNdDZ2MXdyb1dkNklmQjZMOGpuZ09ncDB1bzNRQVd4bE1rc1JsSURnWmRnbHpyT3B2aGtYbEI4bDFXOG9wSjBSbzF2NlVJQVhMbjhfUndTN2MxdnZuR1JaSGY4WTg?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ],
    "company": "",
