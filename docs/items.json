@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T23:11:40.982454+00:00",
+ "updated": "2026-10-07T00:11:17.654171+00:00",
  "items": [
   {
    "title": "KKR京都くに荘のメールサーバに不正アクセス",
@@ -61,6 +61,18 @@
     "不正アクセス"
    ],
    "company": "小田原エンジニアリング従業員",
+   "count": null,
+   "people": ""
+  },
+  {
+   "title": "【タイムズカー個人情報漏えい問題】特例で広島県が免許再交付 悪用の恐れあり 顔写真と免許証番号を変更（テレビ新広島）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zX2R0clJQOWtvY2t0OFFKbWVzcEN2elpZOWs5TDBxUHJtdlVSWi1IV2ozZlRVcEllbGhzQ2J2NVkzd2l5RW80MTBKc0M0UFRPQjFiajNfcWI5Nm1fbzJoTjZleGZodkt0eVZaTEVUNlFTdGtuaEJGVTM5ekpMdEk?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-06T22:03:20+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "特例で広島県が免許再交付",
    "count": null,
    "people": ""
   },
@@ -248,9 +260,14 @@
      "title": "不正アクセス「シチズン」約10万人分の個人情報漏えいか 「焼肉きんぐ」も…漏えい相次ぐ",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04U1owa0JGcjNZdDJGQ3VwQUtVekNPZWJlMmUzc1NOaUk3cjFzU2R5QjdJYVd4dFNOTndJdFpGR3d1QUVBT2I4S3dWeGNsMjA0M0U3QjF4WGttTnI3bGtJdXc0ZW51MUZLeWduTml2cEN3YWUyQ2sxWHVlUEk?oc=5",
      "source": "日テレNEWS NNN"
+    },
+    {
+     "title": "シチズン時計 約10万人の個人情報漏洩か 不正アクセスで銀行口座やクレカ情報が流出した可能性も",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GQWY2b1hzVnN4b2Q0S3VQSFVvS0s3aVhYNTI1ZlhNc0RSeHhKOXJySWNSQTBmMmQ4R1VMcHFKQjhUS0U1aE9rcW4tcWFOR3gxWDhJems3MWtDRVBFMXVaa1hWU0ZpbzJDLVdGZTV6STc4eTg1T3phT3JrRDdrQ0U?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ],
-   "company": "シチズン",
+   "company": "シチズン時計",
    "count": 100000,
    "people": "10万人"
   },
@@ -415,6 +432,11 @@
      "title": "最大約174万人の個人情報が流出 ミスターマックスに不正アクセス – Quebee キュエビー",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qRkx0MzdPWXBfVUVQQU4weEEzN3BwNmxEMkxDc3FoSkw5T05pSVpSQVNNb1RwUDc2RC1qcThGYmlueGc1RWpvU2NVRlVMRXpONzhQNlVPdkY?oc=5",
      "source": "QAB 琉球朝日放送"
+    },
+    {
+     "title": "ミスターマックス、不正アクセスで最大173万人超の会員情報流出の恐れ（日本ネット経済新聞）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FaDFwV29XaTc2M093d0dzYkFlZXJLQXB0MDNqM0ZSU2RZTzFqUmJTSlhQbmRRVDZCakRIRmJHUnZQbUI3ampMMmZSazZnTzE5aDB1QnpXSmpUZVI4TnNCTzFqSzNtaGt2OHBZbF8tTDNoU0xLbHRKTG8zMTJSYTQ?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ]
   },
@@ -1636,6 +1658,11 @@
      "title": "日本経済新聞社社員の「マイクロソフト365」のアカウントにサイバー攻撃、悪性サイトに誘導するメールを送信",
      "url": "https://scan.netsecurity.ne.jp/article/2026/10/07/56401.html",
      "source": "ScanNetSecurity"
+    },
+    {
+     "title": "日経にサイバー攻撃 なりすましメールを取材先などに9千件不正送信",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZUW1xbkNXYjAwcFpyYmZsN205OS1PUWQ1SzhES3QwUU1hRWpnWDFvM21lNHprWGNHYTRScXVFM1lDd0lpTmxjSUZSMTYyMnhteTBKMk1tblRENUlDSGVmM2Y1WlIzTzdXb0hCTjhn?oc=5",
+     "source": "朝日新聞"
     }
    ],
    "company": "日本経済新聞",
@@ -2857,6 +2884,11 @@
      "title": "「タイムズカーで免許画像流出」被害者に“不審電話” ダークウェブで売買される個人情報の実態（KBC九州朝日放送）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FOXAzeWRQclRFUklyenRhQy1UeWJGZEk1TmFCN3NDN01kbklGS3hhbFNHYWJncmU4UTM2MGszLUVSMzdBU1AwSzVldEJkY2EtU20wemt5NjNLMUZ6NGV4Y1k0NWRueHZKT0tFOEFTMzdiRWlsZl9nS3pKSDdCRVE?oc=5",
      "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "タイムズカー情報漏えい 広島県内では運転免許証の再交付に対応",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YUVdLZlB4dF9LUkktSzI0ZGRWU2l2blBEV0kxT0tHbXViNG1IaU1aSS1NVXBKaWNnbFoxM2FrY3pPQ3BpMnNnNnNHTzJTNjctUFUzTU5JZllxdkk1R1dDTWxoc0RDYVppWWVwbEgxQUZ6STBYNjZ6aTZOM2gzclE?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ],
    "company": "タイムズカー",
@@ -3463,6 +3495,18 @@
   }
  ],
  "misc": [
+  {
+   "title": "攻撃で情報漏洩被害 今年500件超",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2TFVFRWhnUE5Oa0ZMMXktUGpHUjduNExLcUpLMXZETGVVZ2hJNHQtT3VhWWxfS3l3RzduZTU1Vmd3UlQtSVkzSlVuaUhQaWYy?oc=5",
+   "source": "Yahoo!ニュース",
+   "date": "2026-10-06T22:32:55+00:00",
+   "summary": "",
+   "region": "国内",
+   "tags": [],
+   "company": "",
+   "count": 500,
+   "people": "500人"
+  },
   {
    "title": "シンテックホズミの元社員2人が逮捕された営業秘密漏えい事件についてまとめてみた",
    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/07/072551",
