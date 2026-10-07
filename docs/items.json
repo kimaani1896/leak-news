@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-07T03:11:40.522733+00:00",
+ "updated": "2026-10-07T04:11:45.785112+00:00",
  "items": [
+  {
+   "title": "Angel One（angelone.in）から約677万件のアカウント情報が流出",
+   "url": "https://haveibeenpwned.com/Breach/AngelOne",
+   "source": "Have I Been Pwned",
+   "date": "2026-10-07T03:45:31Z",
+   "summary": "漏えい発生 2023-04-01。含まれる情報: 銀行口座・生年月日・メール・公的身分証・氏名・電話番号・住所",
+   "region": "海外",
+   "count": 6765054,
+   "tags": [],
+   "company": "Angel One",
+   "people": "677万人"
+  },
+  {
+   "title": "1億件超えの「楽天会員」情報が闇フォーラムで販売？ 楽天「漏えいは確認されていない」",
+   "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002083/",
+   "source": "ITmedia",
+   "date": "2026-10-07T03:42:40+00:00",
+   "summary": "楽天の会員情報約1億100万件をうたうデータがサイバー犯罪フォーラム上で売りに出されたとの報道があった。楽天グループはITmedia NEWSの取材に漏えいの事実を否定し、投稿に掲載されたサンプルデータも「該当するアカウント等は確認されていない」と回答した。",
+   "region": "国内",
+   "tags": [],
+   "company": "楽天会員",
+   "count": 100000000,
+   "people": "10,000万人"
+  },
   {
    "title": "スカラコミュニケーションズへの不正アクセスについてまとめてみた",
    "url": "https://piyolog.hatenadiary.jp/entry/2026/10/07/120750",
@@ -221,6 +245,11 @@
      "title": "日経BP、メールアカウントへの不正アクセスにより個人情報漏えいの疑い。日経新聞社への攻撃が影響",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuVG1qb01kb1V0ZGxiQkFFNG00WGZSUWRyREcyTDk0anJVU2xia2prdWJWZTctZ2YyVUxwaDhqTnhkR0VYSTB0TnFvcVNJM21JcFNZMTZ6ZjhKQUxNVDR6RjJEa3A4QThtX084?oc=5",
      "source": "INTERNET Watch"
+    },
+    {
+     "title": "日経BP従業員のメールアカウントに不正アクセス、26件の個人情報が漏えいした可能性",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWMUJLek43bFFTRC04TXJfR0h2NHBCT0VkYTFGVlFoWU9tR0FUbUNMTnNObEJyYzVqUlBhYldnemJPaTNYdjJJZVl6ZFpiZEZaZXRYY09wM3ZsQUNEQmRZMnZYMC1PSU4yeGdmNA?oc=5",
+     "source": "ScanNetSecurity"
     }
    ]
   },
@@ -951,6 +980,11 @@
     {
      "title": "「焼肉きんぐ」に不正アクセス 公式アプリの顧客情報1078万件超が漏洩（中京テレビＮＥＷＳ）",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NV0tzdmtQc3ZvNmpwTmtVWW90Y2F4eVctaEl2Qi1vTWltUnZac3RnZW5oVVRpbk5vWlFoS2gyZExFR2N6bEw4X0hEU2FVSmgwdlV0NWxDX3N3U2JJNWV1VzRLeTFPbWZhazVSWXpWY1JMTWFjckxMUnNWWjg1azA?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "「焼肉きんぐ」やGMOグループ会社も…相次ぐ不正アクセス 大阪公立大学では大規模なシステム障害 8日まですべての授業が休講（関西テレビ）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LVUE2RXpCbWJSMkdOczhYalZ3eGtqWWJhd3habDV4SldnaEJUNE5QRmttWmNrS3lDUDBTTGJpOVpOYXpqbjhfVzlQVW1uVEVHZTd4NkdsaTJpU2xMdjh4cXBwU1hDbU1rTTNrYVQ1VGx1S3g0ZWtUWHF2cEU0Y3M?oc=5",
      "source": "Yahoo!ニュース"
     }
    ],
@@ -3774,6 +3808,11 @@
      "title": "国内の不正アクセス、最多ペース 相次ぐ個人情報漏えい、対策急務",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nMEp6eDZTYzRDRmNOQS1HZGk4cmZTYXhLZ3FyQl9ldkJpY0JmYXo3Y3NaUVk4V1BGekFUemdsSHNSd0dhSU8zSEdGRl9KTWZhWF91Nk9scWQ?oc=5",
      "source": "山陽新聞"
+    },
+    {
+     "title": "国内の不正アクセス、最多ペース 相次ぐ個人情報漏えい、対策急務",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLd1dlRDQzU2M2XzE3ZkJ6UFhBckZka0swSXpURmxwTE80SU03S2FvUFhiLURkQmRXWjM1UGMtZ2k5QWhtbnIzZ0MzOFE4ZVlYc0dldVB3?oc=5",
+     "source": "西日本新聞me"
     }
    ]
   },
