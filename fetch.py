@@ -266,14 +266,14 @@ def consolidate(items, days=14):
 
 
 # 見出しが日本語でも、事件の舞台が海外ならこちらに回す
-OVERSEAS = re.compile(r"韓国|中国|台湾|香港|米国|米[政企大当連軍国]|豪州|豪[政企]|英国|欧州|ドイツ|フランス|インド|ロシア|北朝鮮|海外|現地報道|OpenAI|Anthropic|GoogleのAI|Dropbox|Unni|ApplyNow")
+OVERSEAS = re.compile(r"韓国|中国|台湾|香港|米国|米[政企大当連軍国]|豪州|豪[政企]|英国|欧州|ドイツ|フランス|インド|ロシア|北朝鮮|デンマーク|スウェーデン|ノルウェー|フィンランド|オランダ|イタリア|スペイン|カナダ|ブラジル|メキシコ|ベトナム|シンガポール|インドネシア|フィリピン|オーストラリア|イスラエル|海外|現地報道|OpenAI|Anthropic|GoogleのAI|Dropbox|Unni|ApplyNow")
 COUNT = re.compile(r"(約|最大|計|全)?\s*(\d[\d,，.]*(?:億\d*)?(?:万\d*千?)?)\s*(超)?(?:の)?\s*(人分|件分|人|件|名|アカウント|口座)(?!目)(超)?")
 COUNT_LOOSE = re.compile(r"(約|最大|計)?\s*(\d[\d,，.]*(?:億|万)\d*)(超)")
 # 会社名として採らない言葉
 NOT_NAME = re.compile(
     r"相次|免許証|情報|個人|漏え|漏洩|流出|攻撃|まとめ|対策|リスク|識者|被害|能動的|本物|当選|払戻|保育|\d{4}年|国内|専門家"
     r"|ランサム|不正|本人|おわび|異様|猶予|借入|エキスパート|ITmedia|NEWS|ニュース|ページ|闇サイト|脆弱性|見つかった|悪用|企業や|もぬけ|円$|^\d+日|\d+機関"
-    r"|ご不便|ご心配|ご迷惑|お詫び|^企業$|^ハッカー|^交通系IC$|^回転ずしチェーン$|侵害|^NISA口座$|^(ID|CMS|会員|公式|社内|チケット|ブロガー|メーリング|研究用|荷物|従業員|顧客|作業|一部)|(システム|サーバー?|DB|アカウント|シリーズ)$"
+    r"|ご不便|ご心配|ご迷惑|お詫び|^企業$|^ハッカー|^交通系IC$|^回転ずしチェーン$|侵害|^NISA口座$|手法|^異なる|^別の|^特例|[『』「」]|^(ID|CMS|会員|公式|社内|チケット|ブロガー|メーリング|研究用|荷物|従業員|顧客|作業|一部)|(システム|サーバー?|DB|アカウント|シリーズ)$"
 )
 GENERIC_HEAD = r"^(アンケートサイト\s*|ECサイト|チケット販売サイト|中古アニメグッズ|美容医療プラットフォーム|デジタル整理券システム|手間いらずの|ANA子会社のデジタルギフト)"
 NAME_CH = r"[^\s、。，,「」『』（）()：:｜|—―…‐]"
@@ -331,14 +331,17 @@ def clean_name(c):
     c = unicodedata.normalize("NFKC", c)  # 全角英数（ＧＭＯ）と半角（GMO）をそろえる
     c = re.sub(GENERIC_HEAD, "", c.strip(" 　「」『』"))
     c = re.sub(r"の([A-Za-z].*|計|約|全)$", "", c)
-    c = re.sub(r"(Webサイト|公式サイト|のシステム.*|社員|の\S*(障害|被害|問題))$", "", c)
+    c = re.sub(r"(Webサイト|公式サイト|のシステム.*|従業員|職員|教員|社員|アプリ|の\S*(障害|被害|問題))$", "", c)
     return ALIASES.get(c, ALIASES.get(c.upper(), c))
 
 
 def find_name(title):
     """見出しから会社・サービス名を取り出す。取れなければ空文字。"""
-    t = re.sub(r"【[^】]*】|（[^）]*）|\([^)]*\)", "", title).strip()
     cands = []
+    m = re.search(r"【([^】]{2,15}?)(?:の)?(?:個人情報|顧客情報|会員情報|情報漏|情報流出|不正アクセス)[^】]*】", title)
+    if m:
+        cands.append(m.group(1))
+    t = re.sub(r"【[^】]*】|（[^）]*）|\([^)]*\)", "", title).strip()
     # 見出しの先頭が加害側（AI・攻撃グループ・悪用された仕組み）のときは、被害側を取る
     if re.search(r"攻撃グループ|実在(する)?企業", t):
         return ""  # 解説記事・被害企業名なし
@@ -379,10 +382,15 @@ def find_name(title):
     if m:
         cands.append(m.group(1))
     cands += re.findall(r"[「『]([^」』]{2,20})[」』]", t)
-    for c in map(clean_name, cands):
-        if len(c) >= 2 and not NOT_NAME.search(c) and not COUNT.search(c) and not (len(c) > 10 and re.search(r"[ぁ-ん]{4,}", c) and not re.search(r"[市区町村県]", c)):
-            return c
-    return ""
+    ok = [c for c in map(clean_name, cands)
+          if len(c) >= 2 and not NOT_NAME.search(c) and not COUNT.search(c)
+          and not (len(c) > 6 and re.search(r"[がを]", c))  # 「特例で広島県が免許再交付」のような文
+          and not (len(c) > 10 and re.search(r"[ぁ-ん]{4,}", c) and not re.search(r"[市区町村県]", c))]
+    if not ok:
+        return ""
+    # 「KKR京都くに荘」が「に」で切れて「KKR京都く」になるのを防ぐ（別の候補が同じ頭で長ければそちら）
+    longer = [c for c in ok if len(c) > len(ok[0]) and c.startswith(ok[0]) and len(c) - len(ok[0]) <= 4]
+    return longer[0] if longer else ok[0]
 
 
 def people_text(n):

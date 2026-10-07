@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T00:11:17.654171+00:00",
+ "updated": "2026-10-07T00:32:07.809841+00:00",
  "items": [
   {
    "title": "KKR京都くに荘のメールサーバに不正アクセス",
@@ -11,7 +11,7 @@
    "tags": [
     "不正アクセス"
    ],
-   "company": "KKR京都く",
+   "company": "KKR京都くに荘",
    "count": null,
    "people": ""
   },
@@ -37,20 +37,6 @@
    "people": ""
   },
   {
-   "title": "異なる手法による別の不正アクセスが判明「ニッポンレンタカーアプリ」",
-   "url": "https://scan.netsecurity.ne.jp/article/2026/10/07/56403.html",
-   "source": "ScanNetSecurity",
-   "date": "2026-10-06T23:05:11+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [
-    "不正アクセス"
-   ],
-   "company": "異なる手法",
-   "count": null,
-   "people": ""
-  },
-  {
    "title": "なりすましメールで取引先に金銭的な被害も ～ 小田原エンジニアリング従業員のメールアカウントに不正アクセス",
    "url": "https://scan.netsecurity.ne.jp/article/2026/10/07/56400.html",
    "source": "ScanNetSecurity",
@@ -60,19 +46,7 @@
    "tags": [
     "不正アクセス"
    ],
-   "company": "小田原エンジニアリング従業員",
-   "count": null,
-   "people": ""
-  },
-  {
-   "title": "【タイムズカー個人情報漏えい問題】特例で広島県が免許再交付 悪用の恐れあり 顔写真と免許証番号を変更（テレビ新広島）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zX2R0clJQOWtvY2t0OFFKbWVzcEN2elpZOWs5TDBxUHJtdlVSWi1IV2ozZlRVcEllbGhzQ2J2NVkzd2l5RW80MTBKc0M0UFRPQjFiajNfcWI5Nm1fbzJoTjZleGZodkt0eVZaTEVUNlFTdGtuaEJGVTM5ekpMdEk?oc=5",
-   "source": "Yahoo!ニュース",
-   "date": "2026-10-06T22:03:20+00:00",
-   "summary": "",
-   "region": "国内",
-   "tags": [],
-   "company": "特例で広島県が免許再交付",
+   "company": "小田原エンジニアリング",
    "count": null,
    "people": ""
   },
@@ -145,6 +119,11 @@
      "title": "旭化成子会社 個人情報55万人余 漏えいの可能性と発表",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lSkJ4SGFkMTdUN1U4dk9LMFJ0Z3RKdVBXZmhVSmFxZmpwME85WHVxUkVPWUVNX0g4ZENTQWdnWUc4QnFGTjJYYVhEWHIxdHZzeDFZQ0gtQTF4RnRJMHA0?oc=5",
      "source": "NHKニュース"
+    },
+    {
+     "title": "旭化成子会社、約51万人分の個人情報漏えいか 医療関係者向けサイトに不正アクセス（ITmedia NEWS）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tWW5ReXU2THZHTUpydzdQYjZlVE02WTRmLVJBTEp3Y0dkNGNEQWo3MjEydExRQUM3VjBvVG9oRVczSjFNWERfY3dJRlZXdHo2U3FNVmx6dUNWODFyNkp3MjFaZXFENWxDcDhDV2ZHOTBJRk91T3hmRFZZRU5Zekk?oc=5",
+     "source": "Yahoo!ニュース"
     }
    ]
   },
@@ -194,7 +173,7 @@
    "tags": [
     "不正アクセス"
    ],
-   "company": "日経BP従業員",
+   "company": "日経BP",
    "count": 26,
    "people": "26人",
    "others": [
@@ -344,7 +323,7 @@
    "source": "ITmedia",
    "date": "2026-10-06T03:41:53+00:00",
    "summary": "デンマーク政府は2026年10月5日（現地時間）、同国の中央個人登録簿「CPR」に第三者が不正アクセスし、約880万人分の氏名や住所、個人番号が取得されたと発表した。民間企業が持つ正規の照会権限を悪用した手口で、警察が捜査している。",
-   "region": "国内",
+   "region": "海外",
    "tags": [
     "不正アクセス"
    ],
@@ -2297,7 +2276,7 @@
      "source": "ScanNetSecurity"
     }
    ],
-   "company": "郵便局アプリ",
+   "company": "郵便局",
    "count": 69,
    "people": "69人"
   },
@@ -2582,6 +2561,11 @@
      "title": "ニッポンレンタカーで別の不正アクセス発覚 新たに55人分情報漏えいか 免許証番号やクレカ4ケタも",
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyM09PNW9vUXhiYUpKVnhOTzBqTk5ESUttb3Y4T2hJS1YyZVZVc3hfQmR1cTlPWEhOMFNlWTg0dFFPTFJ3OGFocjlnSjZISjVuT0ptQ1JURDBxRUVlNmg3Z0tOa0lRb0NJZEE?oc=5",
      "source": "ITmedia"
+    },
+    {
+     "title": "異なる手法による別の不正アクセスが判明「ニッポンレンタカーアプリ」",
+     "url": "https://scan.netsecurity.ne.jp/article/2026/10/07/56403.html",
+     "source": "ScanNetSecurity"
     }
    ]
   },
@@ -2888,6 +2872,11 @@
     {
      "title": "タイムズカー情報漏えい 広島県内では運転免許証の再交付に対応",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YUVdLZlB4dF9LUkktSzI0ZGRWU2l2blBEV0kxT0tHbXViNG1IaU1aSS1NVXBKaWNnbFoxM2FrY3pPQ3BpMnNnNnNHTzJTNjctUFUzTU5JZllxdkk1R1dDTWxoc0RDYVppWWVwbEgxQUZ6STBYNjZ6aTZOM2gzclE?oc=5",
+     "source": "Yahoo!ニュース"
+    },
+    {
+     "title": "【タイムズカー個人情報漏えい問題】特例で広島県が免許再交付 悪用の恐れあり 顔写真と免許証番号を変更（テレビ新広島）",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zX2R0clJQOWtvY2t0OFFKbWVzcEN2elpZOWs5TDBxUHJtdlVSWi1IV2ozZlRVcEllbGhzQ2J2NVkzd2l5RW80MTBKc0M0UFRPQjFiajNfcWI5Nm1fbzJoTjZleGZodkt0eVZaTEVUNlFTdGtuaEJGVTM5ekpMdEk?oc=5",
      "source": "Yahoo!ニュース"
     }
    ],
@@ -3769,7 +3758,7 @@
    "tags": [
     "不正アクセス"
    ],
-   "company": "自分で守る意識を",
+   "company": "",
    "count": null,
    "people": ""
   },
@@ -3889,7 +3878,7 @@
    "summary": "",
    "region": "国内",
    "tags": [],
-   "company": "次元が違う深刻さ",
+   "company": "",
    "count": 1600000,
    "people": "160万人"
   },
